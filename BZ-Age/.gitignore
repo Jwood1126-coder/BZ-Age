@@ -1,0 +1,30 @@
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor junk
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Obsidian — keep workspace files local
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# Backup files
+*.bak
+*.tmp
+
+# Python (in case any scripts get added)
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node (in case)
+node_modules/
