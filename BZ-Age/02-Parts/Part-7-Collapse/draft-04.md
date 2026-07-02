@@ -81,6 +81,8 @@ But the Egypt that came out of this period was not the Egypt that went into it. 
 
 The harbor is quiet.
 
+This is not Ugarit. Ugarit is ash — five years of ash by now. This is a harbor the fires missed, one of the lucky ones. The silence reached it anyway.
+
 Not quiet in the way of a harbor early in the morning, with the work not yet started. Quiet in the way of a harbor that has stopped expecting ships.
 
 The last ship from Cyprus was three months ago. Before that, a Mycenaean vessel, which was unusual because Mycenaean ships had been rare here for two years. Before that, it was a normal harbor — ships arriving, being unloaded, being loaded, the multilingual shouting, the copper and the grain and the oil and the wool and the ceramic jars and the ivory and the amber.
@@ -129,7 +131,7 @@ The Sumerian scribe — the bored student with his doodles, the multilingual cos
 
 In parts of Greece — specifically — the Linear B script is dying with the palaces that demanded it. Not just the writing: the schools, the profession, the reason anyone learned. There is no scribal school left to train the next generation, and the skill of reading the tablets in the rubble is dying with the last people who hold it. How far that loss runs — how deep, how long, and what it does to one family — is where the next part begins.
 
-The dockworker at Ugarit — the man we met at the harbor at dusk, with the copper ingots and the four languages and the lamp-lit inns — his harbor is ash. The ships that were supposed to be there are not. The copper from Cyprus is not coming. The tin from the east is not coming. The Mycenaean pottery that used to arrive is not coming, because the Mycenaean workshops that produced it are gone. His world is local now.
+The dockworker at Ugarit — the man at the harbor at dusk, with the four languages — his harbor is ash. The ships that were supposed to be there are not. The copper from Cyprus is not coming. The tin from the east is not coming. The Mycenaean pottery that used to arrive is not coming, because the Mycenaean workshops that produced it are gone. His world is local now.
 
 The merchant's wife in her weaving room — the descendant of the Old Assyrian woman we met in Assur, the one who was tired and angry about the textiles, who managed the supply chain of a transnational commercial network — is watching that network break. The donkey caravans are running shorter routes. The correspondence with the distant trading colony has stopped, because the trading colony has been disrupted or destroyed. The commercial credit system that ran on personal and family reputation across generations requires a continuity of relationships that the collapse is severing. The relationships that took centuries to build are breaking in years.
 
@@ -261,3 +263,9 @@ What survived is its own story. But first, the aftermath. The world that came ou
 - **Smith beat "Hold the question from Sargon's day…" (L124).** An instruction-to-listener imperative ("Hold the question…"). It is a plant-callback cashing the Part 3 tin-question deposit (permitted plant-marker family), not itemized for cutting, and the verification grep for "Hold on to th|Hold that" does not target it. Left as-is; noting for completeness.
 
 **Continuity obligations (unchanged from v0.3):** Part 8 owns the grandfather-could-read detonation and the fresh hillside/iron image (now doubly protected by Item 13's trim). Part 9 collects the Iliad / no-Homer-for-the-Hittites pairing and the rediscovery telling. NEW for Fable: Item 12 empty-harbor disambiguation is an open insertion into the ~1180 BCE coastal snapshot.
+
+### Fable completion pass (July 2, 2026) — same day, after the spec agent's edits
+
+- **Item 12 EXECUTED — the empty-harbor disambiguation** (3 sentences after "The harbor is quiet."): not Ugarit, a harbor the fires missed, "The silence reached it anyway." Resolves the fleet's unexecutable-rhyme finding while keeping the designed same-docks-no-ships effect.
+- **Flagged tell #10 fixed — the dockworker callback trimmed to two cues** ("the man at the harbor at dusk, with the four languages") per the Voice Bible's callback rule; this sentence was the Bible's own manufactured example.
+- Agent's item-15 judgment confirmed (no softening clause needed); item-14 third-example absence confirmed (the bare question is the signature move, correctly untouched).
