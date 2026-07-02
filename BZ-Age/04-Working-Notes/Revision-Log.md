@@ -238,3 +238,15 @@ Every substantive change to the repo gets logged here.
 - 2026-05-26 (earlier) — Master outline and working notes Word documents created (v0.1, then v0.2)
 - 2026-05-26 (earlier) — Hard Rule 9 added to Word documents
 - 2026-05-26 (earlier) — Planning conversation completed across multiple exchanges
+
+## v1.3 — July 2, 2026: Draft-04 completed across the entire series
+
+**Scope:** Parts 3–9 draft-04 created (draft-03 preserved, append-only). Executed as a two-layer pass per the amended D-003: seven Opus agents applied the ~60 itemized mechanical edits from `08-Fable-Dossier/14-draft-04-execution-spec.md` (all verification greps pass; per-part reports preserved in the workflow journal), then Fable personally wrote every `[PILOT-NEW-PROSE]` site and the writer-approved additions ("make all the changes you think are good," July 2).
+
+**The headline fixes:** P8's cold open re-grounded in Linear B (the series' most protected beat); P5's harbor snapshot re-dated to ~1230 BCE with all Amarna cues resolved; P7's Sea Peoples attribution made modern; P6's Lamassi arithmetic corrected; P9's Ventris contradiction resolved; the kiln-legend image retired everywhere; series self-references at ≤1 navigational per part; every callout-variant question meta-frame at zero.
+
+**New material (writer-approved, all logged per-part with [VERIFY] flags where due):** P3 — the death-pit band, the Sumerian King List (plants P9's "before the flood"), Shu-ilishu the interpreter of Meluhha (plants the Indus ending), the Girsu numbers. P4 — the mail question, Sintashta (the chariot now comes from somewhere), the permission chord. P5 — the princess question with the EA-4 direction fix (Egypt never sent daughters out — fact error corrected in P5 AND P6), the language question. P6 — the Zannanza affair + the plague prayers of Mursili II (the missing human story of the crisis), Khaemwaset (reception spine), the Fu Hao/Anyang glimpse (the collapse is regional), the rower-desk recast. P7 — the empty-harbor disambiguation, the dockworker callback trimmed to two cues. P9 — the scribe-spine reaches the decipherers (Smith and Ventris as the chain's last apprentices), the della Valle chord (framing credit: Fall of Civilizations ep. 8, per the citation policy), and the bookends' closing mirror ("we walk past it the way Xenophon walked past his"). D-005 marked partial: fuller scene-speed growth of P9's decipherment run remains for draft-05.
+
+**Assembly:** `BZ-Age-draft04-audiobook.md` — 62,594 prose words, ~6.7–7.5 hours at 140–155 wpm, all ten parts.
+
+**Next:** the writer samples draft-04 aloud; D-006 (P2 trim) decided after listening; the [VERIFY-QUOTE] and [VERIFY-BEFORE-AIR] items (Zannanza/plague-prayer quote wording, EA 1/4 wording, Girsu figures, King List figures, Smith/Ventris biography details, della Valle primacy) go to the next fact fleet before any recording.

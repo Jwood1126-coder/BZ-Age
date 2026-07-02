@@ -31,7 +31,7 @@ when a rubric and your instinct conflict, flag it for the writer rather than res
 | 12 | `12-beat-menus.md` | Targeted beats: P3–P6 menus, engine restoration for P4–P5, cross-part topic gaps (Commission F) | **written** |
 | 15 | `15-influences.md` | Craft/content insights from World of Antiquity (Miano) and Fall of Civilizations (Cooper) | **written** |
 | 13 | `13-recency-flags.md` | Where scholarship may have moved past the repo — flags only, F-01…F-10 logged (Commission I) | **started — 10 flags; rolling** |
-| 14 | `14-draft-04-execution-spec.md` | The Opus pilot: per-part P3–P9 surgical checklist compiled from the fleet findings, with example sentences where new prose is needed | **written — ready to run** |
+| 14 | `14-draft-04-execution-spec.md` | The P3–P9 surgical checklist — **EXECUTED July 2** (Opus agents applied mechanical items under live Fable review; Fable wrote all new-prose sites). Kept as the record of the pass | **executed** |
 
 ## Standing rules for this folder
 
