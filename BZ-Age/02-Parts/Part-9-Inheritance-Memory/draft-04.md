@@ -2,7 +2,7 @@
 ## FOURTH DRAFT — v0.4
 **Date:** July 2, 2026
 **Status:** Draft-04 pass, per the draft-04 execution spec (`08-Fable-Dossier/14-draft-04-execution-spec.md`, Part 9 section) and the Voice Bible (`08-Fable-Dossier/04-voice-bible.md`). Itemized de-tic and continuity fixes only; no freelance sweep. Draft-03 preserved alongside.
-**Estimated audio length:** ~29–32 minutes (~4,508 prose words at 140–155 wpm)
+**Estimated audio length:** ~32–35 minutes (~4837 prose words at 140–155 wpm; Fable completion pass added the scribe-spine clauses, della Valle, and the Xenophon mirror)
 **Covers:** Homer's memory of a memory → the Hittites' total erasure and resurrection (the saved story) → the library that never forgot → the Hebrew Bible's inheritance → the decipherment run → clay outlives the cloud → the Iron Age scribe → the roll-call → the Indus ending
 
 ---
@@ -71,9 +71,9 @@ And the library itself? Nineveh fell in 612 BCE, burned by the Medes and Babylon
 
 Two hundred and eleven years later, a Greek mercenary walked past the mound that had been Nineveh and asked the locals what it was, and nobody knew.
 
-You remember him. Xenophon — the man this entire series started with, staring up at a wall a hundred feet high with no name attached to it. Hold the image one more time, because now you can see what he couldn't: under his feet, beneath the rubble he found inexplicable, the greatest library of the ancient world was lying in the dark, intact, holding the flood story and Gilgamesh and the king's boasts about reading the old languages — every answer to every question he asked the locals that morning. The memory wasn't gone. It was buried, in a medium patient enough to wait.
+You remember him. Xenophon — the man this whole story started with, staring up at a wall a hundred feet high with no name attached to it. Hold the image one more time, because now you can see what he couldn't: under his feet, beneath the rubble he found inexplicable, the greatest library of the ancient world was lying in the dark, intact, holding the flood story and Gilgamesh and the king's boasts about reading the old languages — every answer to every question he asked the locals that morning. The memory wasn't gone. It was buried, in a medium patient enough to wait.
 
-It waited another twenty-two and a half centuries. Then people came with shovels.
+It waited another twenty-two and a half centuries. And the waiting ended slowly: in 1625, an Italian traveler named Pietro della Valle, hiding from bandits among ruins far to the south of Nineveh, passed his idle days puzzling over bricks stamped with what he called *certain unknown letters, which appeared very ancient*, and carried a few pieces home — among the first cuneiform Europe had ever seen, gathered from the mound of Ur, though he had no way to know that name. For two more centuries, that was the state of the art: travelers, souvenirs, unreadable letters. Then people came with shovels.
 
 ---
 
@@ -99,7 +99,7 @@ The moments when the Bronze Age came back.
 
 The Egyptians could speak again.
 
-**1872. George Smith.** An assistant at the British Museum, working through the cuneiform tablets excavated from Ashurbanipal's library at Nineveh — the library we just stood in; the mound Xenophon walked past — finds something unexpected in a fragment of text. He is translating a Babylonian poem. The poem describes a flood. A man who built a boat and loaded it with animals and survived the flood while everything else was destroyed.
+**1872. George Smith.** The unlikeliest scribe in this whole story. A working-class Londoner, apprenticed at fourteen to a firm of banknote engravers — no university, no formal languages — who began spending his lunch hours at the British Museum, staring at the cuneiform collections, and taught himself to read them so well that the Museum eventually hired him. Understand what that means in the terms this story has been keeping since a bored student doodled on the back of his homework in Sumer: the scribal chain, master to apprentice for three thousand years, had been broken for eighteen centuries. Smith apprenticed himself to the tablets. Now he is working through the ones excavated from Ashurbanipal's library at Nineveh — the library we just stood in; the mound Xenophon walked past — when he finds something unexpected in a fragment of text. He is translating a Babylonian poem. The poem describes a flood. A man who built a boat and loaded it with animals and survived the flood while everything else was destroyed.
 
 What happens next is one of the great unguarded moments in the history of scholarship. E.A. Wallis Budge — a colleague who witnessed it and recorded the scene in his 1925 memoir The Rise and Progress of Assyriology — described what happened: "Smith took the tablet and began to read over the lines... and when he saw that they contained the portion of the legend he had hoped to find there, he said, 'I am the first man to read that after more than two thousand years of oblivion.' Setting the tablet on the table, he jumped up and rushed about the room in a great state of excitement, and, to the astonishment of those present, began to undress himself." Whether Budge's account is literally accurate or somewhat embellished in the retelling, the core of it — "I am the first man to read that after more than two thousand years of oblivion" — is exactly right.
 
@@ -108,6 +108,8 @@ He had just found the Babylonian flood narrative — a version of the story we k
 **1906 and 1915.** You already have this one — Winckler's spade at Bogazköy, Hrozný's hotel room, the empire that came back from the dead speaking a cousin of English. It belongs in this list; it didn't need telling twice.
 
 **1952. Michael Ventris.** An English architect, working in his spare time on a puzzle that had defeated professional classicists and linguists for decades, deciphered Linear B. He was not an Assyriologist. He was not an academic at all in the relevant sense — he was a Mycenaean Bronze Age amateur who built buildings for a living, and he brought a different set of eyes to the problem precisely because he hadn't been trained into the assumptions that were blocking everyone else. John Chadwick, in his account of the decipherment, called Ventris "an English professional architect and amateur linguist" — the exact combination, he argued, of someone unconstrained by the assumptions that had kept professional classicists stuck. Ventris himself described the problem as being "rather like doing a crossword puzzle on which the positions of the black squares haven't been printed for you."
+
+He had been chasing it nearly his whole life. As a schoolboy of fourteen, at an exhibition in London, he had heard the aged Arthur Evans — the discoverer of Knossos — say that the script of the Minoan world was still unread, and he never let it go. For years, in the evenings, he built grids of signs on graph paper — an architect's habit, structure before meaning — and mailed his "Work Notes" around to the professionals, who were politely unpersuaded, until the grids began to speak. He, too, apprenticed himself to the tablets.
 
 What gets me about Ventris is the quality of the surprise at the end. When the signs resolved into phonetic values and the words began to emerge, what he found was Greek — not a cousin of Greek, not some lost language wearing Greek's clothes: Greek, five centuries before Homer. On July 1, 1952, Ventris announced his finding on BBC Radio in a sentence that extended the known history of the Greek language by five centuries: "A difficult and archaic Greek, seeing that it's five hundred years older than Homer, and written in a rather abbreviated form, but Greek nevertheless." Chadwick heard the broadcast, contacted Ventris immediately, and the two collaborated on the formal publication. The Greek language, written on clay tablets, three and a half thousand years ago. The Mycenaeans spoke Greek. The palace civilization that Homer had dimly remembered and completely distorted was the Bronze Age predecessor of the civilization that produced Homer.
 
@@ -173,6 +175,8 @@ There were people on the Indus River, in the cities of Harappa and Mohenjo-daro,
 
 The Bronze Age is still, in important ways, beyond our reach.
 
+Somewhere under a mound nobody has dug, there is an archive nobody can read yet — and we walk past it the way Xenophon walked past his.
+
 The past is immense. What we know is a fraction of what happened. Somewhere in the undeciphered signs and the unexcavated sites and the stories that were never written down and the people who left no record at all, there is a world that was as real and as full and as human as anything we've described — and that we will never completely know.
 
 ---
@@ -213,3 +217,11 @@ The past is immense. What we know is a fraction of what happened. Somewhere in t
 - **Protected, untouched:** the Homer cold open; the Hrozný hotel-room telling (now in its sole home); the Hebrew Bible section entire; Champollion ("The Egyptians could speak again"); George Smith entire (clothes on the floor, Budge honestly flagged); Ventris entire (the BBC sentence); the closing snapshot; the final roll-call ("And tired in the morning. Worried about their children."); the Indus ending — still the series' last note.
 
 **Continuity verification:** the de-duplication contract is now fully executed across the series — iron (P3 withholds → P5 detonates → P8 chord), Hittite rediscovery (P6 promise → P9 sole telling), grandchildren-can't-read (P7 withholds → P8 detonates → P9 absorbed into scribe-chain resolution), grain answer (P1 plant → P2 detonates → P8 chord), Mitanni (P5 plant → P6 fires), Hurrian hymn (P5 plant → P7 detonates), unfired tablets (P5 plant → P7 detonates), amber (P2 plant → P4 pays → P5 half-line), base-60 (P2 detonates → P9 chord), Ashurbanipal library (P9 internal plant → Smith collects), Xenophon (prologue plant → P9 closes).
+
+### Fable completion pass (July 2, 2026) — same day, after the spec agent's edits (D-005, partial execution)
+
+- **The scribe-spine reaches the decipherers** (cast bible Part II): Smith reframed as the chain's last apprentice — the banknote engraver's boy who taught himself cuneiform on museum lunch hours ("the scribal chain... had been broken for eighteen centuries. Smith apprenticed himself to the tablets."); Ventris gains the schoolboy-Evans moment, the graph-paper grids, the Work Notes, and the chord "He, too, apprenticed himself to the tablets." **[VERIFY biography details: Smith's apprenticeship at fourteen / Museum hiring; Ventris at the 1936 Evans lecture aged ~14.]**
+- **NEW — the della Valle chord** inside the shovels line: 1625, the bricks with "certain unknown letters," carried home from the mound of Ur — the first link in the Xenophon → della Valle → Woolley chain. Framing inspiration credited to Fall of Civilizations ep. 8 per the citation policy (15-influences.md tier 2) — credit line goes in show notes, not script. **[VERIFY: della Valle at Ur and the first-cuneiform-to-Europe primacy claim.]**
+- **The bookends' one open rhyme closed (Option A):** "Somewhere under a mound nobody has dug, there is an archive nobody can read yet — and we walk past it the way Xenophon walked past his." — inserted before the final paragraph; the existing close stands untouched.
+- Flagged navigational ref recast ("the man this entire series started with" → "this whole story").
+- **D-005 status: PARTIAL.** The highest-value growth (spine clauses, discovery texture, the mirror) is in; the fuller scene-speed expansion of the decipherment run and the registry-checked curtain-call pass remain available for draft-05 after the writer hears this version.
