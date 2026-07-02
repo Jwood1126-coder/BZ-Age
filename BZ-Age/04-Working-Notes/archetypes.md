@@ -44,7 +44,8 @@ This document is referenced by Move H (Draft a Turning Point Beat) in CLAUDE.md.
 - **Callback opportunities:** the cosmopolitan-age elite woman managing estates in Late Bronze Age Greece or Anatolia (Part 5); the Mycenaean palace woman whose textiles get inventoried in Linear B (Part 5); the figure who experiences the trade network breaking (Part 7 — when her commercial world dies); the figure who has had to retreat to subsistence (Part 8). This archetype carries the *first globalization* throughline most powerfully across parts.
 
 ### The Late Bronze Age dockworker at Ugarit
-- **First appearance:** Part 5 State of the World snapshot, around 1350 BCE.
+- **First appearance:** Part 5 State of the World snapshot, around 1230 BCE.
+- **NOTE (draft-04, July 2 2026):** the dockworker anchor moved 1350 → ~1230 BCE. The Ugarit harbor snapshot header was re-dated (per draft-04 execution-spec P5 item 1) so its dread line — "They have forty or fifty more years" — becomes exact against Ugarit's ~1190–1185 BCE burning. Update the first-appearance date wherever this archetype's date is cited downstream (esp. P7's empty-harbor callback: at ~1230 the same man would be very old by the destruction).
 - **Sensory anchors:** the harbor at dusk, copper ingots stacked on the wharves, three or four languages, lamp-lit doorways of dockside inns.
 - **What defines them:** cosmopolitan urban labor at the peak of the first globalization. They know the names of the great kings; they have a place in the system even though they're at the bottom of it.
 - **Callback opportunities:** the empty harbor in Part 7 — the same docks, no ships. (This is one of the most affecting callbacks available to the series.) Possibly: an Iron Age port worker in a much-reduced trade network, Part 9.

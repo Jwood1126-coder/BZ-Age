@@ -19,11 +19,24 @@ anywhere; finished narration comes from the single narrator voice.
 **Why:** master prompt non-negotiable #2; audible seams are fatal in audio.
 **Reversal cost:** a series that sounds stitched. Do not reverse.
 
-## D-003 — The P3–P9 draft-04 pass is the Opus handoff pilot
-Executed by Opus from `14-draft-04-execution-spec.md`, reviewed by Fable before the window closes.
-**Why:** fully specified, mostly mechanical, and the cheapest possible live test of the
-Fable-plans/Opus-executes model. See `03-week-plan.md`.
-**Reversal cost:** low — Fable can still execute it directly if the pilot fails review.
+## D-003 (AMENDED July 2, writer-approved) — The P3–P9 pass executes now, Fable-supervised
+Original plan: park the pass as a separate Opus-session pilot. Amended when the writer said "make
+all the changes you think are good" with ample budget remaining: **Opus agents apply the spec's
+mechanical items per part (the handoff still gets tested, under live Fable review); Fable
+personally writes all `[PILOT-NEW-PROSE]` sites and the writer-approved additions.** The handoff
+pilot re-scopes to the two queued mechanical tasks: the source-map backfill and the
+open-questions sweep.
+**Why:** quality on the summit beats (the P8 cold open) is worth more than a purer experiment;
+the mechanical tasks still test the handoff.
+**Reversal cost:** none — drafts are append-only; draft-03 remains the record.
+
+## D-005 / D-007 (writer-approved July 2 via "make all the changes you think are good")
+- **D-005 partial-execute:** P9 grows now with the scribe-spine clauses, Smith/Ventris
+  scene-speed, the della Valle chord, and the bookends' Option A mirror sentence.
+- **D-007 execute:** the P4–P5 engine restoration ships in this pass — reactivated elementary
+  questions (mail, princess, language, gold-like-dirt) plus one mortgage chord per part.
+- **D-006 (P2 trim) stays PENDING** — the writer should sample P2 draft-04 aloud before 2,000
+  words come out of it.
 
 ## D-004 — Food-origins material is framed through storage, labor, logistics, tax, and climate
 Not through plant or crop science.
