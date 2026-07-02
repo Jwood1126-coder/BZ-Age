@@ -2,7 +2,13 @@
 
 The working bibliography for the series. Organized by part. Each part will contain primary sources, modern scholarly works, archaeological sites, accessible entry points, and where the field has moved recently.
 
-**Status:** Skeleton. Full population is the next major Phase One deliverable.
+**Status (updated July 2, 2026):** Skeleton, never populated — and drafting overtook it. The
+project's real sourcing currently lives in three places: inline in the drafts themselves, in the
+fact-check digests (`04-Working-Notes/draft-03-fact-check-digest.md`,
+`draft-04-research-digest.md`), and in `08-Fable-Dossier/13-recency-flags.md`. **Queued task
+(good Opus work):** backfill this folder by pulling every named scholar, primary text, and site
+report out of the finished drafts and digests. Until then, treat the digests — not this folder —
+as the source of record.
 
 ## Working convention
 

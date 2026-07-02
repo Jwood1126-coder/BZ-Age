@@ -4,11 +4,19 @@
 >
 > **Project.** A long-form, multi-part narrative-history podcast on the Bronze Age, in the spirit of Dan Carlin's *Hardcore History*. **This is podcast, not book.** Audio is the deliverable, not prose. The medium shapes everything below.
 >
-> **Current phase.** Phase One — Research and Outlining. No script copy yet.
+> **Current phase.** Phase Two — Drafting, deep in. Draft-04 exists for the Prologue and Parts 1–2;
+> Parts 3–9 stand at draft-03 with the draft-04 pass fully specced
+> (`08-Fable-Dossier/14-draft-04-execution-spec.md`, ready to execute). All drafts are append-only:
+> never overwrite a prior draft.
+>
+> **Boot order for any session:** this file → `08-Fable-Dossier/00-INDEX.md` (the July 2026
+> architecture/craft layer: voice bible, decision log, operating manual) → the file your task needs.
+> If you are an AI holding the pen, `08-Fable-Dossier/01-opus-operating-manual.md` is your manual.
 >
 > **Repo owner.** Jake Wood.
 >
-> **Last meaningful update.** May 27, 2026 (v0.5 — Rule 11 added: turning points and archetype callbacks).
+> **Last meaningful update.** July 2, 2026 (phase status corrected; Fable Dossier layer added;
+> superseded material moved to `09-Archive/`). Prior: May 27, 2026 (v0.5 — Rule 11 added).
 
 ---
 
@@ -332,15 +340,21 @@ Together they hold. Structural alone becomes cold systems-thinking. Humane alone
 
 ## 14. Project Phases
 
-**Phase One — Research and Outlining.** Active.
-- Deliverables: source map, macro structure, per-part outlines, living themes documents.
-- Next major move: populate the source map starting with Part 1.
+**Phase One — Research and Outlining.** Complete (May 2026). Its one unfinished deliverable — the
+source-map backfill — is now a standing Phase Two task: citations currently live inline in the
+drafts and in the fact-check digests; pulling them into `03-Source-Map/` is queued work, not a
+gate.
 
-**Phase Two — Drafting.** Not yet started.
-- Begins only after Parts 1–3 are fully outlined and sourced.
-- **Scripting too early is the most common failure mode** for projects like this.
+**Phase Two — Drafting.** ACTIVE since late May 2026. Current state: draft-04 for Prologue/P1/P2;
+draft-03 for P3–P9 with the draft-04 pass specced and ready
+(`08-Fable-Dossier/14-draft-04-execution-spec.md`). The governing contracts: the draft-03 revision
+plan (still binding for P3–P9), the draft-04 brief, and the Fable Dossier
+(`08-Fable-Dossier/` — voice bible, decision log, cast bible, operating manual). Drafts are
+append-only; the working-notes revision log records every pass.
 
-**Phase Three — Production.** Later. Out of scope for now.
+**Phase Three — Production.** Not started. Open questions that gate it (runtime targets, release
+cadence, series title, narration/music choices) are tracked in
+`05-Open-Questions/cross-cutting-questions.md`.
 
 ---
 

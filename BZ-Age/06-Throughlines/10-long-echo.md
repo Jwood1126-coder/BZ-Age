@@ -1,6 +1,8 @@
 # Memory, Myth, and the Long Echo
 
-**Status:** Active throughline.
+**Status:** Merged & promoted (July 2, 2026) — this throughline and #9 became the series-wide
+**reception spine**; the per-part build sheet lives at `08-Fable-Dossier/08-reception-spine.md`
+(dosage decision D-010). This file remains as background philosophy.
 
 ## What it is
 

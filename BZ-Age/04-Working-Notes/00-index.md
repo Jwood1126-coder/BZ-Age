@@ -2,6 +2,14 @@
 
 The conversational record of how the project came to be. Read these when you want to know **why**, not **what**.
 
+**Note (July 2, 2026):** the newest architecture/craft layer lives in `08-Fable-Dossier/` (start
+at its `00-INDEX.md`) — this folder holds the reasoning docs, digests, and logs beneath it.
+Finished planning docs were moved to `09-Archive/working-notes/`. Still-binding here:
+`draft-03-revision-plan.md` remains the governing contract for Parts 3–9 until the draft-04 pass
+runs; `draft-04-brief.md` is the writer's feedback contract; the two research digests and the
+fact-check digest are the source of record for verified facts; `miano-notes.md` is the digested
+Miano transcript.
+
 ## Files
 
 - [Revision Log](./Revision-Log.md) — every substantive change to the repo

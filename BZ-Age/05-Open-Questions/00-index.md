@@ -4,6 +4,16 @@ The research questions, decisions to make, and open debates that the project sti
 
 Each question gets logged here with the part it relates to (or "cross-cutting"), when it was raised, and what would resolve it.
 
+**Status (July 2, 2026 repo audit):** most Phase One questions (raised May 26, pre-drafting) have
+been *resolved by the drafts* but never struck per the convention below. Spot-audit findings:
+part-2's four questions — all resolved in draft-04; part-7's — three of four resolved in
+draft-03, but **disease-as-collapse-factor remains genuinely open** (draft-03 never addresses it;
+note the Mursili II plague-prayers beat banked in `08-Fable-Dossier/12-beat-menus.md` P6 would
+partly answer it); cross-cutting — series title, per-part runtime targets, and release cadence
+remain genuinely open and now gate Phase Three. **Queued task (good Opus work):** sweep all nine
+part-files, strike resolved items with dates per the convention, and leave the live ones
+standing.
+
 ## Convention
 
 - Use a heading for each open question.

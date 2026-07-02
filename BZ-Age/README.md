@@ -2,8 +2,8 @@
 
 A long-form, multi-part podcast series on the Bronze Age, built in the spirit of Dan Carlin's *Hardcore History*.
 
-**Current phase:** Research and outlining, with provisional script drafting begun.
-**Current status:** Macro structure established. Editorial DNA locked. Source map skeleton seeded. Parts 1–5 outlined at moderate detail; Parts 6–9 sketched. Source-flagged v0.1 opening script drafts exist for Parts 1–9; none are recording-ready copy.
+**Current phase:** Drafting, deep in (July 2026).
+**Current status:** Full drafts exist for all ten parts. Draft-04 for the Prologue and Parts 1–2; draft-03 for Parts 3–9, with the draft-04 pass fully specced and ready to execute (`08-Fable-Dossier/14-draft-04-execution-spec.md`). A 16-file architecture/craft dossier (`08-Fable-Dossier/`) governs voice, cast, structure, and process. A narration-only full-series assembly exists (`BZ-Age-draft03-audiobook.md`). Drafts are append-only — every prior draft is preserved.
 
 ---
 
@@ -12,14 +12,15 @@ A long-form, multi-part podcast series on the Bronze Age, built in the spirit of
 If you're new to the project (or returning after a gap), read in this order:
 
 1. **[CLAUDE.md](./CLAUDE.md)** — the master prompt and editorial DNA. The single most important file in the repo. Load this into any AI session before doing anything else.
-2. **[00-Editorial-DNA/](./00-Editorial-DNA/)** — voice, hard rules, posture, north star, the State of the World discipline. The values of the project.
-3. **[01-Macro-Structure/](./01-Macro-Structure/)** — the nine-part-plus-coda arc, with defenses and alternatives considered.
-4. **[06-Throughlines/](./06-Throughlines/)** — the running obsessions that thread through every part.
-5. **[02-Parts/](./02-Parts/)** — per-part outlines. Parts 1–5 most developed; 6–9 sketched.
-6. **[03-Source-Map/](./03-Source-Map/)** — bibliography skeleton, primary sources, modern scholarship, archaeology.
-7. **[04-Working-Notes/](./04-Working-Notes/)** — conversational record of how the project came to be; the *why* behind decisions.
-8. **[05-Open-Questions/](./05-Open-Questions/)** — research questions still to chase, decisions still to make.
-9. **[07-Scripts/](./07-Scripts/)** — provisional script drafts. These are downstream of the outlines and should be read with the open source-check flags in mind.
+2. **[08-Fable-Dossier/00-INDEX.md](./08-Fable-Dossier/00-INDEX.md)** — the July 2026 architecture and craft layer: voice bible, decision log, cast bible, execution spec, operating manual. If you're an AI holding the pen, `01-opus-operating-manual.md` in that folder is your manual.
+3. **[02-Parts/](./02-Parts/)** — the drafts themselves. Read the highest-numbered draft in each part folder; earlier drafts are the preserved record.
+4. **[00-Editorial-DNA/](./00-Editorial-DNA/)** — voice, hard rules, posture, north star, the State of the World discipline. The values of the project.
+5. **[01-Macro-Structure/](./01-Macro-Structure/)** — the nine-part-plus-coda arc, with defenses and alternatives considered.
+6. **[06-Throughlines/](./06-Throughlines/)** — the running obsessions that thread through every part (note: #9 and #10 are now merged and promoted into `08-Fable-Dossier/08-reception-spine.md`).
+7. **[04-Working-Notes/](./04-Working-Notes/)** — revision logs, fact-check digests, fleet findings, research digests; the *why* behind decisions.
+8. **[05-Open-Questions/](./05-Open-Questions/)** — the still-genuinely-open questions (title, runtime, release cadence, and a few content items); most Phase One questions were resolved by the drafts.
+9. **[03-Source-Map/](./03-Source-Map/)** — bibliography scaffolding. Honest status: sourcing currently lives inline in the drafts and in the fact-check digests; backfilling this folder from the finished drafts is queued work.
+10. **[09-Archive/](./09-Archive/)** — superseded material, preserved but not live (including the early `07-Scripts` fork and the rev1 compile). See its README.
 
 ---
 
@@ -68,6 +69,7 @@ You can also work in any Markdown editor — VS Code, Typora, plain text. The fi
 
 ## Version
 
+- **2026-07-02 — v1.0.** Repo audit and reorganization. Phase status corrected everywhere (drafting is deep in progress, not "not yet started"); `08-Fable-Dossier/` added (16 files: voice bible, architecture critique, cast bible, bookends, reception spine, glimpse bank, beat menus, cold-open menus, recency flags, influences, draft-04 execution spec, Opus operating manual, decision log); superseded material moved to `09-Archive/` (the `07-Scripts` v0.1 fork, `BZ-Age-rev1.md`, three finished working-notes docs); first full push to GitHub; `HOW-TO-PUSH.md` rewritten for the live-repo workflow. Reading order updated.
 - **2026-05-27 — v0.14.** Sequential v0.1 opening script drafts created for Parts 1–9 in `07-Scripts/`. Each draft is source-flagged and limited to an opening movement / first script section, not a complete episode script. Added `07-Scripts/README.md` as a script index and drafting note. `CLAUDE.md` restored to prior wording and should not be edited for script-drafting metadata.
 - **2026-05-27 — v0.6.** First provisional script copy begun at user request. New file `07-Scripts/part-1-before-bronze-v0.1.md` drafts the opening movement for Part 1, using the full current project library as framing and carrying explicit source-check flags because the source maps remain placeholders. README updated so future sessions know source-flagged script copy now exists.
 - **2026-05-27 — v0.5.** Added Rule 11 (Turning Points and their human consequence) as a recurring discipline. New file `00-Editorial-DNA/08-turning-points.md`. New `04-Working-Notes/archetypes.md` tracking the recurring vantage figures the series can call back to across parts (the Neolithic farmer, the Sumerian scribe, the Old Assyrian merchant's wife, the Late Bronze Age dockworker, etc.). Turning Points sections added to all nine part outlines — full content for Parts 1–5; seeds for Parts 6–9. CLAUDE.md updated with Rule 11, Move H (Draft a Turning Point Beat), turning-point-specific failure modes, and updated standard per-part outline structure. Final structural addition before handoff to GitHub.
