@@ -250,3 +250,13 @@ Every substantive change to the repo gets logged here.
 **Assembly:** `BZ-Age-draft04-audiobook.md` — 62,594 prose words, ~6.7–7.5 hours at 140–155 wpm, all ten parts.
 
 **Next:** the writer samples draft-04 aloud; D-006 (P2 trim) decided after listening; the [VERIFY-QUOTE] and [VERIFY-BEFORE-AIR] items (Zannanza/plague-prayer quote wording, EA 1/4 wording, Girsu figures, King List figures, Smith/Ventris biography details, della Valle primacy) go to the next fact fleet before any recording.
+
+## v1.4 — July 3, 2026: Draft-05 register sweep (the Told-Story pass)
+
+**Scope:** all ten parts now at draft-05 (prologue written by Fable as the register-proof sample; P1–P9 by nine opus agents executing `draft-05-diagnostic-findings.md` under `draft-05-brief.md`, with the prologue as exemplar; per-part before/after reports persisted in `draft-05-sweep-reports.md`). Draft-04 preserved untouched beside every file.
+
+**What changed, series-wide:** ~50 content redundancies killed (one delivery survives, others cut or converted to working callbacks); every NEEDS-PIVOT seam rewritten as a causal/associative spoken pivot; the quoted AI-ish stretches recast into the talking register; time-rulers grounded with varied anchors (First Crusade, pyramids-before-the-ship, generation-chains — the full-Rome ruler reserved to the prologue); 2–4 unmarked nuggets and 2–4 deadpan smiles per part; rhythm de-clocked (bow-clusters broken, flat endings and mid-thought endings introduced). Verification greps pass on all parts (series-refs ≤1, zero banned meta-frames, zero told-importance).
+
+**Spot-review status (Fable):** P1 and P2 reports reviewed in detail — PASS, including the skip-decisions (P2 correctly declined the George Smith nugget to protect P9's payoff, and declined statue-care wit per the don't-mock-theology warning). Remaining parts' judgment-heavy quotes await the same spot-check.
+
+**Still pending for draft-05 completion:** (1) Fable's banked new beats, hand-written — Wrangel mammoths, the long walk down the rivers, the silt mechanism, kur/kalam, anonymity-as-invention, the dark gifts of Inanna (P2/P3 placements per dossier 12); (2) spot-review of P3–P9 report quotes; (3) draft-05 audiobook assembly; (4) the standing [VERIFY-QUOTE] fact fleet before recording. **BZ age 2 (the Cargo one-shot) is under the writer's own review — hands off until he says otherwise.**
