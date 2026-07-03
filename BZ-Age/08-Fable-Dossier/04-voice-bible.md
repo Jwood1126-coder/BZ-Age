@@ -190,3 +190,29 @@ the finding · negation ladders only against live misreadings, ascending · hedg
 about the narrator's virtue · callbacks at two cues, planted ones only · at least one deliberate
 rhythm break per section · numbers arithmetic-rendered · and read it aloud once — the fire test is
 the only test that catches everything at once.
+
+---
+
+## Addendum (July 2, 2026) — the Told-Story layer
+
+The writer's post-draft-04 feedback adds a register layer this bible now enforces alongside
+everything above. Full contract: `04-Working-Notes/draft-05-brief.md`. The compressed additions:
+
+- **Tell #12 — the sectional seam.** A `---` break where a talking person would pivot aloud.
+  Transitions must be causal/associative ("and that's the same reason it broke"), never
+  administrative. Cold opens and snapshots keep their earned hard cuts; nothing else does.
+- **Tell #13 — paragraph-shape monotony.** Setup → development → bow, every paragraph, is a tic
+  at the rhythm level even when each instance passes the sentence-level tests. Vary the shapes:
+  some paragraphs are one line; some end mid-thought on purpose; some are a spoken aside.
+- **Move #8 — the reaction.** The teller reacts to his own material ("which is an insane sentence
+  to get to say about the Bronze Age"). Real reactions only; the existing "What gets me about
+  Ventris" is the model.
+- **Move #9 — the time-ruler.** Every large span gets one integrated comparison to better-known
+  history (the full run of Rome ≈ a thousand years is the writer's standard). Vary the anchors;
+  Christianity's age is already spent twice.
+- **Move #10 — the nugget (the Pixar rule).** 2–4 unmarked nods per part for listeners who know
+  the material — allusion, knowing epithet, acknowledged deep-end, precision wink — at zero cost
+  to newcomers. If a newcomer would say "wait, what?", it's a hole, not a nugget.
+- **Move #11 — the comedian's eye.** Observational contrast stated deadpan, never set up ("a very
+  Hittite ending" is the house standard). Every laugh carries information. Two to five smiles an
+  hour; zero is too solemn, predictable is a bit.
