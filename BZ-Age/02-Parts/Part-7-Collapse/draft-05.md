@@ -317,3 +317,27 @@ What survived is its own story. But first, the aftermath. The world that came ou
 **Verification greps (prose region):** `th(is|e) series` = 1 (the debt-line keeper) · `next part` = 2 + `next hour` = 1 (down from 4 identical) · no banned meta-frames (question-difficulty rating, announced scaffolding, "I want to flag," "keep in view," "here's where the story," "funnily enough," self-billing) and no told-importance ("and that matters," "this matters because," "the part that matters," "it will matter") · em-dash 19.6/1,000. Prose ≈6,525 tokens ≈ 42–47 min.
 
 **Continuity obligations (unchanged):** P8 owns the grandfather-could-read detonation and the fresh hillside/iron image (the closing keeps only the forward-scent); the population "number" and the literacy-loss both hand to P8, now through a single administrator plant. P9 collects the Iliad / no-Homer-for-the-Hittites pairing and the rediscovery telling; the Blegen nugget seeds the decipherment saga as scent only.
+
+### Deposit-rule pass (July 3)
+
+**Pass:** Section H of the draft-05 brief ("The deposit rule"), applied to P7. P7 is a *payoff* part — it contains the detonations of two long-range plants (the shelf, P5→P7; the hymn, P5→P7) but no long-range plants of its own — so the reform's plant-deposit half falls on P5, and P7's only obligation is the amnesiac-proofing half: each detonation must re-establish its own context in 1–2 self-contained cues. Every forward-promise pattern named in the spec was grepped and judged. **Result: zero prose edits.** Both named payoff sites were already amnesiac-proof (built self-contained in the v0.3 detonation pass and preserved since); every other hit is an adjacent tease, a within-part reference, or a self-contained backward callback — all correctly left. Prose stays byte-identical.
+
+**Changes made:** none to prose. This audit block is the only addition.
+
+**Sites audited, all judged fine-as-is:**
+
+- **Shelf detonation (L54)** — "Remember the shelf. Two parts ago, in the archive room at Pylos, I told you that the administrator's day-tablets were working documents — unfired, erased and recycled season after season, never meant to be read in two years, let alone three thousand. The only way clay like that becomes permanent is fire." Re-establishes the plant with five self-contained cues *before* the detonation ("comes out of that fire" / "burned its own filing cabinet into a time capsule") lands: (1) the archive room at Pylos, (2) the administrator, (3) the day-tablets, (4) unfired/working documents, (5) erased-and-recycled/temporary. A listener who never heard P5 gets the full payoff; a listener who did gets the recognition charge. This is exactly the sanctioned P6-Mitanni shape ("I told you to hold X… here is why it matters"), so the "Remember the shelf." opener is a payoff recognition-hook immediately cashed, **not** the reform's targeted bare "Remember X." (which is a *plant*-time withhold with no reason). No cue is missing; adding more would over-proof a protected detonation. **Fine-as-is.**
+
+- **Hymn detonation (L30/L32)** — "…I told you at the harbor to keep your ear on it." → "Among the tablets recovered from Ugarit is a set inscribed with a hymn — a cult song to Nikkal, bride of the moon god, in the Hurrian language… You may remember a woman singing exactly such a hymn in a tavern doorway at dusk, back at the peak." The detonation names its own scene (woman / hymn / tavern doorway / dusk / the peak) and delivers the payoff's whole charge (oldest substantially complete written melody, with notation) self-contained; the "You may remember" clause is optional recognition, not a comprehension gate. Confirmed already self-contained. **Fine-as-is.**
+
+- **Iron handoff (L124)** — "That story belongs to the next part. The crucible of scrap is where it starts." P7→P8, one boundary = adjacent; light forward lean, not inflated. Spec: leave. **Fine-as-is.**
+
+- **Administrator handoff (L136)** — "Hold him in your mind — him, and his children, and his children's children. The next part opens at their table." P7→P8 adjacent; the "hold him" instruction is immediately given its reason ("the next part opens at their table"), so it is a light adjacent tease within a listener's memory, not a bare multi-hour IOU. Spec: leave. **Fine-as-is.**
+
+- **"A number for the next hour" (L154)** — "How much of that world actually went is a number for the next hour. The number is bad." P7→P8 adjacent, light. **Fine-as-is.**
+
+- **"Hold the question from Sargon's day" (L124)** — a *backward* self-contained callback cashing the P3 tin-question deposit, not a forward plant; it restates the question inline (*why is this the Bronze Age?*) and answers it in the same sentence ("when the tin stops, the age stops with it"). Amnesiac-proof by construction. **Fine-as-is.**
+
+- **"More on this shortly" (L164)** — a *within-part* forward reference (the extraction/release theme develops later in this same part, L172–176), not a cross-part plant; outside the deposit rule's scope. **Fine-as-is.**
+
+**Continuity note for P5 (the plant owner):** the reform's plant-deposit obligation for the shelf and the hymn lives in P5. This pass confirms P7's payoffs already carry their own context, so P5's deposits need only give a satisfying down-payment at plant time without spoiling either detonation (the P7 charge — "the oldest melody on Earth" for the hymn, "the fire that preserved the archive" for the shelf — must remain P7's to fire).

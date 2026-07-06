@@ -129,7 +129,7 @@ You can read the material's constraints in the weapons themselves. A bronze swor
 
 And here a question should be forming, because it formed for me. Iron ore is *everywhere*. It's in practically every hillside on three continents. Nobody has to ship iron a thousand miles through three middlemen. The smiths of this era even know the metal — they encounter it occasionally, and when it falls from the sky as meteoric iron they prize it above gold, working it into ceremonial blades for kings. So: if iron is everywhere and bronze requires the most fragile supply chain in the ancient world — why is this the *Bronze* Age? Why will it stay the Bronze Age for another thousand years?
 
-There is an answer. And I'm not going to give you the answer yet — because it belongs at the peak of the bronze world, two parts from now, where it can do its full damage. Hold the question. Let it bother you a little, every time you hear the word "tin."
+There is an answer. The short version: it has nothing to do with anyone's skill, and everything to do with what iron actually was in this world — which is a story that belongs a couple of hours from now, when the world is drowning in the stuff. Hold the question. Let it bother you a little, every time you hear the word "tin" — because the strangeness is right there in the name: a whole age named for a metal you can't make without tin, and tin came from off the edge of every map these people had.
 
 What matters here, for the empire we're watching, is the shape of the dependency. Akkad had built the biggest, most connected thing anybody ever had — and the metal that armed it came up a road that started somewhere no one in Akkad had ever set foot, and ran through the hands of people no king could give an order to. That's the bargain the Bronze Age struck first, and struck hardest: you get to build bigger than anyone ever has, as long as you can live with needing things you don't control.
 
@@ -305,3 +305,29 @@ Draft-05 register pass under the Told-Story contract (`04-Working-Notes/draft-05
 **Verification (Voice Bible catalog, run on draft-05 prose, lines 14–236):** series-refs = 1 (only the protected Meluhha/P9 plant, "at the very end of this story"); no told-importance; no self-billing; no meta-framed-question tells; no stray instruction-to-listener (the sole "Hold" is the protected tin plant). Prose word count: **7,723** (draft-04: 7,499; net +224), ~50–55 min at 140–155 wpm.
 
 **Continuity obligations (unchanged from v0.3/v0.4):** P5 owes the iron detonation ("Hold the question… every time you hear the word 'tin'"). P4 carries the full tin-sourcing hedge. The lament-genre recurrence ("would need it again") pays off in P7/P9. The King List "before the flood" plants P9's Ashurbanipal callback. The Meluhha "never been cracked / stand in front of it again" plants the P9 Indus ending. Naram-Sin's deification stays a sprung reveal (the L84 mechanics mention was de-spoiled so "And then he made himself a god" still lands).
+
+### Deposit-rule pass (July 3)
+
+Surgical application of the deposit rule (`draft-05-brief.md` §H) to Part 3's long-range plants. One sentence-pair touched (both reforms live in the iron/tin paragraph, L132); the rest of the file is byte-identical. Register held to the exemplar voice.
+
+- **(1) IRON withhold (→P5, long-range — THE priority) — reformed from bare withhold to deposit.**
+  - Before: "There is an answer. And I'm not going to give you the answer yet — because it belongs at the peak of the bronze world, two parts from now, where it can do its full damage."
+  - After: "There is an answer. The short version: it has nothing to do with anyone's skill, and everything to do with what iron actually was in this world — which is a story that belongs a couple of hours from now, when the world is drowning in the stuff."
+  - The bare IOU ("not going to give you the answer yet") became a down-payment: it rules out the wrong answer (smith skill) and points at the real one's *shape* (iron's nature/ubiquity) without detonating P5's iron-was-not-*better* reveal — that iron won by being locally, independently makeable, not by being superior. Structural "two parts from now" → felt "a couple of hours from now" per the brief's told-in-pieces logic. "when the world is drowning in the stuff" gives the deposit a reason to care now without spoiling the mechanism.
+
+- **(2) TIN hold — reason attached, hold kept.**
+  - Before: 'Hold the question. Let it bother you a little, every time you hear the word "tin."'
+  - After: 'Hold the question. Let it bother you a little, every time you hear the word "tin" — because the strangeness is right there in the name: a whole age named for a metal you can't make without tin, and tin came from off the edge of every map these people had.'
+  - The instruction-to-listener is preserved; its *why* now rides in the same breath — the age is named for a metal (bronze) whose critical ingredient (tin) came from beyond every map these people had. No longer a bare "hold this."
+
+- **(3) Shu-ilishu / Meluhha script (→P9) — VERIFIED, no edit needed.**
+  - L126: "The script of Meluhha has never been cracked. We will stand in front of it again, at the very end of this story." The deposit (the never-cracked fact) sits in the same breath as the promise, and the full Shu-ilishu vignette is self-contained substance. Amnesiac-proof and paid-in already; left byte-identical.
+
+- **(4) King List "before the flood" (→P9) — LEFT, no reform (per spec).**
+  - L150: the "before the flood / before the ice age" line. P9's payoff is self-sufficient and the plant carries its own full meaning in place. Untouched.
+
+- **Other forward-promise hits swept, all judged fine-as-is:**
+  - L84 "…reaches for a genuinely radical fix for it, and we'll get there." — *intra-part* (pays off at Naram-Sin's deification, L144–150, same part). Not cross-boundary; no deposit owed. Leave.
+  - L194 "They'd had the practice. They would need it again." — lament-genre recurrence (P7/P9). Self-contained (the genre exists *because* cities kept dying); light, resonant, complete without its payoff, and not on the brief's reform list. Leave.
+  - L138 "That bargain is the thing the next king inherited — and pushed." — intra-part pivot into Naram-Sin, not a promise. Leave.
+  - L204 / L228 / L236 (Hammurabi "two and a half centuries away," "going to produce a king named Hammurabi," "We meet them next.") — adjacent-part teases (P3→P4), within a listener's memory; the rule says keep light, do not inflate. Leave.

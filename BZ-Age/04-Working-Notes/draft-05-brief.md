@@ -126,3 +126,26 @@ framing, not appended to it.
 3. **Then the sweep**, part by part, new files (`draft-05.md`), draft-04 preserved.
 4. The banked draft-05 beats (Wrangel, dark gifts, long walk down the rivers, silt, kur/kalam,
    anonymity-as-invention — dossier 12/09) ride this pass where they fit its parts.
+
+## H. The deposit rule (added July 3, after the writer's payoff-economy feedback)
+
+The writer: the "set up and wait, because this is important, and I'll tell you much later" device
+is hard to connect for listeners hearing the series in pieces — they won't remember multi-hour
+plants, and the withholding itself "sounds a little strange."
+
+The payoff economy survives, reformed:
+1. **Plants pay a deposit.** A long-range plant (crossing more than one part boundary) gives a
+   partial explanation at plant time — enough substance to satisfy NOW ("the short version is X;
+   the part nobody expects comes later, when we get to Y"), never a bare IOU. The full detonation
+   still detonates once, at its contracted site.
+2. **Payoffs are amnesiac-proof.** Every detonation re-establishes its own context in one or two
+   self-contained cues — a listener who forgot the plant (or started mid-series) still gets the
+   full payoff; a listener who remembers gets the extra charge of recognition. Model: P6's
+   Mitanni collection ("I owe you a name. Last time... I told you to hold one: Mitanni... Here is
+   why they matter") — the payoff carries its own plant inside it.
+3. **Withholding theater gets softened.** "I am saving it, deliberately, for the very end" /
+   bare "Remember him." / "Hold that asymmetry" — recast as declaratives carrying the reason:
+   the listener should always know WHY they're being asked to care, now, in this sitting.
+4. **Adjacent-part teases stay light** (P1→P2 storehouse-style) — one part boundary is within a
+   listener's memory. The reform targets the multi-hour spans: iron (P3→P5), the shelf (P5→P7),
+   the Hittite rediscovery (P6→P9), amber (P2→P4), the Indus script (P2/P3→P9), the hymn (P5→P7).

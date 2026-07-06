@@ -35,7 +35,7 @@ The Hittites — the empire that signed the Kadesh peace treaty with Ramses II, 
 
 Not a distorted memory. No myth, no legend, no epic cycle. Nothing.
 
-Episodes ago, standing at the signing of the Kadesh treaty, I told you I was saving the story of how we got them back — saving it deliberately, for the end. This is the end. Here is the story.
+This is the story of how we got them back — a whole empire, erased down to nothing, hauled back into the daylight.
 
 The Hebrew Bible mentions the Hittites — "sons of Heth," the Hittite people — in several places, and this was for a long time treated as a fictional or legendary reference, because no secular historical record of the Hittites appeared to exist. In the nineteenth century CE, scholars who took the Hebrew Bible's Hittite references seriously were told, politely, that they were mistaken.
 
@@ -173,7 +173,7 @@ That whole roll-call, we can reach. There's one people in this story we can't.
 
 The Indus script remains undeciphered.
 
-There were people on the Indus River, in the cities of Harappa and Mohenjo-daro, who had their own writing system, their own civilization, their own version of this story. We cannot read what they wrote. Their civilization collapsed around 1900 BCE, and their writing died with it, and no Champollion has yet found the key.
+There were people on the Indus River, in the cities of Harappa and Mohenjo-daro, who had their own writing system, their own civilization, their own version of this story. We cannot read what they wrote. Their civilization collapsed around 1900 BCE, and their writing died with it — a language that once had professional interpreters working the docks of Akkad, and that no living person can read — and no Champollion has yet found the key.
 
 The Bronze Age is still, in important ways, beyond our reach.
 
@@ -243,6 +243,29 @@ The past is immense. What we know is a fraction of what happened. Somewhere in t
 - H1 "Three thousand years of silence. Then a hotel room in Constantinople..." (now L56); H2 the Xenophon bookend (L72–74); H3 the undressing scene (L104–106); H4 "Clay is the cheapest... They wait." (L122); H5 "The connection that Homer could not see... in an architect's study." (L116); H6 the roll-call litany (L164–168). Also untouched: the saving-device lines (L38), "The Hittite language is Indo-European." (L46, Item 7), "The Egyptians could speak again." (L100), the Ventris BBC sentence (L114), the "[State of the World snapshot]" header (L130), "And yet." (L150), and the Indus ending (L180–182, the series' last note).
 
 **Verification greps (Voice Bible catalog, run on prose lines 12–182):** series-refs = 0 (target ≤1); banned meta-frames = 0; told-importance / self-billing = 0. Prose word count ≈ 4,941 (~32–35 min at 140–155 wpm).
+
+### Deposit-rule pass (July 3)
+
+Per the draft-05 brief §H (the deposit rule). Surgical: only the two named payoff sentences touched; all other prose byte-identical. P9 is a payoff part, so this pass is amnesiac-proofing, not deposit-planting.
+
+**Change 1 — Hittite rediscovery collection, saving-theater dropped (L38).**
+- BEFORE: "Episodes ago, standing at the signing of the Kadesh treaty, I told you I was saving the story of how we got them back — saving it deliberately, for the end. This is the end. Here is the story."
+- AFTER: "This is the story of how we got them back — a whole empire, erased down to nothing, hauled back into the daylight."
+- Why: the old line was a bare withholding-theater callback to a P6 plant three parts back ("I told you I was saving it... saving it deliberately, for the end"). A listener who started at P9, or forgot P6, gets nothing from it — and the theater is exactly what §H softens. The recast drops the callback and makes the collection self-contained: WHO ("a whole empire") and the erasure ("erased down to nothing") are the amnesiac-proof cues, echoing — not repeating — the full re-establishment already sitting two paragraphs up (L34 "the empire that signed the Kadesh peace treaty… so completely forgotten," L36 "Nothing"). A cold listener is fully served; the surviving phrase "how we got them back" is the recognition charge for anyone who remembers the P6 promise. "hauled back into the daylight" sets up, without spoiling, the section's contracted detonation at L56 ("an empire comes back from the dead") — the HOW (Winckler's spade, Hrozný's Indo-European thunderclap) stays a surprise. Also nets out one first-person series self-reference (verification series-ref count unaffected, still 0).
+
+**Change 2 — Indus ending, interpreter half-clause added (L176).**
+- BEFORE: "Their civilization collapsed around 1900 BCE, and their writing died with it, and no Champollion has yet found the key."
+- AFTER: "Their civilization collapsed around 1900 BCE, and their writing died with it — a language that once had professional interpreters working the docks of Akkad, and that no living person can read — and no Champollion has yet found the key."
+- Why: §H names the Indus script (P3→P9) as a multi-hour plant needing an amnesiac-proof payoff. The added em-dash clause connects to the P3 plant (Shu-ilishu, "interpreter of the Meluhhan language," the Akkad dockside, "a language that no human being alive today can read" — P3 draft-05 L126) WITHOUT requiring memory of him: "professional interpreters working the docks of Akkad" is a fully self-contained image (a cold listener learns this was once a living commercial tongue), so the loss lands for everyone, and a P3-rememberer gets the recognition. Kept to one half-clause per spec; embedded rather than a new sentence so the protected close is untouched. Deliberately mirrors L44 ("a language no living person had spoken aloud in three thousand years") — the two bookend dead languages of the part, Hittite recovered / Indus still lost. The Xenophon mirror sentence (L180) and the protected final paragraph (L182) were not touched.
+
+**Hits hunted and judged fine-as-is (left byte-identical):**
+- **L16 "the question we left hanging at the end of last time. What survived?"** — a backward collection of P8's exit question (adjacent boundary, within memory) and already amnesiac-proof: it re-states the question ("What survived?") in the same breath, so a cold listener knows exactly what is being answered. §H4: adjacent teases stay light. Leave.
+- **L38-context L34/L36** — the WHO + total-erasure re-establishment for the Hittite payoff; self-contained and load-bearing for Change 1. Untouched.
+- **L64 Ashurbanipal "from before the flood" boast** — self-sufficient; the phrase is carried entirely by its own sentence (oldest writing, Sumerian/Akkadian, stone inscriptions). No cross-part dependency. Verified, leave (spec item 3).
+- **L66 base-60 chord "you collected that inheritance this morning, when you checked the time"** — self-contained; the sentence explains base-60 → hours → clock-check without needing the P2 detonation. Verified, leave (spec item 4).
+- **L72 "You remember him. Xenophon… Hold the image one more time, because now you can see what he couldn't"** — a payoff, not a plant, and already amnesiac-proof: Xenophon is fully re-established in the same breath ("the man this whole story started with, staring up at a wall a hundred feet high with no name attached to it"), and L70 sets him up cold two sentences earlier ("a Greek mercenary walked past the mound… and nobody knew"). "Hold the image" carries its reason immediately ("because now you can see what he couldn't") — not a bare hold. Leave.
+- **L108 "You already have this one — Winckler's spade… It belongs in this list; it didn't need telling twice."** — a within-part callback to L44–56 (same sitting), self-contained. Not a cross-part promise. Leave.
+- **L180 "we walk past it the way Xenophon walked past his."** — the protected Xenophon mirror; self-contained (the whole preceding paragraph re-establishes the buried-unreadable-archive image). Untouched per spec.
 
 ---
 
