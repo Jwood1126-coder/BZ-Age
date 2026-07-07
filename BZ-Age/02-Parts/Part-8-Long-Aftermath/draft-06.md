@@ -2,7 +2,7 @@
 ## SIXTH DRAFT — v0.6 — PUBLICATION CANDIDATE
 **Date:** July 7, 2026
 **Status:** Publication-candidate pass under the draft-06 master plan (`04-Working-Notes/final-pass/master-plan.md`), executed from the P8 findings (`04-Working-Notes/final-pass/P8-findings.md`), the draft-06 and draft-05 briefs, and the P8-relevant items in the series-level reports. The master plan supplies **no new narrator prose for P8**, so this pass is confined to the itemized within-remit fixes — pure-deletion consolidations, a paragraph split, a findings-provided name-gloss, a navigational-phrase cut, and a [VERIFY] tag. Every MISSING-section finding (the new-people-in-old-ruins thesis scene, the Egypt beat, the climate line, the human face on the population drop) requires narrator prose not provided below and is carried as `[FLAGGED, NOT FIXED: NEW-PROSE-SITE]` in the revision notes. Draft-05 preserved untouched. See Revision notes — v0.6.
-**Estimated audio length:** ~32.5–35.9 minutes (5,032 prose words ÷ 155–140 wpm; count excludes headers and revision notes)
+**Estimated audio length:** ~33.5–37 minutes (~5,220 prose words ÷ 155–140 wpm; count excludes headers and revision notes)
 **Covers:** The grandfather who could read → the Greek Dark Age reconsidered (with Lefkandi) → the Israelite highlands → the Philistines next door → the highlands dawn → iron as chord → the alphabet → the world that didn't collapse → the people, and the clearing
 
 ---
@@ -46,6 +46,8 @@ Smaller settlements. Simpler buildings. Fewer elaborate graves. Very limited evi
 Dark, by those criteria.
 
 Anthony Snodgrass — whose 1971 survey The Dark Age of Greece was the foundational study of the period — estimated a population drop of more than seventy-five percent, based on how many settlements simply vanish from the record between 1100 and 900 BCE. That made "Dark Age" a defensible archaeological description, not just a rhetorical one.
+
+And this is where the oldest question in this series comes home to live. Walk with a Greek of these centuries — a herder, say, moving goats below the ruins of Tiryns. The walls are still standing; they're standing today. Blocks the size of carts `[VERIFY: Cyclopean masonry]`, fitted without mortar, in circuits his whole village couldn't lift one stone of. He knows nobody who can build like that. He knows nobody who knows anybody who can. The people who built them were his own great-great-grandfathers — and he has no idea. Ask him who made these walls, and he gives the only answer that fits the evidence in front of him: giants. One-eyed giants. The classical Greeks, centuries on, were still giving the same answer about the same walls — archaeology calls the style "Cyclopean masonry" to this day, a folk tale fossilized into a technical term. Remember Xenophon, getting a thunderbolt and a shrug on top of Nineveh? Same move, same species, seven centuries earlier. When the knowledge dies, the myth moves in — not because people got stupider, but because a wall that size demands an explanation, and giants fit the evidence better than grandfathers.
 
 And even on its own terms, the darkness has holes in it. On the island of Euboea, at a place called Lefkandi, archaeologists in 1980 opened a tenth-century BCE building that wasn't supposed to exist — a structure some fifty meters long, the largest building we know of in Greece for centuries on either side of it, raised over the burial of a man and a woman: the man's ashes in a bronze urn that was an antique from Cyprus, at least a century old when it went into the ground, the woman laid out with gold at her throat — a collar-piece the excavators traced to Babylonia, made perhaps a thousand years before she wore it. An heirloom older to her than the Crusades are to us. There were horses sacrificed in the burial shaft — the way heroes get buried in poems nobody had written down yet. There were imports from Egypt and the Levant in the surrounding graves. In the middle of the deepest "dark," somebody on Euboea was rich, connected, and able to command labor on a scale the textbooks said had vanished. The dark age was real — the population numbers don't lie. But it was not uniform, not static, and not empty.
 
@@ -175,6 +177,9 @@ That's the last part.
 ---
 
 ## Revision notes — v0.6
+
+### Fable addendum — v0.6.1 (July 7, 2026)
+The narrator's pen closed this part's keystone NEW-PROSE-SITE directly: **M1/S1, the thesis scene** (the herder below the walls of Tiryns; Cyclopean masonry as the folk tale fossilized into a technical term; the Xenophon rhyme), spliced before the Lefkandi pivot. The M1/S1 flag in the notes below is therefore CLOSED; the part's §9 thesis gap is filled. One `[VERIFY: Cyclopean masonry]` tag added; the scene adds one series self-reference ("the oldest question in this series"), bringing the part to exactly 1. Header word count updated (~5,220). All other flags below remain open for the post-Fable backlog.
 
 **Publication-candidate pass under the draft-06 master plan, executed from the P8 findings, the two briefs, and the P8-relevant items in the six series-level reports. The master plan supplies NO new narrator prose for P8. Under the one-voice rule and my remit (connective half-clauses + findings-provided glosses + cuts/repositioning only; recasting NOT licensed for P8), every additive/scene finding flags out. The applied set is deliberately small and defensible: pure deletions, one paragraph split, one findings-provided name-gloss, one navigational cut, one tag. Draft-05 preserved untouched.**
 

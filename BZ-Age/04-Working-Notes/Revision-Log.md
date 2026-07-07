@@ -260,3 +260,34 @@ Every substantive change to the repo gets logged here.
 **Spot-review status (Fable):** P1 and P2 reports reviewed in detail — PASS, including the skip-decisions (P2 correctly declined the George Smith nugget to protect P9's payoff, and declined statue-care wit per the don't-mock-theology warning). Remaining parts' judgment-heavy quotes await the same spot-check.
 
 **Still pending for draft-05 completion:** (1) Fable's banked new beats, hand-written — Wrangel mammoths, the long walk down the rivers, the silt mechanism, kur/kalam, anonymity-as-invention, the dark gifts of Inanna (P2/P3 placements per dossier 12); (2) spot-review of P3–P9 report quotes; (3) draft-05 audiobook assembly; (4) the standing [VERIFY-QUOTE] fact fleet before recording. **BZ age 2 (the Cargo one-shot) is under the writer's own review — hands off until he says otherwise.**
+
+---
+
+## v1.5 — Draft-06: the publication pass (July 7, 2026)
+
+**What:** `draft-06.md` for all nine parts + `cold-open-draft-06.md` (prologue), labeled
+PUBLICATION CANDIDATE; assembled `BZ-Age-draft06-audiobook.md` (~66,900 prose words ≈ 7.2–8.0 h).
+Draft-05 preserved untouched.
+
+**How:** The full final-pass architecture in `04-Working-Notes/final-pass/`: (1) 16-reader
+diagnostic of draft-05 (10 per-part + 6 series-level lenses incl. the external-memo-derived
+aegean/orientation audit — D-011); (2) Fable synthesis → `master-plan.md` (all rulings + all new
+narrator prose); (3) 10-agent Opus execution fleet (reports in `build-reports.md`); (4) Fable
+directly closed the four highest-value flags the fleet correctly refused to write (P8 thesis
+scene — Tiryns/Cyclopes; P7 modern echo + scened cascade; P6 cosmopolitan re-anchor; P9
+Champollion mechanism/scene) — v0.6.1 addenda in each file's revision notes.
+
+**Headline structural changes vs draft-05:** thesis coda ends the series (privileged present —
+species/world/cosmos); prologue carries the recursion + cosmic vantage; P2 dieted (connectivity
+mechanics → P4) and absorbed five banked beats (long walk, silt, Wrangel, kur/kalam, anonymity);
+dark gifts → P3 beside the Lament; P4 unified under the assembly spine; P5 de-listed roster +
+container-ship/navigation/labyrinth/today-mirror beats; P6 Zannanza on role-handles; P9 gained
+the Layard spade beat and Champollion parity.
+
+**Verification:** banned frames 0; series self-refs ≤1/part (P0 mission statement licensed);
+all 15+ Fable prose blocks confirmed byte-exact; honest header arithmetic throughout.
+
+**Open:** flagged-not-fixed backlog lives in `final-pass/build-reports.md` (all optional-tier);
+[VERIFY] queue for the pre-recording fact fleet (now incl. Cyclopean masonry, Ura grain route,
+Fort Julien/Bankes obelisk/Champollion anecdote, Wrangel dates, Inanna-and-Enki, silt/yield
+claims). GPT draft-07 experimental lane on branch `gpt-draft-07-experimental` for comparison.

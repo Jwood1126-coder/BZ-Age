@@ -2,7 +2,7 @@
 
 **State as of July 7, 2026 (commit 765246c, Fable window close).** Diagnostic COMPLETE.
 Synthesis + ALL new narrator prose COMPLETE — see `master-plan.md` beside this file (steps 1–2
-of "Remaining" below are DONE). A 10-agent Opus execution fleet was launched at session end and
+of "Remaining" below are DONE). The execution fleet COMPLETED July 7: all ten draft-06 files built, verified, audiobook assembled (v1.5). Historical text follows:
 may have finished only partially: check `02-Parts/*/draft-06*` for missing parts (and COMMIT+PUSH
 any uncommitted draft-06 files first), build the rest from the master plan, then steps 4–5
 (verification greps, audiobook assembly, Revision-Log v1.5, push).

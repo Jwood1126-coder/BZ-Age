@@ -2,7 +2,7 @@
 ## SIXTH DRAFT — v0.6 — PUBLICATION CANDIDATE
 **Date:** July 7, 2026
 **Status:** Publication-candidate pass — the draft-06 master plan (`04-Working-Notes/final-pass/master-plan.md`, P6 section + global protocol), executed against the P6 findings report (`04-Working-Notes/final-pass/P6-findings.md`) and the two briefs, matched to the P0 register exemplar. The master plan supplied NO new narrator prose for P6; the sole licensed authored intervention was the Zannanza name-handle recast (aegean-orientation finding 2). Everything else here is either a cut, a paragraph break, a presumption gloss delivered as a connective half-clause (the deposit-pass precedent), a reorder of existing sentences, or a [VERIFY] tag. All NEW-PROSE-SITE findings (M1 re-anchor, M3 privileged-present turn, M4 Merneptah's own crisis, V1 syntax-split of L34, the reception-spine clause) are flagged, not fixed. Draft-05 preserved untouched. Full itemization in the v0.6 revision notes below.
-**Estimated audio length:** ~40–44 minutes (~6,200 prose words at 140–155 wpm)
+**Estimated audio length:** ~40–45 minutes (~6,340 prose words at 140–155 wpm)
 **Covers:** The world at its apparent peak → the Kadesh treaty as apex → the Mitanni precedent → the plague that rode the roads → climate signals building → the grain letters → the Sea Peoples (carefully) → the warehouse → fortifications → the Cyprus letter and the last kings → the last generation
 
 ---
@@ -34,6 +34,8 @@ In those same decades, Ramses' fourth son was spending his life on the past. His
 How we can read the Hittite side of any of this — how an empire that vanished so completely that the Hebrew Bible's stray mentions of "Hittites" were sometimes dismissed as scribal errors walked back onto the historical stage after more than three thousand years, a gap long enough to swallow the whole of what we casually call ancient history, classical Greece and everything downstream of it, and still leave centuries over — is one of the best detective stories of the last two centuries: a buried capital, an archive that survived its own fire, and a decipherment that stunned everybody. The full telling is the finale's; it earns that seat. For now, all you need is the fact: we have their archives. Tens of thousands of tablets. Their half of the diplomatic record of the cosmopolitan world.
 
 That's 1259. That's the peak.
+
+And hold what "the peak" contains, because everything in this hour gets subtracted from it. Five or six great kingdoms calling each other "brother" in a shared diplomatic language. Royal daughters moving between courts to bind the thrones together. Copper from Cyprus meeting tin from mountains months away, in every harbor on the coast. And underneath it all, the quiet assumption — so universal nobody thought to write it down — that this is simply how the world works now. That's the table, fully set. This hour is about how it starts sliding, quietly, in the sunshine.
 
 ---
 
@@ -210,6 +212,9 @@ And then came the fires.
 ---
 
 ## Revision notes — v0.6
+
+### Fable addendum — v0.6.1 (July 7, 2026)
+The narrator's pen closed the flagged M1 NEW-PROSE-SITE directly: **the cosmopolitan-world re-anchor**, spliced immediately after "That's 1259. That's the peak." — a one-breath rebuild of the peak world (brother-kings, marriage diplomacy, the copper-tin dependency, the unwritten assumption of permanence) so a listener days away from Part 5 has the full table set before this hour starts subtracting from it. Its exit ("how it starts sliding, quietly, in the sunshine") hands back to the part's own sunshine frame. The M1 flag below is CLOSED. Header word count updated (~6,340). All other flags below remain open for the post-Fable backlog.
 
 **Publication-candidate pass — the draft-06 master plan (P6 section + global protocol), executed against the P6 findings report and the two briefs, matched to the P0 register exemplar. The master plan supplied NO new narrator prose blocks for P6; the only authored-recast license was the Zannanza name-handle fix. All other interventions are cuts, paragraph breaks, presumption glosses delivered as connective half-clauses (the deposit-pass precedent), reorders of existing sentences, and [VERIFY] tags. Draft-04 and draft-05 preserved. Prose word count after this pass: ~6,200 spoken words (≈40–44 min at 140–155 wpm), roughly flat-to-slightly-lighter than draft-05 (~6,258 body words): cuts and the gloss additions net to a small reduction.**
 
