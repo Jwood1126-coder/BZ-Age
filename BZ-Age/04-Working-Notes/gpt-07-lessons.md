@@ -82,6 +82,17 @@ part-spines as the elevator test in any future trim decision (D-006's P2 questio
 5. **Glibness at the edges.** "Morally awkward if you think about it for more than three
    seconds" — a register our narrator doesn't have and shouldn't buy.
 
+## Post-audit correction (July 7, applying the steal-pass)
+On contact with the actual draft-06 text, the list shrank further — three of the admired GPT
+lines turned out to be OURS, lifted by the audition: "a granary with a god on top" (P2,
+protected line), "A world of self-sufficient villages cannot fall in a chain. This world
+could." (P7), and "The Hittites got no Homer." (P7). The Çakır sponge-diver discovery scene
+was already in our P5, fuller than theirs, and the discovery-flicker audit passed in all ten
+parts. **Genuinely adopted, v0.6.2:** the spoken driving question (P0), the fairness-tax
+clause completing our granary line (P2, + Voice Bible move #12), and Rib-Hadda of Byblos (P5,
+closing the standing series-expert flag). Total: ~215 new narrator words, two new [VERIFY]
+tags.
+
 ## Bottom line
 The experiment is worth what it cost. It independently validates draft-06's architecture
 (Uluburun-first, de-listed roster, role handles, P4 as assembly floor, privileged-present

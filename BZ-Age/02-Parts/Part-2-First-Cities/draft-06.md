@@ -1,5 +1,5 @@
 # Part 2 — The First Cities and the Invention of the Future
-## SIXTH DRAFT — v0.6 — PUBLICATION CANDIDATE
+## SIXTH DRAFT — v0.6.2 — PUBLICATION CANDIDATE
 **Date:** July 7, 2026
 **Status:** Publication pass, per the draft-06 brief (`04-Working-Notes/draft-06-brief.md`), the draft-05 Told-Story contract (`04-Working-Notes/draft-05-brief.md`), the master plan (`04-Working-Notes/final-pass/master-plan.md`), and the P2 final-pass findings (`04-Working-Notes/final-pass/P2-findings.md`). Draft-05 preserved untouched alongside. Connectivity-mechanics essay excised to P4 per the Global ruling; the four/five banked beats (long walk, silt, Wrangel, kur/kalam, anonymity) spliced verbatim from the narrator's pen; dark gifts of Inanna moved to P3.
 **Estimated audio length:** ~74–82 minutes (~11,540 prose words at 140–155 wpm)
@@ -73,7 +73,7 @@ The question, remember, was this: the Great Lakes had copper — worked it befor
 
 Look at what Uruk is actually made of.
 
-Not copper. Uruk has barely any metal — we'll stand in its streets shortly, and what metal you'll see is scarce and precious. The thing the temple stores, the thing the records count, the thing the workforce is paid in, the thing the wall exists to protect: barley. Uruk is made of grain. The temple, strip away the theology for one irreverent second, is a granary with a god on top.
+Not copper. Uruk has barely any metal — we'll stand in its streets shortly, and what metal you'll see is scarce and precious. The thing the temple stores, the thing the records count, the thing the workforce is paid in, the thing the wall exists to protect: barley. Uruk is made of grain. The temple, strip away the theology for one irreverent second, is a granary with a god on top. That's unfair to the believers, and exactly fair to the ledgers.
 
 And grain has a set of properties that almost nothing else humans eat has ever had. It sits still. It keeps — for years, if you store it dry. It divides into rations down to the cupful and scales up to the warehouse. It ripens on a schedule, in a field, in the open, where anyone — say, an assessor with a tablet — can see exactly how much you grew. James C. Scott, the political scientist who spent a career on this, puts it in one line: only the cereal grains are "visible, divisible, assessable, storable, transportable, and rationable." Which is a scholar's way of saying: grain is the food you can tax.
 
@@ -338,6 +338,10 @@ A man named Sargon.
 The story of what he did — and who he really was versus who he claimed to be — is what comes next.
 
 ---
+
+## Revision notes — v0.6.2 (GPT-07 steal-pass)
+
+**One narrator-pen clause** (lesson #2 in `04-Working-Notes/gpt-07-lessons.md` — the fairness-tax couplet): after the protected line "The temple… is a granary with a god on top." (which stands byte-identical), added "That's unfair to the believers, and exactly fair to the ledgers." The move: say the irreverent compression, then pay one clause of fairness to what it shortchanges — it licenses the wit inside the don't-mock-theology rule. The couplet structure was prompted by the GPT-07 audition (which had lifted our granary line and appended its own correction); the wording here is the narrator's. Registered as Voice Bible move #12. Everything else byte-identical to v0.6.
 
 ## Revision notes — v0.6
 

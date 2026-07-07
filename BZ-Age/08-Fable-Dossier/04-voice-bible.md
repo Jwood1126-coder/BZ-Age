@@ -216,3 +216,16 @@ everything above. Full contract: `04-Working-Notes/draft-05-brief.md`. The compr
 - **Move #11 — the comedian's eye.** Observational contrast stated deadpan, never set up ("a very
   Hittite ending" is the house standard). Every laugh carries information. Two to five smiles an
   hour; zero is too solemn, predictable is a bit.
+
+---
+
+## Move #12 — The fairness-tax couplet (added July 7, 2026, from the GPT-07 audition)
+
+Say the sharp, irreverent compression — then immediately pay one clause of fairness to what it
+shortchanges. The house example (P2 v0.6.2): "The temple, strip away the theology for one
+irreverent second, is a granary with a god on top. That's unfair to the believers, and exactly
+fair to the ledgers." The correction is not a retreat; it is what LICENSES the irreverence — the
+narrator gets the laugh and keeps the honesty, and the don't-mock-theology rule stays intact.
+Use where wit grazes something people held (or hold) sacred, or where a compression is true
+about the mechanism and false about the meaning. Ration hard: this is strong spice — once,
+maybe twice a part, or the self-correction itself becomes a tic (see tell #13).

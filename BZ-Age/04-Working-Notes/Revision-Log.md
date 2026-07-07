@@ -291,3 +291,19 @@ all 15+ Fable prose blocks confirmed byte-exact; honest header arithmetic throug
 [VERIFY] queue for the pre-recording fact fleet (now incl. Cyclopean masonry, Ura grain route,
 Fort Julien/Bankes obelisk/Champollion anecdote, Wrangel dates, Inanna-and-Enki, silt/yield
 claims). GPT draft-07 experimental lane on branch `gpt-draft-07-experimental` for comparison.
+
+## v1.6 — The GPT-07 audition read + steal-pass (July 7, 2026)
+
+The writer commissioned a full read of the GPT draft-07 experimental lane (branch
+`gpt-draft-07-experimental`) to extract craft lessons. Analysis in
+`04-Working-Notes/gpt-07-lessons.md`. Verdict: the audition validates draft-06's architecture
+(it absorbed the master plan's beats and lifted several of our protected lines — the granary
+line, the villages-cannot-fall-in-a-chain couplet, "The Hittites got no Homer"); its two
+instructive failure modes (staccato metronome, aphorism saturation) are the tics our contracts
+already ban. Three genuine adoptions applied as **v0.6.2** touches, all narrator-pen, ~215
+words total: (1) P0 — the spoken driving question ("how do human beings build a world this
+connected… and have to guess what it was?"); (2) P2 — the fairness-tax clause completing the
+granary line, registered as Voice Bible move #12; (3) P5 — Rib-Hadda of Byblos named in the
+Amarna vassal panic (+2 [VERIFY] tags for the fact fleet; closes the standing series-expert
+flag). Audiobook reassembled (67,126 prose words). Rejected: everything else, with reasons in
+the lessons file.

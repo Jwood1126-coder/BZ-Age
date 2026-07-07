@@ -1,8 +1,8 @@
 # Series Cold Open / Prologue
-## SIXTH DRAFT — v0.6 — PUBLICATION CANDIDATE
+## SIXTH DRAFT — v0.6.2 — PUBLICATION CANDIDATE
 **Date:** July 7, 2026
-**Status:** The final-pass publication candidate, built from the draft-06 master plan (P0 section), the P0 final-pass findings, and the draft-05/06 briefs. Draft-05 (the register exemplar) preserved untouched. All NEW PROSE below is the narrator's, spliced verbatim per the one-voice rule.
-**Estimated audio length:** ~10–11 minutes (1,570 words of prose at 140–155 wpm)
+**Status:** The final-pass publication candidate, built from the draft-06 master plan (P0 section), the P0 final-pass findings, and the draft-05/06 briefs. Draft-05 (the register exemplar) preserved untouched. All NEW PROSE below is the narrator's, spliced verbatim per the one-voice rule. v0.6.2: one narrator addition from the GPT-07 steal-pass (`04-Working-Notes/gpt-07-lessons.md`).
+**Estimated audio length:** ~10–11 minutes (~1,650 words of prose at 140–155 wpm)
 
 ---
 
@@ -58,6 +58,8 @@ It's worth pausing on how strange that is. Xenophon was a literate, curious, wel
 
 And what's waiting under the rubble, when you go down and get it, is this: before Greece, before Rome — before the places our history classes start — there was a whole world, already old. Kings and scribes, traders and dockworkers, farmers, diplomats, slaves, sailors. People wired together across the entire eastern Mediterranean — trading with each other, marrying each other, suing each other in writing — in something you could almost call global, three thousand years before anybody said the word. And then most of it vanished. How that world worked, why it broke, and what survived in memory after the names were gone — that is this series.
 
+And underneath all of it, there's really one question — you might as well have it in your pocket now: how do human beings build a world this connected, live inside it for centuries, lean on it until it feels like nature — and then lose it so completely that their descendants stand on top of it and have to guess what it was? Everything in this story is a piece of that answer.
+
 I want to tell it a particular way. Not as a parade of kings — the kings are here, but they're outnumbered, the way they were in life. I want to know what that world felt like from inside a body standing in it: what people ate, what they wore, what they were afraid of, what they did on a good evening, what a city smelled like the first time you walked into one. I want to ask the simple questions most histories are too dignified to answer — why did anyone start farming in the first place? why does a city need writing? why is an hour sixty minutes? — because the simple questions are where the good answers live. And when the evidence runs out, I'll say so, out loud, every time. The gaps are part of this story. Some of the best parts of this story are the gaps.
 
 We're going to go from a world with no cities in it at all, to the first city. From the first city to the first empire. From empire to a golden age so connected you could almost mistake it for the modern world — and then we're going to watch the whole thing come apart, start to finish, inside one lifetime, and follow what was left down through the wreckage, into legend, and finally into the ground, where it waited three thousand years for somebody to dig it back up and learn, letter by letter, to read it again.
@@ -67,6 +69,10 @@ It begins long before any of those things existed. Before the wall Xenophon coul
 It begins in the dark, in a small house that smells of smoke and sheep, with a person waking up on a packed-earth floor.
 
 ---
+
+## Revision notes — v0.6.2 (GPT-07 steal-pass)
+
+**One narrator-pen addition** (lesson #1 in `04-Working-Notes/gpt-07-lessons.md` — the spoken driving question): a new paragraph after "…that is this series." and before "I want to tell it a particular way.", handing the listener the series' engine as an actual question ("how do human beings build a world this connected… and then lose it so completely that their descendants stand on top of it and have to guess what it was?"). Idea prompted by the GPT-07 audition's prologue; wording is the narrator's own (one-voice rule — no GPT text imported). Everything else byte-identical to v0.6.
 
 ## Revision notes — v0.6
 

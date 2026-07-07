@@ -1,8 +1,8 @@
 # Part 5 — The Cosmopolitan Age
-## SIXTH DRAFT — v0.6 — PUBLICATION CANDIDATE
+## SIXTH DRAFT — v0.6.2 — PUBLICATION CANDIDATE
 **Date:** July 7, 2026
 **Status:** Publication pass, per the draft-06 master plan (`04-Working-Notes/final-pass/master-plan.md`, P5 section), the draft-06 and draft-05 briefs, and the P5 final-pass findings (`04-Working-Notes/final-pass/P5-findings.md`). All NEW PROSE blocks (A–D) are the narrator's, spliced verbatim; the agent's own additions are limited to the S2 walk-around connectives, the M4 duration clause, the Assyria link-clause, and the Nubian-gold gloss — all licensed by the plan and itemized below. Register calibrated against the exemplar (`Part-00-Prologue/cold-open-draft-05.md`). Draft-05 preserved untouched.
-**Estimated audio length:** ~50–55 minutes (~7,760 prose words at 140–155 wpm)
+**Estimated audio length:** ~51–56 minutes (~7,900 prose words at 140–155 wpm)
 **Covers:** Uluburun cargo manifest → who is gone, who is on stage → Amarna letters → Akhenaten → the palace economy from inside (Pylos) → Ugarit at dusk → iron known but unused (Rule 9 payoff) → Kadesh from both walls → what's wrong with the picture, and why it's us
 
 ---
@@ -123,7 +123,11 @@ Those tablets came out of a city one pharaoh built from nothing and that barely 
 
 He was the second son of one of the most powerful pharaohs of the New Kingdom, born around 1370 BCE into a court at the height of Egyptian imperial reach, where the temple economies of the great gods of Egypt had grown into an institutional power that no pharaoh in living memory had directly challenged. His elder brother died young, which made him the heir. His mother was Tiye, a commoner-born woman who had become his father's chief queen, a politically formidable figure in her own right. He grew up inside the most religiously elaborate court culture the ancient world had yet produced. He took the throne around 1353 BCE, with the name his father had given him: Amenhotep IV, meaning "Amun is satisfied."
 
-He had strong opinions about the nature of the divine, and the opinions were unusual. He promoted the worship of a single deity, the Aten — the solar disc, the light itself — above all other gods, and in the course of his reign he did things to Egyptian religious life that his successors would spend decades trying to reverse. He moved the capital from Thebes — the ancient religious and political center of Egypt, in what is now Luxor — to a newly built city on a bare stretch of the Nile's east bank, roughly halfway between Thebes and the Delta, a place that had no strategic or administrative advantage other than not being Thebes. He ran his foreign policy badly. His own Amarna letters show it — vassal rulers on the Levantine coast writing in, more and more frantic, begging for troops against the Hittites and getting silence back. The usual read is that he was too deep in his god to bother running an empire. Though how bad it really was, and how much of that panic was his fault as against his predecessors', or his own vassals talking up their troubles to shake loose some soldiers, is still a live argument.
+He had strong opinions about the nature of the divine, and the opinions were unusual. He promoted the worship of a single deity, the Aten — the solar disc, the light itself — above all other gods, and in the course of his reign he did things to Egyptian religious life that his successors would spend decades trying to reverse. He moved the capital from Thebes — the ancient religious and political center of Egypt, in what is now Luxor — to a newly built city on a bare stretch of the Nile's east bank, roughly halfway between Thebes and the Delta, a place that had no strategic or administrative advantage other than not being Thebes. He ran his foreign policy badly. His own Amarna letters show it — vassal rulers on the Levantine coast writing in, more and more frantic, begging for troops against the Hittites and getting silence back.
+
+The most relentless of those voices has a name: Rib-Hadda, king of Byblos, who sent more letters to Egypt than anyone else in the archive — sixty-odd, across decades `[VERIFY: Rib-Hadda letter count/span]` — and every one is the same letter in different clothes: send archers; the fields go unharvested; the habiru — landless men, people living outside the system — are taking my villages; why do you not answer? The archers mostly never came. Eventually the letters just stop — deposed by his own brother, still appealing to Pharaoh on the way down `[VERIFY: Rib-Hadda deposition and fate]` — and what's left of him is the file: one man's long decade of watching his world get smaller, preserved forever by the bureaucracy that declined to rescue it.
+
+The usual read is that he was too deep in his god to bother running an empire. Though how bad it really was, and how much of that panic was his fault as against his predecessors', or his own vassals talking up their troubles to shake loose some soldiers, is still a live argument.
 
 And he changed his name. From Amenhotep IV — "Amun is satisfied" — to Akhenaten — "effective for the Aten." The name change was the thesis statement. Amun, the chief god of Thebes, was no longer satisfied; the god the new name honored was the one the pharaoh had elevated, and the pharaoh now took his identity from that god. The new capital was Akhetaten — "horizon of the Aten." Same root. The man, the city, the program all named after the disc.
 
@@ -272,6 +276,10 @@ And if the shape of this world feels strangely familiar, it should. A prosperity
 The rain is about to change.
 
 ---
+
+## Revision notes — v0.6.2 (GPT-07 steal-pass)
+
+**One narrator-pen paragraph** (lesson #3 in `04-Working-Notes/gpt-07-lessons.md` — the named voice in the archive): Rib-Hadda of Byblos added inside the Akhenaten movement, immediately after "…begging for troops against the Hittites and getting silence back." — turning the anonymous vassal panic into one man with a file, with a light habiru gloss that foreshadows Part 8's highlands. This also CLOSES the series-expert flag logged in v0.6 ("Rib-Hadda naming + the Habiru wink — NEW-PROSE-SITE, not provided"). Two `[VERIFY]` tags added for the fact fleet (letter count/span; deposition and fate). The idea's adoption was prompted by the GPT-07 audition; the wording is the narrator's. Word count ~7,760 → ~7,900. Everything else byte-identical to v0.6.
 
 ## Revision notes — v0.6
 

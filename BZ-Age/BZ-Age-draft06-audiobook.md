@@ -1,12 +1,13 @@
-# BZ-Age — The Bronze Age: Complete Series, Draft-06 (Publication Candidate)
+# BZ-Age — Draft-06 Audiobook Assembly (v0.6.2)
 
-**Assembled:** July 7, 2026, from the ten draft-06 publication candidates.
-**Total:** ~66,893 prose words ≈ 7h11m–7h57m at 140–155 wpm.
-**Note:** [VERIFY] tags remain live; the pre-recording fact fleet clears them before air.
+*Assembled July 7, 2026 from the draft-06 publication candidates (v0.6.2: P0/P2/P5 steal-pass touches included). Scripts only; revision notes stripped.*
+
 
 ---
 
 # Series Cold Open / Prologue
+
+---
 
 Somewhere along the Tigris River, in the land that is now Iraq, in the year 401 BCE, a Greek soldier named Xenophon looked up at a wall and could not explain it.
 
@@ -56,6 +57,8 @@ It's worth pausing on how strange that is. Xenophon was a literate, curious, wel
 
 And what's waiting under the rubble, when you go down and get it, is this: before Greece, before Rome — before the places our history classes start — there was a whole world, already old. Kings and scribes, traders and dockworkers, farmers, diplomats, slaves, sailors. People wired together across the entire eastern Mediterranean — trading with each other, marrying each other, suing each other in writing — in something you could almost call global, three thousand years before anybody said the word. And then most of it vanished. How that world worked, why it broke, and what survived in memory after the names were gone — that is this series.
 
+And underneath all of it, there's really one question — you might as well have it in your pocket now: how do human beings build a world this connected, live inside it for centuries, lean on it until it feels like nature — and then lose it so completely that their descendants stand on top of it and have to guess what it was? Everything in this story is a piece of that answer.
+
 I want to tell it a particular way. Not as a parade of kings — the kings are here, but they're outnumbered, the way they were in life. I want to know what that world felt like from inside a body standing in it: what people ate, what they wore, what they were afraid of, what they did on a good evening, what a city smelled like the first time you walked into one. I want to ask the simple questions most histories are too dignified to answer — why did anyone start farming in the first place? why does a city need writing? why is an hour sixty minutes? — because the simple questions are where the good answers live. And when the evidence runs out, I'll say so, out loud, every time. The gaps are part of this story. Some of the best parts of this story are the gaps.
 
 We're going to go from a world with no cities in it at all, to the first city. From the first city to the first empire. From empire to a golden age so connected you could almost mistake it for the modern world — and then we're going to watch the whole thing come apart, start to finish, inside one lifetime, and follow what was left down through the wreckage, into legend, and finally into the ground, where it waited three thousand years for somebody to dig it back up and learn, letter by letter, to read it again.
@@ -64,10 +67,13 @@ It begins long before any of those things existed. Before the wall Xenophon coul
 
 It begins in the dark, in a small house that smells of smoke and sheep, with a person waking up on a packed-earth floor.
 
+---
 
 ---
 
 # Part 1 — Before Bronze
+
+---
 
 **Your feet hurt.**
 
@@ -270,7 +276,11 @@ It's going to be loud.
 
 ---
 
+---
+
 # Part 2 — The First Cities and the Invention of the Future
+
+---
 
 He is bored.
 
@@ -334,7 +344,7 @@ The question, remember, was this: the Great Lakes had copper — worked it befor
 
 Look at what Uruk is actually made of.
 
-Not copper. Uruk has barely any metal — we'll stand in its streets shortly, and what metal you'll see is scarce and precious. The thing the temple stores, the thing the records count, the thing the workforce is paid in, the thing the wall exists to protect: barley. Uruk is made of grain. The temple, strip away the theology for one irreverent second, is a granary with a god on top.
+Not copper. Uruk has barely any metal — we'll stand in its streets shortly, and what metal you'll see is scarce and precious. The thing the temple stores, the thing the records count, the thing the workforce is paid in, the thing the wall exists to protect: barley. Uruk is made of grain. The temple, strip away the theology for one irreverent second, is a granary with a god on top. That's unfair to the believers, and exactly fair to the ledgers.
 
 And grain has a set of properties that almost nothing else humans eat has ever had. It sits still. It keeps — for years, if you store it dry. It divides into rations down to the cupful and scales up to the warehouse. It ripens on a schedule, in a field, in the open, where anyone — say, an assessor with a tablet — can see exactly how much you grew. James C. Scott, the political scientist who spent a career on this, puts it in one line: only the cereal grains are "visible, divisible, assessable, storable, transportable, and rationable." Which is a scholar's way of saying: grain is the food you can tax.
 
@@ -598,10 +608,13 @@ A man named Sargon.
 
 The story of what he did — and who he really was versus who he claimed to be — is what comes next.
 
+---
 
 ---
 
 # Part 3 — The First Empires
+
+---
 
 She is standing in the temple of the moon god at Ur, and she is angry.
 
@@ -827,10 +840,13 @@ And in that complication, for the first time, we can hear individual voices. Not
 
 We meet them next.
 
+---
 
 ---
 
 # Part 4 — The Middle Bronze Age World
+
+---
 
 The letter is about textiles.
 
@@ -1033,10 +1049,13 @@ Lamassi, in Assur, does not know this. She is writing a letter about textiles. P
 
 The system is building around them, and they are inside it, and they are human, and they are worried about their children and their bills.
 
+---
 
 ---
 
 # Part 5 — The Cosmopolitan Age
+
+---
 
 Ten tons of copper ingots, shaped in the distinctive ox-hide form of the Late Bronze Age Mediterranean, each one weighing about twenty-five kilograms.
 
@@ -1150,7 +1169,11 @@ Those tablets came out of a city one pharaoh built from nothing and that barely 
 
 He was the second son of one of the most powerful pharaohs of the New Kingdom, born around 1370 BCE into a court at the height of Egyptian imperial reach, where the temple economies of the great gods of Egypt had grown into an institutional power that no pharaoh in living memory had directly challenged. His elder brother died young, which made him the heir. His mother was Tiye, a commoner-born woman who had become his father's chief queen, a politically formidable figure in her own right. He grew up inside the most religiously elaborate court culture the ancient world had yet produced. He took the throne around 1353 BCE, with the name his father had given him: Amenhotep IV, meaning "Amun is satisfied."
 
-He had strong opinions about the nature of the divine, and the opinions were unusual. He promoted the worship of a single deity, the Aten — the solar disc, the light itself — above all other gods, and in the course of his reign he did things to Egyptian religious life that his successors would spend decades trying to reverse. He moved the capital from Thebes — the ancient religious and political center of Egypt, in what is now Luxor — to a newly built city on a bare stretch of the Nile's east bank, roughly halfway between Thebes and the Delta, a place that had no strategic or administrative advantage other than not being Thebes. He ran his foreign policy badly. His own Amarna letters show it — vassal rulers on the Levantine coast writing in, more and more frantic, begging for troops against the Hittites and getting silence back. The usual read is that he was too deep in his god to bother running an empire. Though how bad it really was, and how much of that panic was his fault as against his predecessors', or his own vassals talking up their troubles to shake loose some soldiers, is still a live argument.
+He had strong opinions about the nature of the divine, and the opinions were unusual. He promoted the worship of a single deity, the Aten — the solar disc, the light itself — above all other gods, and in the course of his reign he did things to Egyptian religious life that his successors would spend decades trying to reverse. He moved the capital from Thebes — the ancient religious and political center of Egypt, in what is now Luxor — to a newly built city on a bare stretch of the Nile's east bank, roughly halfway between Thebes and the Delta, a place that had no strategic or administrative advantage other than not being Thebes. He ran his foreign policy badly. His own Amarna letters show it — vassal rulers on the Levantine coast writing in, more and more frantic, begging for troops against the Hittites and getting silence back.
+
+The most relentless of those voices has a name: Rib-Hadda, king of Byblos, who sent more letters to Egypt than anyone else in the archive — sixty-odd, across decades `[VERIFY: Rib-Hadda letter count/span]` — and every one is the same letter in different clothes: send archers; the fields go unharvested; the habiru — landless men, people living outside the system — are taking my villages; why do you not answer? The archers mostly never came. Eventually the letters just stop — deposed by his own brother, still appealing to Pharaoh on the way down `[VERIFY: Rib-Hadda deposition and fate]` — and what's left of him is the file: one man's long decade of watching his world get smaller, preserved forever by the bureaucracy that declined to rescue it.
+
+The usual read is that he was too deep in his god to bother running an empire. Though how bad it really was, and how much of that panic was his fault as against his predecessors', or his own vassals talking up their troubles to shake loose some soldiers, is still a live argument.
 
 And he changed his name. From Amenhotep IV — "Amun is satisfied" — to Akhenaten — "effective for the Aten." The name change was the thesis statement. Amun, the chief god of Thebes, was no longer satisfied; the god the new name honored was the one the pharaoh had elevated, and the pharaoh now took his identity from that god. The new capital was Akhetaten — "horizon of the Aten." Same root. The man, the city, the program all named after the disc.
 
@@ -1298,10 +1321,13 @@ And if the shape of this world feels strangely familiar, it should. A prosperity
 
 The rain is about to change.
 
+---
 
 ---
 
 # Part 6 — The Crisis Builds
+
+---
 
 There is a kind of disaster that begins in sunshine.
 
@@ -1501,10 +1527,13 @@ And none of it was the whole world. In these same decades, at Anyang on the Yell
 
 And then came the fires.
 
+---
 
 ---
 
 # Part 7 — The Collapse
+
+---
 
 For seventy years, the story was told like this: the letter was still in the kiln when the city burned.
 
@@ -1686,10 +1715,13 @@ The Hittites got no Homer. The empire that had stood toe to toe with Egypt didn'
 
 What survived is its own story. But first, the aftermath. The world that came out of the other side.
 
+---
 
 ---
 
 # Part 8 — The Long Aftermath
+
+---
 
 The grandfather could read.
 
@@ -1854,10 +1886,13 @@ Which leaves one question, and it is the question everything since the first sto
 
 That's the last part.
 
+---
 
 ---
 
 # Part 9 — Inheritance and Memory
+
+---
 
 Homer did not know what he was remembering.
 
@@ -2040,3 +2075,5 @@ We stopped guessing. The drought that helped pull the whole system down — we f
 Rise. Plateau. Fall. Restart. You've now watched the whole shape turn once, start to finish — and nobody inside it could see it. Not the people in the rise, who thought it was the way of things. Not the people in the fall, who thought it was the end of the world. Not the people in the restart, who didn't know they were inside anything at all.
 
 We can see it. First ones, ever. That's the seat you've been sitting in this whole time — the one genuinely new thing in a story where everything else has happened before, and will probably happen again.
+
+---
