@@ -1,11 +1,12 @@
 # Final-pass checkpoint — how to finish from here
 
-**State as of July 7, 2026 (commit 765246c, Fable window close).** Diagnostic COMPLETE.
-Synthesis + ALL new narrator prose COMPLETE — see `master-plan.md` beside this file (steps 1–2
-of "Remaining" below are DONE). The execution fleet COMPLETED July 7: all ten draft-06 files built, verified, audiobook assembled (v1.5). Historical text follows:
-may have finished only partially: check `02-Parts/*/draft-06*` for missing parts (and COMMIT+PUSH
-any uncommitted draft-06 files first), build the rest from the master plan, then steps 4–5
-(verification greps, audiobook assembly, Revision-Log v1.5, push).
+**FINAL STATE — July 7, 2026: THE PASS IS COMPLETE.** Diagnostic, synthesis, all narrator
+prose, the ten-part execution fleet, verification, and the audiobook assembly are all DONE and
+pushed (Revision-Log v1.5). Fable additionally closed the four keystone prose flags directly
+(P8 Tiryns/Cyclopes thesis scene; P7 modern echo + scened cascade; P6 cosmopolitan re-anchor;
+P9 Champollion mechanism/scene) — see the v0.6.1 addenda in those files. What remains before
+recording: the [VERIFY] fact fleet, and the optional flagged-not-fixed backlog in
+`build-reports.md`. The sections below are the historical handoff plan, kept for the record.
 
 ## Done
 1. Governing contract: `04-Working-Notes/draft-06-brief.md` (writer's thesis + final-pass
