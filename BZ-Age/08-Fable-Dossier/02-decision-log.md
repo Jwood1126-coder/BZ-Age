@@ -83,3 +83,24 @@ parts).
 - **D-007 (proposed): switch on the "mortgage audit" dread chords in Parts 4–5** — one
   point-of-failure chord per hour, plus reactivated elementary questions, to fix the middle-third
   engine outage (the critique's biggest finding). Fable recommends.
+
+---
+
+## D-011 — External editorial memo (ChatGPT): selective adoption — July 6, 2026
+
+**Decision.** The writer supplied an outside memo with orders to integrate the best ideas
+cautiously. Adopted into the draft-06 publication pass: region-role orientation handles,
+world-building-under-pressure introductions, a deliberate Aegean/"Greece before Greece" thread
+audit (Near East stays the engine), the per-part "what changed" transformation spine, and the
+detail hierarchy (spine/anchor/color/residue) as a cut criterion. Rejected: the memo's parallel
+deliverable formats, any verbatim memo wording (one-voice rule), and episode-splitting (Phase
+Three question). Full triage recorded in `04-Working-Notes/draft-06-brief.md` (External-review
+intake section).
+
+**Why.** The adopted items are real gaps our own contracts didn't name explicitly — especially
+role-over-name orientation and pressure-based introductions, which are audio-first disciplines.
+The rest of the memo restates standing contracts (Rules 6, 8, 10; draft-05 brief A–F) and is
+folded into existing lenses rather than duplicated.
+
+**Reversal cost.** Low — all adopted items are rubric lenses, not structural commitments; any
+individual application can be undone per-site in review.
