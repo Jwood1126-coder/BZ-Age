@@ -1,8 +1,11 @@
 # Final-pass checkpoint — how to finish from here
 
-**State as of July 7, 2026 (commit 6f3baeb).** The draft-06 publication pass is mid-flight,
-paused at a clean checkpoint for usage-budget reasons. DIAGNOSTIC IS COMPLETE; SYNTHESIS AND
-EXECUTION REMAIN.
+**State as of July 7, 2026 (commit 765246c, Fable window close).** Diagnostic COMPLETE.
+Synthesis + ALL new narrator prose COMPLETE — see `master-plan.md` beside this file (steps 1–2
+of "Remaining" below are DONE). A 10-agent Opus execution fleet was launched at session end and
+may have finished only partially: check `02-Parts/*/draft-06*` for missing parts (and COMMIT+PUSH
+any uncommitted draft-06 files first), build the rest from the master plan, then steps 4–5
+(verification greps, audiobook assembly, Revision-Log v1.5, push).
 
 ## Done
 1. Governing contract: `04-Working-Notes/draft-06-brief.md` (writer's thesis + final-pass
