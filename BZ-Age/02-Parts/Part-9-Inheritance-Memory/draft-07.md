@@ -3,7 +3,7 @@
 **Date:** November 16, 2026
 **Status:** ChatGPT implementation of the editorial review and Jacob's selective scene-setting direction. Source version ef7b943; changed passages and continuity corrected. Not a final recording clearance or an exhaustive fact check.
 **Driving questions:** Was the Trojan War real? How do we know any of this? How do you read a language nobody speaks? What did we inherit?
-**Narration length:** 4,432 words (about 30 minutes at 150 words a minute)
+**Narration length:** 4,433 words (about 30 minutes at 150 words a minute)
 
 ---
 
@@ -125,7 +125,7 @@ It still took twenty-three years. The man who did it was a Frenchman named Jean-
 
 Royal names were crucial clues. The Greek text named Ptolemy, and groups of Egyptian signs enclosed in ovals could be compared with that name and others, including Cleopatra on a different monument. Repeated signs helped establish sound values. Names opened a door, but Coptic and the grammar of the language helped scholars go through it.
 
-From those few letters he worked outward. On a September day in 1822 he ran down the street to his brother's office, shouted "I've got it!" and collapsed. By the family's account he was in bed for five days.
+From those few letters he worked outward. According to a later account, on a September day in 1822 he burst into his brother's office, cried that he'd got it, and collapsed. The story has him recovering for five days.
 
 [VISUAL: Photo — the cliff at Behistun, the carved panel high above the road. Illustration: a man on a ladder on the ledge. Date card: 1835 to 1857.]
 
@@ -133,7 +133,7 @@ The wedge writing was harder, because there was no Greek to start from.
 
 The break came from a cliff. In western Iran, on the old road from Babylon up into the mountains, a king of Persia had his victories carved into a rock face three hundred feet above the ground, in about 520 BCE. He had it done in Old Persian, Elamite, and Babylonian, all written in wedge-shaped signs. Then he had the ledge below cut away so nobody could deface it.
 
-In the 1830s a young British army officer named Henry Rawlinson was posted nearby, and he decided to copy it. He did it standing on the top rung of a ladder balanced on a ledge eighteen inches wide, holding on with one hand and writing with the other. For the worst section he hired a local boy who climbed across the bare rock on ropes and pegs and took paper impressions.
+In the 1830s a young British army officer named Henry Rawlinson was posted nearby, and he decided to copy it. He copied the Persian text from ladders balanced on a narrow ledge. Later, in 1847, a Kurdish boy reached a harder section using ropes and wooden pegs and took paper impressions under Rawlinson's direction.
 
 One of the three languages was Old Persian, a relative of languages scholars already knew, and it was cracked first, again through kings' names. That gave them the meaning of the whole text. Then, sign by sign, they worked out the version in Babylonian, the language of Hammurabi and the kings' letters.
 
@@ -173,9 +173,9 @@ Ezzatteni. He thought of the German word for eat, essen. Latin, edo. English, ea
 
 Watar.
 
-"You will eat bread. And you will drink water."
+In a modern English rendering: you eat bread, and you drink water.
 
-The Hittites, the forgotten empire, spoke a language from the same family as English. Water is water. It's the oldest written relative of our own language that there is, and you just read it.
+The resemblance was a clue, not the whole proof. Hrozný tested it against more of the language. Hittite belonged to the same broad language family as English, Indo-European, and its texts preserve that family's earliest substantial written record. Across all that time, a word for water still sounds familiar.
 
 [VISUAL: Portraits — Alice Kober with her index cards; Michael Ventris at his drawing board. Object: the "tripod tablet" from Pylos, the pictures of vessels beside the syllable signs. Date card: 1952–53.]
 
@@ -248,6 +248,10 @@ Perhaps another discovery will change that. Perhaps the missing clue was written
 ---
 
 ## Revision notes — v0.7.4
+
+### Targeted audit follow-up
+- See `04-Working-Notes/draft-07-targeted-source-audit-followup.md` for individually scoped source findings and remaining limitations. This is not full recording clearance.
+
 
 ### Whole-series listener continuation
 - Additional continuity, chronology and voice repairs are recorded in `04-Working-Notes/draft-07-unpublished-listener-continuation.md`. These notes supersede incompatible inherited verification labels; unresolved quotations and numerical claims remain open.

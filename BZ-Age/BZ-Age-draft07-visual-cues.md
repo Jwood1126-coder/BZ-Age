@@ -5,16 +5,16 @@
 | Part | Words | Minutes |
 |---|---|---|
 | Series Cold Open / Prologue | 1,594 | 11 |
-| Part 1 — Before Bronze | 4,386 | 29 |
+| Part 1 — Before Bronze | 4,420 | 29 |
 | Part 2 — The First Cities | 5,037 | 34 |
 | Part 3 — The First Empires | 4,326 | 29 |
 | Part 4 — The Merchants and the Lawgiver | 4,834 | 32 |
 | Part 5 — The Brotherhood of Kings | 5,296 | 35 |
 | Part 6 — The Slow Part | 3,817 | 25 |
-| Part 7 — The Collapse | 3,321 | 22 |
+| Part 7 — The Collapse | 3,313 | 22 |
 | Part 8 — After | 3,677 | 25 |
-| Part 9 — What Survived | 4,432 | 30 |
-| **Total** | **40,720** | **271** (about 4.5 hours) |
+| Part 9 — What Survived | 4,433 | 30 |
+| **Total** | **40,747** | **272** (about 4.5 hours) |
 
 ## Series Cold Open / Prologue
 
@@ -28,16 +28,16 @@
 
 - **~00:00** Part card — WHEN: 5000 BCE, seven thousand years ago. WHERE: a farming village in the hills of what is now northern Syria. THE HOUSEHOLD: one roof, five kinds of work.
 - **~03:37** Simple illustration — one-room mud-brick house in cutaway, five figures, grain bins at the back, a grinding stone.
-- **~06:05** Date card — 12,000 years ago. Map: the "Fertile Crescent" arc from Israel up through Syria and southern Turkey and down into Iraq.
-- **~08:59** Photo — Göbekli Tepe, the T-shaped pillars in their ring. Date card: 9500 BCE.
-- **~13:11** Diagram — forager skeleton and early farmer skeleton side by side; height difference marked; worn teeth; arthritic knees and toes.
-- **~15:58** Map — Jericho and Çatalhöyük marked. Date card: 8000 to 6000 BCE.
-- **~18:23** Illustration — Çatalhöyük rooftops with ladders descending into houses.
-- **~18:47** Object — a lump of green malachite beside a bead of raw copper.
-- **~21:13** Map — the Great Lakes of North America; copper deposits around Lake Superior highlighted.
-- **~22:48** Object — an early arsenical copper axe head. Then: Greek vase painting of Hephaestus.
-- **~24:57** Photo — Varna Grave 43, the skeleton covered in gold. Date card: 4500 BCE. Map: Varna on the Black Sea coast of Bulgaria.
-- **~27:06** Part card update — THE FAMILY, 3200 BCE: the Keeper is now a headman; the Counter keeps clay tokens; the Maker has stopped farming; the Carrier is gone for months; the Farmer is still in the field.
+- **~06:08** Date card — 12,000 years ago. Map: the "Fertile Crescent" arc from Israel up through Syria and southern Turkey and down into Iraq.
+- **~09:01** Photo — Göbekli Tepe, the T-shaped pillars in their ring. Date card: 9500 BCE.
+- **~13:13** Diagram — forager skeleton and early farmer skeleton side by side; height difference marked; worn teeth; arthritic knees and toes.
+- **~16:00** Map — Jericho and Çatalhöyük marked. Date card: 8000 to 6000 BCE.
+- **~18:29** Illustration — Çatalhöyük rooftops with ladders descending into houses.
+- **~18:53** Object — a lump of green malachite beside a bead of raw copper.
+- **~21:28** Map — the Great Lakes of North America; copper deposits around Lake Superior highlighted.
+- **~23:03** Object — an early arsenical copper axe head. Then: Greek vase painting of Hephaestus.
+- **~25:10** Photo — Varna Grave 43, the skeleton covered in gold. Date card: 4500 BCE. Map: Varna on the Black Sea coast of Bulgaria.
+- **~27:19** Part card update — THE FAMILY, 3200 BCE: the Keeper is now a headman; the Counter keeps clay tokens; the Maker has stopped farming; the Carrier is gone for months; the Farmer is still in the field.
 
 ## Part 2 — The First Cities
 
@@ -127,15 +127,15 @@
 - **~01:22** Object — tablet RSL 1 or RS 20.238 from Ugarit (National Museum of Damascus / Louvre). Text on screen as it is read.
 - **~04:56** Photo — the excavated streets of Ugarit; then arrowheads from the destruction layer.
 - **~06:38** Map — eastern Mediterranean with destruction dates appearing one by one over fifty years, not all at once; several sites marked "abandoned" or "not destroyed."
-- **~07:58** Map — Emar on the great bend of the Euphrates, far inland. Object: a clay cast of a small child's footprint with cuneiform beside it.
-- **~09:28** Photo — the site of Hattusa, the Lion Gate. Map: central Turkey.
-- **~10:33** Reconstruction — the palace of Pylos burning; then the baked tablets as found in the archive room in 1939.
-- **~12:18** Relief — Medinet Habu: the sea battle; then the land battle with ox-carts carrying women and children. Date card: 1177 BCE.
-- **~14:51** Object — the Turin Strike Papyrus. Then: CT scan image of Ramses III's mummy, the neck wound marked.
-- **~16:40** Object — the stele of Hammurabi and the Victory Stele of Naram-Sin side by side, as displayed in the Louvre. Map: arrow from Babylon to Susa in Iran.
-- **~18:07** Part card — THE FAMILY, 1150 BCE. Each line fades in turn as it is described.
-- **~20:00** The ration tablet from Pylos listing women and children; the image slowly fades to blank clay.
-- **~21:23** A dark coastline; a single fire on a hill. Slow fade.
+- **~07:55** Map — Emar on the great bend of the Euphrates, far inland. Object: a clay cast of a small child's footprint with cuneiform beside it.
+- **~09:25** Photo — the site of Hattusa, the Lion Gate. Map: central Turkey.
+- **~10:30** Reconstruction — the palace of Pylos burning; then the baked tablets as found in the archive room in 1939.
+- **~12:15** Relief — Medinet Habu: the sea battle; then the land battle with ox-carts carrying women and children. Date card: 1177 BCE.
+- **~14:48** Object — the Turin Strike Papyrus. Then: CT scan image of Ramses III's mummy, the neck wound marked.
+- **~16:37** Object — the stele of Hammurabi and the Victory Stele of Naram-Sin side by side, as displayed in the Louvre. Map: arrow from Babylon to Susa in Iran.
+- **~18:03** Part card — THE FAMILY, 1150 BCE. Each line fades in turn as it is described.
+- **~19:56** The ration tablet from Pylos listing women and children; the image slowly fades to blank clay.
+- **~21:20** A dark coastline; a single fire on a hill. Slow fade.
 
 ## Part 8 — After
 
@@ -161,9 +161,9 @@
 - **~10:18** A Torah scroll; then side by side — a cuneiform law tablet and a line of Hebrew text.
 - **~13:34** Object — the Rosetta Stone (British Museum); the three bands of script highlighted in turn. Date card: 1822.
 - **~15:29** Photo — the cliff at Behistun, the carved panel high above the road. Illustration: a man on a ladder on the ledge. Date card: 1835 to 1857.
-- **~17:45** Portrait — George Smith. Object: the Flood Tablet (British Museum). Date card: 1872.
-- **~19:33** Object — a Hittite tablet. Text on screen, word by word: NINDA-an ezzatteni, watar-ma ekutteni.
-- **~21:01** Portraits — Alice Kober with her index cards; Michael Ventris at his drawing board. Object: the "tripod tablet" from Pylos, the pictures of vessels beside the syllable signs. Date card: 1952–53.
+- **~17:39** Portrait — George Smith. Object: the Flood Tablet (British Museum). Date card: 1872.
+- **~19:27** Object — a Hittite tablet. Text on screen, word by word: NINDA-an ezzatteni, watar-ma ekutteni.
+- **~21:02** Portraits — Alice Kober with her index cards; Michael Ventris at his drawing board. Object: the "tripod tablet" from Pylos, the pictures of vessels beside the syllable signs. Date card: 1952–53.
 - **~24:02** Left — a cuneiform tablet. Right — a 1986 LaserDisc and its player. Between them, the original Domesday Book.
 - **~25:32** Part card — THE FIVE KINDS OF WORK, across the whole series: five kinds of work branching into institutions and long-distance exchanges; uneven disruptions around 1200 BCE; changed local and regional connections by 750. Not a bloodline or a universal return to one household.
-- **~28:16** Object — an Indus seal with its line of undeciphered signs (National Museum, New Delhi). Then: the wall from the prologue.
+- **~28:17** Object — an Indus seal with its line of undeciphered signs (National Museum, New Delhi). Then: the wall from the prologue.

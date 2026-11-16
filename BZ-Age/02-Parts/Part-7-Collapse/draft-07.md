@@ -3,7 +3,7 @@
 **Date:** November 16, 2026
 **Status:** ChatGPT implementation of the editorial review and Jacob's selective scene-setting direction. Source version ef7b943; changed passages and continuity corrected. Not a final recording clearance or an exhaustive fact check.
 **Driving questions:** Who did it? Why didn't the neighbors help? What happened to the people nobody wrote down?
-**Narration length:** 3,321 words (about 22 minutes at 150 words a minute)
+**Narration length:** 3,313 words (about 22 minutes at 150 words a minute)
 
 ---
 
@@ -65,7 +65,7 @@ The old answer was the Sea Peoples: one great wave of invaders rolling down the 
 
 The changes unfolded across several decades, and not everywhere at the same pace. Different sites have different histories, and the dates are often less precise than a timeline makes them look.
 
-And it was a patchwork. A few years ago an archaeologist named Jesse Millek reexamined a large body of destruction claims. He took every city that the textbooks say was destroyed in this period, a hundred and fifty-three claims, and he went back to the original dig reports for each one. About six in ten fell apart. Some had been dated wrong by a century. Some had burned in one building and not the rest. Some had no evidence at all, only a line in one book that had been copied into the next.
+And it was a patchwork. A few years ago an archaeologist named Jesse Millek reexamined a large body of destruction claims. He checked a hundred and fifty-three published claims of destruction around 1200 BCE against the archaeological evidence. In his assessment, about six in ten did not hold up. Some had been dated wrong by a century. Some had burned in one building and not the rest. Some had no evidence at all, only a line in one book that had been copied into the next.
 
 So some cities burned. Some were emptied without a fight. Some carried on. And the ones that did burn weren't all burned by the same people.
 
@@ -208,6 +208,10 @@ Next time, the world afterward. I'd always heard it called a dark age. I'm not s
 ---
 
 ## Revision notes — v0.7.4
+
+### Targeted audit follow-up
+- See `04-Working-Notes/draft-07-targeted-source-audit-followup.md` for individually scoped source findings and remaining limitations. This is not full recording clearance.
+
 
 ### Whole-series listener continuation
 - Additional continuity, chronology and voice repairs are recorded in `04-Working-Notes/draft-07-unpublished-listener-continuation.md`. These notes supersede incompatible inherited verification labels; unresolved quotations and numerical claims remain open.

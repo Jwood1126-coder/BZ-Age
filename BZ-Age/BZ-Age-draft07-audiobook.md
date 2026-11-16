@@ -117,7 +117,7 @@ Your tools are stone, bone and wood. The horse is a wild animal that you'd eat i
 
 And your food is missing half of what you'd expect. Bread, cheese, lentils, olives if you're lucky, honey for a treat. No tomatoes, no potatoes, no corn, no peppers. Those crops come from the Americas and will not enter this region's kitchens until thousands of years later. The old Mediterranean kitchen everybody imagines is sitting here with half its ingredients not yet arrived.
 
-Everything I'm going to tell you for the next several hours grows out of this room. So before we go forward I want to take one long step back and ask how you ended up in it. After that we come forward again in order.
+Everything I'm going to tell you for the next several hours grows out of this room. So before we follow those kinds of work into the cities, I want to look back at how people came to live this way. We'll visit a few earlier settlements, then return to this house.
 
 About twelve thousand years ago, near the end of the last Ice Age, people in parts of southwest Asia were beginning the long transition toward farming. Hunting and gathering had sustained human communities for vastly longer. So why begin changing a way of getting food that already worked?
 
@@ -173,7 +173,7 @@ For many communities, I think farming could become a trap. I don't mean anyone s
 
 Keep that pattern in your pocket. A long run of sensible choices that walks people into something nobody would have signed up for. We'll see it again, on a bigger scale.
 
-Now forward, and we don't go back again.
+Now move forward through those earlier settlements, still on our way back to the house we began in.
 
 By 8000 BCE there's a settlement at Jericho, by a spring in the Jordan Valley, with two or three thousand people in it. They built a stone wall around it, and against the inside of the wall they built a round stone tower twenty-eight feet high with a staircase up the middle. Nobody knows what the tower was for. What it tells me is that somebody could already get a lot of people to haul rock for a purpose that wasn't dinner. Thousands of years later the Bible would set a story at Jericho about walls falling down. That story is about a much later town on the same spot. This first wall was older than its tellers could have imagined.
 
@@ -191,13 +191,13 @@ Here's the second simple question. How does anybody figure out that metal comes 
 
 People had known copper itself for a long time. Now and then you find it lying around as pure metal, in little nuggets, and for three thousand years before your morning people had been hammering those into beads and pins. It's metalworking of a kind, but it treats the nugget like a very soft rock.
 
-The leap is realizing that if you take the green stone and get it hot enough, close to two thousand degrees, with charcoal and not much air, copper comes out of it. An open campfire doesn't come close to that. You need a closed fire with air forced into it. How someone first stumbled on it, nobody knows. My guess is a potter. Potters already had kilns that ran hot, and they were already using ground-up green stone as a pigment. Sooner or later someone opened a kiln and found a bright bead of metal where the paint had been.
+The leap is discovering that heating some of those green minerals with charcoal can release copper. It isn't just a matter of melting a rock. The fuel helps remove oxygen bound to the copper in the mineral. The heat, the ore, and the air reaching the fire all matter. Getting useful metal out repeatedly takes control of those conditions. How someone first stumbled on it, nobody knows. My guess is a potter. Potters already had kilns that ran hot, and they were already using ground-up green stone as a pigment. Sooner or later someone opened a kiln and found a bright bead of metal where the paint had been.
 
 The oldest solid evidence of people doing it on purpose is from about 5000 BCE, right around your morning, at a village in what is now Serbia, twelve hundred miles northwest of your house. Within a few centuries it turns up in Iran and Turkey as well.
 
 And it changes your cousin's life more than anybody's. Smelting takes days, and a great deal of fuel, and years of getting it wrong. At first he does it in the slack season and farms the rest of the year. But the better he gets, the more people want what he makes, and the more of his dinner comes from them.
 
-Over the generations, his line is going to stop farming.
+Over generations, some people doing the Maker's work will be able to make it their main livelihood. We aren't following this cousin's descendants.
 
 Your brother's life changes too. Copper ore sits where it sits. Most valleys have none. If yours doesn't, somebody has to walk to a valley that does and bring it back, and he's already the one who walks.
 
@@ -223,7 +223,7 @@ There's an old idea that this is why the Greek god of the forge, Hephaestus, is 
 
 So picture your cousin a few years from now. He has the best diet in the village, because people bring him food. He has a kind of respect no farmer gets. He makes the axe that the headman carries on feast days. And his hands are going numb, and he has no idea why.
 
-A better recipe is coming. Later smiths will find that a little of a different metal, tin, does the same job as arsenic and doesn't cripple you. Nine parts copper and one part tin makes bronze, the real thing, the metal the age is named for. But tin is rare. It's found in a handful of places, all of them far from anywhere these people live. Getting it is going to be your brother's problem, and his grandchildren's, and it's going to tie half the world together.
+A better recipe is coming. Later smiths will find that a little of a different metal, tin, does the same job as arsenic and doesn't cripple you. Nine parts copper and one part tin makes bronze, the real thing, the metal the age is named for. But tin is rare. It's found in a handful of places, all of them far from anywhere these people live. Getting it will become a problem for people doing the Carrier's work, linking distant communities through trade.
 
 Third question, and then I'll let you go. Who was the first person to own something?
 
@@ -1293,7 +1293,7 @@ The old answer was the Sea Peoples: one great wave of invaders rolling down the 
 
 The changes unfolded across several decades, and not everywhere at the same pace. Different sites have different histories, and the dates are often less precise than a timeline makes them look.
 
-And it was a patchwork. A few years ago an archaeologist named Jesse Millek reexamined a large body of destruction claims. He took every city that the textbooks say was destroyed in this period, a hundred and fifty-three claims, and he went back to the original dig reports for each one. About six in ten fell apart. Some had been dated wrong by a century. Some had burned in one building and not the rest. Some had no evidence at all, only a line in one book that had been copied into the next.
+And it was a patchwork. A few years ago an archaeologist named Jesse Millek reexamined a large body of destruction claims. He checked a hundred and fifty-three published claims of destruction around 1200 BCE against the archaeological evidence. In his assessment, about six in ten did not hold up. Some had been dated wrong by a century. Some had burned in one building and not the rest. Some had no evidence at all, only a line in one book that had been copied into the next.
 
 So some cities burned. Some were emptied without a fight. Some carried on. And the ones that did burn weren't all burned by the same people.
 
@@ -1681,13 +1681,13 @@ It still took twenty-three years. The man who did it was a Frenchman named Jean-
 
 Royal names were crucial clues. The Greek text named Ptolemy, and groups of Egyptian signs enclosed in ovals could be compared with that name and others, including Cleopatra on a different monument. Repeated signs helped establish sound values. Names opened a door, but Coptic and the grammar of the language helped scholars go through it.
 
-From those few letters he worked outward. On a September day in 1822 he ran down the street to his brother's office, shouted "I've got it!" and collapsed. By the family's account he was in bed for five days.
+From those few letters he worked outward. According to a later account, on a September day in 1822 he burst into his brother's office, cried that he'd got it, and collapsed. The story has him recovering for five days.
 
 The wedge writing was harder, because there was no Greek to start from.
 
 The break came from a cliff. In western Iran, on the old road from Babylon up into the mountains, a king of Persia had his victories carved into a rock face three hundred feet above the ground, in about 520 BCE. He had it done in Old Persian, Elamite, and Babylonian, all written in wedge-shaped signs. Then he had the ledge below cut away so nobody could deface it.
 
-In the 1830s a young British army officer named Henry Rawlinson was posted nearby, and he decided to copy it. He did it standing on the top rung of a ladder balanced on a ledge eighteen inches wide, holding on with one hand and writing with the other. For the worst section he hired a local boy who climbed across the bare rock on ropes and pegs and took paper impressions.
+In the 1830s a young British army officer named Henry Rawlinson was posted nearby, and he decided to copy it. He copied the Persian text from ladders balanced on a narrow ledge. Later, in 1847, a Kurdish boy reached a harder section using ropes and wooden pegs and took paper impressions under Rawlinson's direction.
 
 One of the three languages was Old Persian, a relative of languages scholars already knew, and it was cracked first, again through kings' names. That gave them the meaning of the whole text. Then, sign by sign, they worked out the version in Babylonian, the language of Hammurabi and the kings' letters.
 
@@ -1723,9 +1723,9 @@ Ezzatteni. He thought of the German word for eat, essen. Latin, edo. English, ea
 
 Watar.
 
-"You will eat bread. And you will drink water."
+In a modern English rendering: you eat bread, and you drink water.
 
-The Hittites, the forgotten empire, spoke a language from the same family as English. Water is water. It's the oldest written relative of our own language that there is, and you just read it.
+The resemblance was a clue, not the whole proof. Hrozný tested it against more of the language. Hittite belonged to the same broad language family as English, Indo-European, and its texts preserve that family's earliest substantial written record. Across all that time, a word for water still sounds familiar.
 
 That leaves the Greeks, and the clerk at Pylos.
 
