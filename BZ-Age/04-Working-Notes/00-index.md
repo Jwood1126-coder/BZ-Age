@@ -13,6 +13,7 @@ Miano transcript.
 ## Files
 
 - [Revision Log](./Revision-Log.md) — every substantive change to the repo
+- [Draft-06 Editorial Critique](./draft-06-editorial-critique.md) — full-manuscript outside read (Nov 2026): structure, cuts, corrections, research additions; notes only
 - [North Star Reasoning](./north-star-reasoning.md) — why storytelling primary, so-different-yet-so-same as outcome
 - [Editorial Stance — Contrarian-Honest](./editorial-stance.md) — the reasoning behind the posture
 - [Structural Decisions](./structural-decisions.md) — what was decided and why

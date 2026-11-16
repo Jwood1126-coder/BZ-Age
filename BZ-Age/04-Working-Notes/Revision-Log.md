@@ -2,6 +2,13 @@
 
 Every substantive change to the repo gets logged here.
 
+## 2026-11-16 — v1.7 — Full-manuscript editorial critique of draft-06 (notes only)
+
+- **Scope:** Cold read of `BZ-Age-draft06-audiobook.md` (v0.6.2), all ten parts, as an outside editor. Output: `04-Working-Notes/draft-06-editorial-critique.md`. **No draft was changed.**
+- **Headline finding:** the parts are built as topic tours with a person at each end, where the listener was promised stories. This is the common cause of the writer's own `Editor notes` complaints (transitions, jumping around, unexplained characters). The critique proposes one chronological spine story per part.
+- **Also in the file:** per-part date-order maps; a cut list of duplicated passages and restated ideas (about 8,000 words); a cast triage; about fifty factual corrections with confidence marks; readings of the 30 remaining `[VERIFY]` tags; 22 research additions ranked by value; analogy keep/retire/replace lists; and the places the notes push against the decision log (surfaced for the writer to rule, per the log's own instruction).
+- **Verification status:** corrections and additions are from the editor's knowledge with a few spot checks. Everything marked `[check]`, and every suggested quotation, needs the usual fact-check pass before it reaches narration.
+
 ## 2026-06-12 — v1.2 — Draft-03 endgame: mass rebalancing, open items closed, second verification fleet
 
 - **Scope:** Second working session of the draft-03 pass (same day). Closed every "open item before recording" from v1.1, executed the unfinished mass-migration targets, ran a second, deeper verification fleet (17 audits: 10 per-part cold-listener/contract reads, 6 cross-cutting trackers, 1 web fact-verifier, with adversarial confirmation of high-severity findings), and applied its confirmed findings. All edits in the draft-03 files; draft-02 untouched.
