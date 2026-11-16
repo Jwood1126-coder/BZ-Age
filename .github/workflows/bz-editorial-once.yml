@@ -1,0 +1,40 @@
+name: BZ-Age one-time editorial build
+on:
+  push:
+    branches: [claude/zealous-goldberg-6vhirf]
+    paths: [BZ-Age/tools/apply_editorial_20261116.py]
+permissions:
+  contents: write
+concurrency:
+  group: bz-age-editorial-20261116
+  cancel-in-progress: false
+jobs:
+  apply:
+    if: github.repository == 'Jwood1126-coder/BZ-Age'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Validate and apply the reviewed, version-pinned corrections
+        run: |
+          python3 -m py_compile BZ-Age/tools/apply_editorial_20261116.py
+          python3 BZ-Age/tools/apply_editorial_20261116.py
+          python3 BZ-Age/tools/assemble_draft07.py
+          python3 BZ-Age/tools/apply_editorial_20261116.py --verify
+          git diff --check
+      - name: Commit only the corrected scripts and synchronized outputs
+        env:
+          TARGET_BRANCH: claude/zealous-goldberg-6vhirf
+        run: |
+          set -euo pipefail
+          remote_head=$(git ls-remote origin "refs/heads/$TARGET_BRANCH" | cut -f1)
+          test "$remote_head" = "$GITHUB_SHA" || { echo 'Branch changed; refusing to overwrite newer work.'; exit 1; }
+          git add BZ-Age/02-Parts BZ-Age/BZ-Age-draft07-audiobook.md BZ-Age/BZ-Age-draft07-visual-cues.md BZ-Age/tools/assemble_draft07.py BZ-Age/04-Working-Notes/draft-07-brief.md BZ-Age/04-Working-Notes/draft-07-v0.7.3-applied.md
+          if git diff --cached --quiet; then echo 'No changes to commit.'; exit 0; fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Draft-07 v0.7.3: apply ChatGPT editorial corrections and rebuild narration [skip ci]'
+          git push origin "HEAD:refs/heads/$TARGET_BRANCH"
+          git rev-parse HEAD
