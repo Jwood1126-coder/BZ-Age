@@ -1,8 +1,9 @@
 # Part 3 — The First Empires
-## SEVENTH DRAFT — v0.7
+## SEVENTH DRAFT — v0.7.1
 **Date:** November 16, 2026
 **Status:** Draft-07, revised to v0.7.1 after the ChatGPT Round 1 review (issues P3-01 to P3-12). Told in order from Sargon's rise to the fall of Ur, with Enheduanna as the witness who lives through most of it and one marked side trip to Egypt.
 **Driving questions:** What is an empire, and how is it different from a big city? How do you run a place you've never seen? Can a living man be a god? Why do empires fall?
+**Narration length:** 4,459 words (about 30 minutes at 150 words a minute)
 
 ---
 

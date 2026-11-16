@@ -104,3 +104,29 @@ folded into existing lenses rather than duplicated.
 
 **Reversal cost.** Low — all adopted items are rubric lenses, not structural commitments; any
 individual application can be undone per-site in review.
+
+---
+
+## D-012 — The Family format (draft-07) — November 16, 2026
+The series follows five kinds of work that begin in one household (field, grain store, counting, carrying, making) and are done by documented people wherever the archives allow. They are a tracking device, declared once in the prologue, and never a bloodline. Full contract: `04-Working-Notes/draft-07-brief.md`.
+**Why:** the writer asked for a small cast followed through change; the cast also carries the series' argument (specialists who cannot do without each other).
+**Reversal cost:** high. It is the structure of all ten draft-07 files. Draft-06 remains as the alternative.
+
+## D-013 — The voice is the writer's own; Carlin is an influence — November 16, 2026
+The narrator states views and labels them. Uncertainty is stated once per topic. The banned-phrasing list in the draft-07 brief governs. This supersedes the Carlin-homage framing in `CLAUDE.md` §3 where the two conflict.
+**Why:** the writer's direct instruction.
+**Reversal cost:** moderate (a register pass).
+
+## D-014 — Rulings reopened by draft-07 (writer-authorized via "make all recommended revisions")
+- **Aegean additions** (limited by D-011): Knossos and Akrotiri now appear at the end of Part 4.
+- **Enuma Elish / Genesis:** removed from Part 4; the Bible material is collected in Part 9.
+- **D-006** (trim Part 2): executed and exceeded.
+- **D-009** (mission stated once): now true inside the prologue as well.
+- **D-002** (one voice holds the pen): kept. Draft-07 was written by one hand.
+
+## D-015 — Written for ElevenLabs, with visual cues
+No markdown emphasis or parentheses in narration; cue lines of the form `[VISUAL: …]` sit on their own lines and are stripped by `tools/assemble_draft07.py`.
+**Reversal cost:** low.
+
+## D-016 — External review protocol with ChatGPT
+Reviews are exchanged on the Notion page "BZ-Age — Parts 1–6 editorial review & Claude critique". Findings carry issue IDs; each part file's revision notes record accept / qualify / challenge. Neither reviewer's advice is applied without a stated reason. Disagreements that are matters of taste go to the writer.

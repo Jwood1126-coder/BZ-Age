@@ -1,8 +1,9 @@
 # Part 4 — The Merchants and the Lawgiver
-## SEVENTH DRAFT — v0.7
+## SEVENTH DRAFT — v0.7.1
 **Date:** November 16, 2026
 **Status:** Draft-07, revised to v0.7.1 after the ChatGPT Round 1 review (issues P4-01 to P4-12). Two stories in order: a merchant family (c. 1900 BCE), then Mari and Hammurabi (1790s–1750s), then the chariot and the raid on Babylon (1595), ending on the Aegean. Title changed from "The Middle Bronze Age World".
 **Driving questions:** How do you mail a letter before paper? What is a loan before banks, and what happens when you can't pay? Where does law come from? Why did the wheel take so long?
+**Narration length:** 4,766 words (about 32 minutes at 150 words a minute)
 
 ---
 

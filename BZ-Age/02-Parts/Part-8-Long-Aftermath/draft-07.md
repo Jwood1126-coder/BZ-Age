@@ -1,8 +1,9 @@
 # Part 8 — After
-## SEVENTH DRAFT — v0.7
+## SEVENTH DRAFT — v0.7.1
 **Date:** November 16, 2026
-**Status:** Rewritten to the draft-07 brief. In order from about 1150 to 750 BCE. One real voyage (Wenamun, c. 1075) gives the part a documented person; the "was it dark" argument is made once, with both sides. Title changed from "The Long Aftermath".
+**Status:** Draft-07, v0.7.1 (written before the Round 1 review; adjusted to its agreed rules). In order from about 1150 to 750 BCE. One real voyage (Wenamun, c. 1075) gives the part a documented person; the "was it dark" argument is made once, with both sides. Title changed from "The Long Aftermath".
 **Driving questions:** How do you forget how to read? Why didn't they just rebuild? Was the dark age dark? Where does the alphabet come from?
+**Narration length:** 3,803 words (about 25 minutes at 150 words a minute)
 
 ---
 
@@ -183,6 +184,8 @@ So where's the family, around 750 BCE?
 Go back to the hill village and look inside one of those stone houses, early in the morning.
 
 There's a man who works the field, and the field is his.
+
+His sister is at the grinding stone, as she was in the first house. What she grinds stays in this house. Nobody has her on a list.
 
 His grain is in a pit in the floor, and he's the one who decides when to open it.
 

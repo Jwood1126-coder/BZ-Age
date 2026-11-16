@@ -13,6 +13,8 @@
 > architecture/craft layer: voice bible, decision log, operating manual) → the file your task needs.
 > If you are an AI holding the pen, `08-Fable-Dossier/01-opus-operating-manual.md` is your manual.
 >
+> **November 2026 update.** The latest draft is **draft-07 (v0.7.1)** in every part folder. Its governing contract is `04-Working-Notes/draft-07-brief.md`; decisions D-012 to D-016 in the decision log record the changes (Family format, the writer's own voice, ElevenLabs and visual cues, the review protocol with ChatGPT). Where that brief conflicts with §3 or §9 below, the brief wins.
+>
 > **Repo owner.** Jake Wood.
 >
 > **Last meaningful update.** July 2, 2026 (phase status corrected; Fable Dossier layer added;

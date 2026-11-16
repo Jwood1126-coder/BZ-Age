@@ -1,9 +1,9 @@
 # Part 2 — The First Cities
-## SEVENTH DRAFT — v0.7
+## SEVENTH DRAFT — v0.7.1
 **Date:** November 16, 2026
 **Status:** Draft-07, revised to v0.7.1 after the ChatGPT Round 1 review (issues P2-01 to P2-12). One spine: a load of barley followed from the field to the tablet. Royal Tombs of Ur moved here from Part 3.
-**Estimated audio length:** ~44 minutes (~6,600 words)
 **Driving questions:** Why is every first city on a river? What do you buy things with before money? Why does a city need writing? Why would anyone agree to have a king?
+**Narration length:** 4,908 words (about 33 minutes at 150 words a minute)
 
 ---
 

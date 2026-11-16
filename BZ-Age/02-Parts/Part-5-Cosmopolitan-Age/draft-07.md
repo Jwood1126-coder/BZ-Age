@@ -1,8 +1,9 @@
 # Part 5 — The Brotherhood of Kings
-## SEVENTH DRAFT — v0.7
+## SEVENTH DRAFT — v0.7.1
 **Date:** November 16, 2026
 **Status:** Draft-07, v0.7.1. The ChatGPT Round 1 review covered the draft-06 version of this part; its findings were checked against this rewrite (see notes). Opens on the shipwreck (c. 1300 BCE), makes one announced step back to 1350, then runs forward: the letters, Akhenaten, Tutankhamun, the widow's letter and the plague, iron, Kadesh, the treaty, and two short scenes at the peak. Title changed from "The Cosmopolitan Age".
 **Driving questions:** How do you sail without a compass? How do kings with no common language talk? How do you marry someone you've never seen? If iron is everywhere, why bronze?
+**Narration length:** 4,987 words (about 33 minutes at 150 words a minute)
 
 ---
 

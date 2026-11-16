@@ -1,9 +1,9 @@
 # Part 1 — Before Bronze
-## SEVENTH DRAFT — v0.7
+## SEVENTH DRAFT — v0.7.1
 **Date:** November 16, 2026
 **Status:** Draft-07, revised to v0.7.1 after the ChatGPT Round 1 review (issues P1-01 to P1-12; dispositions at the end of the notes). One household; one announced step back to about 12,000 years ago, then forward to 3200 BCE.
-**Estimated audio length:** ~33 minutes (~5,000 words)
 **Driving questions:** Why would anybody start farming? How does someone work out that metal comes from rock? Who was the first person to own something?
+**Narration length:** 4,347 words (about 29 minutes at 150 words a minute)
 
 ---
 

@@ -22,7 +22,7 @@ Part 1 opens in one house in 5000 BCE. Five people live in it and all of them do
 | **The Farmer** (and his sister) | forager, then field hand | temple tenant, conquered villager, debtor, conscript, refugee, free hill farmer. The one who never gets a new job and feeds the rest. His sister is the one the ledger takes: grinder, weaver, captive. |
 | **The Keeper** | the grandmother who minds the grain store | headman, temple steward, king, god-king, Great King, last king, village chief, a hero in a poem |
 | **The Counter** | the boy who tallies sheep with pebbles | token-keeper, scribe, poet, letter-writer, palace clerk, the grandson who can't read, the man with 22 letters |
-| **The Carrier** | the uncle who walks for obsidian | barge-puller, donkey merchant, ship merchant, (some) raider, Phoenician |
+| **The Carrier** | the brother who walks for obsidian | barge-puller, donkey merchant, ship merchant, (some) raider, Phoenician |
 | **The Maker** | the cousin who is good with stone | arsenic-copper smith, bronze caster, chariot builder, palace smith on rations, scrap melter, ironsmith |
 
 **Why this cast and not fixed roles.** The cast is the argument. One household splits into specialists who live in different countries and cannot eat without each other. That is the wealth of the Bronze Age and it is also why it fell. After the collapse the lines come back under one roof.
@@ -63,8 +63,23 @@ Each draft file carries sparse cue lines on their own, in the form `[VISUAL: …
 
 ## Length
 
-Target about 52,000 words, down from 66,000: roughly five and three-quarter hours at 150 words a minute.
+v0.7.1 as built is 39,650 words (about 4.4 hours at 150 words a minute), down from 66,000. The writer has been asked whether to let it grow back toward 48,000 through added scenes and orientation (the ChatGPT review asks for both).
 
 ## Verification
 
 New facts and all paraphrased ancient speech are listed in each file's revision notes with a confidence mark. Direct quotation is used only where draft-06 already carried a verified quote, or where the wording is standard. Everything else is given as paraphrase and says so.
+
+## Addendum — rules settled in the review exchange with ChatGPT (2026-11-16)
+
+Source: the Notion page "BZ-Age — Parts 1–6 editorial review & Claude critique" (Round 1, ChatGPT) and its child page "Round 2 — Claude's response". Per-issue dispositions are in each part file's revision notes.
+
+1. **No prior knowledge assumed.** Every people, city, kingdom and institution is introduced on first use by what it is, where it is, and why it matters now, in one or two sentences. It is reintroduced by role after a long gap.
+2. **Orientation is spoken.** Date cards are for viewers. Every part's first minute says when, how far from the last part, and where, with one familiar anchor.
+3. **The family is five kinds of work, not a bloodline.** The first house holds six people. Later parts say "the people doing the Carrier's kind of work", or name a documented person. Real viewpoints (Enheduanna, the Pylos desk) are retired or dated out loud.
+4. **Attribute in the sentence; doubt once.** "Xenophon says", "a later legend", "the leading explanation". One caveat where the evidence changes category. Evidence bookkeeping stays in the revision notes.
+5. **The narrator's views are labeled** ("I think", "my guess") and are allowed. This is where Claude and ChatGPT differ in degree; the writer's instruction (own voice, opinions, not machine-sounding) decides it unless he says otherwise.
+6. **Explanations are scoped, not deleted.** "The first big cities of the ancient world", "one answer, not a law of nature".
+7. **One analogy per passage**, and it must explain how something worked.
+8. **One forward warning per part at most.** No end-of-part refrain that everyone depends on everyone.
+9. **Imagined scenes are marked** ("picture", "I'm inventing the man, but not his problem") and carry no invented statistics.
+10. **Paraphrase is called paraphrase** ("in effect"), without performed forgetfulness. All quotations go to a quote ledger before recording (queued).

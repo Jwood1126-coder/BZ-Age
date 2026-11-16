@@ -2,7 +2,7 @@
 
 A long-form, multi-part podcast series on the Bronze Age, built in the spirit of Dan Carlin's *Hardcore History*.
 
-**Current phase:** Drafting, deep in (July 2026).
+**Current phase:** Drafting (November 2026). **Latest draft: draft-07 (v0.7.1), the Family format** — all ten parts, 39,650 words; narration in `BZ-Age-draft07-audiobook.md`; contract in `04-Working-Notes/draft-07-brief.md`. The status line below describes the July state and is kept for the record.
 **Current status:** Full drafts exist for all ten parts. Draft-04 for the Prologue and Parts 1–2; draft-03 for Parts 3–9, with the draft-04 pass fully specced and ready to execute (`08-Fable-Dossier/14-draft-04-execution-spec.md`). A 16-file architecture/craft dossier (`08-Fable-Dossier/`) governs voice, cast, structure, and process. A narration-only full-series assembly exists (`BZ-Age-draft03-audiobook.md`). Drafts are append-only — every prior draft is preserved.
 
 ---

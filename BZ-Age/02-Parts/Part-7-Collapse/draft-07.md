@@ -1,8 +1,9 @@
 # Part 7 — The Collapse
-## SEVENTH DRAFT — v0.7
+## SEVENTH DRAFT — v0.7.1
 **Date:** November 16, 2026
-**Status:** Rewritten to the draft-07 brief. Spine: the last years of Ugarit told through its letters in order, then outward city by city (Emar, Hattusa, Pylos), then Egypt's victory and what followed it, then the accounting for each line of the family.
+**Status:** Draft-07, v0.7.1 (written before the Round 1 review; not yet reviewed by ChatGPT). Spine: the last years of Ugarit told through its letters in order, then outward city by city (Emar, Hattusa, Pylos), then Egypt's victory and what followed it, then the accounting for each line of the family.
 **Driving questions:** Who did it? Why didn't the neighbors help? What happened to the people nobody wrote down?
+**Narration length:** 3,351 words (about 22 minutes at 150 words a minute)
 
 ---
 

@@ -2,6 +2,16 @@
 
 Every substantive change to the repo gets logged here.
 
+## 2026-11-16 — v1.8 — Draft-07: the whole series rewritten in the Family format; external review round with ChatGPT
+
+- **Scope:** New `draft-07.md` in every part folder (prologue: `cold-open-draft-07.md`), written by one hand to `04-Working-Notes/draft-07-brief.md`. Draft-06 untouched (D-001). Assembly: `BZ-Age-draft07-audiobook.md` (narration only), `BZ-Age-draft07-visual-cues.md`, `BZ-Age-draft07-pronunciation.md`, built by `tools/assemble_draft07.py`.
+- **Why:** the writer's instruction of Nov 16 to apply every recommendation in `draft-06-editorial-critique.md` and to move the series toward a small recurring cast, simple driving questions, his own voice, and a text that suits ElevenLabs narration with light visuals.
+- **Format:** one household in 5000 BCE doing five kinds of work (field, grain store, counting, carrying, making) that the series follows as they separate into specialists in five countries and come back under one roof after the collapse. One spine per part in time order; three or four plain questions per part; fixed tags for recurring powers; visual cues on their own lines.
+- **Length:** 39,650 words, about 4.4 hours (draft-06: 66,000). Part titles changed for Parts 4–9.
+- **Review exchange:** ChatGPT reviewed the prologue and Parts 1–4 of draft-07 (and the draft-06 Parts 5–6) in Notion. Of 55 numbered findings on Parts 0–4, 46 were accepted and 9 qualified; the revised files are v0.7.1 and each carries a disposition line per issue. Claude's Round 2 reply is posted as a child page of the review. Rules both reviewers settled on are in the brief's addendum. Parts 5–9 were written or adjusted to those rules; Parts 7–9 have not been externally reviewed.
+- **Not done:** no fact-check fleet has run on draft-07. Every part's revision notes list items marked `[check]`, and all paraphrased ancient speech is flagged. A quote ledger is queued. Source-map backfill remains queued.
+- **Open for the writer:** target length; whether "You are old" returns in another form; how much hedging belongs in narration (Claude and ChatGPT differ).
+
 ## 2026-11-16 — v1.7 — Full-manuscript editorial critique of draft-06 (notes only)
 
 - **Scope:** Cold read of `BZ-Age-draft06-audiobook.md` (v0.6.2), all ten parts, as an outside editor. Output: `04-Working-Notes/draft-06-editorial-critique.md`. **No draft was changed.**

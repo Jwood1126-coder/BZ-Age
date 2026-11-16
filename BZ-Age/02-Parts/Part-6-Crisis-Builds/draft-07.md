@@ -1,8 +1,9 @@
 # Part 6 — The Slow Part
-## SEVENTH DRAFT — v0.7
+## SEVENTH DRAFT — v0.7.1
 **Date:** November 16, 2026
 **Status:** Draft-07, v0.7.1. The ChatGPT Round 1 review covered the draft-06 version of this part; its findings were checked against this rewrite (see notes). Opens on the grain letter, makes one announced step back to explain the system's confidence (Mitanni), then runs forward from the treaty of 1259 to about 1200. Title changed from "The Crisis Builds".
 **Driving questions:** How do you feed an empire when the rain stops? Who were the Sea Peoples? Could they have seen it coming? How does bad news travel?
+**Narration length:** 3,427 words (about 23 minutes at 150 words a minute)
 
 ---
 

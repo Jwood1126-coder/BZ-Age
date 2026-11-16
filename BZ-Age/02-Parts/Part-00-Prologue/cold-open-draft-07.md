@@ -2,6 +2,7 @@
 ## SEVENTH DRAFT — v0.7.1
 **Date:** November 16, 2026
 **Status:** Draft-07 revised after the ChatGPT Round 1 review (Notion, issues P0-01 to P0-07). The opening now places 401 BCE for a listener with no background, introduces Persia and Assyria before using the names, keeps the two ruins separate, and narrows the "forgotten" claim to what Xenophon's account supports.
+**Narration length:** 1,385 words (about 9 minutes at 150 words a minute)
 
 ---
 
