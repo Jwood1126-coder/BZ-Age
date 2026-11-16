@@ -1,9 +1,9 @@
 # Part 3 — The First Empires
-## SEVENTH DRAFT — v0.7.3
+## SEVENTH DRAFT — v0.7.4
 **Date:** November 16, 2026
 **Status:** ChatGPT implementation of the editorial review and Jacob's selective scene-setting direction. Source version ef7b943; changed passages and continuity corrected. Not a final recording clearance or an exhaustive fact check.
 **Driving questions:** What is an empire, and how is it different from a big city? How do you run a place you've never seen? Can a living man be a god? Why do empires fall?
-**Narration length:** 4,358 words (about 29 minutes at 150 words a minute)
+**Narration length:** 4,296 words (about 29 minutes at 150 words a minute)
 
 ---
 
@@ -163,11 +163,11 @@ And next to the pyramids, archaeologists found the town the builders lived in. I
 
 So that's the Farmer's kind of work in Egypt. He's called up for a season, and I doubt he had much say in it. He's fed well, he hauls stone for a god-king alongside men from his own village, and they give their team a silly name.
 
-Now put Egypt next to Akkad, because the dates are the point. Around 2200 BCE, in the same decades the dust was blowing off Iraq, the Nile floods began to fail. They failed for years. The Egyptian state, which had run without a break for the best part of a thousand years, came apart into rival provinces. One governor from those years had his achievements carved in his tomb, and his boast is that when the whole south was dying of hunger and people were eating their children, nobody starved in his district. A later Egyptian poem looks back on the time: the river is blood, it says, and the land spins like a potter's wheel.
+Now put Egypt beside Akkad. Late in the third millennium BCE, the kingdom that had built the great pyramids broke into competing regional powers. Poor Nile floods may have added to its troubles. One provincial governor boasted in his tomb that he had kept his district fed while other people starved. That is a ruler telling posterity why he deserves to be remembered, not a survey of the whole country. But it tells us what he wanted credit for: keeping food available when other authorities could not.
 
-The first empire in Iraq and the oldest kingdom on the Nile came apart within a few decades of each other. They had different gods, different rivers, different systems, and they'd barely heard of each other. The dating is loose at both ends, and some specialists doubt the drought lines up as neatly as that. I don't think it's a coincidence, though, and I think it's a preview. It may be the first time we see two great states go down together under the same pressure. It won't be the last.
+The Egyptian and Iraqi disruptions belong to the same broad period. Some chronologies bring them close together, but the dates do not give us two synchronized disasters. I think the comparison is worth making anyway. Environmental pressure could make it harder for either government to hold its provinces together. Whether the same climatic change helped weaken both remains an open question.
 
-Egypt put itself back together after about a century. Back to Iraq.
+Egypt eventually reunited. For now, come back to Iraq.
 
 [VISUAL: Photo — the Ziggurat of Ur today. Date card: 2112 BCE.]
 
@@ -223,7 +223,15 @@ For the next couple of centuries nobody holds the whole plain. There are rival k
 
 ---
 
-## Revision notes — v0.7.3
+## Revision notes — v0.7.4
+
+- Finishing pass after v0.7.3: P3-EGYPT-EVIDENCE, P3-EGYPT-SYNCHRONY, P3-EGYPT-RETURN.
+- See `04-Working-Notes/draft-07-v0.7.4-applied.md`. Prior verification limits remain; this is not a final recording clearance.
+
+- Erdil et al. (2025), Resolution of the High versus Low debate for Old and Middle Kingdom Egypt: https://doi.org/10.1371/journal.pone.0314612
+- Round 3 review, regional environmental evidence and chronology limits: https://app.notion.com/p/41ae5852471e8182b652e2e2456c81ad
+
+### Earlier v0.7.3 implementation record
 
 - Applied by ChatGPT under Jacob's instruction to make edits directly; Claude/Fable is an advisor and second reader, not a blocking approver.
 - Selective physical reconstruction stays marked in the narration. Solid claims are stated plainly; uncertain documentary sequences and causal inferences are narrowed.

@@ -1,5 +1,5 @@
 # Series Cold Open / Prologue
-## SEVENTH DRAFT — v0.7.3
+## SEVENTH DRAFT — v0.7.4
 **Date:** November 16, 2026
 **Status:** ChatGPT implementation of the editorial review and Jacob's selective scene-setting direction. Source version ef7b943; changed passages and continuity corrected. Not a final recording clearance or an exhaustive fact check.
 **Narration length:** 1,594 words (about 11 minutes at 150 words a minute)
@@ -90,7 +90,12 @@ We are before the great cities and written archives of this story. There's a sma
 
 ---
 
-## Revision notes — v0.7.3
+## Revision notes — v0.7.4
+
+- Finishing pass after v0.7.3: version and assembly synchronization; no new narration changes in this section.
+- See `04-Working-Notes/draft-07-v0.7.4-applied.md`. Prior verification limits remain; this is not a final recording clearance.
+
+### Earlier v0.7.3 implementation record
 
 - Applied by ChatGPT under Jacob's instruction to make edits directly; Claude/Fable is an advisor and second reader, not a blocking approver.
 - Selective physical reconstruction stays marked in the narration. Solid claims are stated plainly; uncertain documentary sequences and causal inferences are narrowed.

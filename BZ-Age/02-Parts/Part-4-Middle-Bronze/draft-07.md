@@ -1,9 +1,9 @@
 # Part 4 — The Merchants and the Lawgiver
-## SEVENTH DRAFT — v0.7.3
+## SEVENTH DRAFT — v0.7.4
 **Date:** November 16, 2026
 **Status:** ChatGPT implementation of the editorial review and Jacob's selective scene-setting direction. Source version ef7b943; changed passages and continuity corrected. Not a final recording clearance or an exhaustive fact check.
 **Driving questions:** How do you mail a letter before paper? What is a loan before banks, and what happens when you can't pay? Where does law come from? Why did the wheel take so long?
-**Narration length:** 4,821 words (about 32 minutes at 150 words a minute)
+**Narration length:** 4,829 words (about 32 minutes at 150 words a minute)
 
 ---
 
@@ -15,9 +15,9 @@
 
 A woman is writing to her husband, and she's annoyed.
 
-He's seven hundred miles away. He's been away for years. And in his last letter he complained about the cloth she's been sending him to sell. It's too small, he said. It isn't good enough.
+He's far away, doing business in another country. The cloth she makes travels out to him with the caravans; complaints come back. The pieces are too small. The quality isn't right. She has some answers for him.
 
-Her answer survives. In effect, she tells him she made the pieces smaller because he told her to. Now he writes and says to put more wool in each one. Fine. She's done it. And she'd like to know who is in his house criticizing her cloth.
+Her replies survive. In one letter she discusses the size of the pieces and how much wool she has put into them. In another, she wants to know who is in his house finding fault with her cloth. These are separate letters, but the frustration runs through them. She is managing the work at home, and the man abroad keeps sending instructions.
 
 Her name is Lamassi. His is Pushu-ken. They lived about three thousand nine hundred years ago, and we have dozens of their letters, and those are the first private voices in this story. Up to now, everything I've read you was written by a temple or a king. This is a married couple arguing about work.
 
@@ -37,7 +37,7 @@ Lamassi lives at Assur, on the Tigris in northern Iraq. Pushu-ken is at Kanesh, 
 
 What are these people doing so far apart?
 
-Remember the problem. Bronze needs tin, and tin comes from far away. Around 1900 BCE the tin is coming from somewhere deep in Asia, by way of Iran, and it arrives in Assur. Meanwhile, the kingdoms of central Turkey have copper, and silver, and gold. There's a little tin in their mountains, but nowhere near enough for what they want to make.
+Remember the problem. Bronze needs tin, and tin comes from far away. Around 1900 BCE the tin is coming from somewhere deep in Asia, by way of Iran, and it arrives in Assur. Meanwhile, the kingdoms of central Turkey have copper, and silver, and gold. There is evidence for local tin production in Anatolia too. But imported tin was central to this trading business.
 
 Assur is sitting between a place with tin and a place that will pay nearly anything for it.
 
@@ -93,15 +93,15 @@ The family letters are sharp. One wife complains about being left with an empty 
 
 They had reasons to worry. The law of these merchants allowed a man one wife in Assur and a second in Turkey, provided it was only one in each place. The contracts spell it out.
 
-And did the wives write these letters themselves? The script the merchants used was a stripped-down version, a couple of hundred signs, enough for letters and accounts. A scholar named Cécile Michel has studied the women's letters more closely than anyone, and she thinks a good number of them were written by the women's own hands. That would make this the earliest place we can watch reading and writing get loose from the temple and the palace. The Counter's skill, invented to track a god's barley, is being used by a wife to tell her husband he's an idiot.
+And did the wives write these letters themselves? The script the merchants used was a stripped-down version, a couple of hundred signs, enough for letters and accounts. A scholar named Cécile Michel has studied the women's letters more closely than anyone, and she thinks a good number of them were written by the women's own hands. The letters give us an unusually vivid view of writing used inside trading households, far beyond royal proclamations. The Counter's skill, invented to track a god's barley, is being used by a wife to tell her husband he's an idiot.
 
 [VISUAL: Map — the Sinai Peninsula, the desert between Egypt and Canaan; the turquoise mines marked. Object: a Proto-Sinaitic inscription; highlight the ox-head sign; morph it by stages into the letter A.]
 
 And while we're on people who weren't supposed to be able to write, I want to show you something that was happening off to the side in these same generations. It turns out to be the biggest thing in this part.
 
-Between Egypt and the land of Canaan there's a desert peninsula called the Sinai, and the Egyptians mined turquoise there. They brought in foreign workers to do it, people from Canaan who spoke a language related to Hebrew. Those workers saw Egyptian picture-writing on every monument around them, and they couldn't read it. Egyptian writing took years of school, like the wedge script in Iraq.
+Between Egypt and Canaan lies the Sinai Peninsula, where Egyptians mined turquoise. People from Canaan joined the expeditions, bringing a language related to later Hebrew into a landscape covered with Egyptian inscriptions. Somewhere in this wider world of contact, people began experimenting with a different way to write.
 
-Here's the best current guess about what happened next. Somebody in one of those camps had an idea. Take a picture, and use it for the first sound of the word in your own language. Their word for ox was something like "alef." So a drawing of an ox's head stands for the sound at the start of alef. Their word for house was "bet." A little floor plan of a house means B.
+One influential explanation places an important part of that experiment among the people working around those mines. Take a picture and use it for the first sound of the word in your own language. The word for ox was something like alef, so an ox's head could stand for its opening sound. The word for house was bet. A little picture of a house could stand for B. You no longer needed a separate sign for every thing you wanted to name.
 
 Short inscriptions around the Sinai mines use just such a principle. Related early alphabetic inscriptions also come from Egypt itself. Their dates and the identities of their writers are debated, so we should not award the invention to a named crew we cannot identify. What matters here is the experiment: a small set of signs representing sounds, adapted from a much more elaborate writing tradition.
 
@@ -109,11 +109,11 @@ Turn a capital A upside down. You'll see the horns.
 
 That's all I'll say for now. Hold onto the ox.
 
-One thing I said I wouldn't let slide. In the same archive rooms, in the same handwriting, there are bills of sale for people. A girl, bought for so much silver, with witnesses. Families in debt handing over a child. Lamassi's weaving women may have been hired, or may have been owned. The letters don't say which, because to the people writing them it wasn't an interesting difference.
+One thing I said I wouldn't let slide. In the same archive rooms, in the same handwriting, there are bills of sale for people. A girl, bought for so much silver, with witnesses. Families in debt handing over a child. Lamassi's weaving women may have been hired, or may have been owned. The letters do not always give us enough information to recover each worker's legal position.
 
 And there's one small thing in these letters to tuck away for later. Now and then the merchants mention a metal so rare that the city of Assur restricted who could trade it. It was worth forty times its weight in silver. Most scholars think it was iron, probably the kind that falls from the sky in meteorites. In 1900 BCE iron is jewelry.
 
-And what became of Lamassi and Pushu-ken? He died in Kanesh, around 1870 BCE. She seems to have died in Assur about the same time. I can't tell you that he ever came home. The last we hear of the family is their children writing to one another about dividing the estate, with their sister, a priestess back in Assur, making sure she gets her share.
+And what became of Lamassi and Pushu-ken? The record doesn't give us a neat last scene with the couple together. Later letters concern their children and the division of family property, including their sister's claim to a share. The business outlived the correspondence we have been listening to. I would rather leave the end of the marriage open than invent the homecoming their letters make us hope for.
 
 [VISUAL: Date card — 1750 BCE. Map: Ur, on the Gulf. Object: the complaint tablet to Ea-nasir (British Museum).]
 
@@ -249,7 +249,16 @@ In about a hundred and fifty years, people like these will have built the most c
 
 ---
 
-## Revision notes — v0.7.3
+## Revision notes — v0.7.4
+
+- Finishing pass after v0.7.3: P4-OPENING-LETTERS, P4-SEPARATE-REPLIES, P4-TIN-QUANTITY, P4-PRIVATE-LITERACY, P4-MINERS-PREMISE, P4-ALPHABET-PROPOSAL, P4-WORKER-STATUS, P4-FAMILY-END.
+- See `04-Working-Notes/draft-07-v0.7.4-applied.md`. Prior verification limits remain; this is not a final recording clearance.
+
+- Cecile Michel, Women of Assur and Kanesh (2020), texts 164-165 (BIN 4, 10; BIN 6, 11); letter boundaries checked in Round 3: https://app.notion.com/p/41ae5852471e8182b652e2e2456c81ad
+- Michel, Taram-Kubi, Assyrian housewife and businesswoman: https://www.csmc.uni-hamburg.de/publications/mesopotamia/2020-10-31.html
+- Part 4 review and remaining verification: https://app.notion.com/p/41ae5852471e816b8ad0e7f456845932
+
+### Earlier v0.7.3 implementation record
 
 - Applied by ChatGPT under Jacob's instruction to make edits directly; Claude/Fable is an advisor and second reader, not a blocking approver.
 - Selective physical reconstruction stays marked in the narration. Solid claims are stated plainly; uncertain documentary sequences and causal inferences are narrowed.

@@ -1,4 +1,4 @@
-# BZ-Age — Draft-07 Visual Cue Sheet (v0.7.3)
+# BZ-Age — Draft-07 Visual Cue Sheet (v0.7.4)
 
 *Built by `tools/assemble_draft07.py`. Times are estimates from word position at 150 words a minute, measured from the start of each part. Four kinds of cue: part card, map, object, diagram.*
 
@@ -7,14 +7,14 @@
 | Series Cold Open / Prologue | 1,594 | 11 |
 | Part 1 — Before Bronze | 4,380 | 29 |
 | Part 2 — The First Cities | 4,978 | 33 |
-| Part 3 — The First Empires | 4,358 | 29 |
-| Part 4 — The Merchants and the Lawgiver | 4,821 | 32 |
-| Part 5 — The Brotherhood of Kings | 5,288 | 35 |
+| Part 3 — The First Empires | 4,296 | 29 |
+| Part 4 — The Merchants and the Lawgiver | 4,829 | 32 |
+| Part 5 — The Brotherhood of Kings | 5,272 | 35 |
 | Part 6 — The Slow Part | 3,833 | 26 |
 | Part 7 — The Collapse | 3,386 | 23 |
 | Part 8 — After | 3,653 | 24 |
 | Part 9 — What Survived | 4,364 | 29 |
-| **Total** | **40,655** | **271** (about 4.5 hours) |
+| **Total** | **40,585** | **271** (about 4.5 hours) |
 
 ## Series Cold Open / Prologue
 
@@ -69,28 +69,28 @@
 - **~12:25** Object — the Victory Stele of Naram-Sin (Louvre); zoom to the horned helmet. Date card: 2254 BCE.
 - **~16:20** Text card — "The Curse of Akkad." Then map: the empire shrinking back to a single city.
 - **~19:08** Map — pull west from Iraq to Egypt. Photo: the Giza pyramids. Date card: "Side trip — Egypt, 2560 BCE."
-- **~22:56** Photo — the Ziggurat of Ur today. Date card: 2112 BCE.
-- **~25:09** Map — Ur squeezed from three sides: herders from the west, a breakaway official in the north, Elam from the east. Date card: 2004 BCE.
-- **~27:31** Part card update — THE FAMILY, 2000 BCE: the Keeper has learned empire; the Counter writes poetry and law in two languages; the Carrier sails to India; the Maker casts tin-bronze; the Farmer hands his barley to strangers.
+- **~22:32** Photo — the Ziggurat of Ur today. Date card: 2112 BCE.
+- **~24:44** Map — Ur squeezed from three sides: herders from the west, a breakaway official in the north, Elam from the east. Date card: 2004 BCE.
+- **~27:06** Part card update — THE FAMILY, 2000 BCE: the Keeper has learned empire; the Counter writes poetry and law in two languages; the Carrier sails to India; the Maker casts tin-bronze; the Farmer hands his barley to strangers.
 
 ## Part 4 — The Merchants and the Lawgiver
 
 - **~00:00** Part card — WHEN: 1900 BCE, a century after Ur fell. WHERE: Assur, on the Tigris in northern Iraq, and Kanesh, in central Turkey. THE FAMILY: this is the Carrier's hour.
-- **~01:10** Object — an Old Assyrian letter beside its broken clay envelope (e.g., Metropolitan Museum).
-- **~02:43** Map — the route from Assur north-west over the Taurus Mountains to Kanesh; "700 miles, six weeks."
-- **~04:44** Illustration — the merchant quarter at Kanesh below the citadel mound; houses with archive rooms.
-- **~07:23** Map detail — the main road with a toll station; a faint side path through the hills marked "the narrow track."
-- **~08:37** Illustration — a courtyard house in Assur: looms, children, a woman holding a tablet.
-- **~10:30** Map — the Sinai Peninsula, the desert between Egypt and Canaan; the turquoise mines marked. Object: a Proto-Sinaitic inscription; highlight the ox-head sign; morph it by stages into the letter A.
-- **~13:35** Date card — 1750 BCE. Map: Ur, on the Gulf. Object: the complaint tablet to Ea-nasir (British Museum).
-- **~15:33** Diagram — an explicitly illustrative one-year barley loan: three baskets borrowed, four owed at a one-third annual rate. Actual contract terms vary.
-- **~17:57** Map — Mesopotamia c. 1790 BCE as a patchwork of rival kingdoms: Babylon small in the center, Mari on the Euphrates, Aleppo, Larsa.
-- **~20:53** Photo — the excavated palace of Mari from the air. Date card: 1761 BCE.
-- **~22:07** Object — the stele of Hammurabi (Louvre); zoom to the king before the seated sun god; then the columns of text.
-- **~24:46** Diagram — a solid plank wheel and a spoked wheel side by side; then a map of the steppe east of the Ural Mountains. Date card: 2000 BCE.
-- **~27:10** Map — arrow from central Turkey down the Euphrates to Babylon and back. Date card: 1595 BCE.
-- **~28:35** Map — the Aegean: Crete, the island of Thera, mainland Greece. Photo: a wall painting from Akrotiri. Date card: around 1600 BCE.
-- **~31:11** Part card update — THE FAMILY, 1500 BCE: the Carrier, a merchant with partners and lawsuits; the Counter, anyone who can pay for lessons; the Keeper, a lawgiver with chariots; the Maker, building them; the Farmer, in debt.
+- **~01:17** Object — an Old Assyrian letter beside its broken clay envelope (e.g., Metropolitan Museum).
+- **~02:50** Map — the route from Assur north-west over the Taurus Mountains to Kanesh; "700 miles, six weeks."
+- **~04:51** Illustration — the merchant quarter at Kanesh below the citadel mound; houses with archive rooms.
+- **~07:30** Map detail — the main road with a toll station; a faint side path through the hills marked "the narrow track."
+- **~08:45** Illustration — a courtyard house in Assur: looms, children, a woman holding a tablet.
+- **~10:36** Map — the Sinai Peninsula, the desert between Egypt and Canaan; the turquoise mines marked. Object: a Proto-Sinaitic inscription; highlight the ox-head sign; morph it by stages into the letter A.
+- **~13:38** Date card — 1750 BCE. Map: Ur, on the Gulf. Object: the complaint tablet to Ea-nasir (British Museum).
+- **~15:37** Diagram — an explicitly illustrative one-year barley loan: three baskets borrowed, four owed at a one-third annual rate. Actual contract terms vary.
+- **~18:01** Map — Mesopotamia c. 1790 BCE as a patchwork of rival kingdoms: Babylon small in the center, Mari on the Euphrates, Aleppo, Larsa.
+- **~20:56** Photo — the excavated palace of Mari from the air. Date card: 1761 BCE.
+- **~22:10** Object — the stele of Hammurabi (Louvre); zoom to the king before the seated sun god; then the columns of text.
+- **~24:49** Diagram — a solid plank wheel and a spoked wheel side by side; then a map of the steppe east of the Ural Mountains. Date card: 2000 BCE.
+- **~27:13** Map — arrow from central Turkey down the Euphrates to Babylon and back. Date card: 1595 BCE.
+- **~28:38** Map — the Aegean: Crete, the island of Thera, mainland Greece. Photo: a wall painting from Akrotiri. Date card: around 1600 BCE.
+- **~31:14** Part card update — THE FAMILY, 1500 BCE: the Carrier, a merchant with partners and lawsuits; the Counter, anyone who can pay for lessons; the Keeper, a lawgiver with chariots; the Maker, building them; the Farmer, in debt.
 
 ## Part 5 — The Brotherhood of Kings
 
@@ -104,9 +104,9 @@
 - **~21:54** Object — Tutankhamun's iron dagger with its gold sheath (Cairo).
 - **~23:50** Map — the Orontes River in Syria; Kadesh on its mound; the four Egyptian divisions strung out on the road south. Date card: 1274 BCE.
 - **~26:11** Photo — the Kadesh reliefs at Abu Simbel, Ramses enormous in his chariot.
-- **~29:53** Reconstruction — the palace of Pylos, the archive room by the entrance. Object: a Linear B tablet with small pictograms.
-- **~32:18** Reconstruction — the harbor of Ugarit at dusk, ships at the quay, lamps in doorways. Object: the Ugaritic alphabet tablet, thirty signs.
-- **~33:50** Part card update — THE FAMILY, 1250 BCE: five countries. The Keeper writes to his "brothers"; the Counter keeps a palace's accounts; the Carrier sails the circuit; the Maker waits for tin; the Farmer feeds all of them.
+- **~29:47** Reconstruction — the palace of Pylos, the archive room by the entrance. Object: a Linear B tablet with small pictograms.
+- **~32:12** Reconstruction — the harbor of Ugarit at dusk, ships at the quay, lamps in doorways. Object: the Ugaritic alphabet tablet, thirty signs.
+- **~33:44** Part card update — THE FAMILY, 1250 BCE: five countries. The Keeper writes to his "brothers"; the Counter keeps a palace's accounts; the Carrier sails the circuit; the Maker waits for tin; the Farmer feeds all of them.
 
 ## Part 6 — The Slow Part
 

@@ -1,9 +1,9 @@
 # Part 5 — The Brotherhood of Kings
-## SEVENTH DRAFT — v0.7.3
+## SEVENTH DRAFT — v0.7.4
 **Date:** November 16, 2026
 **Status:** ChatGPT implementation of the editorial review and Jacob's selective scene-setting direction. Source version ef7b943; changed passages and continuity corrected. Not a final recording clearance or an exhaustive fact check.
 **Driving questions:** How do you sail without a compass? How do kings with no common language talk? How do you marry someone you've never seen? If iron is everywhere, why bronze?
-**Narration length:** 5,288 words (about 35 minutes at 150 words a minute)
+**Narration length:** 5,272 words (about 35 minutes at 150 words a minute)
 
 ---
 
@@ -201,7 +201,7 @@ The Hittite copy was sealed by two people, the king and the queen. Her name was 
 
 Ramses gave as good as he got. When the Hittite court asked him to send an Egyptian doctor to help the king's sister have a child, he replied, in effect: I know your sister. She's fifty. No, she's sixty. Nobody can make a medicine for that. But he'd send a doctor anyway.
 
-One of Ramses' sons spent those peaceful years on something unusual. His name was Khaemwaset, and he was high priest at the old capital in the north, within sight of the pyramids. By his day the pyramids were thirteen hundred years old. Their temples had fallen in and the sand was covering them. He had them cleared and repaired, and on each one he had the name of the king who built it carved again, so it wouldn't be lost. So here is a prince of the richest kingdom on Earth, at the height of its power, looking after the ruins of a golden age that came before his own.
+One of Ramses' sons spent those peaceful years looking much further back. His name was Khaemwaset, and he was high priest at Memphis, Egypt's old capital near the pyramids. On one old pyramid, an inscription credits him with preserving the name of the king who built it. By then that king had been dead for more than a thousand years. So here is an Egyptian prince looking at monuments already ancient to him, and making sure an earlier ruler's name stays attached to the stone. He made sure his own name was there too.
 
 That's the peak. The two great powers are at peace, their rulers are teasing each other by mail, and a Hittite princess is on her way south with her escort.
 
@@ -255,7 +255,14 @@ The rain is about to change.
 
 ---
 
-## Revision notes — v0.7.3
+## Revision notes — v0.7.4
+
+- Finishing pass after v0.7.3: P5-KHAEMWASET-MONUMENT.
+- See `04-Working-Notes/draft-07-v0.7.4-applied.md`. Prior verification limits remain; this is not a final recording clearance.
+
+- Campbell Price (2022), The Legacy of Prince Khaemwaset at Saqqara, section 4 and the Unas pyramid inscription: https://www.mdpi.com/2571-9408/5/3/115
+
+### Earlier v0.7.3 implementation record
 
 - Applied by ChatGPT under Jacob's instruction to make edits directly; Claude/Fable is an advisor and second reader, not a blocking approver.
 - Selective physical reconstruction stays marked in the narration. Solid claims are stated plainly; uncertain documentary sequences and causal inferences are narrowed.
