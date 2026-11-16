@@ -1,7 +1,7 @@
 # Part 6 — The Slow Part
 ## SEVENTH DRAFT — v0.7
 **Date:** November 16, 2026
-**Status:** Rewritten to the draft-07 brief. Opens on the grain letter, makes one announced step back to explain the system's confidence (Mitanni), then runs forward from the treaty of 1259 to about 1200. Title changed from "The Crisis Builds".
+**Status:** Draft-07, v0.7.1. The ChatGPT Round 1 review covered the draft-06 version of this part; its findings were checked against this rewrite (see notes). Opens on the grain letter, makes one announced step back to explain the system's confidence (Mitanni), then runs forward from the treaty of 1259 to about 1200. Title changed from "The Crisis Builds".
 **Driving questions:** How do you feed an empire when the rain stops? Who were the Sea Peoples? Could they have seen it coming? How does bad news travel?
 
 ---
@@ -32,9 +32,9 @@ Then it was taken apart. The Hittite king, the same one who got the letter from 
 
 By the time of the peace treaty the horse kingdom didn't exist. One of the pillars of the world had been removed. We aren't even sure where its capital was.
 
-And nothing happened. The trade routes bent around the gap. Assyria took the empty chair at the table. The Hittite king grumbled about having to call an upstart "brother," and then did. The tin kept coming. The princesses kept travelling. Every court in the world had watched a great power vanish, and what every court learned was that the system could take it.
+And nothing happened. The trade routes bent around the gap. Assyria took the empty chair at the table. The Hittite king grumbled about having to call an upstart "brother," and then did. The tin kept coming. The princesses kept travelling. Every court in the world had watched a great power vanish, and I think the lesson anyone would have drawn was that the system could take it.
 
-That lesson is the one I think about most in this whole story, because it was true and it was the wrong lesson. The horse kingdom's fall was survivable because everything around it was healthy. The routes could shift because there were strong kingdoms to shift through. What nobody had tested was what happens when the parts fail together.
+That's the lesson I think about most in this whole story, because it was true and it was the wrong one. The horse kingdom's fall was survivable because everything around it was healthy. The routes could shift because there were strong kingdoms to shift through. What nobody had tested was what happens when the parts fail together.
 
 So the world of 1259 BCE, the world of the peace treaty, was confident. It had been tested and it had passed.
 
@@ -46,7 +46,7 @@ It starts with the weather, and we know about the weather because trees keep a d
 
 A tree lays down one ring a year. In a good year the ring is wide. In a dry year it's narrow. Centuries after this story ends, a people in central Turkey built a huge burial mound for one of their kings and lined the chamber with whole juniper logs, and those logs were already ancient when they were cut. The rings in them run right through the years we're talking about. A team published the measurements in 2023.
 
-They show the Hittite heartland getting drier from about 1250 BCE on. Bad years came more often. And then there's a run of three rings so thin they're hard to see. Three years in a row of drought as bad as anything in the whole record. We can put dates on them: 1198, 1197 and 1196 BCE.
+They show the Hittite heartland getting drier from about 1250 BCE on. Bad years came more often. And then there's a run of three rings so thin they're hard to see. Three years in a row of drought as bad as anything in the whole record. We can put dates on them: 1198, 1197 and 1196 BCE. The people who published that are careful to say it doesn't explain everything by itself. But it's the nearest thing we have to a weather report from the end of the Bronze Age.
 
 That isn't the only evidence. Mud from the bottom of the Sea of Galilee and from a salt lake in Cyprus holds pollen, and the pollen shows the same thing from the other side: the trees and crops thinning out and the dry-country scrub moving in, across about a century and a half.
 
@@ -118,7 +118,7 @@ And the system was hiding the damage. That's the cruel part. Every grain bin and
 
 So if we go looking for the person who noticed, we don't find a prophet. We find an accountant.
 
-He's the Counter, and he's in a storeroom in the Hittite capital, and the numbers are wrong. He's counted the jars three times this month because he didn't trust the first two counts. The third came out the same. Grain doesn't care how many times you count it. The stores are a fifth below where they should be for this time of year, and it's the third year running.
+Picture him. I'm inventing the man, but not his problem. He's the Counter, and he's in a storeroom in the Hittite capital, and the numbers are wrong. He's counted the jars three times this month because he didn't trust the first two counts. The third came out the same. Grain doesn't care how many times you count it. There are fewer full jars than there should be at this time of year, and it was the same last year.
 
 He writes it down. He sends it up. He gets letters back from other storerooms saying the same thing. The provinces are sending less, because they've had poor harvests too. The grain from Egypt, which used to be a little extra, isn't extra any more.
 
@@ -144,7 +144,7 @@ The Greek palaces had always had walls. In the last decades of the 1200s they re
 
 Somebody moved those blocks. That was the Farmer, called up by the palace the way he'd been called up to dig canals in Iraq, and in the season when his own fields needed him. Later Greeks couldn't believe men had built those walls. They said it was the Cyclopes, the one-eyed giants. It was tired farmers and worried officials.
 
-At Pylos, where the Counter has his desk, there aren't any walls like that. But go back to his shelf of damp tablets, because what's written on the last batch has changed.
+At Pylos, where we watched a clerk at his desk, there aren't any walls like that. But go back to that shelf of damp tablets, in the palace's last year, because what's written on them has changed.
 
 There's one that orders the officials of every district to hand over bronze. It's specified as temple bronze, and it says what it's for: points for spears and javelins. They're taking metal from the shrines to make weapons. That's the Maker's world drying up. If new copper and tin were coming in on the ships, you wouldn't be melting down the gods' property.
 
@@ -152,7 +152,7 @@ There's a set that lists about eight hundred men, by name of their commander and
 
 And there's one that lists rowers, about six hundred of them, being called up.
 
-It's the same desk and the same clay, and the same hand that used to count figs and wool. Now it's counting lookouts.
+It's the same desk and the same clay as two generations before. It used to count figs and wool. Now it's counting lookouts. Some scholars think lists like these were routine. Read alongside the order for bronze, I think they were written by frightened people.
 
 [VISUAL: Map — Cyprus and Ugarit; a cluster of ship icons between them with a question mark.]
 
@@ -162,7 +162,7 @@ In the archive at Ugarit there's a letter from the chief minister of the copper 
 
 Look at what that letter is. It's the international system, with its scribes and its couriers and its formal greetings, being used to report that the international system no longer controls the sea.
 
-On the Hittite side, the last Great King was doing something no Hittite king had done. He was fighting at sea. He had an inscription carved saying that the ships of Cyprus met him in battle three times on the open water, and that he destroyed them and burned them. It's the earliest sea battle that any surviving document describes. And it was fought by an army of highlanders in borrowed boats, off the coast of the island that supplied the world's copper, to keep open the lane their bread came in on.
+On the Hittite side, the last Great King was doing something no Hittite king had done. He was fighting at sea. He had an inscription carved saying that the ships of Cyprus met him in battle three times on the open water, and that he destroyed them and burned them. It's the earliest sea battle that any surviving document describes. And it was fought by an army of highlanders, off the coast of the island that supplied the world's copper. My guess is that they were trying to keep open the lane their bread came in on.
 
 He says he won.
 
@@ -194,7 +194,9 @@ The tree rings say what's coming next. Three thin ones in a row.
 
 ---
 
-## Revision notes — v0.7
+## Revision notes — v0.7.1
+
+- **Round 1 review (ChatGPT, Notion), checked against this rewrite:** P6-01 qualified (the part opens on a document, the grain letter, not on the abstract proposition). P6-02 resolved (the Kadesh/treaty king confusion is gone). P6-03 resolved (one announced step back). P6-04 accepted and fixed in v0.7.1 (the "wrong lesson" is the narrator's inference). P6-05 resolved in Part 5 (identity as majority view; plague origin attributed). P6-06 accepted and fixed in v0.7.1 (the three drought years are central Anatolia's; the authors' own caution is stated). P6-07 resolved (no annual treaty grain). P6-08 accepted and fixed in v0.7.1 (the storeroom clerk is marked as invented; the invented fraction is cut). P6-09 resolved (two group names only, introduced when they act). P6-10 resolved and tightened in v0.7.1 (coast-watch and rower lists are separate; the emergency reading is the narrator's, with the routine reading noted; the callback is to the desk, not the man). P6-11 qualified (the siege inference at Mycenae is kept as inference). P6-12 resolved (flagged as unprovable in the script). P6-13 accepted in part (the motive for the sea battles is now "my guess"). P6-14 resolved (no invented death window; no chariots or grandparents for Fu Hao).
 
 - **Structure:** cold open on the grain letter (c. 1220); one announced step back for Mitanni (1340s–1260s); then forward: drought, stores, transportees, the embargo of c. 1230, the sea raiders and 1208, the accountant, the merchants, the Greek walls and the last Pylos tablets, the Cyprus letter and the sea battles. The widow's letter and plague moved to Part 5. The treaty is not retold.
 - **Cut:** the opening essay ("a kind of disaster that begins in sunshine"); the second telling of the Kadesh treaty; Khaemwaset (a good beat, but there was no room for it without breaking the forward run; restore if the writer misses it); the ninety-word sentence deferring the Hittite rediscovery; Drake's mechanism; two of the three "they were not the whole story" passages; the separate warehouse snapshot (folded into the accountant); the "last generation died around 1230" passage; Cline quotations (unverified wording).

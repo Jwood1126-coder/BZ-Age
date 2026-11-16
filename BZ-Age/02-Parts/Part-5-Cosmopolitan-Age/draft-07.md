@@ -1,7 +1,7 @@
 # Part 5 — The Brotherhood of Kings
 ## SEVENTH DRAFT — v0.7
 **Date:** November 16, 2026
-**Status:** Rewritten to the draft-07 brief. Opens on the shipwreck (c. 1300 BCE), makes one announced step back to 1350, then runs forward: the letters, Akhenaten, Tutankhamun, the widow's letter and the plague, iron, Kadesh, the treaty, and two short scenes at the peak. Title changed from "The Cosmopolitan Age".
+**Status:** Draft-07, v0.7.1. The ChatGPT Round 1 review covered the draft-06 version of this part; its findings were checked against this rewrite (see notes). Opens on the shipwreck (c. 1300 BCE), makes one announced step back to 1350, then runs forward: the letters, Akhenaten, Tutankhamun, the widow's letter and the plague, iron, Kadesh, the treaty, and two short scenes at the peak. Title changed from "The Cosmopolitan Age".
 **Driving questions:** How do you sail without a compass? How do kings with no common language talk? How do you marry someone you've never seen? If iron is everywhere, why bronze?
 
 ---
@@ -76,7 +76,7 @@ We know how these kings dealt with each other because of something that happened
 
 Second question. How do kings with no common language talk to each other?
 
-They wrote in Babylonian. It was nobody's native language at that table. The king of Egypt didn't speak it and neither did the king of the Hittites. But it was the language of the oldest schools, so every court kept a few scribes who'd learned it, and all the letters went through them. It's how pilots work today. A Korean pilot landing in Brazil talks to the tower in English. It's nobody's mother tongue in that conversation. It's just what the system runs on.
+They wrote in Babylonian. In Babylon and Assyria people spoke forms of it at home. Nobody did in Egypt, or among the Hittites, or on Cyprus. But it was the language of the oldest schools, so every court kept a few scribes who'd learned it, and all the letters went through them. It's how pilots work today. A Korean pilot landing in Brazil talks to the tower in English. It's nobody's mother tongue in that conversation. It's what the system runs on.
 
 And they had rules. The great kings call each other "brother." It doesn't mean they like each other. It means "I recognize you as my equal." Small kings write to the great ones as "my lord, my sun," and say they throw themselves at his feet seven times and seven times more. You always know from the first line who outranks whom.
 
@@ -136,7 +136,7 @@ That's who he is. The gold mask everybody has seen belongs to the child of the h
 
 He died at about nineteen, with no children. And then the palace did something no one would have believed.
 
-Up in Turkey, the king of the Hittites was on campaign in Syria when a messenger arrived from Egypt with a letter from the queen. It's quoted in the Hittites' own records. "My husband is dead. I have no son. They say you have many sons. Give me one of yours, and he will be my husband, and he will be king of Egypt."
+Up in Turkey, the king of the Hittites was on campaign in Syria when a messenger arrived from Egypt with a letter from a queen whose husband had just died. The Hittite records don't give her name. Most historians think she was Tutankhamun's widow, and I'll go with that. Her letter is quoted in those records. "My husband is dead. I have no son. They say you have many sons. Give me one of yours, and he will be my husband, and he will be king of Egypt."
 
 The Hittite king didn't believe it. The records say he told his council that nothing like this had ever happened to him in his life. Egypt didn't even send out its daughters. Now it was offering him the throne. He sent a man to Egypt to find out whether it was a trick.
 
@@ -146,7 +146,7 @@ So he sent a son. And the prince died on the way. The Hittites said he was murde
 
 The Hittite king went to war over it. He attacked Egyptian territory in Syria and marched his prisoners home.
 
-The prisoners were sick. Whatever they had spread through Turkey and it didn't stop. It killed the king. It killed his heir a year later. It was still killing people twenty years on, when a younger son was on the throne, and that son wrote a series of prayers that are among the most affecting things to come down to us from this age.
+By the Hittites' own account, the prisoners were sick. Whatever they had spread through Turkey and it didn't stop. It killed the king. It killed his heir a year later. It was still killing people twenty years on, when a younger son was on the throne, and that son wrote a series of prayers that are among the most affecting things to come down to us from this age.
 
 He doesn't boast. He tells the gods his country is dying. The men who plowed the gods' fields are dead, he says, and the women who ground the flour for the gods' bread are dead. He's had the archives searched to find out what his family did to deserve this. And he's found it: his father broke a sworn treaty when he attacked Egypt. So he says it. "It is so. We have done it."
 
@@ -200,9 +200,9 @@ That's the peak. The two great powers are at peace, their rulers are teasing eac
 
 [VISUAL: Reconstruction — the palace of Pylos, the archive room by the entrance. Object: a Linear B tablet with small pictograms.]
 
-Let me show you two people living at that peak, because I'm going to need you to remember them.
+Let me show you two places at that peak, because I'm going to need you to remember them.
 
-The first is in Greece, at a palace called Pylos, on a hill above a bay in the southwest. He's the Counter. There are perhaps fifty people in this kingdom who can do what he does.
+The first is in Greece, at a palace called Pylos, on a hill above a bay in the southwest. I should be straight about the evidence. Everything we know about this office comes from its very last year, for a reason you'll hear later. But the routine was generations old. So picture a clerk at that desk around 1250, two generations before the end. He's the Counter. There are perhaps fifty people in this kingdom who can do what he does.
 
 His desk is by the front entrance. He writes on palm-sized pieces of damp clay in the script the Greeks borrowed from Crete, and what he writes is the palace's day. Figs and grain for thirty-seven women and their children in the weaving unit. Bronze issued to the smiths in the villages, by weight, with a note of which smiths got none this season. Sheep by the tens of thousands. Chariot wheels, serviceable and unserviceable. Rowers owed by each town on the coast.
 
@@ -216,11 +216,11 @@ Remember the shelf.
 
 [VISUAL: Reconstruction — the harbor of Ugarit at dusk, ships at the quay, lamps in doorways. Object: the Ugaritic alphabet tablet, thirty signs.]
 
-The second is at Ugarit, the port in Syria, at the end of a working day.
+The second is at Ugarit, the port in Syria, at the end of a working day. Picture one of the men on the quay.
 
 He's one of the Carrier's men, and he's spent the day hauling those fifty-pound copper slabs up a gangplank, so his shoulder is raw in the place where his ancestor's was raw from the tow rope. The quay behind him is piled with things that don't belong together. Copper from the island. Oil jars from Greece. Bolts of Egyptian linen. A crate of blue stone that started out in Afghanistan.
 
-He hears four languages between the ship and the gate. There are five kinds of writing in use in this town, and one of them is new. The local scribes have taken the idea those miners had in the desert, one sign for one sound, and dressed it in wedges so it can be written on clay. It has thirty signs. A boy can learn it in a few weeks. The old scribes, who spent twelve years learning Babylonian, don't think much of it.
+He hears four languages between the ship and the gate. There are five kinds of writing in use in this town, and one of them is new. The local scribes have taken the idea those miners had in the desert, one sign for one sound, and dressed it in wedges so it can be written on clay. It has thirty signs. A boy can learn it in a few weeks. The old scribes, who spent their whole youth learning Babylonian, don't think much of it.
 
 He stops at a doorway. Inside there's a woman singing, a hymn to the wife of the moon god. Somebody in this town thought enough of that song to write it down, with instructions for the strings.
 
@@ -248,7 +248,9 @@ The rain is about to change.
 
 ---
 
-## Revision notes — v0.7
+## Revision notes — v0.7.1
+
+- **Round 1 review (ChatGPT, Notion), checked against this rewrite:** P5-01 already resolved (wooden boards, ivory hinge; ship established first). P5-02 already resolved (one announced step back, then forward). P5-03 resolved by removal (Thera is told in Part 4 without the Greenland claim). P5-04 qualified: the "two thousand years" superlative is gone; the table of powers is kept, with a fixed tag for each, because four of them act within the next three minutes. P5-05 accepted and fixed in v0.7.1 (Babylonian was a home language in Babylon and Assyria). P5-06 resolved (the daughters are told by relationship, without the three names). P5-07 resolved (classification dropped; narrator's view stated; Rib-Hadda's enemies corrected). P5-08 accepted and fixed in v0.7.1: the Pylos scene now says its evidence comes from the palace's last year and pictures "a clerk at that desk around 1250"; later parts return to the desk, not the man. P5-09 accepted ("twelve years" removed). P5-10 resolved here; Part 8 presents the tin-shortage reading as partial. P5-11 resolved (no Hittite battle report; sixty-one years). P5-12 resolved (one warning, at the end). Also fixed in v0.7.1: the widow's identity is given as the majority view; the plague's origin is attributed to the Hittite account.
 
 - **Structure:** cold open on the wreck (c. 1300), one announced step back to 1350, then forward in order to c. 1250. The widow's letter and the plague move here from Part 6. Kadesh is told as a battle and told once.
 - **Cut:** the "who isn't standing" obituaries (the Indus ended in Part 4's window; the Minoans are now shown alive in Part 4); the Shang paragraph (one China beat is kept, in Part 6); the Akhenaten historiography (replaced by the story in order plus a stated opinion); "henotheism" and the unattributed Egyptologist quote; three of the four "never meant to last" statements at Pylos; the long Ugarit snapshot (now one short scene); the iron section's repetition; the second "Tuesday".
