@@ -2,7 +2,7 @@
 ## SEVENTH DRAFT — v0.7.1
 **Date:** November 16, 2026
 **Status:** Draft-07 revised after the ChatGPT Round 1 review (Notion, issues P0-01 to P0-07). The opening now places 401 BCE for a listener with no background, introduces Persia and Assyria before using the names, keeps the two ruins separate, and narrows the "forgotten" claim to what Xenophon's account supports.
-**Narration length:** 1,385 words (about 9 minutes at 150 words a minute)
+**Narration length:** 1,381 words (about 9 minutes at 150 words a minute)
 
 ---
 
@@ -68,7 +68,7 @@ In that first house those are just things people in one family do. As the world 
 
 These aren't the same people, and they aren't one bloodline. They're a way of keeping track. But at almost every step there's a real person standing where one of them would stand, with a real name and sometimes real mail, and when that happens I'll say so.
 
-Watch what happens to those five kinds of work. By the middle of this story they'll be done by people in five different countries who will never meet, and none of them will be able to get through a year without the other four. I think that's the secret of the Bronze Age. It's how those people got rich, and I think it's a large part of what brought them down.
+Watch what happens to those five kinds of work. By the middle of this story they'll be done by people in five different countries who will never meet, and none of them will be able to get through a year without the other four. That's the secret of the Bronze Age. It's how those people got rich, and it's a large part of what brought them down.
 
 When the evidence runs out I'll tell you, once, and move on.
 

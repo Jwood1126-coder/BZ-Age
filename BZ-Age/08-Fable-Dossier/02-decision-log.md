@@ -130,3 +130,9 @@ No markdown emphasis or parentheses in narration; cue lines of the form `[VISUAL
 
 ## D-016 — External review protocol with ChatGPT
 Reviews are exchanged on the Notion page "BZ-Age — Parts 1–6 editorial review & Claude critique". Findings carry issue IDs; each part file's revision notes record accept / qualify / challenge. Neither reviewer's advice is applied without a stated reason. Disagreements that are matters of taste go to the writer.
+
+## D-017 — The writer's three rulings — November 16, 2026
+1. **Length:** whatever serves the story. No word target.
+2. **The first household:** the objection to "You are old" was the contradiction with a working grandmother, not the line itself. Resolved by making "you" thirty and the grandmother near seventy.
+3. **Caution:** build on solid, agreed evidence and state it plainly; be cautious only where evidence is thin and say so upfront; allow occasional openly exploratory asides (what-ifs, thought experiments, imagined people), announced as such, in the manner of Dan Carlin. This settles the register question raised in the ChatGPT exchange.
+**Reversal cost:** low; a register pass.

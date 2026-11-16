@@ -63,7 +63,7 @@ Each draft file carries sparse cue lines on their own, in the form `[VISUAL: …
 
 ## Length
 
-v0.7.1 as built is 39,650 words (about 4.4 hours at 150 words a minute), down from 66,000. The writer has been asked whether to let it grow back toward 48,000 through added scenes and orientation (the ChatGPT review asks for both).
+v0.7.2 as built is about 40,500 words (about 4.5 hours at 150 words a minute), down from 66,000. The writer's ruling (Nov 16): whatever length serves the story. v0.7.2 adds scenes and marked asides where parts were thin; no word target is set.
 
 ## Verification
 
@@ -77,7 +77,7 @@ Source: the Notion page "BZ-Age — Parts 1–6 editorial review & Claude critiq
 2. **Orientation is spoken.** Date cards are for viewers. Every part's first minute says when, how far from the last part, and where, with one familiar anchor.
 3. **The family is five kinds of work, not a bloodline.** The first house holds six people. Later parts say "the people doing the Carrier's kind of work", or name a documented person. Real viewpoints (Enheduanna, the Pylos desk) are retired or dated out loud.
 4. **Attribute in the sentence; doubt once.** "Xenophon says", "a later legend", "the leading explanation". One caveat where the evidence changes category. Evidence bookkeeping stays in the revision notes.
-5. **The narrator's views are labeled** ("I think", "my guess") and are allowed. This is where Claude and ChatGPT differ in degree; the writer's instruction (own voice, opinions, not machine-sounding) decides it unless he says otherwise.
+5. **The writer's ruling on caution (Nov 16), which settles the difference between the two reviewers:** build the story on what is solid and agreed, and state it plainly. Use caution only where the evidence is thin, and be upfront about it there. Leave room for occasional asides that are openly exploratory: a what-if, a thought experiment, an imagined person, each announced as such. Solid claims do not carry "I think".
 6. **Explanations are scoped, not deleted.** "The first big cities of the ancient world", "one answer, not a law of nature".
 7. **One analogy per passage**, and it must explain how something worked.
 8. **One forward warning per part at most.** No end-of-part refrain that everyone depends on everyone.

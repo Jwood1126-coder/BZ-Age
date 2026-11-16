@@ -1,9 +1,9 @@
 # Part 8 — After
-## SEVENTH DRAFT — v0.7.1
+## SEVENTH DRAFT — v0.7.2
 **Date:** November 16, 2026
 **Status:** Draft-07, v0.7.1 (written before the Round 1 review; adjusted to its agreed rules). In order from about 1150 to 750 BCE. One real voyage (Wenamun, c. 1075) gives the part a documented person; the "was it dark" argument is made once, with both sides. Title changed from "The Long Aftermath".
 **Driving questions:** How do you forget how to read? Why didn't they just rebuild? Was the dark age dark? Where does the alphabet come from?
-**Narration length:** 3,803 words (about 25 minutes at 150 words a minute)
+**Narration length:** 3,901 words (about 26 minutes at 150 words a minute)
 
 ---
 
@@ -89,7 +89,7 @@ In the end Wenamun has to write home for money. Egypt sends gold, silver, linen,
 
 The papyrus breaks off before we find out whether he got home.
 
-I think it's the best single document of the age after the collapse. The great power has to pay cash in advance, and the little port keeps the books.
+It's the best single document we have from the age after the collapse. The great power has to pay cash in advance, and the little port keeps the books.
 
 One footnote. Those five hundred rolls of papyrus were Byblos's main import, for centuries. So much of it came through that town that the Greeks named the stuff after it. Their word for a papyrus roll, and then for a book, was byblos. That's where the word Bible comes from.
 
@@ -167,7 +167,9 @@ So the word alphabet is two Canaanite words: ox, house.
 
 From the Greeks it goes to the Romans, and from the Romans to us. From the Phoenicians it also goes east, to Hebrew and Aramaic and in time to Arabic. Nearly every alphabet on Earth comes down from those miners.
 
-I think it's the most important invention in this whole series, and look at who made it. It wasn't the scribes with their twelve years of training, or the kings. It was a crew of foreign laborers who couldn't read. And what gave it its chance was the collapse. As long as the palaces stood, the hard scripts had all the jobs. When the palaces went, the easy script was the one still standing.
+It's the most important invention in this whole series, and look at who made it. It wasn't the scribes with their twelve years of training, or the kings. It was a crew of foreign laborers who couldn't read. And what gave it its chance was the collapse. As long as the palaces stood, the hard scripts had all the jobs. When the palaces went, the easy script was the one still standing.
+
+Here's a what-if that I can't prove and can't stop turning over. Suppose the palaces had survived. The clerks keep their hold on writing. The miners' alphabet stays a scribble at the edge of the desert. Bronze stays the king's metal, and iron stays a curiosity in a royal treasury. No farmer's son in the hills ever learns his letters. I'm not saying the collapse was a good thing. A great many people died in it. But some of what you and I take for granted grew in the ground it cleared, and I don't see how it grows otherwise.
 
 [VISUAL: Map — Assyria and Babylon highlighted in the east: "never stopped writing." The west shaded: "forgot."]
 
@@ -209,6 +211,7 @@ So what did survive? And how, three thousand years later, did we find out what r
 
 ## Revision notes — v0.7
 
+- **Added after the writer's rulings of Nov 16 (v0.7.2):** the what-if on the palaces surviving (marked as unprovable).
 - **Structure:** in order. The herder under Tiryns (c. 1000); how literacy died; why nobody rebuilt; Lefkandi (c. 950) and the *basileus*; Wenamun (c. 1075, the one small step back, presented as "a real person from these years"); the Phoenicians; the hill villages and the Philistines; iron; the alphabet; the east; the house.
 - **Cut:** five of the six passes at "the collapse was a release" (now one argument with a case for and a case against); the long Bible-origins section (the Bible material is collected in Part 9); the covenant speculation; the fourth explanation of iron's rise in its old form; the third "meanwhile in China"; the polis paragraph (reduced to one forward-looking sentence); "step around the crater".
 - **New:** the factory-town comparison; *basileus*; Wenamun; "byblos" and the word Bible; the two-sided verdict with Judges; pig bones; Philistine DNA; Cypriot iron knives with bronze rivets and the caution about the tin-shortage reading; the lice comb; "alphabet" as ox and house; the closing house that mirrors Part 1.

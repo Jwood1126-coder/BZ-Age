@@ -1,9 +1,9 @@
 # Part 6 — The Slow Part
-## SEVENTH DRAFT — v0.7.1
+## SEVENTH DRAFT — v0.7.2
 **Date:** November 16, 2026
 **Status:** Draft-07, v0.7.1. The ChatGPT Round 1 review covered the draft-06 version of this part; its findings were checked against this rewrite (see notes). Opens on the grain letter, makes one announced step back to explain the system's confidence (Mitanni), then runs forward from the treaty of 1259 to about 1200. Title changed from "The Crisis Builds".
 **Driving questions:** How do you feed an empire when the rain stops? Who were the Sea Peoples? Could they have seen it coming? How does bad news travel?
-**Narration length:** 3,427 words (about 23 minutes at 150 words a minute)
+**Narration length:** 3,700 words (about 25 minutes at 150 words a minute)
 
 ---
 
@@ -20,6 +20,8 @@ It's an order. Ugarit is to provide a ship and a crew, at once, to carry two tho
 Think about who's writing. This is Hatti, the land of a thousand gods. Fifty years earlier its chariots nearly destroyed the king of Egypt at Kadesh. It's one of the two strongest states on Earth, and it's telling a harbor town that if a boat doesn't come, people are going to die.
 
 And the Egyptians knew. Around the same time the king of Egypt, who was the son of Ramses the Second, had it carved on a temple wall that he'd sent grain in ships "to keep alive the land of Hatti." Egypt is keeping its old enemy from starving, and bragging about it.
+
+It hadn't come out of nowhere. A generation earlier the Hittite queen, the one who told Ramses off by mail, wrote to him during the marriage talks to explain a delay. One of her reasons, mentioned almost in passing, was that she had no grain in her lands.
 
 So here's the first question. How does the greatest land power of the age end up begging for a boat?
 
@@ -59,7 +61,9 @@ Eat it, and you live until spring and have nothing to plant. Don't, and you may 
 
 Second question, then. How do you feed an empire when the rain stops?
 
-For a while, out of the bins. The Keeper has been storing grain for six thousand years and by now he's good at it. At the Hittite capital archaeologists found underground silos the size of swimming pools, sealed with clay, that could hold enough to feed the whole city for a year or more. That's what a state is for, in the end. It's your grandmother's grain bin, big enough to carry a country through a bad harvest.
+For a while, out of the bins. The Keeper has been storing grain for six thousand years and by now he's good at it. The Hittite capital sat on a rocky height in the middle of the Turkish plateau, more than three thousand feet up and a long way from any sea. Four miles of stone wall ran around it, with gates guarded by carved lions, and inside there were more than thirty temples. The winters are hard there, with snow on the ground for months. It's a fine place to defend and a poor place to feed.
+
+At that capital archaeologists found underground silos the size of swimming pools, sealed with clay, that could hold enough to feed the whole city for a year or more. That's what a state is for, in the end. It's your grandmother's grain bin, big enough to carry a country through a bad harvest.
 
 It can carry you through one. Maybe two. But a store only helps if good years come along to fill it again. If they don't, you're spending savings, and from the outside a household spending its savings looks exactly like a household doing fine. The house is the same, the meals are the same. Then one month the account is empty.
 
@@ -89,7 +93,7 @@ And there was trouble at sea.
 
 Third question. Who were the Sea Peoples?
 
-You've probably heard of them, since they're usually cast as the villains of this story: a wave of mysterious invaders who came out of nowhere and burned civilization down. I don't think that's what happened, and here's the detail that changed my mind.
+You've probably heard of them, since they're usually cast as the villains of this story: a wave of mysterious invaders who came out of nowhere and burned civilization down. That isn't what the evidence shows, and here's the detail that changed my mind.
 
 Go back to Kadesh. In the pictures Ramses had carved, there are soldiers standing right next to the king with round shields and helmets with horns on them. They're his bodyguard, and they're foreigners. The Egyptians called them Sherden. They'd come raiding the Egyptian coast early in his reign, he'd beaten them, and he'd signed up the survivors.
 
@@ -116,6 +120,12 @@ I don't think so, and it wasn't because they were stupid.
 They saw things. Poor harvests, raiders, a late shipment, a letter that never got an answer. Every one of those had happened before, in their fathers' time, and the world had come right. What they couldn't see was the whole of it, the entire arrangement of grain and tin and treaties and ships that I've spent three hours describing to you. Nobody had ever stood outside it. There wasn't a word for it. It's hard to notice that something is failing when you don't know it's a thing.
 
 And the system was hiding the damage. That's the cruel part. Every grain bin and every treaty was built to absorb shocks. So each shock got absorbed, and from the palace everything looked normal, right up until the stores were gone.
+
+Let me try a thought experiment, and it's only that. Suppose somebody did see it. Suppose you're an adviser to the Hittite king around 1230 and somehow you've grasped the whole picture. What do you tell him to do?
+
+Store more grain. They'd built the biggest silos in their history. Buy from abroad. They were doing it. Make peace with your great rival. They'd signed the most famous treaty of the ancient world. Squeeze the new threat without going to war. They'd tried an embargo. Keep the sea lanes open. Their last king is about to go and fight for them himself.
+
+Every sensible thing on that list, they did. That's what I find sobering. This wasn't a world that fell because the people running it were fools. They took the reasonable step each time, and each reasonable step leaned on some other part of the arrangement that was also in trouble.
 
 So if we go looking for the person who noticed, we don't find a prophet. We find an accountant.
 
@@ -195,8 +205,9 @@ The tree rings say what's coming next. Three thin ones in a row.
 
 ---
 
-## Revision notes — v0.7.1
+## Revision notes — v0.7.2
 
+- **Added after the writer's rulings of Nov 16 (v0.7.2):** Puduhepa's remark that she had no grain in her lands [sure in shape; paraphrased; check]; the capital described (over 3,000 ft; about four miles of wall; lion gate; more than thirty temples) [sure; check figures]; the adviser thought experiment (marked as such).
 - **Round 1 review (ChatGPT, Notion), checked against this rewrite:** P6-01 qualified (the part opens on a document, the grain letter, not on the abstract proposition). P6-02 resolved (the Kadesh/treaty king confusion is gone). P6-03 resolved (one announced step back). P6-04 accepted and fixed in v0.7.1 (the "wrong lesson" is the narrator's inference). P6-05 resolved in Part 5 (identity as majority view; plague origin attributed). P6-06 accepted and fixed in v0.7.1 (the three drought years are central Anatolia's; the authors' own caution is stated). P6-07 resolved (no annual treaty grain). P6-08 accepted and fixed in v0.7.1 (the storeroom clerk is marked as invented; the invented fraction is cut). P6-09 resolved (two group names only, introduced when they act). P6-10 resolved and tightened in v0.7.1 (coast-watch and rower lists are separate; the emergency reading is the narrator's, with the routine reading noted; the callback is to the desk, not the man). P6-11 qualified (the siege inference at Mycenae is kept as inference). P6-12 resolved (flagged as unprovable in the script). P6-13 accepted in part (the motive for the sea battles is now "my guess"). P6-14 resolved (no invented death window; no chariots or grandparents for Fu Hao).
 
 - **Structure:** cold open on the grain letter (c. 1220); one announced step back for Mitanni (1340s–1260s); then forward: drought, stores, transportees, the embargo of c. 1230, the sea raiders and 1208, the accountant, the merchants, the Greek walls and the last Pylos tablets, the Cyprus letter and the sea battles. The widow's letter and plague moved to Part 5. The treaty is not retold.

@@ -10,7 +10,7 @@ Every substantive change to the repo gets logged here.
 - **Length:** 39,650 words, about 4.4 hours (draft-06: 66,000). Part titles changed for Parts 4–9.
 - **Review exchange:** ChatGPT reviewed the prologue and Parts 1–4 of draft-07 (and the draft-06 Parts 5–6) in Notion. Of 55 numbered findings on Parts 0–4, 46 were accepted and 9 qualified; the revised files are v0.7.1 and each carries a disposition line per issue. Claude's Round 2 reply is posted as a child page of the review. Rules both reviewers settled on are in the brief's addendum. Parts 5–9 were written or adjusted to those rules; Parts 7–9 have not been externally reviewed.
 - **Not done:** no fact-check fleet has run on draft-07. Every part's revision notes list items marked `[check]`, and all paraphrased ancient speech is flagged. A quote ledger is queued. Source-map backfill remains queued.
-- **Open for the writer:** target length; whether "You are old" returns in another form; how much hedging belongs in narration (Claude and ChatGPT differ).
+- **The writer's rulings (same day, D-017), applied as v0.7.2:** length is whatever serves the story; the first household's ages are settled; caution only where evidence is thin, stated upfront, with occasional openly exploratory asides. v0.7.2 removes "I think" from solid claims, adds four marked what-if or imagined passages (Parts 5, 6, 7, 8), and adds scenes to the two thinnest parts (the Hittite capital and its queen's grain remark in Part 6; Ugarit's setting and Tiryns after the fire in Part 7; Khaemwaset in Part 5). Total 40,500 words, about 4.5 hours.
 
 ## 2026-11-16 — v1.7 — Full-manuscript editorial critique of draft-06 (notes only)
 

@@ -1,9 +1,9 @@
 # Part 5 — The Brotherhood of Kings
-## SEVENTH DRAFT — v0.7.1
+## SEVENTH DRAFT — v0.7.2
 **Date:** November 16, 2026
 **Status:** Draft-07, v0.7.1. The ChatGPT Round 1 review covered the draft-06 version of this part; its findings were checked against this rewrite (see notes). Opens on the shipwreck (c. 1300 BCE), makes one announced step back to 1350, then runs forward: the letters, Akhenaten, Tutankhamun, the widow's letter and the plague, iron, Kadesh, the treaty, and two short scenes at the peak. Title changed from "The Cosmopolitan Age".
 **Driving questions:** How do you sail without a compass? How do kings with no common language talk? How do you marry someone you've never seen? If iron is everywhere, why bronze?
-**Narration length:** 4,987 words (about 33 minutes at 150 words a minute)
+**Narration length:** 5,205 words (about 35 minutes at 150 words a minute)
 
 ---
 
@@ -145,6 +145,8 @@ Her reply came back in the spring, and you can still hear how insulted she was. 
 
 So he sent a son. And the prince died on the way. The Hittites said he was murdered, and they were probably right. There were men in Egypt who had no intention of taking orders from a foreigner, and one of them was on the throne within weeks.
 
+Let me stop for a what-if, because it's one of the great ones. Suppose the prince had arrived. A Hittite on the throne of Egypt, with his father ruling Turkey and Syria. The two strongest states in the world would have been joined in one family. Would it have held? I doubt it. Egypt's priests and generals would have had a foreign boy in their hands, a long way from home. But it's the nearest those two powers ever came to becoming one, and it turned on whether a young man survived a journey. Nobody can know how it would have gone. What we know is that he didn't arrive.
+
 The Hittite king went to war over it. He attacked Egyptian territory in Syria and marched his prisoners home.
 
 By the Hittites' own account, the prisoners were sick. Whatever they had spread through Turkey and it didn't stop. It killed the king. It killed his heir a year later. It was still killing people twenty years on, when a younger son was on the throne, and that son wrote a series of prayers that are among the most affecting things to come down to us from this age.
@@ -187,7 +189,7 @@ By the next day both armies were exhausted and neither could break the other. Ra
 
 So who won? If you go by the map, the Hittites did. If you go by the walls of Egypt, Ramses did, gloriously and by himself. He had the battle carved on at least five temples. In his version his troops ran away, he prayed to Amun, and then he charged the enemy alone and drove them into the river. He's shown thirty feet tall. The Hittites are the size of mice.
 
-He ruled for another sixty-one years and he never stopped telling that story. I think he's the greatest public relations man in history. He nearly got his army wiped out by believing two herders, and three thousand years later tourists stand in front of his version and take it for a victory.
+He ruled for another sixty-one years and he never stopped telling that story. He's the greatest public relations man in history. He nearly got his army wiped out by believing two herders, and three thousand years later tourists stand in front of his version and take it for a victory.
 
 Sixteen years after the battle the two kingdoms made peace, and it wasn't because they'd grown fond of each other. The Hittite king by then was the brother of the one who'd fought at Kadesh. He had taken the throne from his nephew, and the nephew had fled to Egypt. A man who's stolen a crown needs other kings to recognize him. And on the Hittites' eastern border, Assyria, the merchant city, had become an army.
 
@@ -196,6 +198,8 @@ So they signed a treaty. We have both copies, the Egyptian and the Hittite, and 
 The Hittite copy was sealed by two people, the king and the queen. Her name was Puduhepa and she's worth knowing. She ran the kingdom's correspondence alongside her husband and after him. When the peace was to be sealed with a marriage and Ramses complained that the bride and her dowry were slow in coming, she wrote back herself. I'll paraphrase. She asks him whether the king of Egypt owns nothing at all. She says that for him to squeeze her for more is beneath him.
 
 Ramses gave as good as he got. When the Hittite court asked him to send an Egyptian doctor to help the king's sister have a child, he replied, in effect: I know your sister. She's fifty. No, she's sixty. Nobody can make a medicine for that. But he'd send a doctor anyway.
+
+One of Ramses' sons spent those peaceful years on something unusual. His name was Khaemwaset, and he was high priest at the old capital in the north, within sight of the pyramids. By his day the pyramids were thirteen hundred years old. Their temples had fallen in and the sand was covering them. He had them cleared and repaired, and on each one he had the name of the king who built it carved again, so it wouldn't be lost. So here is a prince of the richest kingdom on Earth, at the height of its power, looking after the ruins of a golden age that came before his own.
 
 That's the peak. The two great powers are at peace, their rulers are teasing each other by mail, and a Hittite princess is on her way south with her escort.
 
@@ -249,8 +253,9 @@ The rain is about to change.
 
 ---
 
-## Revision notes — v0.7.1
+## Revision notes — v0.7.2
 
+- **Added after the writer's rulings of Nov 16 (v0.7.2):** the Zannanza what-if (marked as a what-if); Khaemwaset restoring the pyramids [carried from draft-06; "thirteen hundred years old" = c. 2560 to c. 1250].
 - **Round 1 review (ChatGPT, Notion), checked against this rewrite:** P5-01 already resolved (wooden boards, ivory hinge; ship established first). P5-02 already resolved (one announced step back, then forward). P5-03 resolved by removal (Thera is told in Part 4 without the Greenland claim). P5-04 qualified: the "two thousand years" superlative is gone; the table of powers is kept, with a fixed tag for each, because four of them act within the next three minutes. P5-05 accepted and fixed in v0.7.1 (Babylonian was a home language in Babylon and Assyria). P5-06 resolved (the daughters are told by relationship, without the three names). P5-07 resolved (classification dropped; narrator's view stated; Rib-Hadda's enemies corrected). P5-08 accepted and fixed in v0.7.1: the Pylos scene now says its evidence comes from the palace's last year and pictures "a clerk at that desk around 1250"; later parts return to the desk, not the man. P5-09 accepted ("twelve years" removed). P5-10 resolved here; Part 8 presents the tin-shortage reading as partial. P5-11 resolved (no Hittite battle report; sixty-one years). P5-12 resolved (one warning, at the end). Also fixed in v0.7.1: the widow's identity is given as the majority view; the plague's origin is attributed to the Hittite account.
 
 - **Structure:** cold open on the wreck (c. 1300), one announced step back to 1350, then forward in order to c. 1250. The widow's letter and the plague move here from Part 6. Kadesh is told as a battle and told once.

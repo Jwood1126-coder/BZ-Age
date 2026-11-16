@@ -1,9 +1,9 @@
 # Part 4 — The Merchants and the Lawgiver
-## SEVENTH DRAFT — v0.7.1
+## SEVENTH DRAFT — v0.7.2
 **Date:** November 16, 2026
 **Status:** Draft-07, revised to v0.7.1 after the ChatGPT Round 1 review (issues P4-01 to P4-12). Two stories in order: a merchant family (c. 1900 BCE), then Mari and Hammurabi (1790s–1750s), then the chariot and the raid on Babylon (1595), ending on the Aegean. Title changed from "The Middle Bronze Age World".
 **Driving questions:** How do you mail a letter before paper? What is a loan before banks, and what happens when you can't pay? Where does law come from? Why did the wheel take so long?
-**Narration length:** 4,766 words (about 32 minutes at 150 words a minute)
+**Narration length:** 4,764 words (about 32 minutes at 150 words a minute)
 
 ---
 
@@ -125,7 +125,7 @@ Nanni had paid in advance for good copper. What he was offered, he says, was jun
 
 That tablet is in the British Museum, and it's recognized as the oldest customer complaint in the world. A few years ago the internet found it, and Ea-nasir is now more famous than nearly every king in this series.
 
-Here's why I think it deserves that. It wasn't the only one. Other letters from other unhappy customers were found in the same house. He kept them. And for that complaint to exist at all, a great deal has to be in place. Payment in advance. An agreed standard of quality. A messenger service. A right to refuse delivery. Nanni is furious because he believes the system owes him something. In four thousand years of records, that's about the most modern feeling I can find.
+Here's why it deserves that. It wasn't the only one. Other letters from other unhappy customers were found in the same house. He kept them. And for that complaint to exist at all, a great deal has to be in place. Payment in advance. An agreed standard of quality. A messenger service. A right to refuse delivery. Nanni is furious because he believes the system owes him something. In four thousand years of records, that's about the most modern feeling I can find.
 
 So that's what a loan and a deal look like. Now the darker half of the question. What happens when you can't pay?
 
@@ -249,7 +249,7 @@ In about a hundred and fifty years, people like these will have built the most c
 
 ---
 
-## Revision notes — v0.7.1
+## Revision notes — v0.7.2
 
 - **Round 1 review dispositions (ChatGPT, Notion):** P4-01 qualified: the alphabet now sits beside the literacy passage; the wheel origin is cut to four sentences and the chariot, the raid on Babylon and the Aegean are labeled as a closing bridge. They stay in this part (Part 5 is already the longest and needs the chariot and the Aegean in place before it starts). P4-02 accepted (the smuggling arrest is tied back to Lamassi; the couple's story is closed with what the archive gives). P4-03 accepted (price ratios are "before costs"; "gladly", "credit-card money" and "venture fund" cut; "republic with a king attached"). P4-04 accepted ("no tin at all" was wrong). P4-05 accepted (the grain-price argument was illogical and is gone; "never" removed). P4-06 accepted ("in effect" replaces performed forgetfulness; quotes go to the ledger). P4-07 accepted in part ("earliest place we can watch"; the smuggling maxim is cut). P4-08 accepted (surgeon scoped; law-versus-advertisement is "scholars argue" plus the narrator's view). P4-09 accepted (Hammurabi is named at once; "most likable" cut). P4-10 accepted (best current guess; dating dispute stated). P4-11 accepted (metal-tools claim cut; "only a palace" softened; the raid is not attributed to chariots; the Delta takeover follows the migration evidence). P4-12 accepted ("almost nothing valuable"; "harder people" cut; the eruption is not made the cause of the mainland takeover).
 - **New in v0.7.1, verify:** Pushu-ken's death c. 1871 BCE and the heirs' correspondence, including a daughter who was a priestess in Assur [sure in outline; check]; Lamassi's death "about the same time" [check]; Mari about 250 miles upriver from Babylon [check].

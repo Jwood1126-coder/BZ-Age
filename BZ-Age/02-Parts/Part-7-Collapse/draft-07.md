@@ -1,9 +1,9 @@
 # Part 7 — The Collapse
-## SEVENTH DRAFT — v0.7.1
+## SEVENTH DRAFT — v0.7.2
 **Date:** November 16, 2026
 **Status:** Draft-07, v0.7.1 (written before the Round 1 review; not yet reviewed by ChatGPT). Spine: the last years of Ugarit told through its letters in order, then outward city by city (Emar, Hattusa, Pylos), then Egypt's victory and what followed it, then the accounting for each line of the family.
 **Driving questions:** Who did it? Why didn't the neighbors help? What happened to the people nobody wrote down?
-**Narration length:** 3,351 words (about 22 minutes at 150 words a minute)
+**Narration length:** 3,606 words (about 24 minutes at 150 words a minute)
 
 ---
 
@@ -15,7 +15,7 @@
 
 The last king of Ugarit was a young man named Ammurapi, and near the end he got a letter full of good advice.
 
-You know Ugarit. It's the port where we stood at the end of a working day, with four languages on the quay and a woman singing in a doorway. It wasn't a great power. It was a rich trading town of maybe eight thousand people, and it answered to the Hittites.
+You know Ugarit. It's the port where we stood at the end of a working day, with four languages on the quay and a woman singing in a doorway. It wasn't a great power. It was a rich trading town of maybe eight thousand people, on a low hill half a mile from the sea, with a palace of ninety rooms and its harbor in a bay of white cliffs just below. And it answered to the Hittites.
 
 By about 1190 BCE its king had been getting orders from his Hittite overlords for years. We have them. Send ships to carry grain. Send your soldiers to serve with our army. There's one where a Hittite official tells him off for not turning up in person, like a boss writing to an employee who's missed a meeting.
 
@@ -34,6 +34,12 @@ It's sound. It's also not much use, and the young king's reply explains why. We 
 Seven.
 
 Seven ships is perhaps three hundred men. A town of eight thousand, with one of the best harbors in the world, was being wrecked by three hundred men, because everyone who could fight was somewhere else, guarding somebody else's coast.
+
+Who were the men on those ships? The letter doesn't say. Ugarit's scribes knew the names of the sea raiders of their day, and they didn't use one. So this next bit is me imagining, and I want you to know that it is.
+
+Put yourself on one of those seven ships. The odds are you weren't born a pirate. Three years ago you had a farm, on an island or on the coast of Turkey, and it failed, the way farms were failing everywhere. You couldn't feed your children where you were. Somebody had a ship. And you've heard that the towns on the Syrian coast are rich and that their soldiers are away.
+
+I can't prove that's who they were. But it fits something we'll see carved on a wall in Egypt in a few minutes, and it's closer to the evidence than the old picture of a horde from nowhere.
 
 That's the answer to the second question I want to ask in this part, and I'll give it to you early. Why didn't the neighbors help? Because of how the whole thing was built. Ugarit's army was the Hittites' army. Its navy was the alliance's navy. The same arrangements that had made everyone rich had also scheduled everyone's soldiers to be far from home. When trouble came to every coast in the same years, each ally was waiting on the others.
 
@@ -109,6 +115,8 @@ And you remember what was in those accounts. Eight hundred men assigned to watch
 
 Somewhere on that shore was a man on a headland, with a handful of others, looking at the water. We don't know if he saw anything. The tablet says where he was posted. It doesn't say what came.
 
+The other Greek palaces went in the same decades. And there's a detail that complicates the picture of total ruin. At Tiryns, the one with the giant walls, the palace burned. But the town below it grew afterward. People moved in from the countryside and put up new houses in rows under the old citadel. They never rebuilt the palace, and they kept no accounts. They went on living there, without a king, for another hundred years.
+
 [VISUAL: Relief — Medinet Habu: the sea battle; then the land battle with ox-carts carrying women and children. Date card: 1177 BCE.]
 
 Now Egypt, because Egypt is where the wave finally broke.
@@ -153,7 +161,7 @@ That king of Elam liked souvenirs. He carried home the great monuments of Iraq's
 
 That's why Hammurabi's pillar was found in Iran. The first two empires of this story ended up as loot from the wreck of the third, side by side in the same storeroom. They're still side by side, in the same room in Paris.
 
-So who did it? I think that's the wrong kind of question, the kind that looks for one culprit. The drought was real. The raiders were real. There were earthquakes, and revolts, and kings who made bad decisions. Any one of those, a healthy world could have taken. The horse kingdom's fall proved it.
+So who did it? That's the wrong kind of question, the kind that looks for one culprit. The drought was real. The raiders were real. There were earthquakes, and revolts, and kings who made bad decisions. Any one of those, a healthy world could have taken. The horse kingdom's fall proved it.
 
 What killed this world is that the parts had come to depend on each other so completely that they couldn't fail one at a time. A palace needed its smiths, the smiths needed ships, the ships needed safe harbors, the harbors needed armies, and the armies needed grain. Pull one out in a bad decade and the rest went down in order. The thing that made them rich is the thing that made the fall total.
 
@@ -211,6 +219,7 @@ Next time, the world afterward. I'd always heard it called a dark age. I'm not s
 
 ## Revision notes — v0.7
 
+- **Added after the writer's rulings of Nov 16 (v0.7.2):** Ugarit's setting (palace of about ninety rooms; the harbor at Minet el-Beida, "white harbor") [sure; "half a mile" check]; the imagined man on the raiders' ship (marked as imagination, twice); Tiryns' lower town growing after the palace burned [sure].
 - **Structure:** Ugarit's end told in letter order (overlord's demands, the sighting, Cyprus's advice, the king's reply), then the kiln correction in one paragraph, then the ground evidence and the song. Then "who did it": the fifty-year patchwork and Millek's audit, and three cities (Emar, Hattusa, Pylos). Then Egypt in order (1177, the strike of c. 1157, the murder), Elam's sack of Babylon, the verdict, and the five lines of the family.
 - **Cut:** the long opening on the historiography of the kiln; Schaeffer's four decades; the second telling of Cline's "perfect storm"; the Drews section (now two sentences); the roll-call built on invented descendants (replaced by the five lines, with the Carrier-as-raider point flagged as the narrator's suspicion); the "hundreds of thousands" death estimate; the second Egypt section; the generic harbor snapshot; the "release" seed (argued once, in Part 8).
 - **New:** Ammurapi named; the Cypriot king's advice; "seven ships" translated into men; hoards under the floors; the children's footprints at Emar; the cousins at Carchemish taking the vacant title; Ramses III's inscription quoted; the ox-carts; the strike, the tomb robberies and the CT scan; Elam's sack of Babylon and the two stelae together in the Louvre.

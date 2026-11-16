@@ -1,9 +1,9 @@
 # Part 1 — Before Bronze
-## SEVENTH DRAFT — v0.7.1
+## SEVENTH DRAFT — v0.7.2
 **Date:** November 16, 2026
 **Status:** Draft-07, revised to v0.7.1 after the ChatGPT Round 1 review (issues P1-01 to P1-12; dispositions at the end of the notes). One household; one announced step back to about 12,000 years ago, then forward to 3200 BCE.
 **Driving questions:** Why would anybody start farming? How does someone work out that metal comes from rock? Who was the first person to own something?
-**Narration length:** 4,347 words (about 29 minutes at 150 words a minute)
+**Narration length:** 4,348 words (about 29 minutes at 150 words a minute)
 
 ---
 
@@ -61,7 +61,7 @@ Everything I'm going to tell you for the next several hours grows out of this ro
 
 Twelve thousand years ago, nobody farmed. People had been hunting animals and gathering wild plants for a couple of hundred thousand years, and it worked. So here's the first simple question. Why would anybody stop?
 
-The usual guess is hunger. There got to be too many people, the game thinned out, and farming was the hard thing folks were forced into. That's reasonable, and where farming first took hold, I think it's wrong.
+The usual guess is hunger. There got to be too many people, the game thinned out, and farming was the hard thing folks were forced into. That's reasonable, and where farming first took hold, it doesn't fit the evidence.
 
 In the 1960s an American crop scientist named Jack Harlan went to the hills of southeastern Turkey, where wild wheat still grows in thick stands the way it always has. He made himself a Stone Age sickle, a flint blade in a wooden handle, and he went out and harvested the wild stuff by hand and timed himself. He'd never done it before. He got about two pounds of clean grain an hour. He did the arithmetic and published it: a family working those hillsides for three weeks, at the right time of year, without killing themselves, could bring in more grain than they could eat in twelve months.
 
@@ -217,7 +217,7 @@ It's going to be loud.
 
 ---
 
-## Revision notes — v0.7.1
+## Revision notes — v0.7.2
 
 - **Round 1 review dispositions (ChatGPT, Notion):** P1-01 accepted ("you" are thirty; the grandmother is near seventy; "you are old" is cut). P1-02 accepted (six people, five kinds of work; the sister is the boy's mother and works beside the Farmer). P1-03 accepted (the sister has other work and a skill she is proud of; the counting is taught). P1-04 accepted ("12,000 years ago" used consistently; the promise of a strict straight line is dropped). P1-05 accepted (raids exist; what is missing is the office of tax and conscription). P1-06 accepted (grain as the first wealth that can be collected in bulk; "it didn't have to happen"). P1-07 accepted (processing labor added to Harlan). P1-08 accepted (domesticated crops versus tended wild stands; no workforce number). P1-09 qualified (the "trap" stays as the narrator's stated view; the bone evidence is scoped to "many regions", with one sentence on the exceptions). P1-10 accepted (later Jericho; Çatalhöyük co-burial of unrelated people). P1-11 accepted (hammering is metalworking; temperature corrected; the smith is part-time first). P1-12 accepted (several rich graves at Varna; Varna is not the family; plow multiplier cut; the move to southern Iraq is spoken).
 

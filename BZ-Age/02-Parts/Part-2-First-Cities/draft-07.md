@@ -1,9 +1,9 @@
 # Part 2 — The First Cities
-## SEVENTH DRAFT — v0.7.1
+## SEVENTH DRAFT — v0.7.2
 **Date:** November 16, 2026
 **Status:** Draft-07, revised to v0.7.1 after the ChatGPT Round 1 review (issues P2-01 to P2-12). One spine: a load of barley followed from the field to the tablet. Royal Tombs of Ur moved here from Part 3.
 **Driving questions:** Why is every first city on a river? What do you buy things with before money? Why does a city need writing? Why would anyone agree to have a king?
-**Narration length:** 4,908 words (about 33 minutes at 150 words a minute)
+**Narration length:** 4,906 words (about 33 minutes at 150 words a minute)
 
 ---
 
@@ -119,7 +119,7 @@ Now. The man on the quay with the wet clay.
 
 [VISUAL: Sequence — clay tokens (cones, spheres); a hollow clay ball with tokens inside; the same ball with marks pressed on the outside; a flat tablet with the same marks.]
 
-Third question. Why does a city need writing? You'd think writing was invented to record stories, or prayers, or the deeds of kings. It wasn't, and I think the true answer is better.
+Third question. Why does a city need writing? You'd think writing was invented to record stories, or prayers, or the deeds of kings. It wasn't, and the true answer is better.
 
 Remember the boy with the pebbles, one for each sheep. By now his line keeps the storehouse records with little clay tokens. A cone means a small measure of grain. A ball means a big one. A cylinder is an animal. If a farmer owes the temple five measures, you set five cones aside for him.
 
@@ -237,7 +237,7 @@ Then comes a man from the north. A much later legend says he started life as a b
 
 ---
 
-## Revision notes — v0.7.1
+## Revision notes — v0.7.2
 
 - **Round 1 review dispositions (ChatGPT, Notion):** P2-01 accepted (these are later people doing the same kinds of work, said aloud). P2-02 qualified: the river-freight argument and the donkey arithmetic stay, scoped to "the first big cities of the ancient world" and with irrigation as village work first; "a well almost anywhere" and the two-week limit are cut. P2-03 accepted (anonymity as the narrator's view, not a world first). P2-04 accepted in part (payroll claims softened; the weaving-shed scale is placed "in the centuries to come"). P2-05 accepted: the Great Lakes answer is now about what an institution can collect, not what can be stored; Cahokia is "a second case that points the same way". P2-06 accepted (ration bowl as the leading reading; "first mass-produced object" cut; trade outside the ration acknowledged). P2-07 accepted (numbers solid, other signs argued). P2-08 accepted (the "every word ever written" line was false; Kushim hedged). P2-09 accepted (the school is a signposted jump ahead; nobody in Uruk had minutes; the vase shows what people were told). P2-10 accepted (the pit has no chamber; the two skulls come from two graves). P2-11 accepted. P2-12 accepted (Indus dated later; Egypt's early rivalries; "one in a hundred" cut; the basket is a later legend; Sargon's predecessors acknowledged).
 

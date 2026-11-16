@@ -1,9 +1,9 @@
 # Part 3 — The First Empires
-## SEVENTH DRAFT — v0.7.1
+## SEVENTH DRAFT — v0.7.2
 **Date:** November 16, 2026
 **Status:** Draft-07, revised to v0.7.1 after the ChatGPT Round 1 review (issues P3-01 to P3-12). Told in order from Sargon's rise to the fall of Ur, with Enheduanna as the witness who lives through most of it and one marked side trip to Egypt.
 **Driving questions:** What is an empire, and how is it different from a big city? How do you run a place you've never seen? Can a living man be a god? Why do empires fall?
-**Narration length:** 4,459 words (about 30 minutes at 150 words a minute)
+**Narration length:** 4,455 words (about 30 minutes at 150 words a minute)
 
 ---
 
@@ -125,7 +125,7 @@ One of those poems tells the story. In it she says the rebel has driven her out 
 
 It worked, or something did. Her nephew crushed the revolt, the rebel was removed, and she went back to her temple and wrote more.
 
-I think she's one of the most remarkable people in this whole story. She was put in that temple as a tool, and she knew it. And she turned out to be the first writer we know of who signed her work and spoke in it as herself.
+She's one of the most remarkable people in this whole story. She was put in that temple as a tool, and she knew it. And she turned out to be the first writer we know of who signed her work and spoke in it as herself.
 
 That's the last we see of her. The rest of this hour happens after her time.
 
@@ -195,7 +195,7 @@ It didn't keep the nomads away.
 
 From inside, a betrayal. Under the last king of Ur, the harvests failed and the price of grain in the capital went up sixty times over. The king sent one of his senior officials north with a boatload of silver to buy grain. The official bought it. Then he wrote back that the roads were too dangerous to ship it, and he'd need to be made governor of the city he was in to keep it safe. And then of the next city. Within a few years he was a king, and Ur's grain was his.
 
-We have the letters, in copies made later. The king of Ur complaining that his own official is starving him. I think it's one of the most revealing exchanges in this period, because it shows you how an empire dies. It doesn't die when the enemy shows up. It dies when the grain stops moving toward the middle.
+We have the letters, in copies made later. The king of Ur complaining that his own official is starving him. It's one of the most revealing exchanges in this period, because it shows you how an empire dies. It doesn't die when the enemy shows up. It dies when the grain stops moving toward the middle.
 
 The enemy showed up anyway. In 2004 BCE an army from Elam, the kingdom in the hills of southwestern Iran, came down and sacked Ur. They looted the temple of the moon, where Enheduanna had lived. They took the last king away in chains, and he died in Iran.
 
@@ -223,7 +223,7 @@ For the next couple of centuries nobody holds the whole plain. There are rival k
 
 ---
 
-## Revision notes — v0.7.1
+## Revision notes — v0.7.2
 
 - **Round 1 review dispositions (ChatGPT, Notion):** P3-01 accepted (Enheduanna carries the Akkadian half only and is retired aloud). P3-02 accepted (the legend is labeled before the quotation; the reading of the name is "I think"). P3-03 accepted (scoped to this plain; "ruled from Akkad"; Lugalzagesi acknowledged without the name). P3-04 accepted (attribution and the 500-year gap to the copies are stated, with the narrator's position; the age is cut). P3-05 accepted. P3-06 accepted (the Curse is a later poem; the death scene is cut). P3-07 qualified: the joint collapse stays as the narrator's stated view with the dating caveat attached; "thirty bad years" is fixed. P3-08 accepted (conscripted crews, not a modern job). P3-09 accepted. P3-10 accepted. P3-11 accepted (the closing line now names what changes for the Farmer; the unsupported "I've never found" is replaced). P3-12 accepted.
 

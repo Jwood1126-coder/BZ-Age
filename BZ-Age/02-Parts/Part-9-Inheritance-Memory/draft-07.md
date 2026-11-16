@@ -1,9 +1,9 @@
 # Part 9 — What Survived
-## SEVENTH DRAFT — v0.7.1
+## SEVENTH DRAFT — v0.7.2
 **Date:** November 16, 2026
 **Status:** Written to the draft-07 brief and to the rules agreed in the Round 1 / Round 2 review exchange (spoken orientation, names introduced by category and place, attribution in the sentence, the narrator's views labeled, the five kinds of work not treated as a bloodline). In order: Homer and Troy (c. 750 BCE), Nestor's cup (c. 730), the Assyrian library (c. 650 to 401), the Bible, the decipherers (1822 to 1953), clay, the answer, and the Indus script. Title changed from "Inheritance and Memory".
 **Driving questions:** Was the Trojan War real? How do we know any of this? How do you read a language nobody speaks? What did we inherit?
-**Narration length:** 4,217 words (about 28 minutes at 150 words a minute)
+**Narration length:** 4,215 words (about 28 minutes at 150 words a minute)
 
 ---
 
@@ -91,7 +91,7 @@ It waited another twenty-two hundred years.
 
 Before I tell you how we got it back, there's one inheritance that never had to be dug up, because people never stopped reading it.
 
-I want to go carefully here. The Hebrew Bible is sacred to a great many people, and I'm talking about history, which is a different conversation from faith. But as history, I think it's the Bronze Age's largest surviving heir, and most people who read it don't know that.
+I want to go carefully here. The Hebrew Bible is sacred to a great many people, and I'm talking about history, which is a different conversation from faith. But as history, it's the Bronze Age's largest surviving heir, and most people who read it don't know that.
 
 You've met the pieces already in this series.
 
@@ -249,7 +249,7 @@ Somewhere there's a mound nobody has dug, with a library in it nobody can read y
 
 ---
 
-## Revision notes — v0.7.1
+## Revision notes — v0.7.2
 
 - **Structure:** in time order. Homer (c. 750), Troy and the Hittite letters, Nestor's Cup (c. 730), Ashurbanipal's library to Xenophon (c. 650 to 401), the Bible as heir, then the decipherments in order (1822; 1835–1857; the Nineveh digs and George Smith, 1872; Hittite, 1915; Linear B, 1952–53), clay and the Domesday discs, the answer to the prologue's question, and the Indus script as the last word.
 - **Cut from draft-06:** "the Hittites didn't even get a distortion" (contradicted by the series' own Carchemish material and by the Wilusa letters); the abstract closing snapshot of an unnamed Iron Age scribe (replaced by Nestor's Cup); "his neighbor can probably write"; the claim that the Bible's Hittites were dismissed by scholars; Hrozný's hotel room; "over thirty years later" for Smith; the second covenant passage; della Valle; two of the three endings.
