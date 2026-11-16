@@ -2,7 +2,7 @@
 ## SEVENTH DRAFT — v0.7.4
 **Date:** November 16, 2026
 **Status:** ChatGPT implementation of the editorial review and Jacob's selective scene-setting direction. Source version ef7b943; changed passages and continuity corrected. Not a final recording clearance or an exhaustive fact check.
-**Narration length:** 1,594 words (about 11 minutes at 150 words a minute)
+**Narration length:** 1,410 words (about 9 minutes at 150 words a minute)
 
 ---
 
@@ -24,23 +24,19 @@ Xenophon lived, and years later he wrote the whole march down. That's how we kno
 
 [VISUAL: Illustration — a ruined mud-brick city wall on a stone base beside a river, villages and fields nearby, a column of soldiers small in the foreground. Scale diagram: 100 feet against a ten-story building.]
 
-This was river country, with fields and villages. Among them the army passed the remains of a much larger place, a city Xenophon calls deserted.
+The Greeks reach the Tigris and find an immense wall beside it. Xenophon puts it at a hundred feet high, roughly the height of a ten-story building, and twenty-five feet thick. Clay brick rests on stonework that he says rises twenty feet from the ground. He calls the city deserted.
 
-He describes a wall of clay brick on a stone base. He puts it at a hundred feet high and twenty-five feet thick. A hundred feet is roughly a ten-story building. Those are his reported dimensions, not a modern survey, but the impression is unmistakable: an enormous amount of building still stood above him. Nearby was a tall stone structure he calls a pyramid. People from the surrounding villages had climbed onto it to get away from the passing army.
+But there are people nearby. Villagers have fled to a tall stone structure he calls a pyramid, taking refuge as the army passes. Beside the deserted city, people are still finding somewhere to shelter.
 
-What would the ruined city actually have looked like? We have to imagine some of that. Don't picture clean archaeological foundations with paths between them. Picture fallen brick gathering against the foot of a wall, its upper edges worn into irregular shapes. Where roofs had burned or fallen, rain could get into rooms that had once been protected. Mud brick can stand for centuries when it is maintained; left exposed, it gradually washes and crumbles back into earth. Stone footings can keep their outline after much of the building above them has gone.
-
-And the wood? Some may have burned in the city's destruction. Useful beams and doors could have been carried away. Other timber could decay, while buried or charred fragments survived. A dry summer doesn't preserve an entire city like a sealed tomb. This landscape has wet seasons too. We can't reconstruct the condition of each house on the day Xenophon passed, but a standing wall did not mean that a habitable city remained behind it.
-
-A day's march later the Greeks reached another deserted stronghold, larger than the first. Here Xenophon noticed shells in the dressed stone at the base of the wall.
-
-Did he go inside? His account gives us no tour of the streets or houses. Nor does it name the people from whom he obtained the stories he records. We shouldn't turn that brief passage into an interview with the last inhabitants. We do know there were people living in the surrounding country; the villagers seeking shelter are right there in his account.
+A day's march farther on stands another ruined stronghold. Here he notices shells in the dressed stone beneath the brickwork. Walls, stone, the marks of enormous labor. What reaches us through his account is easier to picture than to explain.
 
 The stories are strange. The first city, he says, had belonged to the Medes, a people from the Iranian mountains. A Persian king had failed to take it until a cloud hid the sun and its defenders lost heart. The second city had a similar story, this time with thunder from Zeus. Xenophon recorded them and continued the march. He had an army to get home.
 
 [VISUAL: Map — Nimrud and Nineveh marked on the Tigris; the Assyrian Empire at its height shaded from western Iran to Egypt.]
 
-Scholars are fairly sure what he'd walked past. The first ruin was a city we call Nimrud. The second was Nineveh.
+Scholars are fairly sure what he'd walked past. The first ruin was a city we call Nimrud, where palaces had burned about two centuries before his march. The second was Nineveh.
+
+Think of the difference two thousand more years makes. Xenophon describes walls still towering above him, only about two centuries after the Assyrian capitals fell. Much of what we know of their palaces today had to be dug out of mounds. Nineteenth-century excavators tunnelled into them and followed buried walls lined with carved stone. He was looking up at ruins; they were digging down to reach them.
 
 Nineveh had been a capital of Assyria, a kingdom centered on the Tigris River in what is now northern Iraq. Its kings conquered far beyond that homeland, reaching into Egypt. Nineveh became one of the great cities of the ancient world, a place of palaces, temples, and royal administration. The ruins belonged to a power that had once commanded much of the country through which these Greeks were struggling.
 
@@ -50,7 +46,7 @@ That was two hundred and eleven years before Xenophon came by. From us, two hund
 
 But look at the stories Xenophon records. They have Medes in them, and Persians, and a thunderstorm. They don't identify the Assyrian kings who had made these cities great. An educated Greek was passing the remains of an immense empire, and his account preserved a very incomplete explanation of what he saw.
 
-That tells us something about the account, not everything about what people along the river remembered. Some knowledge and settlement survived the empire. What unsettles me is the gap: the masonry remained visible long after an accurate history of it had become difficult for this traveler to obtain.
+The villagers still had homes along that river. But the Assyrian kings are missing from what he wrote. Their walls are still there. Their names are not.
 
 And Assyria isn't even what this series is about.
 
@@ -91,6 +87,13 @@ We are before the great cities and written archives of this story. There's a sma
 ---
 
 ## Revision notes — v0.7.4
+
+### Storytelling continuation, pending QA
+- Replaced spoken ruins FAQ with the source-supported sequence: march to Tigris, reported wall dimensions/material, neighboring villagers seeking refuge, next ruined stronghold and shell-bearing masonry. No invented house tour, roof condition, interview, desert landscape or contrast with supposedly unfamiliar Persian monumentality. Xenophon had already described the Median Wall earlier in his narrative.
+- Xenophon's figures remain explicitly his report, not modern measurements. Foundation height is not added to the wall height to manufacture a new total. Source: *Anabasis* 3.4.7–11, Carleton L. Brownson translation, https://cts.perseids.org/read/greekLit/tlg0032/tlg006/perseus-eng2/3.4.1-3.4.20 .
+- Nimrud palace destruction and post-Assyrian evidence: https://oracc.museum.upenn.edu/nimrud/ancientkalhu/thecity/latekalhu/index.html . Surrounding villagers are directly attested; no claim that the city was continuously inhabited at401 BCE. Do not infer universal loss of local memory from one Greek travel account.
+- Method: research broadly; narrate only details that help listeners picture the situation, follow the action or understand the stakes. Keep unused research/evidence limits in notes rather than reading a checklist aloud.
+
 
 - Finishing pass after v0.7.3: version and assembly synchronization; no new narration changes in this section.
 - See `04-Working-Notes/draft-07-v0.7.4-applied.md`. Prior verification limits remain; this is not a final recording clearance.

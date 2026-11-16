@@ -3,7 +3,7 @@
 **Date:** November 16, 2026
 **Status:** ChatGPT implementation of the editorial review and Jacob's selective scene-setting direction. Source version ef7b943; changed passages and continuity corrected. Not a final recording clearance or an exhaustive fact check.
 **Driving questions:** Why would anybody start farming? How does someone work out that metal comes from rock? Who was the first person to own something?
-**Narration length:** 4,420 words (about 29 minutes at 150 words a minute)
+**Narration length:** 4,398 words (about 29 minutes at 150 words a minute)
 
 ---
 
@@ -37,7 +37,7 @@ There's your brother, and he isn't here. Eleven days ago he walked north with tw
 
 And there's your cousin in the corner, already up, already chipping at a piece of flint. He's the one who makes the sickle blades, fixes the handles, and knows which rock breaks clean. He farms like everyone else. He's just better with his hands than you are.
 
-And there's your sister, the boy's mother. She works the field beside you at harvest and does much of the work that keeps the household fed. Right now she's on her knees at the grinding stone, pushing one rock across another to turn grain into meal. Fine dust gathers around the stone. This is one long task in a day that also includes cooking and other work, not the only thing she ever does. She's the best baker in the village and she knows it. You've stopped hearing the scrape.
+And there's your sister, the boy's mother. She works the field beside you at harvest and does much of the work that keeps the household fed. This morning she's on her knees at the grinding stone, pushing one rock across another to turn grain into meal. Fine dust gathers around the stone. She's the best baker in the village and she knows it. You've stopped hearing the scrape.
 
 [VISUAL: Simple illustration — one-room mud-brick house in cutaway, five figures, grain bins at the back, a grinding stone.]
 

@@ -3,7 +3,7 @@
 **Date:** November 16, 2026
 **Status:** ChatGPT implementation of the editorial review and Jacob's selective scene-setting direction. Source version ef7b943; changed passages and continuity corrected. Not a final recording clearance or an exhaustive fact check.
 **Driving questions:** What is an empire, and how is it different from a big city? How do you run a place you've never seen? Can a living man be a god? Why do empires fall?
-**Narration length:** 4,326 words (about 29 minutes at 150 words a minute)
+**Narration length:** 4,221 words (about 28 minutes at 150 words a minute)
 
 ---
 
@@ -117,15 +117,11 @@ In Egypt, yes, and we'll get there in a minute. In Iraq it was new, and it was s
 
 Naram-Sin had just said the rule didn't apply to him.
 
-The poetry attributed to Enheduanna also tells a story of political violence at Ur. Its speaker says a rebel has forced her from her religious office. We cannot turn all its details into a securely dated eyewitness account of Naram-Sin's revolt, but we can hear how it presents the experience of losing power.
+One of the poems speaks of political violence at Ur. Its speaker has been driven from her religious office by a rebel. The royal daughter who stood beside the altar is now pleading to be let back in.
 
-The voice in the poem is no longer simply a royal daughter occupying an important office. She is someone pleading for that position and her good name to be restored. The institution that made her powerful has also made her vulnerable.
+She says she's been made to fly like a swallow from the window. She says "my good name is destroyed." And then, in the middle of a hymn to a goddess, the speaker names herself. She says: "I am Enheduanna. Let me speak to you."
 
-One of those poems tells the story. In it she says the rebel has driven her out of the temple, that she's been made to fly like a swallow from the window. She says "my good name is destroyed." And then, in the middle of a hymn to a goddess, the speaker names herself. She says: "I am Enheduanna. Let me speak to you."
-
-The poem presents a restoration of her position. That is the story the work tells; the political sequence behind it is less certain.
-
-What holds my attention is the combination: a real royal daughter in a powerful religious office, and a later literary tradition that speaks in her name with extraordinary force. We don't need to know every stage of that tradition to hear a person rather than another total of barley.
+The poem carries her through that humiliation to the restoration of her position. What holds my attention is the voice: someone who had power, lost it, and wants us to hear what that felt like. Centuries of copying kept that voice alive.
 
 That's the last we see of her. The rest of this part happens after her time.
 

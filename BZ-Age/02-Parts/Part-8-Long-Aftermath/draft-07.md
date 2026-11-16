@@ -3,7 +3,7 @@
 **Date:** November 16, 2026
 **Status:** ChatGPT implementation of the editorial review and Jacob's selective scene-setting direction. Source version ef7b943; changed passages and continuity corrected. Not a final recording clearance or an exhaustive fact check.
 **Driving questions:** How do you forget how to read? Why didn't they just rebuild? Was the dark age dark? Where does the alphabet come from?
-**Narration length:** 3,677 words (about 25 minutes at 150 words a minute)
+**Narration length:** 3,585 words (about 24 minutes at 150 words a minute)
 
 ---
 
@@ -137,17 +137,15 @@ In the Bible, the Philistines become some of Israel's great rivals: the people o
 
 Now the Maker, because he's found something to do.
 
-A smith in a disrupted community may have difficulty obtaining familiar supplies. Some bronze production and trade continue, especially in places such as Cyprus. The question is why iron becomes more widely useful alongside them, not how every smith instantly replaces a metal that has disappeared.
+On Cyprus, the copper island, smiths had known iron for a long time as a curiosity. In the 1100s they begin making useful blades from it. Look at one of the knives: an iron blade, held to its handle with bronze rivets. The old metal and the new one in the same object.
 
-On Cyprus, the copper island, the smiths had known about iron for a long time as a curiosity. In the 1100s they start making real tools out of it. The earliest ones are a nice thing to look at: knives with an iron blade, held to the handle by bronze rivets. It's the old metal and the new one in the same object.
+That knife belongs to a gradual change, not a sudden replacement. Cyprus still made and traded bronze. But iron offered another possibility. Its ores were more widely available than tin, the ingredient bronze makers so often had to bring from far away.
 
-Disruption to supplies is one proposed part of the story, but it cannot explain the whole transition. Iron ores are more widely available than tin, while turning them into dependable tools demands fuel, furnaces, skill, and repeated work. Craftspeople in different places solve those problems at different times. A nearby ore deposit helps; it does not make a working iron industry appear by itself.
+Ore was only the beginning. A smith needed fuel, a furnace, and the skill to turn the material into a dependable edge. Early iron could be worse than good bronze. Heating it in contact with charcoal could add carbon; controlled heating and cooling could produce and harden steel. Learning to manage those changes took practice. Craftspeople in different places mastered them at different times.
 
-Early iron was not automatically better than good bronze. Heating iron in contact with charcoal can add carbon; controlled heating and cooling can then produce and harden steel. Simply plunging any piece of hot iron into water does not guarantee a superior blade. This is knowledge built through practice, and its adoption is uneven rather than one invention arriving everywhere in a particular year.
+For a farming household, the change eventually reached the tools in its hands. More sources of workable metal meant more possibilities for making and replacing a blade. A disrupted bronze supply may have encouraged experiments in some places, but supplies, skill, and local circumstances all mattered. This took generations.
 
-Over time, wider iron production changes the tools a farming household can obtain. That matters enormously. It does not mean bronze had belonged only to kings, or that every village suddenly possessed an independent smith with all the ore and fuel he needed.
-
-That is the answer I can defend: changing supply networks, accumulated technical skill, and the wider usefulness of a different metal. The transition took generations. The name Iron Age makes it sound like a switch being thrown; the objects show people working across the change.
+The name Iron Age makes it sound like a switch being thrown. The bronze rivets in that iron knife show people working across the change.
 
 [VISUAL: Sequence — the ox-head sign from Sinai; the Phoenician letter aleph; the Greek alpha; the Latin A. Then the same for house, bet, beta, B. Object: the inscribed ivory comb from Lachish.]
 

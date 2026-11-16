@@ -3,7 +3,7 @@
 **Date:** November 16, 2026
 **Status:** ChatGPT implementation of the editorial review and Jacob's selective scene-setting direction. Source version ef7b943; changed passages and continuity corrected. Not a final recording clearance or an exhaustive fact check.
 **Driving questions:** How do you mail a letter before paper? What is a loan before banks, and what happens when you can't pay? Where does law come from? Why did the wheel take so long?
-**Narration length:** 4,834 words (about 32 minutes at 150 words a minute)
+**Narration length:** 4,824 words (about 32 minutes at 150 words a minute)
 
 ---
 
@@ -17,7 +17,7 @@ A woman is writing to her husband, and she's annoyed.
 
 He's far away, doing business in another country. The cloth she makes travels out to him with the caravans; complaints come back. The pieces are too small. The quality isn't right. She has some answers for him.
 
-Her replies survive. In one letter she discusses the size of the pieces and how much wool she has put into them. In another, she wants to know who is in his house finding fault with her cloth. These are separate letters, but the frustration runs through them. She is managing the work at home, and the man abroad keeps sending instructions.
+Her replies survive. In one letter she discusses the size of the pieces and how much wool she has put into them. In another, she wants to know who is in his house finding fault with her cloth. She is managing the work at home, and the man abroad keeps sending instructions.
 
 Her name is Lamassi. His is Pushu-ken. They lived about three thousand nine hundred years ago, and we have dozens of their letters, and those are the first private voices in this story. Up to now, everything I've read you was written by a temple or a king. This is a married couple arguing about work.
 

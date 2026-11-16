@@ -14,21 +14,17 @@ It went badly. The prince was killed in the battle. Then the Greek commanders we
 
 Xenophon lived, and years later he wrote the whole march down. That's how we know what he saw on the way.
 
-This was river country, with fields and villages. Among them the army passed the remains of a much larger place, a city Xenophon calls deserted.
+The Greeks reach the Tigris and find an immense wall beside it. Xenophon puts it at a hundred feet high, roughly the height of a ten-story building, and twenty-five feet thick. Clay brick rests on stonework that he says rises twenty feet from the ground. He calls the city deserted.
 
-He describes a wall of clay brick on a stone base. He puts it at a hundred feet high and twenty-five feet thick. A hundred feet is roughly a ten-story building. Those are his reported dimensions, not a modern survey, but the impression is unmistakable: an enormous amount of building still stood above him. Nearby was a tall stone structure he calls a pyramid. People from the surrounding villages had climbed onto it to get away from the passing army.
+But there are people nearby. Villagers have fled to a tall stone structure he calls a pyramid, taking refuge as the army passes. Beside the deserted city, people are still finding somewhere to shelter.
 
-What would the ruined city actually have looked like? We have to imagine some of that. Don't picture clean archaeological foundations with paths between them. Picture fallen brick gathering against the foot of a wall, its upper edges worn into irregular shapes. Where roofs had burned or fallen, rain could get into rooms that had once been protected. Mud brick can stand for centuries when it is maintained; left exposed, it gradually washes and crumbles back into earth. Stone footings can keep their outline after much of the building above them has gone.
-
-And the wood? Some may have burned in the city's destruction. Useful beams and doors could have been carried away. Other timber could decay, while buried or charred fragments survived. A dry summer doesn't preserve an entire city like a sealed tomb. This landscape has wet seasons too. We can't reconstruct the condition of each house on the day Xenophon passed, but a standing wall did not mean that a habitable city remained behind it.
-
-A day's march later the Greeks reached another deserted stronghold, larger than the first. Here Xenophon noticed shells in the dressed stone at the base of the wall.
-
-Did he go inside? His account gives us no tour of the streets or houses. Nor does it name the people from whom he obtained the stories he records. We shouldn't turn that brief passage into an interview with the last inhabitants. We do know there were people living in the surrounding country; the villagers seeking shelter are right there in his account.
+A day's march farther on stands another ruined stronghold. Here he notices shells in the dressed stone beneath the brickwork. Walls, stone, the marks of enormous labor. What reaches us through his account is easier to picture than to explain.
 
 The stories are strange. The first city, he says, had belonged to the Medes, a people from the Iranian mountains. A Persian king had failed to take it until a cloud hid the sun and its defenders lost heart. The second city had a similar story, this time with thunder from Zeus. Xenophon recorded them and continued the march. He had an army to get home.
 
-Scholars are fairly sure what he'd walked past. The first ruin was a city we call Nimrud. The second was Nineveh.
+Scholars are fairly sure what he'd walked past. The first ruin was a city we call Nimrud, where palaces had burned about two centuries before his march. The second was Nineveh.
+
+Think of the difference two thousand more years makes. Xenophon describes walls still towering above him, only about two centuries after the Assyrian capitals fell. Much of what we know of their palaces today had to be dug out of mounds. Nineteenth-century excavators tunnelled into them and followed buried walls lined with carved stone. He was looking up at ruins; they were digging down to reach them.
 
 Nineveh had been a capital of Assyria, a kingdom centered on the Tigris River in what is now northern Iraq. Its kings conquered far beyond that homeland, reaching into Egypt. Nineveh became one of the great cities of the ancient world, a place of palaces, temples, and royal administration. The ruins belonged to a power that had once commanded much of the country through which these Greeks were struggling.
 
@@ -38,7 +34,7 @@ That was two hundred and eleven years before Xenophon came by. From us, two hund
 
 But look at the stories Xenophon records. They have Medes in them, and Persians, and a thunderstorm. They don't identify the Assyrian kings who had made these cities great. An educated Greek was passing the remains of an immense empire, and his account preserved a very incomplete explanation of what he saw.
 
-That tells us something about the account, not everything about what people along the river remembered. Some knowledge and settlement survived the empire. What unsettles me is the gap: the masonry remained visible long after an accurate history of it had become difficult for this traveler to obtain.
+The villagers still had homes along that river. But the Assyrian kings are missing from what he wrote. Their walls are still there. Their names are not.
 
 And Assyria isn't even what this series is about.
 
@@ -99,7 +95,7 @@ There's your brother, and he isn't here. Eleven days ago he walked north with tw
 
 And there's your cousin in the corner, already up, already chipping at a piece of flint. He's the one who makes the sickle blades, fixes the handles, and knows which rock breaks clean. He farms like everyone else. He's just better with his hands than you are.
 
-And there's your sister, the boy's mother. She works the field beside you at harvest and does much of the work that keeps the household fed. Right now she's on her knees at the grinding stone, pushing one rock across another to turn grain into meal. Fine dust gathers around the stone. This is one long task in a day that also includes cooking and other work, not the only thing she ever does. She's the best baker in the village and she knows it. You've stopped hearing the scrape.
+And there's your sister, the boy's mother. She works the field beside you at harvest and does much of the work that keeps the household fed. This morning she's on her knees at the grinding stone, pushing one rock across another to turn grain into meal. Fine dust gathers around the stone. She's the best baker in the village and she knows it. You've stopped hearing the scrape.
 
 That's the household. A farmer, a keeper, a counter, a carrier, a maker. Right now those aren't jobs. They're what each person happens to be good at, and everyone eats from the same pot.
 
@@ -549,15 +545,11 @@ In Egypt, yes, and we'll get there in a minute. In Iraq it was new, and it was s
 
 Naram-Sin had just said the rule didn't apply to him.
 
-The poetry attributed to Enheduanna also tells a story of political violence at Ur. Its speaker says a rebel has forced her from her religious office. We cannot turn all its details into a securely dated eyewitness account of Naram-Sin's revolt, but we can hear how it presents the experience of losing power.
+One of the poems speaks of political violence at Ur. Its speaker has been driven from her religious office by a rebel. The royal daughter who stood beside the altar is now pleading to be let back in.
 
-The voice in the poem is no longer simply a royal daughter occupying an important office. She is someone pleading for that position and her good name to be restored. The institution that made her powerful has also made her vulnerable.
+She says she's been made to fly like a swallow from the window. She says "my good name is destroyed." And then, in the middle of a hymn to a goddess, the speaker names herself. She says: "I am Enheduanna. Let me speak to you."
 
-One of those poems tells the story. In it she says the rebel has driven her out of the temple, that she's been made to fly like a swallow from the window. She says "my good name is destroyed." And then, in the middle of a hymn to a goddess, the speaker names herself. She says: "I am Enheduanna. Let me speak to you."
-
-The poem presents a restoration of her position. That is the story the work tells; the political sequence behind it is less certain.
-
-What holds my attention is the combination: a real royal daughter in a powerful religious office, and a later literary tradition that speaks in her name with extraordinary force. We don't need to know every stage of that tradition to hear a person rather than another total of barley.
+The poem carries her through that humiliation to the restoration of her position. What holds my attention is the voice: someone who had power, lost it, and wants us to hear what that felt like. Centuries of copying kept that voice alive.
 
 That's the last we see of her. The rest of this part happens after her time.
 
@@ -650,7 +642,7 @@ A woman is writing to her husband, and she's annoyed.
 
 He's far away, doing business in another country. The cloth she makes travels out to him with the caravans; complaints come back. The pieces are too small. The quality isn't right. She has some answers for him.
 
-Her replies survive. In one letter she discusses the size of the pieces and how much wool she has put into them. In another, she wants to know who is in his house finding fault with her cloth. These are separate letters, but the frustration runs through them. She is managing the work at home, and the man abroad keeps sending instructions.
+Her replies survive. In one letter she discusses the size of the pieces and how much wool she has put into them. In another, she wants to know who is in his house finding fault with her cloth. She is managing the work at home, and the man abroad keeps sending instructions.
 
 Her name is Lamassi. His is Pushu-ken. They lived about three thousand nine hundred years ago, and we have dozens of their letters, and those are the first private voices in this story. Up to now, everything I've read you was written by a temple or a king. This is a married couple arguing about work.
 
@@ -871,9 +863,9 @@ I'm starting here because that ship is the best single picture of this age. Go t
 
 You've seen this ship. She docks at Rotterdam now, and she's a quarter of a mile long.
 
-And the family's all aboard. It's the Carrier's ship. The metal is the Maker's raw material. There was a folding wooden notebook on board with an ivory hinge, the kind you fill with wax and write on with a point, so the Counter was there, though the wax and whatever was written in it are long gone. The crew's lunch was in the wreck, figs and olives and pomegranates, and the Farmer grew that. And a cargo this size wasn't one merchant's gamble. Eleven tons of bronze in the making is enough to equip a small army. Most people who've studied her think this was a shipment from one king to another.
+The wreck brings our five kinds of work together. The Carrier moves the cargo. The Maker needs its metal. A folding wooden notebook with an ivory hinge gives us the Counter's tool: its leaves were made to hold wax, ready for a pointed stylus. Figs, olives, and pomegranates bring us back to the Farmer. And eleven tons of bronze in the making would interest the Keeper of a royal storehouse. Many researchers think this was a shipment from one king to another.
 
-The wreck brings our five kinds of work together. It does not identify five particular passengers. It shows how a cargo can depend on farmers, craftspeople, record-keepers, merchants, and powerful customers who may never meet.
+People who might never meet depended on one another to put this cargo at sea. Now their work lies together on the seabed.
 
 First question. How do you sail something like that with no compass and no engine?
 
@@ -1074,7 +1066,7 @@ The rain is about to change.
 
 Late in the thirteenth century BCE, decades after Egypt and the Hittites had made peace, an urgent letter went from the Hittite court to Ugarit, the trading kingdom on the Syrian coast.
 
-It's an order for a ship and a crew to move a large quantity of grain from a Syrian region to a Hittite harbor. The ancient measures are not a reason to pretend we know the cargo's weight to the ton. What matters is the urgency. In effect, the letter says that the shipment is a matter of life or death.
+It's an order for a ship and a crew to move a large quantity of grain from a Syrian region to a Hittite harbor. The order presses for speed. In effect, the letter says that the shipment is a matter of life or death.
 
 Think about who's writing. This is Hatti, the land of a thousand gods. Fifty years earlier its chariots nearly destroyed the king of Egypt at Kadesh. It's one of the two strongest states on Earth, and it's telling a harbor town that if a boat doesn't come, people are going to die.
 
@@ -1108,11 +1100,11 @@ They show the Hittite heartland getting drier from about 1250 BCE on. Bad years 
 
 That isn't the only evidence. Mud from the bottom of the Sea of Galilee and from a salt lake in Cyprus holds pollen, and the pollen shows the same thing from the other side: the trees and crops thinning out and the dry-country scrub moving in, across about a century and a half.
 
-Now go to the Farmer, on the Turkish plateau. He cannot rely on a great river to compensate for poor local rain. Even the Nile's floods could fail, but his own fields depend much more directly on rainfall here. He farms on rain. And every farming family since the first house has known one rule. You never eat the seed.
+Now imagine the Farmer, on the Turkish plateau. He cannot rely on a great river to compensate for poor local rain. Even the Nile's floods could fail, but his own fields depend much more directly on rainfall here. He farms on rain. And every farming family since the first house has known one rule. You never eat the seed.
 
 There's a jar in the corner with next year's planting in it. In a bad year you eat less. You eat the animals. You eat things you'd be ashamed to serve. The jar stays shut. Then there's a second bad year, and the animals are already gone. The tax collector comes anyway, because his tablet doesn't have a column for rainfall. And in the third year the family is sitting in front of the jar.
 
-Eat it, and you live until spring and have nothing to plant. Don't, and you may not see spring. I'm imagining that scene, but only just. That's what three thin tree rings mean when you turn them into people. The evidence does not give us a count of households facing that exact choice. The imagined jar makes the stakes understandable; it is not another measurement in the study.
+Eat it, and you live until spring and have nothing to plant. Don't, and you may not see spring. The jar holds food for tonight and the next harvest. Hunger makes you choose.
 
 Second question, then. How do you feed an empire when the rain stops?
 
@@ -1255,9 +1247,9 @@ By about 1190 BCE its king had been getting orders from his Hittite overlords fo
 
 He did what he was told. His infantry and his chariots marched north into Turkey. His warships sailed off to patrol the southwest coast of Turkey, three hundred miles away.
 
-Then strange ships were sighted off his own shore. He wrote to the king of Cyprus, the copper island, a ruler he addressed diplomatically as "my father." That title does not tell us the man's age.
+Then strange ships were sighted off his own shore. He wrote to the king of Cyprus, the copper island, a ruler he addressed diplomatically as "my father."
 
-One surviving letter from the king of Cyprus offers advice. I'll paraphrase it. If enemy ships have been seen, make yourself strong. Gather your troops, secure your towns, and watch for the enemy. The letters do not come with a complete, securely dated sequence of replies, so we should not pretend we can follow the messengers day by day.
+One surviving letter from the king of Cyprus offers advice. I'll paraphrase it. If enemy ships have been seen, make yourself strong. Gather your troops, secure your towns, and watch for the enemy. Their exact sequence is uncertain. Together, they show a king being told to defend a coast whose defenders were away.
 
 A letter from Ammurapi shows why such advice might be desperately difficult to follow. He reports enemy ships damaging his territory while his own forces are elsewhere.
 
@@ -1265,25 +1257,13 @@ A letter from Ammurapi shows why such advice might be desperately difficult to f
 
 Seven.
 
-Seven ships. The king gives us that number, but no reliable count of the men aboard. He reports attacks on his territory; he does not establish that these were the same crews that finally destroyed the capital. What we can hear plainly is his predicament: the forces he needed at home were serving elsewhere.
+Seven ships. His cities are being attacked, and the soldiers and vessels he needs are serving somewhere else. Orders from the great king have carried his defenses hundreds of miles from home.
 
-Who were the men on those ships? The letter doesn't say. Ugarit's scribes knew the names of the sea raiders of their day, and they didn't use one. So this next bit is me imagining, and I want you to know that it is.
+The letter never names the attackers. Nor can we be sure that these were the men who eventually destroyed the capital. What survives is a king's urgent account of harm already done, with his own forces out of reach.
 
-Picture one possible man aboard a raiding ship: someone who once worked a field and can no longer feed his household from it. A boat offers work, escape, or the chance to take food from someone else. That man is imagined. He lets us consider a possible route into raiding, not calculate the odds that a particular attacker had been a farmer.
+The tablets remained at Ugarit. Some were recovered from rubble that had fallen from an upper floor. Clay kept the king's words after the building that held them came down.
 
-The families shown in Egyptian battle imagery will give us another reason to think about people on the move. They do not identify the men in Ammurapi's letter. Keep the possibility, and keep the two pieces of evidence separate.
-
-Why didn't help arrive in time? Ugarit's obligations give us one part of an answer: a subordinate kingdom could be required to send troops and ships away. That made this coast vulnerable. It does not prove that every ally was helpless for the same reason, or that every surviving plea went unanswered.
-
-For a long time a story was told about those last letters. It went that they were found in a kiln. The scribes had put them in the oven to bake them hard before sending, and the city fell before anyone took them out. It's a wonderful image, and you'll still find it in books. It isn't true. When archaeologists went back over the dig records, the "kiln" turned out to be a heap of rubble, with tablets in it that had fallen from an upper floor when the building came down.
-
-The surviving tablet is not proof of a message trapped in an oven. A retained copy is one possible explanation for a letter remaining at Ugarit. But finding it there does not tell us whether a messenger arrived, what answer came back, or what help anyone attempted.
-
-We know what happened next from the ground.
-
-Ugarit suffered a violent destruction. Excavators found burned and collapsed buildings, weapons, and buried valuables. Picture what a collapsing upper floor can do to the rooms below: crush furniture, scatter stored objects, and cover an archive in rubble. That is a way to understand the remains, not a recovered account of fighting from one doorway to the next.
-
-The great Late Bronze Age capital was not rebuilt as it had been. Its palaces and archives ceased to function. We cannot turn that into a statement about the fate of every person who had lived there. Centuries of later activity and weather would alter the mound before modern excavation began.
+The ground preserves the destruction itself: burned and collapsed buildings, weapons, and buried valuables. The great Late Bronze Age capital was not rebuilt as it had been. Its palaces and archives ceased to function. Whatever happened to individual survivors, the kingdom that had collected their taxes, issued orders, and kept their records was gone.
 
 One thing came out of that hill that I asked you to listen for. Among the tablets was a song. It's the hymn to the wife of the moon god, a real surviving piece of music to set beside our imagined doorway singer. It was written down a century or two before the end, and under the words there's a second set of signs, which most scholars read as instructions for the strings of a lyre. It's the oldest written melody in the world. The experts don't agree on how it should sound, and their versions are quite different from each other. But you can go and listen to them tonight. The kingdom ended. One of its songs remained in the clay.
 
@@ -1528,17 +1508,15 @@ In the Bible, the Philistines become some of Israel's great rivals: the people o
 
 Now the Maker, because he's found something to do.
 
-A smith in a disrupted community may have difficulty obtaining familiar supplies. Some bronze production and trade continue, especially in places such as Cyprus. The question is why iron becomes more widely useful alongside them, not how every smith instantly replaces a metal that has disappeared.
+On Cyprus, the copper island, smiths had known iron for a long time as a curiosity. In the 1100s they begin making useful blades from it. Look at one of the knives: an iron blade, held to its handle with bronze rivets. The old metal and the new one in the same object.
 
-On Cyprus, the copper island, the smiths had known about iron for a long time as a curiosity. In the 1100s they start making real tools out of it. The earliest ones are a nice thing to look at: knives with an iron blade, held to the handle by bronze rivets. It's the old metal and the new one in the same object.
+That knife belongs to a gradual change, not a sudden replacement. Cyprus still made and traded bronze. But iron offered another possibility. Its ores were more widely available than tin, the ingredient bronze makers so often had to bring from far away.
 
-Disruption to supplies is one proposed part of the story, but it cannot explain the whole transition. Iron ores are more widely available than tin, while turning them into dependable tools demands fuel, furnaces, skill, and repeated work. Craftspeople in different places solve those problems at different times. A nearby ore deposit helps; it does not make a working iron industry appear by itself.
+Ore was only the beginning. A smith needed fuel, a furnace, and the skill to turn the material into a dependable edge. Early iron could be worse than good bronze. Heating it in contact with charcoal could add carbon; controlled heating and cooling could produce and harden steel. Learning to manage those changes took practice. Craftspeople in different places mastered them at different times.
 
-Early iron was not automatically better than good bronze. Heating iron in contact with charcoal can add carbon; controlled heating and cooling can then produce and harden steel. Simply plunging any piece of hot iron into water does not guarantee a superior blade. This is knowledge built through practice, and its adoption is uneven rather than one invention arriving everywhere in a particular year.
+For a farming household, the change eventually reached the tools in its hands. More sources of workable metal meant more possibilities for making and replacing a blade. A disrupted bronze supply may have encouraged experiments in some places, but supplies, skill, and local circumstances all mattered. This took generations.
 
-Over time, wider iron production changes the tools a farming household can obtain. That matters enormously. It does not mean bronze had belonged only to kings, or that every village suddenly possessed an independent smith with all the ore and fuel he needed.
-
-That is the answer I can defend: changing supply networks, accumulated technical skill, and the wider usefulness of a different metal. The transition took generations. The name Iron Age makes it sound like a switch being thrown; the objects show people working across the change.
+The name Iron Age makes it sound like a switch being thrown. The bronze rivets in that iron knife show people working across the change.
 
 And the Counter. This is the fourth question and the best thing in this part. Where does the alphabet come from?
 
@@ -1615,7 +1593,7 @@ One more thing from Homer's century, and it's my favorite object in this whole s
 
 By about 750 the Greeks are sailing again. They've adapted a Phoenician alphabet, related to the early experiments we saw around Egypt and Sinai, and added signs for vowels. And they've planted a trading post on an island in the Bay of Naples, eight hundred miles from home.
 
-In a grave on that island, archaeologists found a small clay drinking cup with lines of verse scratched on it. The burial was long described as a boy's, but reexamination of the cremated remains identified several individuals. The inscription on the cup remains one of the earliest examples of Greek alphabetic writing. Its joke matters more here than an unsupported biography of its owner.
+In a grave on that island, archaeologists found a small clay drinking cup with lines of verse scratched on it. The grave held the cremated remains of several people; we cannot put a name to the person who drank from the cup. But we can read its joke, scratched in some of the earliest surviving Greek alphabetic writing.
 
 The inscription says, in effect: this is Nestor's cup, and a good cup to drink from. Take a drink and Aphrodite, the goddess of love, will have you in her grip.
 
@@ -1705,9 +1683,9 @@ One who taught himself was a young Londoner named George Smith. He'd left school
 
 In 1872 he was working through a broken tablet and found himself reading about a ship coming to rest on a mountain, and a dove being sent out to look for dry land.
 
-A later account describes Smith becoming so excited that he rushed around the room and began removing his clothes. It is a wonderful story, but we should introduce it as a later recollection rather than a contemporary transcript. What is secure is the discovery that made the excitement understandable: he had recognized a Mesopotamian flood story.
+A later recollection has Smith rushing around the room in excitement and beginning to remove his clothes. Whether or not it happened quite that way, imagine recognizing that story in the broken clay. A ship, a mountain, a bird sent out over the water. He was reading a Mesopotamian flood tradition.
 
-He had found a version of the flood tradition among the tablets recovered from Nineveh. The ruined city in the opening of this series was yielding words again.
+The ruined city in the opening of this series was yielding words again.
 
 Now you're going to read a dead language yourself.
 
@@ -1761,15 +1739,13 @@ The Bronze Age is what an interruption looks like.
 
 So let me try to answer the question I gave you at the start. How do people build a world that connected, live in it for centuries, and then lose it so completely that their descendants stand on the ruins and guess?
 
-Here's what I think the story shows. I've got four things.
+Think of the copper and tin in that sunken ship. To make that bronze, the smith needed both. Someone had to dig it out, carry it, weigh it, and bring the two together. The connections made the tool possible. When a route failed, the smith needed another source, another route, or another way to work.
 
-The first: connections create capabilities as well as obligations. A household or workshop can obtain things it cannot produce alone. When a route or a partner fails, that can become a vulnerability. Other connections may offer a way through. The question is which relationships survive and what alternatives remain.
+Think of the Hittite grain stores and the letters asking for ships. People saw danger coming. They stored food and called on allies. Those measures bought time, but time could run out. A second harvest could fail before the stores recovered.
 
-The second: recognizing danger is not the same as being able to solve it. The letters show people asking for grain, ships, payment, and help. Stores and alliances could absorb difficulties, but neither guaranteed that the next crisis would be manageable. We should not mistake their failure for proof that nobody noticed.
+And think of the iron blade with bronze rivets, the alphabet scratched on a drinking cup, the hymn preserved in a buried archive. They survived in different ways: a skill practiced, a story retold, a piece of clay left in the ground. The palaces could fall while some of the work continued. Other knowledge waited thousands of years for someone to recover it.
 
-The third: survival took different forms. A household might rely more heavily on local resources; a port might endure because it kept trading; a state might preserve institutions that another lost. There is no single recipe of self-sufficiency hidden inside all those different outcomes.
-
-And the fourth: memory requires carriers. People teach, copy, tell stories, preserve objects, and give old words new uses. Different carriers keep different things. An account tablet, a poem, and a sacred text are not interchangeable windows into the same past.
+That is what I take from this story. A world is held together by work people keep doing, often for people they will never meet. Losing the institutions changes that work. It does not erase everyone who knows how to do it.
 
 Is our world like theirs? In one way, more than I'm comfortable with. You and I depend on strangers on the far side of the planet for things we couldn't make if our lives depended on it, and it doesn't feel like a system to us either.
 

@@ -3,7 +3,7 @@
 **Date:** November 16, 2026
 **Status:** ChatGPT implementation of the editorial review and Jacob's selective scene-setting direction. Source version ef7b943; changed passages and continuity corrected. Not a final recording clearance or an exhaustive fact check.
 **Driving questions:** How do you sail without a compass? How do kings with no common language talk? How do you marry someone you've never seen? If iron is everywhere, why bronze?
-**Narration length:** 5,296 words (about 35 minutes at 150 words a minute)
+**Narration length:** 5,254 words (about 35 minutes at 150 words a minute)
 
 ---
 
@@ -33,9 +33,9 @@ I'm starting here because that ship is the best single picture of this age. Go t
 
 You've seen this ship. She docks at Rotterdam now, and she's a quarter of a mile long.
 
-And the family's all aboard. It's the Carrier's ship. The metal is the Maker's raw material. There was a folding wooden notebook on board with an ivory hinge, the kind you fill with wax and write on with a point, so the Counter was there, though the wax and whatever was written in it are long gone. The crew's lunch was in the wreck, figs and olives and pomegranates, and the Farmer grew that. And a cargo this size wasn't one merchant's gamble. Eleven tons of bronze in the making is enough to equip a small army. Most people who've studied her think this was a shipment from one king to another.
+The wreck brings our five kinds of work together. The Carrier moves the cargo. The Maker needs its metal. A folding wooden notebook with an ivory hinge gives us the Counter's tool: its leaves were made to hold wax, ready for a pointed stylus. Figs, olives, and pomegranates bring us back to the Farmer. And eleven tons of bronze in the making would interest the Keeper of a royal storehouse. Many researchers think this was a shipment from one king to another.
 
-The wreck brings our five kinds of work together. It does not identify five particular passengers. It shows how a cargo can depend on farmers, craftspeople, record-keepers, merchants, and powerful customers who may never meet.
+People who might never meet depended on one another to put this cargo at sea. Now their work lies together on the seabed.
 
 [VISUAL: Map — eastern Mediterranean with the counterclockwise sailing circuit: Egypt, the Levant coast, Cyprus, southern Turkey, the Aegean, Crete, North Africa, back to Egypt.]
 

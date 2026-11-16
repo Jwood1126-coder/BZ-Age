@@ -3,7 +3,7 @@
 **Date:** November 16, 2026
 **Status:** ChatGPT implementation of the editorial review and Jacob's selective scene-setting direction. Source version ef7b943; changed passages and continuity corrected. Not a final recording clearance or an exhaustive fact check.
 **Driving questions:** Was the Trojan War real? How do we know any of this? How do you read a language nobody speaks? What did we inherit?
-**Narration length:** 4,433 words (about 30 minutes at 150 words a minute)
+**Narration length:** 4,411 words (about 29 minutes at 150 words a minute)
 
 ---
 
@@ -53,7 +53,7 @@ One more thing from Homer's century, and it's my favorite object in this whole s
 
 By about 750 the Greeks are sailing again. They've adapted a Phoenician alphabet, related to the early experiments we saw around Egypt and Sinai, and added signs for vowels. And they've planted a trading post on an island in the Bay of Naples, eight hundred miles from home.
 
-In a grave on that island, archaeologists found a small clay drinking cup with lines of verse scratched on it. The burial was long described as a boy's, but reexamination of the cremated remains identified several individuals. The inscription on the cup remains one of the earliest examples of Greek alphabetic writing. Its joke matters more here than an unsupported biography of its owner.
+In a grave on that island, archaeologists found a small clay drinking cup with lines of verse scratched on it. The grave held the cremated remains of several people; we cannot put a name to the person who drank from the cup. But we can read its joke, scratched in some of the earliest surviving Greek alphabetic writing.
 
 The inscription says, in effect: this is Nestor's cup, and a good cup to drink from. Take a drink and Aphrodite, the goddess of love, will have you in her grip.
 
@@ -153,9 +153,9 @@ One who taught himself was a young Londoner named George Smith. He'd left school
 
 In 1872 he was working through a broken tablet and found himself reading about a ship coming to rest on a mountain, and a dove being sent out to look for dry land.
 
-A later account describes Smith becoming so excited that he rushed around the room and began removing his clothes. It is a wonderful story, but we should introduce it as a later recollection rather than a contemporary transcript. What is secure is the discovery that made the excitement understandable: he had recognized a Mesopotamian flood story.
+A later recollection has Smith rushing around the room in excitement and beginning to remove his clothes. Whether or not it happened quite that way, imagine recognizing that story in the broken clay. A ship, a mountain, a bird sent out over the water. He was reading a Mesopotamian flood tradition.
 
-He had found a version of the flood tradition among the tablets recovered from Nineveh. The ruined city in the opening of this series was yielding words again.
+The ruined city in the opening of this series was yielding words again.
 
 [VISUAL: Object — a Hittite tablet. Text on screen, word by word: NINDA-an ezzatteni, watar-ma ekutteni.]
 
@@ -217,15 +217,13 @@ The Bronze Age is what an interruption looks like.
 
 So let me try to answer the question I gave you at the start. How do people build a world that connected, live in it for centuries, and then lose it so completely that their descendants stand on the ruins and guess?
 
-Here's what I think the story shows. I've got four things.
+Think of the copper and tin in that sunken ship. To make that bronze, the smith needed both. Someone had to dig it out, carry it, weigh it, and bring the two together. The connections made the tool possible. When a route failed, the smith needed another source, another route, or another way to work.
 
-The first: connections create capabilities as well as obligations. A household or workshop can obtain things it cannot produce alone. When a route or a partner fails, that can become a vulnerability. Other connections may offer a way through. The question is which relationships survive and what alternatives remain.
+Think of the Hittite grain stores and the letters asking for ships. People saw danger coming. They stored food and called on allies. Those measures bought time, but time could run out. A second harvest could fail before the stores recovered.
 
-The second: recognizing danger is not the same as being able to solve it. The letters show people asking for grain, ships, payment, and help. Stores and alliances could absorb difficulties, but neither guaranteed that the next crisis would be manageable. We should not mistake their failure for proof that nobody noticed.
+And think of the iron blade with bronze rivets, the alphabet scratched on a drinking cup, the hymn preserved in a buried archive. They survived in different ways: a skill practiced, a story retold, a piece of clay left in the ground. The palaces could fall while some of the work continued. Other knowledge waited thousands of years for someone to recover it.
 
-The third: survival took different forms. A household might rely more heavily on local resources; a port might endure because it kept trading; a state might preserve institutions that another lost. There is no single recipe of self-sufficiency hidden inside all those different outcomes.
-
-And the fourth: memory requires carriers. People teach, copy, tell stories, preserve objects, and give old words new uses. Different carriers keep different things. An account tablet, a poem, and a sacred text are not interchangeable windows into the same past.
+That is what I take from this story. A world is held together by work people keep doing, often for people they will never meet. Losing the institutions changes that work. It does not erase everyone who knows how to do it.
 
 Is our world like theirs? In one way, more than I'm comfortable with. You and I depend on strangers on the far side of the planet for things we couldn't make if our lives depended on it, and it doesn't feel like a system to us either.
 

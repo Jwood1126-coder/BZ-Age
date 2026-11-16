@@ -3,7 +3,7 @@
 **Date:** November 16, 2026
 **Status:** ChatGPT implementation of the editorial review and Jacob's selective scene-setting direction. Source version ef7b943; changed passages and continuity corrected. Not a final recording clearance or an exhaustive fact check.
 **Driving questions:** How do you feed an empire when the rain stops? Who were the Sea Peoples? Could they have seen it coming? How does bad news travel?
-**Narration length:** 3,817 words (about 25 minutes at 150 words a minute)
+**Narration length:** 3,764 words (about 25 minutes at 150 words a minute)
 
 ---
 
@@ -15,7 +15,7 @@
 
 Late in the thirteenth century BCE, decades after Egypt and the Hittites had made peace, an urgent letter went from the Hittite court to Ugarit, the trading kingdom on the Syrian coast.
 
-It's an order for a ship and a crew to move a large quantity of grain from a Syrian region to a Hittite harbor. The ancient measures are not a reason to pretend we know the cargo's weight to the ton. What matters is the urgency. In effect, the letter says that the shipment is a matter of life or death.
+It's an order for a ship and a crew to move a large quantity of grain from a Syrian region to a Hittite harbor. The order presses for speed. In effect, the letter says that the shipment is a matter of life or death.
 
 Think about who's writing. This is Hatti, the land of a thousand gods. Fifty years earlier its chariots nearly destroyed the king of Egypt at Kadesh. It's one of the two strongest states on Earth, and it's telling a harbor town that if a boat doesn't come, people are going to die.
 
@@ -53,11 +53,11 @@ They show the Hittite heartland getting drier from about 1250 BCE on. Bad years 
 
 That isn't the only evidence. Mud from the bottom of the Sea of Galilee and from a salt lake in Cyprus holds pollen, and the pollen shows the same thing from the other side: the trees and crops thinning out and the dry-country scrub moving in, across about a century and a half.
 
-Now go to the Farmer, on the Turkish plateau. He cannot rely on a great river to compensate for poor local rain. Even the Nile's floods could fail, but his own fields depend much more directly on rainfall here. He farms on rain. And every farming family since the first house has known one rule. You never eat the seed.
+Now imagine the Farmer, on the Turkish plateau. He cannot rely on a great river to compensate for poor local rain. Even the Nile's floods could fail, but his own fields depend much more directly on rainfall here. He farms on rain. And every farming family since the first house has known one rule. You never eat the seed.
 
 There's a jar in the corner with next year's planting in it. In a bad year you eat less. You eat the animals. You eat things you'd be ashamed to serve. The jar stays shut. Then there's a second bad year, and the animals are already gone. The tax collector comes anyway, because his tablet doesn't have a column for rainfall. And in the third year the family is sitting in front of the jar.
 
-Eat it, and you live until spring and have nothing to plant. Don't, and you may not see spring. I'm imagining that scene, but only just. That's what three thin tree rings mean when you turn them into people. The evidence does not give us a count of households facing that exact choice. The imagined jar makes the stakes understandable; it is not another measurement in the study.
+Eat it, and you live until spring and have nothing to plant. Don't, and you may not see spring. The jar holds food for tonight and the next harvest. Hunger makes you choose.
 
 Second question, then. How do you feed an empire when the rain stops?
 

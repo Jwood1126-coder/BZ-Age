@@ -3,7 +3,7 @@
 **Date:** November 16, 2026
 **Status:** ChatGPT implementation of the editorial review and Jacob's selective scene-setting direction. Source version ef7b943; changed passages and continuity corrected. Not a final recording clearance or an exhaustive fact check.
 **Driving questions:** Who did it? Why didn't the neighbors help? What happened to the people nobody wrote down?
-**Narration length:** 3,313 words (about 22 minutes at 150 words a minute)
+**Narration length:** 2,946 words (about 20 minutes at 150 words a minute)
 
 ---
 
@@ -21,11 +21,11 @@ By about 1190 BCE its king had been getting orders from his Hittite overlords fo
 
 He did what he was told. His infantry and his chariots marched north into Turkey. His warships sailed off to patrol the southwest coast of Turkey, three hundred miles away.
 
-Then strange ships were sighted off his own shore. He wrote to the king of Cyprus, the copper island, a ruler he addressed diplomatically as "my father." That title does not tell us the man's age.
+Then strange ships were sighted off his own shore. He wrote to the king of Cyprus, the copper island, a ruler he addressed diplomatically as "my father."
 
 [VISUAL: Object — tablet RSL 1 or RS 20.238 from Ugarit (National Museum of Damascus / Louvre). Text on screen as it is read.]
 
-One surviving letter from the king of Cyprus offers advice. I'll paraphrase it. If enemy ships have been seen, make yourself strong. Gather your troops, secure your towns, and watch for the enemy. The letters do not come with a complete, securely dated sequence of replies, so we should not pretend we can follow the messengers day by day.
+One surviving letter from the king of Cyprus offers advice. I'll paraphrase it. If enemy ships have been seen, make yourself strong. Gather your troops, secure your towns, and watch for the enemy. Their exact sequence is uncertain. Together, they show a king being told to defend a coast whose defenders were away.
 
 A letter from Ammurapi shows why such advice might be desperately difficult to follow. He reports enemy ships damaging his territory while his own forces are elsewhere.
 
@@ -33,27 +33,15 @@ A letter from Ammurapi shows why such advice might be desperately difficult to f
 
 Seven.
 
-Seven ships. The king gives us that number, but no reliable count of the men aboard. He reports attacks on his territory; he does not establish that these were the same crews that finally destroyed the capital. What we can hear plainly is his predicament: the forces he needed at home were serving elsewhere.
+Seven ships. His cities are being attacked, and the soldiers and vessels he needs are serving somewhere else. Orders from the great king have carried his defenses hundreds of miles from home.
 
-Who were the men on those ships? The letter doesn't say. Ugarit's scribes knew the names of the sea raiders of their day, and they didn't use one. So this next bit is me imagining, and I want you to know that it is.
+The letter never names the attackers. Nor can we be sure that these were the men who eventually destroyed the capital. What survives is a king's urgent account of harm already done, with his own forces out of reach.
 
-Picture one possible man aboard a raiding ship: someone who once worked a field and can no longer feed his household from it. A boat offers work, escape, or the chance to take food from someone else. That man is imagined. He lets us consider a possible route into raiding, not calculate the odds that a particular attacker had been a farmer.
-
-The families shown in Egyptian battle imagery will give us another reason to think about people on the move. They do not identify the men in Ammurapi's letter. Keep the possibility, and keep the two pieces of evidence separate.
-
-Why didn't help arrive in time? Ugarit's obligations give us one part of an answer: a subordinate kingdom could be required to send troops and ships away. That made this coast vulnerable. It does not prove that every ally was helpless for the same reason, or that every surviving plea went unanswered.
-
-For a long time a story was told about those last letters. It went that they were found in a kiln. The scribes had put them in the oven to bake them hard before sending, and the city fell before anyone took them out. It's a wonderful image, and you'll still find it in books. It isn't true. When archaeologists went back over the dig records, the "kiln" turned out to be a heap of rubble, with tablets in it that had fallen from an upper floor when the building came down.
-
-The surviving tablet is not proof of a message trapped in an oven. A retained copy is one possible explanation for a letter remaining at Ugarit. But finding it there does not tell us whether a messenger arrived, what answer came back, or what help anyone attempted.
+The tablets remained at Ugarit. Some were recovered from rubble that had fallen from an upper floor. Clay kept the king's words after the building that held them came down.
 
 [VISUAL: Photo — the excavated streets of Ugarit; then arrowheads from the destruction layer.]
 
-We know what happened next from the ground.
-
-Ugarit suffered a violent destruction. Excavators found burned and collapsed buildings, weapons, and buried valuables. Picture what a collapsing upper floor can do to the rooms below: crush furniture, scatter stored objects, and cover an archive in rubble. That is a way to understand the remains, not a recovered account of fighting from one doorway to the next.
-
-The great Late Bronze Age capital was not rebuilt as it had been. Its palaces and archives ceased to function. We cannot turn that into a statement about the fate of every person who had lived there. Centuries of later activity and weather would alter the mound before modern excavation began.
+The ground preserves the destruction itself: burned and collapsed buildings, weapons, and buried valuables. The great Late Bronze Age capital was not rebuilt as it had been. Its palaces and archives ceased to function. Whatever happened to individual survivors, the kingdom that had collected their taxes, issued orders, and kept their records was gone.
 
 One thing came out of that hill that I asked you to listen for. Among the tablets was a song. It's the hymn to the wife of the moon god, a real surviving piece of music to set beside our imagined doorway singer. It was written down a century or two before the end, and under the words there's a second set of signs, which most scholars read as instructions for the strings of a lyre. It's the oldest written melody in the world. The experts don't agree on how it should sound, and their versions are quite different from each other. But you can go and listen to them tonight. The kingdom ended. One of its songs remained in the clay.
 
