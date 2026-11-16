@@ -1,9 +1,9 @@
 # Part 9 — What Survived
-## SEVENTH DRAFT — v0.7.2
+## SEVENTH DRAFT — v0.7.3
 **Date:** November 16, 2026
-**Status:** Written to the draft-07 brief and to the rules agreed in the Round 1 / Round 2 review exchange (spoken orientation, names introduced by category and place, attribution in the sentence, the narrator's views labeled, the five kinds of work not treated as a bloodline). In order: Homer and Troy (c. 750 BCE), Nestor's cup (c. 730), the Assyrian library (c. 650 to 401), the Bible, the decipherers (1822 to 1953), clay, the answer, and the Indus script. Title changed from "Inheritance and Memory".
+**Status:** ChatGPT implementation of the editorial review and Jacob's selective scene-setting direction. Source version ef7b943; changed passages and continuity corrected. Not a final recording clearance or an exhaustive fact check.
 **Driving questions:** Was the Trojan War real? How do we know any of this? How do you read a language nobody speaks? What did we inherit?
-**Narration length:** 4,215 words (about 28 minutes at 150 words a minute)
+**Narration length:** 4,364 words (about 29 minutes at 150 words a minute)
 
 ---
 
@@ -13,17 +13,15 @@
 
 [VISUAL: Part card — WHEN: about 750 BCE, four and a half centuries after the fires. WHERE: the Greek world. THE FIVE KINDS OF WORK: back in ordinary hands.]
 
-You know this story too.
+You may know parts of this story. A queen called Helen leaves with a prince of Troy. Greek kings take an army across the sea. Achilles fights, a wooden horse helps bring the war to an end, and the city falls.
 
-A beautiful queen runs off with a foreign prince. Her husband's brother, the greatest king in Greece, raises an army from every Greek kingdom and sails across the sea to get her back. They fight outside the walls of a city called Troy for ten years. The best warrior on the Greek side is a man named Achilles, who can only be hurt in one place. In the end the city is taken with a trick: a wooden horse.
-
-That's the Trojan War. The oldest telling of it is a poem called the Iliad, and the Greeks said it was composed by a blind singer named Homer.
+But that familiar version combines different ancient works and later retellings. The Iliad, traditionally attributed to Homer, tells a much shorter episode near the end of the war, centered on Achilles's anger. It does not narrate the wooden horse or make him invulnerable except at his heel. Keeping that distinction matters, because we are about to ask what a poem can remember.
 
 Here's where we are. It's about 750 BCE. The fires that ended the palaces are four hundred and fifty years in the past, about as far back from Homer as the first English settlers in America are from us. Greece has been without writing that whole time. And in those four and a half centuries the Greeks have been telling each other about a great age long ago, when kings lived in halls at Mycenae and at Pylos and wore armor made of bronze.
 
 You've been to Pylos. It's where the clerk sat at his desk by the door, counting figs and wool. In Homer, Pylos is the home of a wise old king named Nestor, who gives long speeches and drinks from a golden cup so heavy that an ordinary man can hardly lift it.
 
-There's no clerk in Homer, or tablets, or ration lists, or weaving women labelled "captives." Homer didn't know any of that had existed. He didn't know what he was remembering.
+Homer's world includes captives, weaving, household labor, and kings. What it does not give us is the administrative world recovered from the palace tablets: the particular system of officials, allocations, and working records. We should not claim to know everything the poet knew. We can compare what the poems preserve with the quite different things the archives reveal.
 
 [VISUAL: Object — a boar's-tusk helmet from a Mycenaean grave (National Archaeological Museum, Athens). Text: Iliad, Book 10.]
 
@@ -33,7 +31,7 @@ In the Iliad there's a passage where a warrior is lent a helmet, and the poet st
 
 Nobody in Homer's day wore a helmet like that. Nobody had for about five hundred years. But archaeologists have dug them out of graves from the age of the palaces, and they look just the way the poem says.
 
-So a description of an object passed from singer to singer for twenty generations, with no writing, long after anyone had seen the thing itself. The poem kept the helmet and the bronze swords, and it kept the names of the right hills. Everything else it replaced with what a good story needs.
+The helmet is a striking connection between the poem and the material world of the palaces. Oral tradition may have carried the description; surviving old objects or later encounters with them are other possibilities. The resemblance is evidence of a connection, not a recording of twenty generations of singers passing along exactly the same words.
 
 First question, then. Was the Trojan War real?
 
@@ -45,9 +43,9 @@ That alone wouldn't prove much. But remember the Hittites, the great kingdom in 
 
 In one of those letters a Hittite king, writing to the king of that land across the sea, says that the two of them once quarreled over Wilusa, and that it's settled now.
 
-So here's what I think. There was no ten-year siege and there was no wooden horse. But Greeks from the palaces really were fighting and meddling around a town very like Troy, in the last century before everything fell apart. And that turned, over five hundred years of retelling, into the Iliad.
+Here is what I think the comparison gives us. A real place, political conflict in the surrounding region, and contacts with the Greek world make a historical background for the tradition plausible. They do not verify a ten-year siege, the wooden horse, or the biographies of Homer's heroes. We have found a world in which stories like this could take root, not the war's official paperwork.
 
-I love the shape of this. The Greeks forgot the Hittites completely. They don't appear in Homer at all. And the Hittites' own filing cabinet turns out to hold the paperwork on Homer's war.
+I love the shape of that discovery. An archive from a different kingdom helps us investigate the geography and politics behind a Greek tradition. The names are clues to a relationship between history and story, not permission to identify every person in one with a character in the other.
 
 [VISUAL: Object — Nestor's Cup from Pithekoussai (Ischia museum); the three scratched lines highlighted. Map: the Bay of Naples.]
 
@@ -55,35 +53,35 @@ One more thing from Homer's century, and it's my favorite object in this whole s
 
 By about 750 the Greeks are sailing again. They've picked up the alphabet from Phoenician traders, the twenty-two letters that go back to those miners in the desert, and they've added vowels. And they've planted a trading post on an island in the Bay of Naples, eight hundred miles from home.
 
-In a grave on that island, a boy's grave, archaeologists found a plain clay drinking cup. Somebody had scratched three lines of verse on it. It's one of the oldest pieces of Greek alphabetic writing in existence. Here's what it says.
+In a grave on that island, archaeologists found a small clay drinking cup with lines of verse scratched on it. The burial was long described as a boy's, but reexamination of the cremated remains identified several individuals. The inscription on the cup remains one of the earliest examples of Greek alphabetic writing. Its joke matters more here than an unsupported biography of its owner.
 
 "I am Nestor's cup, good to drink from. Whoever drinks from this cup, desire for fair-crowned Aphrodite will seize him at once."
 
 It's a joke. Nestor's cup, in the poem, is that huge golden thing a man can hardly lift. This is a cheap clay cup at a drinking party, announcing that it's the famous one, and that it'll make you fall in love.
 
-Think about where that cup stands in our story. Nestor is the king of Pylos. The real Pylos had a clerk, and a shelf of tablets that only a few dozen people could read, and every one of them was a list. Writing in this part of the world started as a receipt for barley, and for three thousand years it belonged to the people who kept the accounts.
+Think about where that cup stands in our story. The palace tablets of Pylos belong to a specialized administrative practice. Elsewhere we have already met private letters, poetry, and contracts long before this cup. Writing had never remained only a receipt for barley. The cup shows a different use in early Greek alphabetic writing: verse attached to an object people could handle at a gathering.
 
-Then it was lost in Greece. And when the Greeks got writing back, in an alphabet anybody could learn in a few weeks, one of the first things somebody did with it was scratch a joke about a hero on a cup, for his friends.
+After the disappearance of Linear B, Greek alphabetic inscriptions begin to survive centuries later. A smaller set of signs does not make everyone literate in a few weeks. But these early inscriptions show people putting writing to uses far beyond a palace's accounts.
 
-The counting had turned into writing a long time before. With that cup it stops belonging to the palace.
+Someone wanted words on a cup to do something to its audience. They were making a joke, invoking a famous name, and playing with a promise of desire. The object gives us a little social moment as well as a place in the history of writing.
 
 [VISUAL: Map — Nineveh on the Tigris. Illustration: shelves of tablets in a palace room. Date card: about 650 BCE.]
 
 Now go east, because I told you not everybody forgot.
 
-Remember Assur, the merchant city on the Tigris, where Lamassi wove her cloth. It came through the collapse. Over the next few centuries it grew into Assyria, the empire I described at the very beginning: the one that ruled from Iran to Egypt, with its capital at Nineveh.
+Remember Assur, the merchant city on the Tigris where Lamassi lived. The Assyrian kingdom in that northern homeland survived the upheavals around 1200 BCE and later expanded into a great empire. By the seventh century its rulers had made Nineveh one of their most important centers. We have returned to the world whose ruins opened this series.
 
 Around 650 BCE the king of Assyria was a man named Ashurbanipal. He was a conqueror, and a brutal one. He was also a collector. He sent agents to every old city in Iraq with orders to find ancient tablets and copy them or bring them back. Medical texts, star charts, dictionaries, omens, prayers. He boasted that he could read the old dead language of the first cities, and inscriptions, as he put it, "from before the flood."
 
 Among the things his scribes copied was the story of Gilgamesh, the king of Uruk, the one name that got out. By then that story was older to them than King Arthur is to us. And in it there's a chapter about a great flood, and a man who is warned by a god to build a boat and load it with animals.
 
-That library is the end of an unbroken line. The boy with the doodles on his homework, fourteen hundred years after the first tablets, was a link in it. Every generation taught the next one the signs. In Iraq that chain never broke.
+That collection depended on generations of copying, teaching, collecting, and selection. Mesopotamian scribal traditions survived the disruptions around 1200 BCE; that does not mean one school stayed open unchanged for thousands of years. People and institutions kept doing the work of transmission.
 
 In 612 BCE Nineveh's enemies took the city and burned it. The palace came down on the library. And you know by now what fire does to clay.
 
-Two hundred and eleven years later, a Greek soldier named Xenophon walked past a ruined wall and asked the locals who had built it.
+About two centuries later, Xenophon and the Greek army passed ruins generally identified with Nineveh. His brief account recorded walls and stories, not an excavation of the city.
 
-He was standing on top of it. Under the rubble was the greatest library in the world, baked hard and perfectly legible, with the flood story in it, and the king's own boasts, and the answer to every question he asked that day.
+Somewhere within those ruins lay tablets from the royal collections, broken and buried, with texts that could illuminate a history his account barely recovered. We cannot put his feet directly above the library or say that he asked questions it would answer line by line. The contrast is strong enough without that invented precision: records had survived where a passing traveler could not read them.
 
 It waited another twenty-two hundred years.
 
@@ -91,7 +89,7 @@ It waited another twenty-two hundred years.
 
 Before I tell you how we got it back, there's one inheritance that never had to be dug up, because people never stopped reading it.
 
-I want to go carefully here. The Hebrew Bible is sacred to a great many people, and I'm talking about history, which is a different conversation from faith. But as history, it's the Bronze Age's largest surviving heir, and most people who read it don't know that.
+The Hebrew Bible is sacred to a great many people. Here I am asking a historical question: how do its stories, laws, and literary forms relate to older traditions in the Near East? Parallels can show a shared cultural world without giving us a simple route of borrowing for every passage.
 
 You've met the pieces already in this series.
 
@@ -103,7 +101,7 @@ The law that a man who falls into debt and has to sell himself serves for a fixe
 
 The law about an ox that gores a man to death, and whether the owner knew the ox was dangerous. It's in the Bible, and it's on the pillar, in nearly the same terms.
 
-The Jubilee, when debts are cancelled and land goes back to the families that lost it. That's the kings of Babylon breaking the tablets. The Hebrew word for that release is the same word the Babylonians used.
+The Jubilee, when debts are cancelled and land goes back to the families that lost it. That's the kings of Babylon breaking the tablets. The Hebrew term for release is related to an Akkadian term used for release; the institutions and texts are not identical.
 
 And the central idea, the covenant, the solemn agreement between God and the people. It's laid out in a particular order: who is making this agreement, what he has done for you, what he requires, who the witnesses are, and what happens if you break it. That's the layout of a Bronze Age treaty between a great king and a lesser one. We have dozens of them, from the Hittite archives.
 
@@ -111,7 +109,7 @@ Even the poetry has an ancestor. When the burned port of Ugarit was dug up, its 
 
 So the Bible didn't come from nowhere. It's what the old world of law and treaty and story looked like when it was carried forward by a small people in the hills, written in the miners' alphabet.
 
-And there's one thing in it that I don't think is inherited from anybody. It's told from the other side. For three thousand years in this story the people at the grinding stone and in the weaving shed have been numbers in somebody else's list. The Bible's founding story is told by the slaves. It says, over and over: remember that you were slaves in Egypt. I can't tell you how much history is behind that story. But as a point of view, I don't know of anything like it in all the records that came before.
+One feature of the Exodus story especially matters to me. It asks its audience to remember enslavement and to identify with people escaping oppression. That does not establish that the surviving text was written by the enslaved people themselves, or that no older work ever spoke from below. It is a powerful use of remembered vulnerability in a tradition carried forward by later generations.
 
 Now. How did we get the rest back?
 
@@ -119,13 +117,13 @@ Now. How did we get the rest back?
 
 Second question, and it's the one I'd want answered if I were you. How do we know any of this? How do you read a language that nobody has spoken for two thousand years?
 
-Take Egypt first. We know the day its writing died. The last inscription in Egyptian picture-signs was carved on a temple wall in the far south on the twenty-fourth of August in the year 394. After that there was nobody left who could read them. For fourteen hundred years people looked at the temples of Egypt, covered in writing from floor to ceiling, and could not read a word.
+Take Egypt first. The last known dated hieroglyphic inscription was carved at Philae in southern Egypt in 394 CE. That dates a surviving inscription, not the day the last reader died. Knowledge of the script faded over time, while the Egyptian language continued in a later form called Coptic. That surviving language would help make decipherment possible.
 
 In 1799 French soldiers in Napoleon's army were rebuilding an old fort in the Nile Delta and pulled a slab of dark stone out of a wall. It had the same decree carved on it three times, in three scripts. The bottom one was Greek, which scholars could read.
 
 It still took twenty-three years. The man who did it was a Frenchman named Jean-François Champollion, who'd been obsessed with Egypt since he was a boy. He had one advantage. He'd learned Coptic, the language still used in the churches of Egypt, which is the last descendant of what the pharaohs spoke.
 
-The key was names. The Greek text mentioned a king, Ptolemy. In the Egyptian text some groups of signs were enclosed in ovals. If the ovals held royal names, then those signs had to be spelling out sounds, because you can't draw a picture of "Ptolemy." He matched the signs in that oval with another name from another monument, Cleopatra. The P, the T, the O and the L turned up in both, in the right places.
+Royal names were crucial clues. The Greek text named Ptolemy, and groups of Egyptian signs enclosed in ovals could be compared with that name and others, including Cleopatra on a different monument. Repeated signs helped establish sound values. Names opened a door, but Coptic and the grammar of the language helped scholars go through it.
 
 From those few letters he worked outward. On a September day in 1822 he ran down the street to his brother's office, shouted "I've got it!" and collapsed. By the family's account he was in bed for five days.
 
@@ -143,7 +141,7 @@ And a lot of people didn't believe it. The script had hundreds of signs, and the
 
 The envelopes were opened together. The four translations agreed.
 
-That's the day I'd point to if someone asked how we know. Everything I've read you from clay in this series rests on a method that passed that test.
+That test gave strong public support to the decipherment of Akkadian cuneiform. Other scripts and languages needed their own breakthroughs and independent tests. Reading a clay tablet is not one solved puzzle applied unchanged to every civilization.
 
 [VISUAL: Portrait — George Smith. Object: the Flood Tablet (British Museum). Date card: 1872.]
 
@@ -155,15 +153,15 @@ One who taught himself was a young Londoner named George Smith. He'd left school
 
 In 1872 he was working through a broken tablet and found himself reading about a ship coming to rest on a mountain, and a dove being sent out to look for dry land.
 
-A colleague who was in the room wrote down what happened. Smith read down the lines, and said: "I am the first man to read that after more than two thousand years of oblivion." Then, and I'm quoting, "he jumped up and rushed about the room in a great state of excitement, and, to the astonishment of those present, began to undress himself."
+A later account describes Smith becoming so excited that he rushed around the room and began removing his clothes. It is a wonderful story, but we should introduce it as a later recollection rather than a contemporary transcript. What is secure is the discovery that made the excitement understandable: he had recognized a Mesopotamian flood story.
 
-He'd found the flood. Written in Iraq, long before the Bible, in the library Xenophon walked over.
+He had found a version of the flood tradition among the tablets recovered from Nineveh. The ruined city in the opening of this series was yielding words again.
 
 [VISUAL: Object — a Hittite tablet. Text on screen, word by word: NINDA-an ezzatteni, watar-ma ekutteni.]
 
 Now you're going to read a dead language yourself.
 
-In 1906 German archaeologists began digging at the Hittite capital in central Turkey, the one the court abandoned. They found ten thousand tablets in the first seasons. The script was the familiar wedge writing, so they could pronounce every word. Some tablets were in Babylonian, and those they could read. But most were in a language nobody had ever seen.
+In 1906 German archaeologists began digging at the Hittite capital in central Turkey, the one the court abandoned. They found ten thousand tablets in the first seasons. The script was the familiar wedge writing, so they could identify many signs and approximate sounds without yet understanding the language. Some tablets were in Babylonian, and those they could read. But most were in a language nobody had ever seen.
 
 A Czech scholar named Bedřich Hrozný copied a stack of them in Istanbul just before the First World War. Then he was drafted. He went on working at it in uniform. And in 1915 he was looking at one sentence.
 
@@ -195,7 +193,7 @@ He announced it on the radio in July 1952. The tablets, he said, were written in
 
 Plenty of scholars didn't believe that either. Then a new tablet came out of the ground at Pylos, one Ventris had never seen. It was a list of pots. Beside each entry the clerk had drawn a little picture. Next to a drawing of a cauldron with three legs were signs that, by Ventris's grid, read ti-ri-po. Tripod. Next to a cup with four handles: four-eared. Next to a cup with none: no-eared.
 
-So the people of the palaces were Greeks. Homer's heroes were real people's great-great-grandfathers. And what those people wrote down, in their own hand, was pots and sheep.
+The tablets recorded an early form of Greek. That changed the history of the language and the interpretation of the palace world. It did not prove that every hero in Homer had existed. The test worked because a proposed reading predicted ordinary words on another tablet: pots, handles, and a vessel with three legs.
 
 Ventris was killed in a car crash four years later. He was thirty-four.
 
@@ -203,7 +201,7 @@ Ventris was killed in a car crash four years later. He was thirty-four.
 
 There's a hero in all of those stories that isn't a person. It's mud.
 
-Clay is the cheapest thing anyone ever wrote on. It's riverbank dirt. And it has outlasted everything invented since. Nanni's complaint about bad copper has survived longer than every empire that ever taxed him. Papyrus rots, parchment burns, and ink fades. When you burn a clay tablet you make it permanent.
+Clay could be an inexpensive, readily available writing material. Under favorable conditions it preserves writing for extraordinary lengths of time. Fire can harden an unbaked tablet, though heat, collapse, water, and later damage can also destroy one. The surviving archives are a remarkable inheritance, not proof that clay makes every message permanent.
 
 Compare this. In 1986, to mark nine hundred years since the Domesday Book, the great survey of England made in 1086, the BBC produced a new one. A million people contributed. It was published on the most advanced medium of the day, the laser disc.
 
@@ -221,17 +219,17 @@ So let me try to answer the question I gave you at the start. How do people buil
 
 Here's what I think the story shows. I've got four things.
 
-The first: every connection that made them richer was also something they depended on. The smith with the best metal in history couldn't work without a ship from one direction and a caravan from another. Nobody chose that. It built up one sensible decision at a time, like farming.
+The first: connections create capabilities as well as obligations. A household or workshop can obtain things it cannot produce alone. When a route or a partner fails, that can become a vulnerability. Other connections may offer a way through. The question is which relationships survive and what alternatives remain.
 
-The second: a strong system hides its own trouble. The stores, the treaties and the alliances all existed to absorb shocks. So each shock was absorbed, and from inside it looked like nothing was wrong, right up until the reserves ran out.
+The second: recognizing danger is not the same as being able to solve it. The letters show people asking for grain, ships, payment, and help. Stores and alliances could absorb difficulties, but neither guaranteed that the next crisis would be manageable. We should not mistake their failure for proof that nobody noticed.
 
-The third: when it broke, what saved people wasn't courage or wisdom. It was how much they could still do for themselves. Egypt had its river. The hill farmers had their terraces. The little ports had their ships. The clerk at Pylos had a skill with one customer.
+The third: survival took different forms. A household might rely more heavily on local resources; a port might endure because it kept trading; a state might preserve institutions that another lost. There is no single recipe of self-sufficiency hidden inside all those different outcomes.
 
-And the fourth: memory lasts only where something keeps carrying it. In Iraq it was a school that never closed. In Greece it was a song. In the Bible it was a people who kept reading. Everywhere else it took fire, clay, and somebody stubborn enough to give a life to a puzzle.
+And the fourth: memory requires carriers. People teach, copy, tell stories, preserve objects, and give old words new uses. Different carriers keep different things. An account tablet, a poem, and a sacred text are not interchangeable windows into the same past.
 
 Is our world like theirs? In one way, more than I'm comfortable with. You and I depend on strangers on the far side of the planet for things we couldn't make if our lives depended on it, and it doesn't feel like a system to us either.
 
-In another way it's completely different, and this is what I most want to leave you with. Xenophon stood on Nineveh and got a story about thunder. The herder under the walls of Tiryns said giants. Every people in this story looked back at the ruins and guessed, and guessed wrong.
+We also possess something Xenophon did not: ways to bring excavated objects, deciphered texts, and environmental evidence into the same investigation. Earlier people preserved real knowledge as well as stories. Our advantage is not that everyone before us guessed wrong, but that we can compare more kinds of evidence and test more of the guesses.
 
 We read the mail. We know the names of the three dry years. We know what the clerk at Pylos wrote in his last season and what a king of the Hittites said to his gods about a plague. Nobody before us could do that. I think it's the one new thing we have, and I'd like to believe it counts for something.
 
@@ -239,17 +237,31 @@ We read the mail. We know the names of the three dry years. We know what the cle
 
 I'll finish with the one we can't read.
 
-Far to the east of everything in this story, on the Indus River, there were cities with straight streets and covered drains, laid out before Hammurabi was born. Their people traded with Iraq. A man in Sargon's day made his living as their interpreter. And they wrote, on little squares of carved stone, in a script of a few hundred signs.
+Far to the east, the Indus civilization built cities with planned streets and elaborate drainage long before Hammurabi's reign. Its people traded with Mesopotamia. Remember the interpreter of Meluhha, known from a seal around the end of the third millennium BCE. The Indus signs survive on seals and other objects, but there is still no generally accepted decipherment.
 
 Nobody can read it. There's no Rosetta Stone for it, no cliff with three languages. Those cities faded around 1900 BCE, and whatever they wrote about themselves is still shut.
 
 So there's a civilization as large as Egypt that we know only from the outside, the way Xenophon knew Nineveh. We know they built those walls, and we don't know one thing they said.
 
-Somewhere there's a mound nobody has dug, with a library in it nobody can read yet. We walk past it the way he walked past his.
+Perhaps another discovery will change that. Perhaps the missing clue was written on something that did not survive. We don't know. The signs are still there, and so is the question of what their makers meant. That is a good place to leave a story about recovering the past: with something real in our hands that we still cannot read.
 
 ---
 
-## Revision notes — v0.7.2
+## Revision notes — v0.7.3
+
+- Applied by ChatGPT under Jacob's instruction to make edits directly; Claude/Fable is an advisor and second reader, not a blocking approver.
+- Selective physical reconstruction stays marked in the narration. Solid claims are stated plainly; uncertain documentary sequences and causal inferences are narrowed.
+- Changes in this section: P9-TROY-OPENING, P9-HOMER-CAPTIVES, P9-HELMET-INFERENCE, P9-TROY-VERDICT, P9-HITTITE-PAPERWORK, P9-NESTOR-GRAVE, P9-WRITING-OWNERSHIP, P9-LITERACY-WEEKS, P9-CUP-PAYOFF, P9-ASSYRIA-RETURN, P9-LIBRARY-CHAIN, P9-XENOPHON, P9-LIBRARY-LOCATION, P9-BIBLE-FRAME, P9-RELEASE-WORD, P9-SLAVES-VOICE, P9-HIEROGLYPHS, P9-NAMES-DECIPHERMENT, P9-1857-SCOPE, P9-SMITH-ANECDOTE, P9-SMITH-XENOPHON, P9-SCRIPT-LANGUAGE, P9-GREEK-PROOF, P9-CLAY, P9-CONNECTION-LESSON, P9-RESILIENCE-LESSON, P9-SURVIVAL-LESSON, P9-MEMORY-LESSON, P9-MODERN-CONTRAST, P9-INDUS-SEAL-DATE, P9-LAST-LIBRARY.
+- See `04-Working-Notes/draft-07-v0.7.3-applied.md` for scope, sources, remaining checks, and validation.
+
+### Source and review references for this pass
+
+- Nestor cup burial reanalysis: https://pmc.ncbi.nlm.nih.gov/articles/PMC8494320/
+- Existing Part 9 review and decipherment sources: https://app.notion.com/p/41ae5852471e8189823eda09480e3dfd
+
+### Earlier revision record — historical, not current verification
+
+The following notes document the earlier draft. Any claim contradicted by the v0.7.3 narration is superseded; an old `[sure]` label is not recording clearance.
 
 - **Structure:** in time order. Homer (c. 750), Troy and the Hittite letters, Nestor's Cup (c. 730), Ashurbanipal's library to Xenophon (c. 650 to 401), the Bible as heir, then the decipherments in order (1822; 1835–1857; the Nineveh digs and George Smith, 1872; Hittite, 1915; Linear B, 1952–53), clay and the Domesday discs, the answer to the prologue's question, and the Indus script as the last word.
 - **Cut from draft-06:** "the Hittites didn't even get a distortion" (contradicted by the series' own Carchemish material and by the Wilusa letters); the abstract closing snapshot of an unnamed Iron Age scribe (replaced by Nestor's Cup); "his neighbor can probably write"; the claim that the Bible's Hittites were dismissed by scholars; Hrozný's hotel room; "over thirty years later" for Smith; the second covenant passage; della Valle; two of the three endings.

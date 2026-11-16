@@ -1,9 +1,9 @@
 # Part 2 — The First Cities
-## SEVENTH DRAFT — v0.7.2
+## SEVENTH DRAFT — v0.7.3
 **Date:** November 16, 2026
-**Status:** Draft-07, revised to v0.7.1 after the ChatGPT Round 1 review (issues P2-01 to P2-12). One spine: a load of barley followed from the field to the tablet. Royal Tombs of Ur moved here from Part 3.
+**Status:** ChatGPT implementation of the editorial review and Jacob's selective scene-setting direction. Source version ef7b943; changed passages and continuity corrected. Not a final recording clearance or an exhaustive fact check.
 **Driving questions:** Why is every first city on a river? What do you buy things with before money? Why does a city need writing? Why would anyone agree to have a king?
-**Narration length:** 4,906 words (about 33 minutes at 150 words a minute)
+**Narration length:** 4,978 words (about 33 minutes at 150 words a minute)
 
 ---
 
@@ -23,21 +23,21 @@ The people we'll follow here aren't the family from the first house. They're the
 
 [VISUAL: Map — the two rivers descending from the Turkish mountains to the Persian Gulf; the flat southern plain shaded.]
 
-It hardly ever rains there. You can't grow a crop on what falls from the sky. There's no stone to build with. There are no trees worth cutting. There's no metal in the ground at all. Everything a village is made of is missing.
+Rainfall on the southern plain is too low for dependable farming without river water. There is little local building stone, no convenient supply of long construction timbers, and no local metal ore. But the mud and reeds are useful materials, not merely things the villagers are stuck with. You can make walls, roofs, boats, containers, and eventually writing surfaces from what this landscape provides.
 
 What it has is mud. Every spring the snow melts in the mountains of Turkey, and the two rivers come down carrying the mountains with them, ground to powder. Where the land flattens out, the water slows and drops what it's carrying. Southern Iraq is that mud, laid down a flood at a time for thousands of years. It's some of the richest soil on the planet. Put a seed in it and you get back several times what the hills ever gave.
 
-There's a catch, and the catch made everything else happen. The flood comes in spring, which is exactly when the barley is ripe and standing in the field. In the autumn, when you need water to plant, the rivers are low. The water arrives at the wrong time of year, every year. So to farm there at all you have to move it. Dig a channel from the river, hold the water back, let it out when you want it. A village can manage a small ditch among its own people. But the ditches join up, and the bigger the network gets, the more somebody has to settle who digs, who gets the water first, and who clears out the silt.
+There's a catch that helps explain the work a settlement needs to organize. The flood comes in spring, which is exactly when the barley is ripe and standing in the field. In the autumn, when you need water to plant, the rivers are low. The water arrives at the wrong time of year, every year. So to farm there at all you have to move it. Dig a channel from the river, hold the water back, let it out when you want it. A village can manage a small ditch among its own people. But the ditches join up, and the bigger the network gets, the more somebody has to settle who digs, who gets the water first, and who clears out the silt.
 
-And who in the village already settles things? The one who holds the grain.
+Somebody has to settle those arguments. That doesn't tell us by itself whether the answer is a council, a powerful household, a temple, or a king. Irrigation creates a practical problem of cooperation; it isn't a machine that automatically produces one kind of government.
 
 So here's the first simple question. Why are the first big cities of the ancient world on rivers? Iraq on the Tigris and Euphrates, Egypt on the Nile, India on the Indus, China on the Yellow River.
 
-Water for the fields is part of it. There's a second reason that people tend to miss, and it's shipping. A donkey carries about a hundred and fifty pounds, and a donkey eats. Walk a load of grain far enough overland and the animal has eaten a good part of its own cargo. Bulk food doesn't travel far by land. Now put the same grain on a boat. One barge carries what dozens of donkeys carry, with two men, and going downstream the river does the work for free.
+Water for the fields is part of it. Transport is another part. A loaded donkey can carry roughly a hundred and fifty pounds, depending on the animal and the journey. The animals and their handlers also need food and water, and a long trip costs time and labor. Boats can move much heavier loads with fewer people. Downstream the current helps; upstream a boat may need towing, paddling, or a favorable wind. River transport isn't effortless, but it changes what is practical to bring into a city.
 
-A city is tens of thousands of people who need to eat every day and can't see the fields their food comes from. Before there were railways, that was very hard to manage anywhere the food couldn't float.
+A large city needs food arriving day after day, much of it grown beyond the houses its inhabitants can see. Waterways made that easier in southern Iraq. They are an important advantage here, not a rule that explains the location of every early city.
 
-Let's follow some.
+Let's follow an imagined load of barley. The route and the people are a way into the work; they are not a surviving account of one particular delivery.
 
 [VISUAL: Object — a fired-clay sickle from southern Mesopotamia.]
 
@@ -51,9 +51,9 @@ The barge goes down a side channel to the river, and from there it has to be hau
 
 You see it long before you get there. The land is flat as a table, so anything tall shows for miles, and what shows is a white building on top of a man-made hill. It's been coated in plaster made from gypsum so it catches the sun. A farmer half a day away can look up from his work and see the god's house shining.
 
-The city is called Uruk. Around 3200 BCE somewhere between twenty-five and fifty thousand people live in it. Nobody knows the number more closely than that, and it doesn't matter, because either figure makes it the biggest gathering of human beings there has ever been. It covers about a square mile.
+The city is called Uruk. Around 3200 BCE somewhere between twenty-five and fifty thousand people live in it. Nobody knows the number more closely than that, and it doesn't matter, because either figure makes it an extraordinary concentration of people for its time. It covers about a square mile.
 
-For the Carrier, who grew up in a village of sixty people, the size is the first shock and the smell is the second. Tens of thousands of people and their animals, no sewers, in the heat. Smoke, dung, baking bread, wet reeds, river mud. The lanes between the houses are barely wide enough for a loaded donkey and they go nowhere in particular, because nobody planned them.
+Picture the Carrier arriving from a small village. He passes animals, cooking fires, workshops, loads being carried toward the water. Smoke and river mud are familiar smells; the number of people is not. The layout is harder to take in than a village where every path leads to someone he knows. A city is a new problem for his eyes before it becomes an idea in his head.
 
 And he's surrounded by strangers. In his village every face comes with a name and a family and probably a grudge. Here he can walk for an hour and not recognize one person. I think places like this are where human beings first found out what it is to be anonymous. I've never been able to decide whether that's freedom or loneliness, and I don't think the people who first felt it knew either.
 
@@ -83,9 +83,9 @@ Grain is a peculiar food. It ripens all at once, in an open field, where anyone 
 
 Now look at what Lake Superior offered. Fish. Deer. Wild rice, growing in a thousand scattered marshes. You can live very well on that, probably better than a farmer in Iraq. And you can keep it. People around the Great Lakes dried fish and put up wild rice for the winter. What's hard is for somebody else to collect it. There's no field to inspect, and no harvest week when the whole crop is standing in the open waiting to be counted. A family's food is spread across a lake country, and it's theirs.
 
-So here's my answer. It's one answer, and I'm not claiming a law of nature. It was never about the metal. A city needs a food supply that an institution can gather in one place, measure, and hand out to people who don't grow food: the full-time priest, the full-time smith, the full-time king. Grain does that better than anything else people have ever eaten.
+So here's one part of my answer. Copper alone doesn't make a city. Large populations need food supplies and ways of organizing work beyond a single household. Stored grain made that possible in particular ways at Uruk. It does not follow that every society without an Uruk lacked the resources, intelligence, or institutions to build one.
 
-There's a second case that points the same way. The one crop that could do grain's job in North America was corn, and corn came from Mexico. It took thousands of years to adapt to northern summers. Around a thousand years ago it finally took hold in the Mississippi valley, and within about a century there was a city across the river from where St. Louis is now. It's called Cahokia. Ten or twenty thousand people, about the size of London at the time, and an earth pyramid with a bigger footprint than the Great Pyramid in Egypt. People who had no contact with the Old World got a grain they could grow in bulk, and within a few generations they had a city. Corn wasn't the only reason. I don't think the timing is an accident, though.
+There's a second case that points the same way. One crop that became particularly important to large settlements in North America was corn, and corn came from Mexico. It took thousands of years to adapt to northern summers. Around a thousand years ago it finally took hold in the Mississippi valley, and within about a century there was a city across the river from where St. Louis is now. It's called Cahokia. Ten or twenty thousand people, about the size of London at the time, and an earth pyramid with a bigger footprint than the Great Pyramid in Egypt. People who had no contact with the Old World got a grain they could grow in bulk, and within a few generations they had a city. Corn wasn't the only reason. I don't think the timing is an accident, though.
 
 Back to the quay.
 
@@ -237,7 +237,20 @@ Then comes a man from the north. A much later legend says he started life as a b
 
 ---
 
-## Revision notes — v0.7.2
+## Revision notes — v0.7.3
+
+- Applied by ChatGPT under Jacob's instruction to make edits directly; Claude/Fable is an advisor and second reader, not a blocking approver.
+- Selective physical reconstruction stays marked in the narration. Solid claims are stated plainly; uncertain documentary sequences and causal inferences are narrowed.
+- Changes in this section: P2-MATERIALS, P2-CAUSALITY, P2-CANAL-AUTHORITY, P2-FREIGHT, P2-CITY-FOOD, P2-BARLEY-DEVICE, P2-ARRIVAL, P2-URUK-SCALE, P2-GRAIN-SCOPE, P2-CORN-SCOPE.
+- See `04-Working-Notes/draft-07-v0.7.3-applied.md` for scope, sources, remaining checks, and validation.
+
+### Source and review references for this pass
+
+- Existing Part 2 review: https://app.notion.com/p/41ae5852471e8188b4b6e36500070cfb
+
+### Earlier revision record — historical, not current verification
+
+The following notes document the earlier draft. Any claim contradicted by the v0.7.3 narration is superseded; an old `[sure]` label is not recording clearance.
 
 - **Round 1 review dispositions (ChatGPT, Notion):** P2-01 accepted (these are later people doing the same kinds of work, said aloud). P2-02 qualified: the river-freight argument and the donkey arithmetic stay, scoped to "the first big cities of the ancient world" and with irrigation as village work first; "a well almost anywhere" and the two-week limit are cut. P2-03 accepted (anonymity as the narrator's view, not a world first). P2-04 accepted in part (payroll claims softened; the weaving-shed scale is placed "in the centuries to come"). P2-05 accepted: the Great Lakes answer is now about what an institution can collect, not what can be stored; Cahokia is "a second case that points the same way". P2-06 accepted (ration bowl as the leading reading; "first mass-produced object" cut; trade outside the ration acknowledged). P2-07 accepted (numbers solid, other signs argued). P2-08 accepted (the "every word ever written" line was false; Kushim hedged). P2-09 accepted (the school is a signposted jump ahead; nobody in Uruk had minutes; the vase shows what people were told). P2-10 accepted (the pit has no chamber; the two skulls come from two graves). P2-11 accepted. P2-12 accepted (Indus dated later; Egypt's early rivalries; "one in a hundred" cut; the basket is a later legend; Sargon's predecessors acknowledged).
 

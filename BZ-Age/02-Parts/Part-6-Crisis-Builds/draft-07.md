@@ -1,9 +1,9 @@
 # Part 6 — The Slow Part
-## SEVENTH DRAFT — v0.7.2
+## SEVENTH DRAFT — v0.7.3
 **Date:** November 16, 2026
-**Status:** Draft-07, v0.7.1. The ChatGPT Round 1 review covered the draft-06 version of this part; its findings were checked against this rewrite (see notes). Opens on the grain letter, makes one announced step back to explain the system's confidence (Mitanni), then runs forward from the treaty of 1259 to about 1200. Title changed from "The Crisis Builds".
+**Status:** ChatGPT implementation of the editorial review and Jacob's selective scene-setting direction. Source version ef7b943; changed passages and continuity corrected. Not a final recording clearance or an exhaustive fact check.
 **Driving questions:** How do you feed an empire when the rain stops? Who were the Sea Peoples? Could they have seen it coming? How does bad news travel?
-**Narration length:** 3,700 words (about 25 minutes at 150 words a minute)
+**Narration length:** 3,833 words (about 26 minutes at 150 words a minute)
 
 ---
 
@@ -13,9 +13,9 @@
 
 [VISUAL: Part card — WHEN: about 1220 BCE, forty years after the peace treaty. WHERE: Hattusa, the Hittite capital, in central Turkey. THE FAMILY: the Keeper is short of grain.]
 
-Sometime around the year 1220 BCE a letter went out from the court of the Hittite king to the port of Ugarit, on the Syrian coast.
+Late in the thirteenth century BCE, decades after Egypt and the Hittites had made peace, an urgent letter went from the Hittite court to Ugarit, the trading kingdom on the Syrian coast.
 
-It's an order. Ugarit is to provide a ship and a crew, at once, to carry two thousand measures of grain up the coast to a Hittite harbor. That's hundreds of tons. And the letter ends with a line that you don't expect in government mail. It says: this is a matter of life or death.
+It's an order for a ship and a crew to move a large quantity of grain from a Syrian region to a Hittite harbor. The ancient measures are not a reason to pretend we know the cargo's weight to the ton. What matters is the urgency. In effect, the letter says that the shipment is a matter of life or death.
 
 Think about who's writing. This is Hatti, the land of a thousand gods. Fifty years earlier its chariots nearly destroyed the king of Egypt at Kadesh. It's one of the two strongest states on Earth, and it's telling a harbor town that if a boat doesn't come, people are going to die.
 
@@ -25,23 +25,23 @@ It hadn't come out of nowhere. A generation earlier the Hittite queen, the one w
 
 So here's the first question. How does the greatest land power of the age end up begging for a boat?
 
-To answer it I have to explain two things: what was going wrong, and why nobody was worried. I'll take the second one first, and it means going back, once.
+To answer it I have to explain two things: what was going wrong, and what these kingdoms already knew how to survive. I'll take the second one first, and it means going back, once.
 
 [VISUAL: Map — Mitanni, the horse kingdom, between Hatti and Assyria; then the same map with Mitanni divided and gone. Date card: 1340s to 1260s BCE.]
 
 Remember the table of great kings, and the horse kingdom in northern Syria. Mitanni. Its king wrote those letters to Egypt complaining about gold-plated statues. For a hundred years it was one of the four or five powers that ran the world.
 
-Then it was taken apart. The Hittite king, the same one who got the letter from the Egyptian widow, beat it in war around 1340. The king of the horse kingdom was murdered by one of his own sons. The Hittites took the western half and made it a puppet. And the eastern half was swallowed over the next two generations by its own former subject, Assyria, the merchant city.
+Then it was taken apart. The Hittite king, the same one who got the letter from the Egyptian widow, beat it in war around 1340. The king of the horse kingdom was murdered by one of his own sons. The Hittites took the western half and made it a puppet. And the eastern half was swallowed over the next two generations by its own former subject, Assyria, the northern Iraqi kingdom centered on Assur.
 
 By the time of the peace treaty the horse kingdom didn't exist. One of the pillars of the world had been removed. We aren't even sure where its capital was.
 
-And nothing happened. The trade routes bent around the gap. Assyria took the empty chair at the table. The Hittite king grumbled about having to call an upstart "brother," and then did. The tin kept coming. The princesses kept travelling. Every court in the world had watched a great power vanish, and I think the lesson anyone would have drawn was that the system could take it.
+The rest of the international order did not collapse with it. There had been war, displacement, and a struggle over who would control the former kingdom. But routes could be redirected and new rulers could take over relationships. Assyria gained a place among the great powers. Mitanni's disappearance showed that a major political break did not have to end every connection around it.
 
 That's the lesson I think about most in this whole story, because it was true and it was the wrong one. The horse kingdom's fall was survivable because everything around it was healthy. The routes could shift because there were strong kingdoms to shift through. What nobody had tested was what happens when the parts fail together.
 
 So the world of 1259 BCE, the world of the peace treaty, was confident. It had been tested and it had passed.
 
-Now forward, and what was going wrong.
+Now follow the environmental evidence forward, all the way to the years around 1200 BCE. After that we will return to the decisions kings were making in the preceding decades. The evidence doesn't arrive in the order an ancient household would have experienced it.
 
 [VISUAL: Photo — a cross-section of ancient juniper timber with its rings; three very narrow rings highlighted. Text: 1198, 1197, 1196 BCE.]
 
@@ -53,21 +53,21 @@ They show the Hittite heartland getting drier from about 1250 BCE on. Bad years 
 
 That isn't the only evidence. Mud from the bottom of the Sea of Galilee and from a salt lake in Cyprus holds pollen, and the pollen shows the same thing from the other side: the trees and crops thinning out and the dry-country scrub moving in, across about a century and a half.
 
-Now go to the Farmer, on the Turkish plateau. He doesn't have a river like the Nile that floods no matter what. He farms on rain. And every farming family since the first house has known one rule. You never eat the seed.
+Now go to the Farmer, on the Turkish plateau. He cannot rely on a great river to compensate for poor local rain. Even the Nile's floods could fail, but his own fields depend much more directly on rainfall here. He farms on rain. And every farming family since the first house has known one rule. You never eat the seed.
 
 There's a jar in the corner with next year's planting in it. In a bad year you eat less. You eat the animals. You eat things you'd be ashamed to serve. The jar stays shut. Then there's a second bad year, and the animals are already gone. The tax collector comes anyway, because his tablet doesn't have a column for rainfall. And in the third year the family is sitting in front of the jar.
 
-Eat it, and you live until spring and have nothing to plant. Don't, and you may not see spring. I'm imagining that scene, but only just. That's what three thin tree rings mean when you turn them into people. It was happening in a hundred thousand houses.
+Eat it, and you live until spring and have nothing to plant. Don't, and you may not see spring. I'm imagining that scene, but only just. That's what three thin tree rings mean when you turn them into people. The evidence does not give us a count of households facing that exact choice. The imagined jar makes the stakes understandable; it is not another measurement in the study.
 
 Second question, then. How do you feed an empire when the rain stops?
 
-For a while, out of the bins. The Keeper has been storing grain for six thousand years and by now he's good at it. The Hittite capital sat on a rocky height in the middle of the Turkish plateau, more than three thousand feet up and a long way from any sea. Four miles of stone wall ran around it, with gates guarded by carved lions, and inside there were more than thirty temples. The winters are hard there, with snow on the ground for months. It's a fine place to defend and a poor place to feed.
+For a while, out of the bins. The Keeper has been storing grain for six thousand years and by now he's good at it. The Hittite capital sat on a rocky height in the middle of the Turkish plateau, more than three thousand feet up and a long way from any sea. Its defenses stretched for miles, with substantial stone foundations and mud-brick construction above, with gates guarded by carved lions, and inside there were more than thirty temples. The winters are hard there, with snow on the ground for months. It's a fine place to defend and a poor place to feed.
 
-At that capital archaeologists found underground silos the size of swimming pools, sealed with clay, that could hold enough to feed the whole city for a year or more. That's what a state is for, in the end. It's your grandmother's grain bin, big enough to carry a country through a bad harvest.
+Excavations at Hattusa have revealed very large grain-storage installations, including some built centuries before these final crises. They show how seriously the state had invested in reserves. They do not tell us exactly how full the capital's stores were in the year of our letter. A bin's capacity and the food actually left inside it are different facts.
 
 It can carry you through one. Maybe two. But a store only helps if good years come along to fill it again. If they don't, you're spending savings, and from the outside a household spending its savings looks exactly like a household doing fine. The house is the same, the meals are the same. Then one month the account is empty.
 
-When the bins ran low, they bought. That's the letter. Grain from Egypt, where the Nile was still rising, shipped up the coast and through the port of Ugarit and on to Turkey. A capital in the middle of the highlands, days from any sea, was now eating by boat.
+The letters and royal inscriptions show efforts to obtain grain from outside. Keep the shipments separate: the urgent Ugarit order concerns a cargo from a Syrian region, while Egyptian records describe other grain sent to Hatti. And reaching a harbor was only one stage. The Hittite capital stood far inland on a high plateau. After unloading, someone still had to organize animals, carts, labor, and food for the journey uphill. A ship on the coast was not yet dinner in Hattusa.
 
 And there was a third group of mouths that made it worse. For centuries the Hittite kings had fought their wars for people as much as for land. Their own records count the captives along with the cattle: fifteen thousand from one campaign, marched back to the plateau and settled on royal estates to work the fields. That's the Farmer's sister again, and her brothers. So a good share of the people now going hungry in central Turkey had been brought there in chains to grow the food that wasn't growing.
 
@@ -75,7 +75,7 @@ And there was a third group of mouths that made it worse. For centuries the Hitt
 
 Now watch what the kings do under pressure, because they did something you'll recognize.
 
-By the 1230s the Hittites' great worry was Assyria. The merchant city had become a military power, it had taken the old horse kingdom's land, and it had just beaten a Hittite army in the field.
+Go back now to the later thirteenth century, before those three exceptionally dry years. Assyria was a major rival to the east, with territory taken from the old horse kingdom. The Hittite court was trying to control what could reach it through dependent lands.
 
 So the Hittite king wrote a treaty with one of his subject kings on the Syrian coast, and one clause in it reads like this. No merchant of yours is to go to Assyria. No merchant of Assyria is to enter your land or pass through it. And no ship of the Greeks is to be let through to him.
 
@@ -105,7 +105,7 @@ What changed toward the end of the 1200s is that there were more of them, in big
 
 People don't bring cattle on a raid. They bring them when they're moving house.
 
-I think the simplest way to see it is this. The same drought that was emptying the Hittite grain bins was hitting every coast and island around the eastern Mediterranean. Farms failed. People who couldn't eat where they were got into boats. Some went looking for work, some for land, some for a town to rob, and probably the same men did all three in different years. They weren't the cause of what's coming. They were what it looked like when it reached the sea.
+One possibility is that failed harvests helped push some people toward new homes or new ways of making a living. War and political displacement could do that too. A family on the move, a hired soldier, and a raiding crew need not belong to three permanently separate worlds. But the evidence does not identify the motive of every group, or establish the same drought on every island and coast.
 
 A footnote on that Egyptian victory. The king had a monument put up to celebrate, and at the end of it there's a list of places he says he's crushed. One line reads: "Israel is laid waste, his seed is not." It's the first time that name appears anywhere in writing, in 1208 BCE, as a boast by a king who claimed to have wiped them out. Remember that when we get to the hills, two parts from now.
 
@@ -123,7 +123,7 @@ And the system was hiding the damage. That's the cruel part. Every grain bin and
 
 Let me try a thought experiment, and it's only that. Suppose somebody did see it. Suppose you're an adviser to the Hittite king around 1230 and somehow you've grasped the whole picture. What do you tell him to do?
 
-Store more grain. They'd built the biggest silos in their history. Buy from abroad. They were doing it. Make peace with your great rival. They'd signed the most famous treaty of the ancient world. Squeeze the new threat without going to war. They'd tried an embargo. Keep the sea lanes open. Their last king is about to go and fight for them himself.
+Store more grain. Grain storage was already part of the state's practice. Buy from abroad. They were doing it. Make peace with your great rival. They'd signed the most famous treaty of the ancient world. Squeeze the new threat without going to war. They'd tried an embargo. Keep the sea lanes open. A later Hittite king would report fighting at sea himself.
 
 Every sensible thing on that list, they did. That's what I find sobering. This wasn't a world that fell because the people running it were fools. They took the reasonable step each time, and each reasonable step leaned on some other part of the arrangement that was also in trouble.
 
@@ -133,7 +133,7 @@ Picture him. I'm inventing the man, but not his problem. He's the Counter, and h
 
 He writes it down. He sends it up. He gets letters back from other storerooms saying the same thing. The provinces are sending less, because they've had poor harvests too. The grain from Egypt, which used to be a little extra, isn't extra any more.
 
-He doesn't have a word for what he's looking at. He has "bad year" and "worse year." He's solving this month's problem with the tools he's always used.
+He can recognize the shortfall. His difficulty is deciding what will fix it, and persuading people elsewhere to provide what the stores need. Knowing that trouble is serious is not the same as having a remedy that still works.
 
 Fourth question. How does bad news travel in a world like this?
 
@@ -205,7 +205,20 @@ The tree rings say what's coming next. Three thin ones in a row.
 
 ---
 
-## Revision notes — v0.7.2
+## Revision notes — v0.7.3
+
+- Applied by ChatGPT under Jacob's instruction to make edits directly; Claude/Fable is an advisor and second reader, not a blocking approver.
+- Selective physical reconstruction stays marked in the narration. Solid claims are stated plainly; uncertain documentary sequences and causal inferences are narrowed.
+- Changes in this section: P6-GRAIN-DATE, P6-GRAIN-ORDER, P6-CONFIDENCE, P6-ASSYRIA, P6-MITANNI-SCOPE, P6-WEATHER-TIME, P6-NILE, P6-INVENTED-NUMBER, P6-WALL-MATERIAL, P6-SILO-TIME, P6-GRAIN-ROUTE, P6-EMBARGO-TIME, P6-MIGRATION-CAUSE, P6-ADVISER-SILOS, P6-ADVISER-LAST-KING, P6-COUNTER-CONCEPTS.
+- See `04-Working-Notes/draft-07-v0.7.3-applied.md` for scope, sources, remaining checks, and validation.
+
+### Source and review references for this pass
+
+- Existing Part 6 review, RS 20.212 and chronology: https://app.notion.com/p/41ae5852471e819dbbdae45b0de0238f
+
+### Earlier revision record — historical, not current verification
+
+The following notes document the earlier draft. Any claim contradicted by the v0.7.3 narration is superseded; an old `[sure]` label is not recording clearance.
 
 - **Added after the writer's rulings of Nov 16 (v0.7.2):** Puduhepa's remark that she had no grain in her lands [sure in shape; paraphrased; check]; the capital described (over 3,000 ft; about four miles of wall; lion gate; more than thirty temples) [sure; check figures]; the adviser thought experiment (marked as such).
 - **Round 1 review (ChatGPT, Notion), checked against this rewrite:** P6-01 qualified (the part opens on a document, the grain letter, not on the abstract proposition). P6-02 resolved (the Kadesh/treaty king confusion is gone). P6-03 resolved (one announced step back). P6-04 accepted and fixed in v0.7.1 (the "wrong lesson" is the narrator's inference). P6-05 resolved in Part 5 (identity as majority view; plague origin attributed). P6-06 accepted and fixed in v0.7.1 (the three drought years are central Anatolia's; the authors' own caution is stated). P6-07 resolved (no annual treaty grain). P6-08 accepted and fixed in v0.7.1 (the storeroom clerk is marked as invented; the invented fraction is cut). P6-09 resolved (two group names only, introduced when they act). P6-10 resolved and tightened in v0.7.1 (coast-watch and rower lists are separate; the emergency reading is the narrator's, with the routine reading noted; the callback is to the desk, not the man). P6-11 qualified (the siege inference at Mycenae is kept as inference). P6-12 resolved (flagged as unprovable in the script). P6-13 accepted in part (the motive for the sea battles is now "my guess"). P6-14 resolved (no invented death window; no chariots or grandparents for Fu Hao).

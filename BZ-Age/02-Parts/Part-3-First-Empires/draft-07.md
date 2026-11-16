@@ -1,9 +1,9 @@
 # Part 3 — The First Empires
-## SEVENTH DRAFT — v0.7.2
+## SEVENTH DRAFT — v0.7.3
 **Date:** November 16, 2026
-**Status:** Draft-07, revised to v0.7.1 after the ChatGPT Round 1 review (issues P3-01 to P3-12). Told in order from Sargon's rise to the fall of Ur, with Enheduanna as the witness who lives through most of it and one marked side trip to Egypt.
+**Status:** ChatGPT implementation of the editorial review and Jacob's selective scene-setting direction. Source version ef7b943; changed passages and continuity corrected. Not a final recording clearance or an exhaustive fact check.
 **Driving questions:** What is an empire, and how is it different from a big city? How do you run a place you've never seen? Can a living man be a god? Why do empires fall?
-**Narration length:** 4,455 words (about 30 minutes at 150 words a minute)
+**Narration length:** 4,358 words (about 29 minutes at 150 words a minute)
 
 ---
 
@@ -19,7 +19,7 @@ A woman has a baby she can't keep. She puts him in a basket made of reeds, seals
 
 That's Moses. It's also a king named Sargon, and Sargon's version is set about a thousand years earlier. A legend written long after his death puts these words in his mouth: "My mother was a high priestess. My father I never knew. She set me in a basket of rushes and sealed the lid with tar. She cast me into the river, and the river did not drown me." A man drawing water fishes him out and raises him as a gardener, and then the goddess of love and war takes a liking to him, and he becomes king.
 
-The copies we have of that story were written about sixteen hundred years after Sargon died. That's closer in time to Moses than to the man it's about. I have no idea whether Sargon was really a foundling. What I'm sure of is that somebody needed him to have come from nowhere.
+The surviving copies of Sargon's birth legend are from the first millennium BCE, long after the historical king. The setting of a story and the date someone wrote it down are different things. We can compare its floating basket with the Moses tradition without pretending we have a contemporary record of Sargon's infancy.
 
 And I think there's a tell in his name. Sargon isn't a name your mother gives you. In his language it means "the king is legitimate." A man doesn't usually call himself the True King unless somebody has doubts.
 
@@ -41,7 +41,7 @@ So, first question. What's an empire? How is it different from a strong city tha
 
 The cities of the plain had been fighting each other for five hundred years. When you won, you took some loot and some land, maybe some hostages, and you went home. The loser kept his own king, his own god, his own storehouse.
 
-Sargon didn't go home. He pulled down the walls of the cities he took, so they couldn't shut their gates on him. He removed their governors and put in his own people. His inscriptions call them "sons of Akkad." He made them send their taxes to his capital and keep their accounts in his language. Conquer and leave was old. On this plain, conquer and stay was new.
+Sargon's conquests became a sustained project of ruling distant cities. His inscriptions describe appointed governors, military victories, and resources gathered toward Akkad. Earlier rulers had already imposed authority beyond their own city walls. The change here is the scale and duration of the effort, not the invention of conquest in a single man's lifetime.
 
 [VISUAL: Illustration — a village on the plain; a governor's party arriving by boat.]
 
@@ -53,13 +53,13 @@ One thing has changed. It's the man who comes for the barley.
 
 It used to be a man from Ur. He spoke the Farmer's language, Sumerian, and he worked for the king of Ur, who served the god of Ur, and that was simply how the world was arranged. Now there's a governor who was sent from somewhere five weeks upriver, by a king the Farmer will never lay eyes on. The governor speaks a different language at home, one called Akkadian, which is no relation at all to Sumerian. It's a distant cousin of Hebrew and Arabic. The barley still goes onto the barge. But it goes further now, to feed people the Farmer has never heard of.
 
-Nobody asked him. There isn't even a word yet for what he's now part of.
+Picture what that change asks of a household. The grain must still be threshed, measured, and carried out. Someone has to argue about the amount, find labor for the load, and decide what remains for the family. The new ruler can be remote while the demand is close enough to put a hand into the grain jar.
 
 The thing his grandfather couldn't have pictured is a ruler from outside. The thing his grandson won't be able to picture is that it was ever otherwise.
 
 Second question. How do you run a place you've never seen?
 
-Sargon's people had no manual. Every problem was new and they solved it by trying things.
+Sargon's officials could draw on generations of city government. Now they had to adapt that experience to a much larger territory, with more languages, longer journeys, and more places that might refuse an order.
 
 How do you keep order across a thousand miles? You keep soldiers on hand all the time. One of his inscriptions says that five thousand four hundred men ate bread in front of him every day. That's the first standing army we know of, and it's also a statement about the storehouse. Feeding five thousand men who grow nothing takes the surplus of a whole province. The Keeper's grain bins now pay for a permanent war machine.
 
@@ -81,7 +81,7 @@ We know what she looked like, roughly. In the 1920s the same Leonard Woolley who
 
 But the disc isn't why she matters. She's remembered as a writer.
 
-For seven hundred years writing had been used for accounts, lists and the occasional royal boast. Under her name we have hymns: long, fierce, personal poems to the goddess Inanna, with her own name inside them. The copies we have were made by schoolboys five hundred years later, and a few scholars think the poems were written then and credited to her. Most think they're hers, and so do I. If they are, she's the first author in history whose name we know. A woman, a princess, in the south of Iraq around 2300 BCE.
+Under Enheduanna's name we have fierce, personal hymns to the goddess Inanna. They survive in copies made centuries after her lifetime, and scholars disagree about how much of the poetry goes back to her. Her historical position is secure; the relationship between that woman and every line attributed to her is harder to establish. The works made her name part of a literary tradition, not just a royal family tree.
 
 Notice whose daughter she is. The Counter's tool, the thing invented to track barley, has just been picked up by the Keeper's family and used to say how a person feels. Nobody planned that either.
 
@@ -89,9 +89,9 @@ Notice whose daughter she is. The Counter's tool, the thing invented to track ba
 
 Meanwhile the empire is doing what empires do, which is pull things toward the middle.
 
-Sargon bragged that ships from three distant lands tied up at the dock of his capital. One of those lands was the civilization on the Indus River, with the grid streets and the script nobody can read. That's fifteen hundred miles by sea. Beads and seals from the Indus turn up in Iraqi cities of this period. And there's one small object that makes it real for me. It's a personal seal, the kind you'd roll across wet clay as a signature, and it belonged to a man named Shu-ilishu. His job title is carved on it: interpreter of the Indus language.
+Sargon boasted that ships from distant lands reached his capital. One trading partner was Meluhha, generally identified with the Indus civilization, far to the east. There is a later seal, from around the end of the third millennium BCE, belonging to a man called Shu-ilishu. Its inscription calls him an interpreter of Meluhha. It doesn't put him at Sargon's own dock. It gives us something more modest and wonderfully human: someone whose job was to make that distant trade understandable.
 
-So somewhere in this empire there was a man who made his living translating for people from the Indus. He spoke a language that no one alive can read a word of. To him it was a job.
+Someone spoke both sides of a conversation that we can now recover from only one side. To him it was work.
 
 That's the Carrier's world now. His line isn't hauling barges for one temple anymore. They're moving goods between civilizations.
 
@@ -117,15 +117,15 @@ In Egypt, yes, and we'll get there in a minute. In Iraq it was new, and it was s
 
 Naram-Sin had just said the rule didn't apply to him.
 
-And during that great revolt, a rebel took over the city of Ur. He walked into the temple of the moon, and he threw out the old high priestess.
+The poetry attributed to Enheduanna also tells a story of political violence at Ur. Its speaker says a rebel has forced her from her religious office. We cannot turn all its details into a securely dated eyewitness account of Naram-Sin's revolt, but we can hear how it presents the experience of losing power.
 
-Enheduanna was an old woman by then. She'd held that office for decades, through her father's reign and her two brothers' and into her nephew's. Now she was out, wandering, with no house and no position, and she did the only thing she had left. She wrote a poem to her goddess and asked her to fix it.
+The voice in the poem is no longer simply a royal daughter occupying an important office. She is someone pleading for that position and her good name to be restored. The institution that made her powerful has also made her vulnerable.
 
 One of those poems tells the story. In it she says the rebel has driven her out of the temple, that she's been made to fly like a swallow from the window. She says "my good name is destroyed." And then, in the middle of a hymn to a goddess, she does something no writer had done before. She says: "I am Enheduanna. Let me speak to you."
 
-It worked, or something did. Her nephew crushed the revolt, the rebel was removed, and she went back to her temple and wrote more.
+The poem presents a restoration of her position. That is the story the work tells; the political sequence behind it is less certain.
 
-She's one of the most remarkable people in this whole story. She was put in that temple as a tool, and she knew it. And she turned out to be the first writer we know of who signed her work and spoke in it as herself.
+What holds my attention is the combination: a real royal daughter in a powerful religious office, and a later literary tradition that speaks in her name with extraordinary force. We don't need to know every stage of that tradition to hear a person rather than another total of barley.
 
 That's the last we see of her. The rest of this hour happens after her time.
 
@@ -141,13 +141,13 @@ As history it doesn't hold up. The empire outlasted Naram-Sin by a generation. B
 
 So what did happen?
 
-There's a physical clue. Drill a core out of the seabed in the Gulf of Oman, south of Iraq, and at a depth that dates to about 2200 BCE there's a thick band of dust. It's wind-blown dust from Iraq and Syria, far more than in the layers above or below. In northern Syria there's a city from this period where the builders left a wall half finished and the whole population moved out. Stalagmites in caves from Italy to India record the same thing. The rains failed across a huge area and stayed poor for the better part of three centuries. Geologists consider it such a clear marker that they've used it to define the slice of geological time we're living in. Officially, our age begins with that drought.
+There are physical clues to environmental stress around this period: dust in marine sediments, changes in settlement, and records preserved in caves and lakes. Some point to severe drying in parts of the region around 2200 BCE. They do not give us a single weather report for every province, and the timing of the Akkadian state's political decline does not fit every climatic record neatly.
 
-It's tempting to say that's the answer. I don't think it is, quite. An empire is a machine for moving grain to the middle. This one was already straining: it was huge, the provinces hated it, and it had just come through a civil war. A healthy state might have ridden out a run of bad harvests. This one had no slack. My view is that the drought didn't kill Akkad. It hit Akkad at the moment Akkad couldn't take a hit.
+Drought may have made existing conflicts and provisioning problems harder to manage. That is a plausible connection, not a complete explanation recovered from a ring of dust. Different districts could face different pressures, and the documents and the ground do not let us isolate one cause of the empire's end.
 
 Remember that, too. A blow that a strong system would survive, landing on a system with nothing in reserve.
 
-Now the side trip, because the same thing was happening a thousand miles away, and almost nobody puts the two together.
+Now a side trip to Egypt, where a different state faced its own period of fragmentation. The comparison is useful, but we should not assume that similar-looking endings prove a single simultaneous cause.
 
 [VISUAL: Map — pull west from Iraq to Egypt. Photo: the Giza pyramids. Date card: "Side trip — Egypt, 2560 BCE."]
 
@@ -181,7 +181,7 @@ What this kingdom was better at than anyone before it was paperwork. More than a
 
 Listen to what they tracked. In one province, the state weaving sheds employed about fifteen thousand women. Each was owed a fixed amount of barley a month, so much oil a year, so much wool. When a weaver died, they wrote it down and stopped the ration. When a sheep died, the shepherd had to turn in the skin to prove he hadn't sold it.
 
-The women doing the Farmer's sister's kind of work are in those tablets, fifteen thousand of them. The state knew, down to the quart, what it owed each one. Nowhere in a hundred thousand tablets does anybody ask what one of them thought.
+The women doing the Farmer's sister's kind of work appear in these administrative records through obligations, rations, and labor. Sometimes ancient records do preserve individual names. What we usually lack is an account in the woman's own voice of the life behind the entry.
 
 It lasted about a century.
 
@@ -195,7 +195,7 @@ It didn't keep the nomads away.
 
 From inside, a betrayal. Under the last king of Ur, the harvests failed and the price of grain in the capital went up sixty times over. The king sent one of his senior officials north with a boatload of silver to buy grain. The official bought it. Then he wrote back that the roads were too dangerous to ship it, and he'd need to be made governor of the city he was in to keep it safe. And then of the next city. Within a few years he was a king, and Ur's grain was his.
 
-We have the letters, in copies made later. The king of Ur complaining that his own official is starving him. It's one of the most revealing exchanges in this period, because it shows you how an empire dies. It doesn't die when the enemy shows up. It dies when the grain stops moving toward the middle.
+The exchange survives in later copies, part of the literary memory of Ur's fall. It presents a king unable to make an official deliver urgently needed grain. Whether every accusation is reliable or not, the practical problem is clear: commanding a shipment and getting it to the city are different things.
 
 The enemy showed up anyway. In 2004 BCE an army from Elam, the kingdom in the hills of southwestern Iran, came down and sacked Ur. They looted the temple of the moon, where Enheduanna had lived. They took the last king away in chains, and he died in Iran.
 
@@ -223,7 +223,21 @@ For the next couple of centuries nobody holds the whole plain. There are rival k
 
 ---
 
-## Revision notes — v0.7.2
+## Revision notes — v0.7.3
+
+- Applied by ChatGPT under Jacob's instruction to make edits directly; Claude/Fable is an advisor and second reader, not a blocking approver.
+- Selective physical reconstruction stays marked in the narration. Solid claims are stated plainly; uncertain documentary sequences and causal inferences are narrowed.
+- Changes in this section: P3-FOUNDLING-DATE, P3-CONQUEST-NOVELTY, P3-ORDINARY-AGENCY, P3-ADMINISTRATION, P3-ENHEDUANNA-TEXTS, P3-INTERPRETER-CHRONOLOGY, P3-INTERPRETER, P3-EXILE-SOURCE, P3-EXILE-PERSON, P3-EXILE-OUTCOME, P3-ENHEDUANNA-VERDICT, P3-CLIMATE, P3-CLIMATE-INFERENCE, P3-EGYPT-COMPARISON, P3-NAMED-LIVES, P3-UR-LETTERS.
+- See `04-Working-Notes/draft-07-v0.7.3-applied.md` for scope, sources, remaining checks, and validation.
+
+### Source and review references for this pass
+
+- Existing Part 3 review: https://app.notion.com/p/41ae5852471e81bb8326f8e62a47faf0
+- Enheduanna and the surviving literary tradition: https://www.themorgan.org/blog/she-who-wrote-enheduanna-and-women-mesopotamia
+
+### Earlier revision record — historical, not current verification
+
+The following notes document the earlier draft. Any claim contradicted by the v0.7.3 narration is superseded; an old `[sure]` label is not recording clearance.
 
 - **Round 1 review dispositions (ChatGPT, Notion):** P3-01 accepted (Enheduanna carries the Akkadian half only and is retired aloud). P3-02 accepted (the legend is labeled before the quotation; the reading of the name is "I think"). P3-03 accepted (scoped to this plain; "ruled from Akkad"; Lugalzagesi acknowledged without the name). P3-04 accepted (attribution and the 500-year gap to the copies are stated, with the narrator's position; the age is cut). P3-05 accepted. P3-06 accepted (the Curse is a later poem; the death scene is cut). P3-07 qualified: the joint collapse stays as the narrator's stated view with the dating caveat attached; "thirty bad years" is fixed. P3-08 accepted (conscripted crews, not a modern job). P3-09 accepted. P3-10 accepted. P3-11 accepted (the closing line now names what changes for the Farmer; the unsupported "I've never found" is replaced). P3-12 accepted.
 

@@ -1,9 +1,9 @@
 # Part 4 — The Merchants and the Lawgiver
-## SEVENTH DRAFT — v0.7.2
+## SEVENTH DRAFT — v0.7.3
 **Date:** November 16, 2026
-**Status:** Draft-07, revised to v0.7.1 after the ChatGPT Round 1 review (issues P4-01 to P4-12). Two stories in order: a merchant family (c. 1900 BCE), then Mari and Hammurabi (1790s–1750s), then the chariot and the raid on Babylon (1595), ending on the Aegean. Title changed from "The Middle Bronze Age World".
+**Status:** ChatGPT implementation of the editorial review and Jacob's selective scene-setting direction. Source version ef7b943; changed passages and continuity corrected. Not a final recording clearance or an exhaustive fact check.
 **Driving questions:** How do you mail a letter before paper? What is a loan before banks, and what happens when you can't pay? Where does law come from? Why did the wheel take so long?
-**Narration length:** 4,764 words (about 32 minutes at 150 words a minute)
+**Narration length:** 4,821 words (about 32 minutes at 150 words a minute)
 
 ---
 
@@ -31,7 +31,7 @@ You take a lump of clean clay about the size of your palm and you write on it wi
 
 Then you hand it to a man with a donkey.
 
-Lamassi lives in a city called Assur, on the Tigris River in northern Iraq. Remember Assur. A thousand years from now it will have grown into Assyria, the empire whose ruins Xenophon walked past. For now it's one middling trading town. Pushu-ken lives in a town called Kanesh, on the high plateau in the middle of Turkey. Between them are six weeks of walking and a range of mountains. The letter goes with the next caravan, and the answer comes back with the one after that. Ask a question in spring and you'll have your reply by autumn.
+Lamassi lives at Assur, on the Tigris in northern Iraq. Pushu-ken is at Kanesh, on the plateau of central Turkey. Between the two homes lie hundreds of miles of road, river crossings, and mountains. A journey can take weeks. The letter travels with people already moving goods; a reply needs a messenger going the other way. Imagine waiting for an answer while the wool still has to be bought and the household still has to eat. Later Assyrian kings will rule a vast empire from this northern homeland. For now our story is about a merchant city and families doing business abroad.
 
 [VISUAL: Map — the route from Assur north-west over the Taurus Mountains to Kanesh; "700 miles, six weeks."]
 
@@ -79,7 +79,7 @@ Sometimes it went wrong. There's a letter in the archive from a merchant to his 
 
 So Lamassi's husband, the one who complained about her cloth, did time.
 
-I love that. And read Lamassi's letter again in that light. While he was complaining about her cloth, she was the one keeping the firm running.
+The letters don't let us line up every complaint and arrest as one continuous domestic scene. But they do let us see how much business was being managed at the other end of the route, while the man abroad was sending instructions home.
 
 Notice, too, that the whole business ran on other kings' land, by treaty. It was a permission.
 
@@ -89,7 +89,7 @@ Now look at the other end, because the men in Kanesh are only half the firm.
 
 Lamassi is in Assur running everything else. She buys the wool. She manages the women who weave it, and she weaves herself. A good piece takes months. She arranges the donkeys, pays the export tax, deals with her husband's creditors, and raises the children, and she does it for years at a stretch with a husband who is a six-week walk away.
 
-The wives' letters are the best things in the archive. They're sharp. One woman tells her husband that he left her in an empty house without so much as a quart of barley while he builds himself a fine new one out there. Another writes something close to this: you love money and you hate your own life. Come home.
+The family letters are sharp. One wife complains about being left with an empty house while her husband makes a life abroad. In another exchange, it is two sisters addressing their brother: he loves money, they say, and hates his own life. The relationship matters. This is a wider family trying to get an absent man to attend to obligations at home, not another quarrel between Lamassi and her husband.
 
 They had reasons to worry. The law of these merchants allowed a man one wife in Assur and a second in Turkey, provided it was only one in each place. The contracts spell it out.
 
@@ -103,7 +103,7 @@ Between Egypt and the land of Canaan there's a desert peninsula called the Sinai
 
 Here's the best current guess about what happened next. Somebody in one of those camps had an idea. Take a picture, and use it for the first sound of the word in your own language. Their word for ox was something like "alef." So a drawing of an ox's head stands for the sound at the start of alef. Their word for house was "bet." A little floor plan of a house means B.
 
-There are short inscriptions scratched on the rocks around those mines in just such a script, with a couple of dozen signs. Scholars argue about whether they date from around 1850 BCE or a few centuries later, and about exactly who made them. But that's the principle, and those rocks are the oldest place we can see it at work.
+Short inscriptions around the Sinai mines use just such a principle. Related early alphabetic inscriptions also come from Egypt itself. Their dates and the identities of their writers are debated, so we should not award the invention to a named crew we cannot identify. What matters here is the experiment: a small set of signs representing sounds, adapted from a much more elaborate writing tradition.
 
 Turn a capital A upside down. You'll see the horns.
 
@@ -129,15 +129,15 @@ Here's why it deserves that. It wasn't the only one. Other letters from other un
 
 So that's what a loan and a deal look like. Now the darker half of the question. What happens when you can't pay?
 
-[VISUAL: Diagram — a farmer's year: borrow grain in spring (price high), repay at harvest (price low), "plus one third."]
+[VISUAL: Diagram — an explicitly illustrative one-year barley loan: three baskets borrowed, four owed at a one-third annual rate. Actual contract terms vary.]
 
 Come back to the Farmer, because he's a borrower too, and he isn't borrowing to triple his money.
 
-He borrows grain in the spring, when last year's has run out and this year's isn't ripe. He pays it back at harvest, a few months later. In the south, around Babylon, the going rate for a silver loan was twenty percent. For a grain loan it was a third. Borrow three baskets in March, hand back four in June. The poor man's loan cost more than the merchant's. It's a payday loan, and it's almost four thousand years old.
+He may borrow grain because the old harvest is running out before the new one is ready. Old Babylonian documents commonly use annual rates of twenty percent for silver and about a third for barley, though actual terms vary. For a simple one-year illustration, three baskets borrowed at a third become four baskets owed. That is not a claim that every spring loan charged a full year's interest by June. The danger for this borrower is that his repayment depends on a harvest he cannot guarantee.
 
 If the harvest is poor, he can't pay. Then the lender can take what the loan was secured on. It might be the ox, or the field. Or it might be a member of the family, sent to work in the lender's house until the debt is cleared. A child. His wife. Himself.
 
-Run that for a generation and you get a country where a few rich households own most of the land and most of the people. And that's dangerous for a king, because farmers who have lost their land don't pay taxes and don't turn up for the army.
+Debt can transfer land, labor, and bargaining power toward creditors. Kings have reasons to intervene beyond sympathy: a household stripped of its resources may no longer be able to supply taxes, soldiers, or other obligations. The private creditor's gain can become the ruler's problem.
 
 So the kings did something I find astonishing. Every so often, usually when a new king took the throne, he announced that the debts were cancelled. All the small personal ones, the grain loans and the silver loans to farmers. Anyone who'd been handed over for debt went home. The fields went back. The clay tablets the debts were written on were broken. Business loans between merchants weren't touched, because those were investments.
 
@@ -147,7 +147,7 @@ It was a reset button. A thousand years later you find the same idea in the Bibl
 
 [VISUAL: Map — Mesopotamia c. 1790 BCE as a patchwork of rival kingdoms: Babylon small in the center, Mari on the Euphrates, Aleppo, Larsa.]
 
-We've come forward about a century from the merchants, and back down to the river plain. When Hammurabi took the throne in 1792 BCE, Babylon was a small kingdom on the Euphrates with bigger neighbors on every side. You've heard of Babylon. At that point hardly anyone had.
+Leave Nanni's complaint for a moment and go back a few decades, to the beginning of Hammurabi's reign. We are on the river plain again, about a century after the merchant households we began with. When Hammurabi took the throne in 1792 BCE, Babylon was a small kingdom on the Euphrates with bigger neighbors on every side. You've heard of Babylon. At that point hardly anyone had.
 
 We know what the map looked like because of a letter. It was written by an official to his king, and it says: there is no king who is strong on his own. Ten or fifteen kings follow the king of Babylon. As many follow the king of Larsa. As many follow two others. And twenty follow the king of Aleppo.
 
@@ -249,7 +249,21 @@ In about a hundred and fifty years, people like these will have built the most c
 
 ---
 
-## Revision notes — v0.7.2
+## Revision notes — v0.7.3
+
+- Applied by ChatGPT under Jacob's instruction to make edits directly; Claude/Fable is an advisor and second reader, not a blocking approver.
+- Selective physical reconstruction stays marked in the narration. Solid claims are stated plainly; uncertain documentary sequences and causal inferences are narrowed.
+- Changes in this section: P4-LETTER-JOURNEY, P4-SISTERS, P4-JAIL-SEQUENCE, P4-ALPHABET-ORIGIN, P4-DEBT-EXAMPLE, P4-DEBT-CAUSALITY, P4-DEBT-VISUAL, P4-TIME-RETURN.
+- See `04-Working-Notes/draft-07-v0.7.3-applied.md` for scope, sources, remaining checks, and validation.
+
+### Source and review references for this pass
+
+- Cécile Michel on women and Old Assyrian letters: https://www.csmc.uni-hamburg.de/publications/mesopotamia/2020-10-31.html
+- Existing Part 4 review: https://app.notion.com/p/41ae5852471e816b8ad0e7f456845932
+
+### Earlier revision record — historical, not current verification
+
+The following notes document the earlier draft. Any claim contradicted by the v0.7.3 narration is superseded; an old `[sure]` label is not recording clearance.
 
 - **Round 1 review dispositions (ChatGPT, Notion):** P4-01 qualified: the alphabet now sits beside the literacy passage; the wheel origin is cut to four sentences and the chariot, the raid on Babylon and the Aegean are labeled as a closing bridge. They stay in this part (Part 5 is already the longest and needs the chariot and the Aegean in place before it starts). P4-02 accepted (the smuggling arrest is tied back to Lamassi; the couple's story is closed with what the archive gives). P4-03 accepted (price ratios are "before costs"; "gladly", "credit-card money" and "venture fund" cut; "republic with a king attached"). P4-04 accepted ("no tin at all" was wrong). P4-05 accepted (the grain-price argument was illogical and is gone; "never" removed). P4-06 accepted ("in effect" replaces performed forgetfulness; quotes go to the ledger). P4-07 accepted in part ("earliest place we can watch"; the smuggling maxim is cut). P4-08 accepted (surgeon scoped; law-versus-advertisement is "scholars argue" plus the narrator's view). P4-09 accepted (Hammurabi is named at once; "most likable" cut). P4-10 accepted (best current guess; dating dispute stated). P4-11 accepted (metal-tools claim cut; "only a palace" softened; the raid is not attributed to chariots; the Delta takeover follows the migration evidence). P4-12 accepted ("almost nothing valuable"; "harder people" cut; the eruption is not made the cause of the mainland takeover).
 - **New in v0.7.1, verify:** Pushu-ken's death c. 1871 BCE and the heirs' correspondence, including a daughter who was a priestess in Assur [sure in outline; check]; Lamassi's death "about the same time" [check]; Mari about 250 miles upriver from Babylon [check].

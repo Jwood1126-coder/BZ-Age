@@ -1,9 +1,9 @@
 # Part 1 — Before Bronze
-## SEVENTH DRAFT — v0.7.2
+## SEVENTH DRAFT — v0.7.3
 **Date:** November 16, 2026
-**Status:** Draft-07, revised to v0.7.1 after the ChatGPT Round 1 review (issues P1-01 to P1-12; dispositions at the end of the notes). One household; one announced step back to about 12,000 years ago, then forward to 3200 BCE.
+**Status:** ChatGPT implementation of the editorial review and Jacob's selective scene-setting direction. Source version ef7b943; changed passages and continuity corrected. Not a final recording clearance or an exhaustive fact check.
 **Driving questions:** Why would anybody start farming? How does someone work out that metal comes from rock? Who was the first person to own something?
-**Narration length:** 4,348 words (about 29 minutes at 150 words a minute)
+**Narration length:** 4,380 words (about 29 minutes at 150 words a minute)
 
 ---
 
@@ -35,7 +35,7 @@ There's your brother, and he isn't here. Eleven days ago he walked north with tw
 
 And there's your cousin in the corner, already up, already chipping at a piece of flint. He's the one who makes the sickle blades, fixes the handles, and knows which rock breaks clean. He farms like everyone else. He's just better with his hands than you are.
 
-And there's your sister, the boy's mother. She works the field beside you at harvest and runs the house the rest of the year. Right now she's on her knees at the grinding stone, pushing one rock across another to turn today's grain into today's flour. It has to be done every morning before anyone eats, and it takes a good while. She's the best baker in the village and she knows it. You've stopped hearing the sound.
+And there's your sister, the boy's mother. She works the field beside you at harvest and does much of the work that keeps the household fed. Right now she's on her knees at the grinding stone, pushing one rock across another to turn grain into meal. Fine dust gathers around the stone. This is one long task in a day that also includes cooking and other work, not the only thing she ever does. She's the best baker in the village and she knows it. You've stopped hearing the scrape.
 
 [VISUAL: Simple illustration — one-room mud-brick house in cutaway, five figures, grain bins at the back, a grinding stone.]
 
@@ -45,23 +45,23 @@ It's about 5000 BCE. Seven thousand years ago. The first pyramid in Egypt is twe
 
 Look at what isn't here.
 
-There's no city, anywhere on Earth. The biggest crowd you've ever stood in was maybe two hundred people at a spring festival, and it felt like the whole world had shown up. The country you know by heart runs about twenty-five miles in each direction. Your brother has been further. For you, anything past that is one of his stories.
+There is no city in the world this household knows. The biggest crowd you've stood in might be a seasonal gathering of a few hundred people. Your familiar country is the land you can walk across and return from. Your brother has been further. Beyond that, you depend on other people's stories.
 
 Nothing has ever been written down. Everything anybody knows is inside somebody's head, and when the old woman who knows the plants dies, whatever she didn't teach somebody dies too.
 
-There's no king and nobody to pay taxes to. There are people others listen to. Your grandmother is one. A stronger village could raid you, and now and then one does. But there's no office anywhere whose job is to collect a share of your harvest or to send your son off to a war. That arrangement doesn't exist yet.
+In this imagined village there is no palace collecting a regular share of the harvest. There are people others listen to. Your grandmother is one. A stronger village could raid you. Authority and inequality haven't waited for cities to appear, but the distant officials and written demands we will meet later are not part of this household's day.
 
 Your tools are stone, bone and wood. The horse is a wild animal that you'd eat if you could catch one. Your cattle are one step removed from a wild ox that stands six feet at the shoulder and still lives in the woods past your fields. There are lions in the rough country, and the rough country is where you live.
 
-And your food is missing half of what you'd expect. Bread, cheese, lentils, olives if you're lucky, honey for a treat. No tomatoes, no potatoes, no corn, no peppers. Those are on the other side of an ocean nobody will cross for six and a half thousand years. The old Mediterranean kitchen everybody imagines is sitting here with half its ingredients not yet arrived.
+And your food is missing half of what you'd expect. Bread, cheese, lentils, olives if you're lucky, honey for a treat. No tomatoes, no potatoes, no corn, no peppers. Those crops come from the Americas and will not enter this region's kitchens until thousands of years later. The old Mediterranean kitchen everybody imagines is sitting here with half its ingredients not yet arrived.
 
 Everything I'm going to tell you for the next several hours grows out of this room. So before we go forward I want to take one long step back and ask how you ended up in it. After that we come forward again in order.
 
 [VISUAL: Date card — 12,000 years ago. Map: the "Fertile Crescent" arc from Israel up through Syria and southern Turkey and down into Iraq.]
 
-Twelve thousand years ago, nobody farmed. People had been hunting animals and gathering wild plants for a couple of hundred thousand years, and it worked. So here's the first simple question. Why would anybody stop?
+About twelve thousand years ago, near the end of the last Ice Age, people in parts of southwest Asia were beginning the long transition toward farming. Hunting and gathering had sustained human communities for vastly longer. So why begin changing a way of getting food that already worked?
 
-The usual guess is hunger. There got to be too many people, the game thinned out, and farming was the hard thing folks were forced into. That's reasonable, and where farming first took hold, it doesn't fit the evidence.
+Hunger is one possible answer. More people, fewer animals to hunt, a changing climate: any of those could make a new food supply attractive. But farming began in different places under different conditions, and a simple story of starving people being forced to invent it leaves too much out.
 
 In the 1960s an American crop scientist named Jack Harlan went to the hills of southeastern Turkey, where wild wheat still grows in thick stands the way it always has. He made himself a Stone Age sickle, a flint blade in a wooden handle, and he went out and harvested the wild stuff by hand and timed himself. He'd never done it before. He got about two pounds of clean grain an hour. He did the arithmetic and published it: a family working those hillsides for three weeks, at the right time of year, without killing themselves, could bring in more grain than they could eat in twelve months.
 
@@ -69,7 +69,7 @@ Three weeks of work for a year of food, from plants that nobody planted or water
 
 That's only the cutting. It leaves out hauling it home, keeping it dry, and the hours of pounding and grinding before any of it is dinner. Ask your sister. But as a harvest it's astonishing.
 
-So in those hills, at least, these weren't starving people scratching in the dirt. They were standing waist-deep in wild food. Which makes the question harder. If the wild harvest was that good, why go to the trouble of planting anything?
+Harlan's experiment doesn't tell us what every ancient household could harvest. It shows why we shouldn't picture all gatherers as people barely scratching a living from an empty landscape. Some wild resources were extraordinarily productive. That makes planting a crop something to explain, not an obvious improvement.
 
 I'll give you three pieces of an answer. I think they're all true at once.
 
@@ -97,13 +97,13 @@ The third piece is the one that matters most for everything that follows, and it
 
 Meat rots in days. Fruit rots in a week. Dry grain in a sealed bin is good for years. And the moment a family has a year of food in a clay bin at the back of the house, three things have happened to them that they didn't decide. They've stopped moving, because you don't walk away from a year of food. They have something that can be measured, by the basket, which means it can be owed. And they have something that can be taken.
 
-People had owned things before this: a good knife, a necklace, a dog. But a store of grain is the first kind of wealth that can be piled up, measured out and carried off in bulk. In one part of the world, bins like your grandmother's are going to turn into a kingdom. It takes a very long time, and it didn't have to happen.
+People had stored food and valued possessions before farming. Grain adds a particularly useful kind of reserve: a pile that can be counted, divided, lent, and taken. In some places, stores like these will become part of much larger institutions. It takes a very long time, and a bin does not turn into a kingdom by itself.
 
 [VISUAL: Diagram — forager skeleton and early farmer skeleton side by side; height difference marked; worn teeth; arthritic knees and toes.]
 
 Now the bad news, and this is where I part company with the cheerful version of this story.
 
-In a lot of places, farming made people's lives harder. We know because we have their skeletons, and bones keep an honest record of a life. Compare the hunter-gatherers with the early farmers who replaced them, and in many regions the pattern is plain. The farmers were often shorter. Their teeth were rotten, because a diet of ground grain is hard on teeth. Their bones show poor nutrition in childhood. Their joints are worn out early. The women's knees, toes and lower backs carry the marks of those hours at the grinding stone. Your sister, in the corner.
+In many places, the transition to farming came with serious costs. Skeletal studies often find poorer childhood nutrition, dental disease, and heavy repetitive work. The pattern varies between communities, and a worn joint doesn't identify a person's exact daily chore. But think again about the work before breakfast in our house: grain has to become food, one batch at a time. A successful harvest can still demand an exhausting life.
 
 They were sicker too. A hunter-gatherer camp moves on from its own filth. A village sits in it. People, cattle, pigs, sheep, goats and dogs sharing a water supply, year after year. The political scientist James Scott called the early farming village a "multispecies resettlement camp", and a lot of the diseases that have troubled us ever since came out of that arrangement.
 
@@ -127,11 +127,11 @@ By 7000 BCE there's something stranger in central Turkey. It's called Çatalhöy
 
 Inside, the floors were replastered so many times that archaeologists count the layers like tree rings. And under those floors were the dead. People at Çatalhöyük buried their dead beneath the platforms they slept on. Sometimes they dug a skull back up later, plastered a face onto it, painted it, and kept it in the house. The dead weren't in a cemetery on the edge of town. They were under the bed. And DNA from those bones has a surprise in it. In the town's later centuries, many of the people buried under the same floor weren't related to each other at all. Whatever a household was in that town, it was more than a family.
 
-I can't tell you what those people believed. Nobody can. But I can tell you what the town sounded like. Stone on stone, from every roof-hole, most of the day.
+We can't recover exactly what those people believed. But picture the practical business of that town: someone crossing a roof with a load, a ladder leading down into a room, a hearth needing fuel, grain needing grinding. The dead beneath the floor belonged to a space in which the living were still cooking, working, and sleeping.
 
 [VISUAL: Illustration — Çatalhöyük rooftops with ladders descending into houses.]
 
-Which brings us back to your morning. 5000 BCE, the one room, the five of you. Now you know what the bins at the back wall mean, and why your sister's knees are ruined.
+Which brings us back to our imagined household around 5000 BCE. Five people are at home; the brother who trades is away. Now the bins and the grinding stone have a history behind them. They are part of how this family makes it through the year.
 
 And in the corner, your cousin has put down the flint. He's holding something green.
 
@@ -217,7 +217,20 @@ It's going to be loud.
 
 ---
 
-## Revision notes — v0.7.2
+## Revision notes — v0.7.3
+
+- Applied by ChatGPT under Jacob's instruction to make edits directly; Claude/Fable is an advisor and second reader, not a blocking approver.
+- Selective physical reconstruction stays marked in the narration. Solid claims are stated plainly; uncertain documentary sequences and causal inferences are narrowed.
+- Changes in this section: P1-HOUSEHOLD-DAY, P1-CITY-SCOPE, P1-STATE-SCOPE, P1-AMERICAN-FOODS, P1-FARMING-START, P1-HUNGER, P1-HARLAN-INFERENCE, P1-WEALTH, P1-SKELETONS, P1-CATAL-SOUND, P1-RETURN.
+- See `04-Working-Notes/draft-07-v0.7.3-applied.md` for scope, sources, remaining checks, and validation.
+
+### Source and review references for this pass
+
+- Existing Part 1 review and open-check register: https://app.notion.com/p/41ae5852471e810d8b3ac0ee739d785e
+
+### Earlier revision record — historical, not current verification
+
+The following notes document the earlier draft. Any claim contradicted by the v0.7.3 narration is superseded; an old `[sure]` label is not recording clearance.
 
 - **Round 1 review dispositions (ChatGPT, Notion):** P1-01 accepted ("you" are thirty; the grandmother is near seventy; "you are old" is cut). P1-02 accepted (six people, five kinds of work; the sister is the boy's mother and works beside the Farmer). P1-03 accepted (the sister has other work and a skill she is proud of; the counting is taught). P1-04 accepted ("12,000 years ago" used consistently; the promise of a strict straight line is dropped). P1-05 accepted (raids exist; what is missing is the office of tax and conscription). P1-06 accepted (grain as the first wealth that can be collected in bulk; "it didn't have to happen"). P1-07 accepted (processing labor added to Harlan). P1-08 accepted (domesticated crops versus tended wild stands; no workforce number). P1-09 qualified (the "trap" stays as the narrator's stated view; the bone evidence is scoped to "many regions", with one sentence on the exceptions). P1-10 accepted (later Jericho; Çatalhöyük co-burial of unrelated people). P1-11 accepted (hammering is metalworking; temperature corrected; the smith is part-time first). P1-12 accepted (several rich graves at Varna; Varna is not the family; plow multiplier cut; the move to southern Iraq is spoken).
 

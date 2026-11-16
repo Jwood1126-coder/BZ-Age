@@ -1,9 +1,9 @@
 # Part 5 — The Brotherhood of Kings
-## SEVENTH DRAFT — v0.7.2
+## SEVENTH DRAFT — v0.7.3
 **Date:** November 16, 2026
-**Status:** Draft-07, v0.7.1. The ChatGPT Round 1 review covered the draft-06 version of this part; its findings were checked against this rewrite (see notes). Opens on the shipwreck (c. 1300 BCE), makes one announced step back to 1350, then runs forward: the letters, Akhenaten, Tutankhamun, the widow's letter and the plague, iron, Kadesh, the treaty, and two short scenes at the peak. Title changed from "The Cosmopolitan Age".
+**Status:** ChatGPT implementation of the editorial review and Jacob's selective scene-setting direction. Source version ef7b943; changed passages and continuity corrected. Not a final recording clearance or an exhaustive fact check.
 **Driving questions:** How do you sail without a compass? How do kings with no common language talk? How do you marry someone you've never seen? If iron is everywhere, why bronze?
-**Narration length:** 5,205 words (about 35 minutes at 150 words a minute)
+**Narration length:** 5,288 words (about 35 minutes at 150 words a minute)
 
 ---
 
@@ -19,9 +19,11 @@ She isn't big. About fifty feet, the length of a city bus and a bit. She's built
 
 It's in three hundred and fifty-four slabs, more than fifty pounds each, cast flat with a handle at every corner so two men can carry one between them. They're stacked in overlapping rows like roof tiles. Under them is a ton of tin. Around them are a hundred and fifty big clay jars, most of them full of a sticky tree resin used for incense. There are logs of black wood from Africa. There are elephant tusks and hippopotamus teeth. There are a hundred and seventy-five round cakes of raw glass, most of them deep blue. There are ostrich eggs, and beads of amber from the Baltic Sea. There's a gold scarab with the name of the queen of Egypt on it.
 
+Picture the practical problem of working around that cargo. Each slab is roughly the weight of a heavy suitcase. Jars have to be secured against movement; loads need to be placed so the vessel can sail safely. This is a reconstruction of the work, but the weight is real. Those beautiful objects in museum cases were once freight that somebody had to lift.
+
 And somewhere near the bow there's a small bronze statue of a goddess with gold over her face and hands. She's there to get the ship home.
 
-We don't know what happened. That cape is known for sudden winds off the mountains. The ship hit the rocks or was swamped, and she went down fast, and her cargo slid down the slope of the seabed and stayed there for three thousand three hundred years.
+We don't know exactly how the ship was lost. Her cargo came to rest down a steep underwater slope, where it remained for more than three thousand years. The wreck gives us objects and their positions; it cannot replay the last minutes of the voyage.
 
 [VISUAL: Photo — the Uluburun copper ingots on the seabed. Then: the reconstructed hull section, Bodrum Museum.]
 
@@ -33,7 +35,7 @@ You've seen this ship. She docks at Rotterdam now, and she's a quarter of a mile
 
 And the family's all aboard. It's the Carrier's ship. The metal is the Maker's raw material. There was a folding wooden notebook on board with an ivory hinge, the kind you fill with wax and write on with a point, so the Counter was there, though the wax and whatever was written in it are long gone. The crew's lunch was in the wreck, figs and olives and pomegranates, and the Farmer grew that. And a cargo this size wasn't one merchant's gamble. Eleven tons of bronze in the making is enough to equip a small army. Most people who've studied her think this was a shipment from one king to another.
 
-So five people who started out in one room are all on one boat, and none of them knows the others exist.
+The wreck brings our five kinds of work together. It does not identify five particular passengers. It shows how a cargo can depend on farmers, craftspeople, record-keepers, merchants, and powerful customers who may never meet.
 
 [VISUAL: Map — eastern Mediterranean with the counterclockwise sailing circuit: Egypt, the Levant coast, Cyprus, southern Turkey, the Aegean, Crete, North Africa, back to Egypt.]
 
@@ -45,9 +47,9 @@ We even have a fair idea who was on her, from what they left. There were several
 
 And my favorite passenger: a mouse. The excavators found the jawbone of a house mouse in the sediment, and a specialist compared it with mouse populations around the Mediterranean. It matched the mice of the Syrian coast. So that's probably where the ship last took on cargo, and we know it because of a stowaway.
 
-Now the tin. I promised you this metal would be trouble. The ton of tin on that ship has been through every laboratory test there is, and the results came out in 2022. About a third of it seems to have come from a mine in Central Asia, in the mountains where Uzbekistan meets Tajikistan. That's two thousand miles from the wreck. The rest looks like it came from the mountains of southern Turkey. Other tin from other wrecks of this period, off the coast of Israel, has been traced with fair confidence to Cornwall, in England.
+Now the tin. Researchers have compared the metal in these ingots with ores from different regions, using chemical composition and isotopes. A study published in 2022 proposed sources in Central Asia and the Taurus Mountains of Turkey; other researchers have challenged those assignments. The broad point is safer than a map with a precise route drawn on it. This was an international trade in material whose origins are difficult to reconstruct, even with the cargo in our hands.
 
-Whoever loaded that tin knew exactly where it came from and saw no reason to write it down. So we've spent a century in laboratories recovering one fact the shipper didn't think was worth recording.
+We don't have the shipment's full paperwork. Its merchants may have bought through intermediaries rather than dealing with the miners themselves. The ingots preserve the metal, not every conversation that moved it toward the coast.
 
 To understand who that cargo was for, I have to take you back about fifty years, and then we'll go forward in order.
 
@@ -63,7 +65,7 @@ Between them, in northern Syria, is Mitanni, the horse kingdom. Its kings traine
 
 In the old country there's Babylon, under its mountain kings, selling horses and blue stone and living on its reputation as the oldest school in the world.
 
-Off to the side there's Assyria, the merchant city. You remember Assur and the donkey caravans. Right now it's a subject of the horse kingdom and nobody's paying it any attention. That's a mistake. Assyria outlasts every other power at this table.
+In northern Iraq is Assyria, a kingdom with its old center at Assur, the city of the donkey merchants. During these generations its rulers are emerging from Mitanni's dominance and asserting themselves among the great powers. Remember the distinction: Assur is the city; Assyria is the kingdom whose power is growing around it.
 
 Out in the water is Alashiya, the copper island. That's Cyprus.
 
@@ -77,7 +79,7 @@ We know how these kings dealt with each other because of something that happened
 
 Second question. How do kings with no common language talk to each other?
 
-They wrote in Babylonian. In Babylon and Assyria people spoke forms of it at home. Nobody did in Egypt, or among the Hittites, or on Cyprus. But it was the language of the oldest schools, so every court kept a few scribes who'd learned it, and all the letters went through them. It's how pilots work today. A Korean pilot landing in Brazil talks to the tower in English. It's nobody's mother tongue in that conversation. It's what the system runs on.
+Much of the correspondence was written in Babylonian, a form of Akkadian spoken in Mesopotamia. For courts such as Egypt's and the Hittites', it served as an international language learned by scribes. Think of aviation English: the shared language makes the exchange possible even when the people on either side speak different languages at home.
 
 And they had rules. The great kings call each other "brother." It doesn't mean they like each other. It means "I recognize you as my equal." Small kings write to the great ones as "my lord, my sun," and say they throw themselves at his feet seven times and seven times more. You always know from the first line who outranks whom.
 
@@ -99,7 +101,7 @@ One of those complaints I can't leave out. The king of Babylon had been ill, and
 
 Think about that. One of the most powerful men alive had to ask a messenger how big the world was.
 
-And there's a letter in that archive from Assyria, the merchant city nobody was watching. Its king writes to Egypt for the first time, on his own account, to introduce himself and send a chariot and two white horses. The king of Babylon found out and was livid. Those people are my subjects, he wrote to Egypt. If you love me, send them home with nothing.
+And there's a letter in that archive from the rising Assyrian kingdom in northern Iraq. Its king writes to Egypt for the first time, on his own account, to introduce himself and send a chariot and two white horses. The king of Babylon found out and was livid. Those people are my subjects, he wrote to Egypt. If you love me, send them home with nothing.
 
 Egypt didn't. A new chair had been pulled up to the table.
 
@@ -171,7 +173,7 @@ That was the trade these people made. They took the better metal, and the price 
 
 [VISUAL: Map — the Orontes River in Syria; Kadesh on its mound; the four Egyptian divisions strung out on the road south. Date card: 1274 BCE.]
 
-Fifty years after the plague began, Egypt and the Hittites finally fought it out, and the battle is a good story.
+Several decades later, Egypt and the Hittites fought at Kadesh, a fortified city beside the Orontes River in what is now Syria. Most of the detailed battle story comes from Ramses's own inscriptions and pictures. They were made to celebrate him. We can follow that account without mistaking it for a neutral report from both armies.
 
 The king of Egypt is Ramses the Second. He's about twenty-five and he's been on the throne five years. He marches north into Syria with four divisions, about twenty thousand men, to take a fortress city called Kadesh. The divisions are a day apart on the road, and Ramses is out in front with the first.
 
@@ -191,7 +193,7 @@ So who won? If you go by the map, the Hittites did. If you go by the walls of Eg
 
 He ruled for another sixty-one years and he never stopped telling that story. He's the greatest public relations man in history. He nearly got his army wiped out by believing two herders, and three thousand years later tourists stand in front of his version and take it for a victory.
 
-Sixteen years after the battle the two kingdoms made peace, and it wasn't because they'd grown fond of each other. The Hittite king by then was the brother of the one who'd fought at Kadesh. He had taken the throne from his nephew, and the nephew had fled to Egypt. A man who's stolen a crown needs other kings to recognize him. And on the Hittites' eastern border, Assyria, the merchant city, had become an army.
+Sixteen years after the battle the two kingdoms made peace, and it wasn't because they'd grown fond of each other. The Hittite king by then was the brother of the one who'd fought at Kadesh. He had taken the throne from his nephew, and the nephew had fled to Egypt. A man who's stolen a crown needs other kings to recognize him. And on the Hittites' eastern border, the Assyrian kingdom had become a formidable military rival.
 
 So they signed a treaty. We have both copies, the Egyptian and the Hittite, and they match. Neither will attack the other. Each will come to the other's aid. And each will send back the other's fugitives, with a clause that says the people sent back aren't to be punished or have their houses torn down. It's the oldest peace treaty between great powers that survives. There's a copy on the wall at the United Nations in New York.
 
@@ -211,11 +213,11 @@ The first is in Greece, at a palace called Pylos, on a hill above a bay in the s
 
 His desk is by the front entrance. He writes on palm-sized pieces of damp clay in the script the Greeks borrowed from Crete, and what he writes is the palace's day. Figs and grain for thirty-seven women and their children in the weaving unit. Bronze issued to the smiths in the villages, by weight, with a note of which smiths got none this season. Sheep by the tens of thousands. Chariot wheels, serviceable and unserviceable. Rowers owed by each town on the coast.
 
-Some of the women on his lists are labelled by where they're from, and the places are across the sea in Turkey. One group is labelled with a word that just means "captives." That's the Farmer's sister. She's been in this ledger since Uruk.
+Some groups of women are identified by place names across the Aegean, in what is now Turkey. Scholars have argued that some were captives or otherwise dependent workers. The labels do not give us one clear legal status for every woman. They show people being administered through work and rations, with very little of their own story attached.
 
-His tablets aren't meant to last. They're this year's accounts. At the end of the year they get tossed back in the water jar and the clay is used again. Nobody bakes them. On the shelf behind him are a few hundred tablets, damp and gray, good until the next harvest.
+The tablets are working records, usually written on clay and left unbaked. Many concern a short period of administration rather than a permanent history. Imagine a clerk setting down a tablet after checking a delivery. It can dry hard enough to handle without becoming fired pottery. That difference will matter when we return to this archive.
 
-And his skill has one customer. Nobody in the villages can read. There are no letters in this script, no poems, no schools. If the palace ever stopped needing him, there'd be nothing for him to write and nobody to teach.
+The surviving Linear B records are overwhelmingly administrative. We have no surviving body of letters or poems in this script. That doesn't let us inspect every person's abilities in the kingdom, but it does show how closely the evidence for this kind of writing is tied to palace work. Lose that work and the training of new scribes becomes much harder to sustain.
 
 Remember the shelf.
 
@@ -225,9 +227,9 @@ The second is at Ugarit, the port in Syria, at the end of a working day. Picture
 
 He's one of the Carrier's men, and he's spent the day hauling those fifty-pound copper slabs up a gangplank, so his shoulder is raw in the place where his ancestor's was raw from the tow rope. The quay behind him is piled with things that don't belong together. Copper from the island. Oil jars from Greece. Bolts of Egyptian linen. A crate of blue stone that started out in Afghanistan.
 
-He hears four languages between the ship and the gate. There are five kinds of writing in use in this town, and one of them is new. The local scribes have taken the idea those miners had in the desert, one sign for one sound, and dressed it in wedges so it can be written on clay. It has thirty signs. A boy can learn it in a few weeks. The old scribes, who spent their whole youth learning Babylonian, don't think much of it.
+Imagine several languages being spoken around him. Ugarit's scribes used more than one language and more than one writing system. Among them was an alphabet of about thirty signs, written in wedges on clay. It was used for serious scribal work, including letters, religious texts, and accounts. Keep that in mind: alphabetic writing was already useful before the palaces of this world fell.
 
-He stops at a doorway. Inside there's a woman singing, a hymn to the wife of the moon god. Somebody in this town thought enough of that song to write it down, with instructions for the strings.
+Put a singer in a doorway as the working day ends. We cannot recover this particular woman or her song; she belongs to our imagined evening. But a hymn to the goddess Nikkal really does survive among Ugarit's tablets, with signs interpreted as musical instructions. The archives contain more than prices and royal demands.
 
 He thinks this is how the world is. The ships come. They've always come. His grandfather worked this quay.
 
@@ -245,15 +247,30 @@ The Maker can't work unless a ship comes in from Cyprus and a caravan comes in f
 
 And the Farmer feeds all four, and his sister is on a list.
 
-Each of them is better off than his ancestors in the one-room house. The Maker has better tools, the Counter has a profession, the Keeper has the world's gold. And look at what each of them now needs in order to get through an ordinary year. The king's chariots need the smith. The smith needs the ship. The ship needs the treaties. The treaties need every king to stay a king. And all of it, every bit, rests on the Farmer bringing in a harvest, and that depends on rain.
+This world offers possibilities the first household never had: specialized crafts, distant markets, ambitious literature, goods from beyond the horizon. The gains are not shared equally. A powerful ruler, an independent merchant, and a dependent weaver occupy very different positions. What connects them is the work that has to keep being done: harvests, shipments, agreements, and payments.
 
-I don't think anyone inside it could see that. Why would they? It had worked for three hundred years. It didn't feel like a system to them. It felt the way your own world feels to you.
+The people inside it knew about bad harvests, hostile neighbors, and failed deliveries. Their letters say so. What they could not know was which troubles would be overcome, as many had been before, and which institutions would not survive the next generations.
 
 The rain is about to change.
 
 ---
 
-## Revision notes — v0.7.2
+## Revision notes — v0.7.3
+
+- Applied by ChatGPT under Jacob's instruction to make edits directly; Claude/Fable is an advisor and second reader, not a blocking approver.
+- Selective physical reconstruction stays marked in the narration. Solid claims are stated plainly; uncertain documentary sequences and causal inferences are narrowed.
+- Changes in this section: P5-WRECK, P5-HOLD, P5-ROLES-ABOARD, P5-TIN-PROVENANCE, P5-SHIPPER-KNOWLEDGE, P5-ASSYRIA, P5-AKKADIAN, P5-ASSYRIA-RETURN, P5-KADESH-ATTRIBUTION, P5-ASSYRIA-TREATY, P5-PYLOS-ANNUAL, P5-PYLOS-LITERACY, P5-WOMENS-STATUS, P5-UGARIT-ALPHABET, P5-SINGER, P5-UNEQUAL-PROSPERITY, P5-KNOWING-DANGER.
+- See `04-Working-Notes/draft-07-v0.7.3-applied.md` for scope, sources, remaining checks, and validation.
+
+### Source and review references for this pass
+
+- Akkadian language: https://nelc.yale.edu/languages/akkadian
+- Ugarit archaeological mission: https://archeologie.culture.gouv.fr/ougarit/fr
+- Existing Part 5 review: https://app.notion.com/p/41ae5852471e81d193b6d5c012f3e4df
+
+### Earlier revision record — historical, not current verification
+
+The following notes document the earlier draft. Any claim contradicted by the v0.7.3 narration is superseded; an old `[sure]` label is not recording clearance.
 
 - **Added after the writer's rulings of Nov 16 (v0.7.2):** the Zannanza what-if (marked as a what-if); Khaemwaset restoring the pyramids [carried from draft-06; "thirteen hundred years old" = c. 2560 to c. 1250].
 - **Round 1 review (ChatGPT, Notion), checked against this rewrite:** P5-01 already resolved (wooden boards, ivory hinge; ship established first). P5-02 already resolved (one announced step back, then forward). P5-03 resolved by removal (Thera is told in Part 4 without the Greenland claim). P5-04 qualified: the "two thousand years" superlative is gone; the table of powers is kept, with a fixed tag for each, because four of them act within the next three minutes. P5-05 accepted and fixed in v0.7.1 (Babylonian was a home language in Babylon and Assyria). P5-06 resolved (the daughters are told by relationship, without the three names). P5-07 resolved (classification dropped; narrator's view stated; Rib-Hadda's enemies corrected). P5-08 accepted and fixed in v0.7.1: the Pylos scene now says its evidence comes from the palace's last year and pictures "a clerk at that desk around 1250"; later parts return to the desk, not the man. P5-09 accepted ("twelve years" removed). P5-10 resolved here; Part 8 presents the tin-shortage reading as partial. P5-11 resolved (no Hittite battle report; sixty-one years). P5-12 resolved (one warning, at the end). Also fixed in v0.7.1: the widow's identity is given as the majority view; the plague's origin is attributed to the Hittite account.

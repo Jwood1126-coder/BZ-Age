@@ -1,8 +1,8 @@
 # Series Cold Open / Prologue
-## SEVENTH DRAFT — v0.7.1
+## SEVENTH DRAFT — v0.7.3
 **Date:** November 16, 2026
-**Status:** Draft-07 revised after the ChatGPT Round 1 review (Notion, issues P0-01 to P0-07). The opening now places 401 BCE for a listener with no background, introduces Persia and Assyria before using the names, keeps the two ruins separate, and narrows the "forgotten" claim to what Xenophon's account supports.
-**Narration length:** 1,381 words (about 9 minutes at 150 words a minute)
+**Status:** ChatGPT implementation of the editorial review and Jacob's selective scene-setting direction. Source version ef7b943; changed passages and continuity corrected. Not a final recording clearance or an exhaustive fact check.
+**Narration length:** 1,594 words (about 11 minutes at 150 words a minute)
 
 ---
 
@@ -14,7 +14,7 @@
 
 About twenty-four hundred years ago, a Greek army was trying to walk home from Iraq.
 
-The year was 401 BCE. If you want something to hang that on: this is the Greece of Athens and Sparta. Socrates is alive and annoying people in the marketplace. The three hundred Spartans made their stand at Thermopylae about eighty years earlier. It's old, but it's a world most of us have at least heard of.
+The year was 401 BCE. Put that in the world of classical Greece, the Greece of Athens and Sparta. Socrates is still alive. The famous stand of the Spartans at Thermopylae happened about eighty years earlier. We are already thousands of years after the first cities, but still more than four centuries before the beginning of the calendar we use today.
 
 One of the soldiers was an Athenian named Xenophon, a former student of Socrates. He and about ten thousand other Greeks had hired on with a prince of Persia. Persia was the great empire of the day. Its home was in what is now Iran, and it ruled everything from Turkey to the borders of India. The prince wanted his brother's throne, and he had marched his hired Greeks a thousand miles inland to take it.
 
@@ -24,37 +24,43 @@ Xenophon lived, and years later he wrote the whole march down. That's how we kno
 
 [VISUAL: Illustration — a ruined mud-brick city wall on a stone base beside a river, villages and fields nearby, a column of soldiers small in the foreground. Scale diagram: 100 feet against a ten-story building.]
 
-This was farming country, with villages along the river. And among the villages the army came to a city with nobody in it.
+This was river country, with fields and villages. Among them the army passed the remains of a much larger place, a city Xenophon calls deserted.
 
-Xenophon describes the wall. It was built of baked clay brick on a base of stone. He says it stood a hundred feet high and twenty-five feet thick, and ran for miles. A hundred feet is a ten-story building. Beside it was a great stone mound, and people from the villages had climbed up onto it to get away from the passing army.
+He describes a wall of clay brick on a stone base. He puts it at a hundred feet high and twenty-five feet thick. A hundred feet is roughly a ten-story building. Those are his reported dimensions, not a modern survey, but the impression is unmistakable: an enormous amount of building still stood above him. Nearby was a tall stone structure he calls a pyramid. People from the surrounding villages had climbed onto it to get away from the passing army.
 
-A day's march later they came to a second deserted stronghold, larger than the first. Xenophon noticed one small thing about it that I love. The stone at the base of the wall was full of seashells.
+What would the ruined city actually have looked like? We have to imagine some of that. Don't picture clean archaeological foundations with paths between them. Picture fallen brick gathering against the foot of a wall, its upper edges worn into irregular shapes. Where roofs had burned or fallen, rain could get into rooms that had once been protected. Mud brick can stand for centuries when it is maintained; left exposed, it gradually washes and crumbles back into earth. Stone footings can keep their outline after much of the building above them has gone.
 
-He asked who had built these places. He was told the first had belonged to the Medes, an old people from the mountains, and that the king of Persia had only managed to take it when a cloud covered the sun and the defenders lost heart. About the second he heard something similar, with thunder from Zeus. He wrote it all down, and he kept walking. He had other problems.
+And the wood? Some may have burned in the city's destruction. Useful beams and doors could have been carried away. Other timber could decay, while buried or charred fragments survived. A dry summer doesn't preserve an entire city like a sealed tomb. This landscape has wet seasons too. We can't reconstruct the condition of each house on the day Xenophon passed, but a standing wall did not mean that a habitable city remained behind it.
+
+A day's march later the Greeks reached another deserted stronghold, larger than the first. Here Xenophon noticed shells in the dressed stone at the base of the wall.
+
+Did he go inside? His account gives us no tour of the streets or houses. Nor does it name the people from whom he obtained the stories he records. We shouldn't turn that brief passage into an interview with the last inhabitants. We do know there were people living in the surrounding country; the villagers seeking shelter are right there in his account.
+
+The stories are strange. The first city, he says, had belonged to the Medes, a people from the Iranian mountains. A Persian king had failed to take it until a cloud hid the sun and its defenders lost heart. The second city had a similar story, this time with thunder from Zeus. Xenophon recorded them and continued the march. He had an army to get home.
 
 [VISUAL: Map — Nimrud and Nineveh marked on the Tigris; the Assyrian Empire at its height shaded from western Iran to Egypt.]
 
 Scholars are fairly sure what he'd walked past. The first ruin was a city we call Nimrud. The second was Nineveh.
 
-You may not know those names, so let me tell you what they were. A few centuries before Xenophon, the strongest state on Earth was a kingdom called Assyria. Its homeland was right there, along the Tigris in what's now northern Iraq. Its kings had conquered outward until they ruled from the mountains of Iran to the Nile, and Nineveh was their capital. It was the largest city in the world. The Bible calls it "that great city" and says it took three days to cross.
+Nineveh had been a capital of Assyria, a kingdom centered on the Tigris River in what is now northern Iraq. Its kings conquered far beyond that homeland, reaching into Egypt. Nineveh became one of the great cities of the ancient world, a place of palaces, temples, and royal administration. The ruins belonged to a power that had once commanded much of the country through which these Greeks were struggling.
 
-In 612 BCE its enemies burned it to the ground.
+In 612 BCE its enemies sacked it. Its life as the capital of that empire was over.
 
 That was two hundred and eleven years before Xenophon came by. From us, two hundred and eleven years takes you back to about 1815, the year of Waterloo. We know a good deal about Napoleon.
 
-But look at the story Xenophon was given. It has Medes in it, and Persians, and a thunderstorm. It doesn't have any Assyrians. The greatest power the world had seen was two centuries gone, an educated and curious man was standing on its capital asking questions, and the people who built it weren't in the answer.
+But look at the stories Xenophon records. They have Medes in them, and Persians, and a thunderstorm. They don't identify the Assyrian kings who had made these cities great. An educated Greek was passing the remains of an immense empire, and his account preserved a very incomplete explanation of what he saw.
 
-I should be careful. That's one traveler's account, and I can't tell you what every farmer on that riverbank knew. But I find it one of the most unsettling scenes in history. The walls were still standing, tall enough to need explaining, and the true explanation had already dropped out of the story.
+That tells us something about the account, not everything about what people along the river remembered. Some knowledge and settlement survived the empire. What unsettles me is the gap: the masonry remained visible long after an accurate history of it had become difficult for this traveler to obtain.
 
 And Assyria isn't even what this series is about.
 
 [VISUAL: Timeline — 3500 BCE first cities; 1200 BCE collapse; 612 BCE Nineveh falls; 401 BCE Xenophon; today. The Bronze Age span highlighted.]
 
-Assyria was an heir. The cities, the writing, the law, the idea that one king could rule many peoples: all of that was ancient before Nineveh was built. It came down from an older world, one that had already risen and fallen about eight hundred years before Xenophon's march.
+Assyria was an heir. The cities, the writing, the law, the idea that one king could rule many peoples: all of that was ancient before Nineveh became an imperial capital. It came down from an older world, one that had already risen and fallen about eight hundred years before Xenophon's march.
 
-We call that older world the Bronze Age. It runs from the first cities anyone ever lived in to a few centuries that look strangely like our own time. Kings wrote each other letters. Ships carried goods from three continents in a single hold. There were loans, and contracts, and customer complaints, and a peace treaty with an extradition clause. Then, around 1200 BCE, most of it came apart inside a lifetime or two. The people who came afterward lost track of it so thoroughly that when the Greeks of Xenophon's day told stories about that age, they thought they were telling stories about gods and giants.
+We call that older world the Bronze Age. This series follows its development in the Near East and the eastern Mediterranean, from the growth of cities to an age of kings exchanging letters and ships carrying goods from distant countries. There were loans, contracts, customer complaints, and a peace treaty with an extradition clause. Around 1200 BCE, many of its kingdoms suffered profound disruption. Some cities burned, some governments disappeared, and some communities carried on. What survived, and what became difficult to remember, depended on where you stood.
 
-So here's the question I'd like you to carry with you. How do people build a world that connected, live in it for centuries, lean on it until it feels as permanent as the weather, and then lose it so completely that their descendants stand on the ruins and guess?
+So here's the question I'd like you to carry with you. How do people build a world that connected, live in it for centuries, and then lose so much of its working machinery? And why can one community keep its records while another eventually tells stories about the people who built the ruins?
 
 Two things about how I'm going to tell it.
 
@@ -68,7 +74,7 @@ In that first house those are just things people in one family do. As the world 
 
 These aren't the same people, and they aren't one bloodline. They're a way of keeping track. But at almost every step there's a real person standing where one of them would stand, with a real name and sometimes real mail, and when that happens I'll say so.
 
-Watch what happens to those five kinds of work. By the middle of this story they'll be done by people in five different countries who will never meet, and none of them will be able to get through a year without the other four. That's the secret of the Bronze Age. It's how those people got rich, and it's a large part of what brought them down.
+Watch what happens to those five kinds of work. Some remain within a household. Others come to depend on people across a sea or beyond a range of mountains. Those connections make new kinds of wealth possible. They also create problems when the goods, payments, or protection people expect stop arriving. Following the work will help us see both the strength of that world and the different ways parts of it broke.
 
 When the evidence runs out I'll tell you, once, and move on.
 
@@ -80,11 +86,25 @@ Back past Xenophon and past Nineveh. Past the collapse, and past the first city.
 
 Think about that gap for a second. From that house to Xenophon is nearly twice as far as from Xenophon to you.
 
-There are no cities yet, anywhere. No kings. Not one written word. There's a small house that smells of smoke and sheep, and in it someone is about to wake up.
+We are before the great cities and written archives of this story. There's a small house that smells of smoke and sheep, and in it someone is about to wake up.
 
 ---
 
-## Revision notes — v0.7.1
+## Revision notes — v0.7.3
+
+- Applied by ChatGPT under Jacob's instruction to make edits directly; Claude/Fable is an advisor and second reader, not a blocking approver.
+- Selective physical reconstruction stays marked in the narration. Solid claims are stated plainly; uncertain documentary sequences and causal inferences are narrowed.
+- Changes in this section: P0-ORIENTATION, P0-RUINS, P0-NINEVEH, P0-SACK, P0-MEMORY, P0-MEMORY-LIMIT, P0-ANCIENT-CITY, P0-SERIES-FRAME, P0-QUESTION, P0-ROLES, P0-5000-SCOPE.
+- See `04-Working-Notes/draft-07-v0.7.3-applied.md` for scope, sources, remaining checks, and validation.
+
+### Source and review references for this pass
+
+- Xenophon, Anabasis III.4.7–12: https://www.gutenberg.org/files/22003/22003-h/22003-h.htm
+- Nimrud after the Assyrian Empire: https://oracc.museum.upenn.edu/nimrud/ancientkalhu/thecity/latekalhu/index.html
+
+### Earlier revision record — historical, not current verification
+
+The following notes document the earlier draft. Any claim contradicted by the v0.7.3 narration is superseded; an old `[sure]` label is not recording clearance.
 
 - **Round 1 review dispositions (ChatGPT, Notion):**
   - P0-01 accepted. 401 BCE is anchored to Athens and Sparta, Socrates, and Thermopylae; the rewind to 5000 BCE is stated as a distance ("nearly twice as far as from Xenophon to you": 4,600 years against 2,400).
