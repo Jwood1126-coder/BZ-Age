@@ -1,7 +1,7 @@
 # Part 1 — Before Bronze
 ## SEVENTH DRAFT — v0.7
 **Date:** November 16, 2026
-**Status:** Rewritten to the draft-07 brief. One household introduced; one announced flashback, then straight chronology (12,000 BCE → 3200 BCE).
+**Status:** Draft-07, revised to v0.7.1 after the ChatGPT Round 1 review (issues P1-01 to P1-12; dispositions at the end of the notes). One household; one announced step back to about 12,000 years ago, then forward to 3200 BCE.
 **Estimated audio length:** ~33 minutes (~5,000 words)
 **Driving questions:** Why would anybody start farming? How does someone work out that metal comes from rock? Who was the first person to own something?
 
@@ -11,47 +11,51 @@
 
 ---
 
-[VISUAL: Part card — WHEN: 5000 BCE. WHERE: hill country at the eastern end of the Mediterranean. THE FAMILY: all five under one roof.]
+[VISUAL: Part card — WHEN: 5000 BCE, seven thousand years ago. WHERE: a farming village in the hills of what is now northern Syria. THE HOUSEHOLD: one roof, five kinds of work.]
 
 Your feet hurt.
 
 That's the first thing every morning. It's still dark, there's a thin line of gray in the east, and you're awake because you never really got to sleep. You sleep on a mat on a dirt floor. Something always hurts. Your back, your hip, a tooth that's been wrong for weeks.
 
-You're about forty years old. You're old.
+You're about thirty. To look at your hands, you'd guess fifty.
 
 The house is one room. Mud-brick walls, a roof of timber and reeds black with smoke, and around a dozen smells that nobody seven thousand years from now would enjoy. It's your home, and it's a good one.
 
-There are five of you who matter for this story.
+You live in a village of about sixty people, in the hill country of what is now northern Syria, a few days' walk inland from the Mediterranean. I should say that I've put this house together from what archaeologists have found in villages like it. Nobody dug up this particular family.
+
+Six people sleep in this house when everyone's home, and between them they do five kinds of work that I'm going to follow.
 
 There's you. You work the field. Barley mostly, some wheat, lentils, and you'll be bent over it from now until the light goes.
 
-There's your grandmother, asleep by the back wall, next to the big clay bins. She minds the grain. She knows how much there is, how much has to last until harvest, and who in the village owes this house a basket from last spring. Nobody opens a bin without her say.
+There's your grandmother, asleep by the back wall, next to the big clay bins. She's close to seventy, the oldest person in the village. She minds the grain. She knows how much there is, how much has to last until harvest, and who in the village owes this house a basket from last spring. Nobody opens a bin without her say.
 
-There's your sister's boy, who is seven and does the sheep. He can't count past his fingers, so every morning he drops one pebble in a bag for each animal that goes out, and every evening he takes one pebble out for each animal that comes back. If there's a pebble left over, there's a sheep missing. He's never wrong. Nobody taught him that. He's just the one who's good at it.
+There's your sister's boy, who is seven and does the sheep. He can't count past his fingers, so every morning he drops one pebble in a bag for each animal that goes out, and every evening he takes one pebble out for each animal that comes back. If there's a pebble left over, there's a sheep missing. He's hardly ever wrong. Your grandmother showed him the trick, and he took to it.
 
 There's your brother, and he isn't here. Eleven days ago he walked north with two other men to get the black volcanic glass that makes the sharpest blades there are. He'll come back with a load of it and a head full of things he saw, and half of what he says nobody will believe.
 
 And there's your cousin in the corner, already up, already chipping at a piece of flint. He's the one who makes the sickle blades, fixes the handles, and knows which rock breaks clean. He farms like everyone else. He's just better with his hands than you are.
 
-And your sister is at the grinding stone, because she's always at the grinding stone. Two hours a day on her knees, pushing one rock across another to turn grain into flour. You've stopped hearing the sound.
+And there's your sister, the boy's mother. She works the field beside you at harvest and runs the house the rest of the year. Right now she's on her knees at the grinding stone, pushing one rock across another to turn today's grain into today's flour. It has to be done every morning before anyone eats, and it takes a good while. She's the best baker in the village and she knows it. You've stopped hearing the sound.
 
 [VISUAL: Simple illustration — one-room mud-brick house in cutaway, five figures, grain bins at the back, a grinding stone.]
 
-That's the household. A farmer, a keeper, a counter, a carrier, a maker. Right now those aren't jobs. They're just what each person happens to be good at, and all five of them eat from the same pot.
+That's the household. A farmer, a keeper, a counter, a carrier, a maker. Right now those aren't jobs. They're what each person happens to be good at, and everyone eats from the same pot.
+
+It's about 5000 BCE. Seven thousand years ago. The first pyramid in Egypt is twenty-four centuries in the future, and the Greeks and Romans are further off than that.
 
 Look at what isn't here.
 
-There's no city, anywhere on Earth. The biggest crowd you've ever stood in was maybe two hundred people at a spring festival, and it felt like the whole world had shown up. Your known world runs about twenty-five miles in each direction. Past that it's rumors.
+There's no city, anywhere on Earth. The biggest crowd you've ever stood in was maybe two hundred people at a spring festival, and it felt like the whole world had shown up. The country you know by heart runs about twenty-five miles in each direction. Your brother has been further. For you, anything past that is one of his stories.
 
 Nothing has ever been written down. Everything anybody knows is inside somebody's head, and when the old woman who knows the plants dies, whatever she didn't teach somebody dies too.
 
-There's no king and nobody to pay taxes to. There are people others listen to. Your grandmother is one. But nobody on this planet has the power to make you hand over your grain or take your son for a war. Nobody's thought of that yet.
+There's no king and nobody to pay taxes to. There are people others listen to. Your grandmother is one. A stronger village could raid you, and now and then one does. But there's no office anywhere whose job is to collect a share of your harvest or to send your son off to a war. That arrangement doesn't exist yet.
 
 Your tools are stone, bone and wood. The horse is a wild animal that you'd eat if you could catch one. Your cattle are one step removed from a wild ox that stands six feet at the shoulder and still lives in the woods past your fields. There are lions in the rough country, and the rough country is where you live.
 
 And your food is missing half of what you'd expect. Bread, cheese, lentils, olives if you're lucky, honey for a treat. No tomatoes, no potatoes, no corn, no peppers. Those are on the other side of an ocean nobody will cross for six and a half thousand years. The old Mediterranean kitchen everybody imagines is sitting here with half its ingredients not yet arrived.
 
-Everything I'm going to tell you for the next several hours grows out of this room. So before we go forward I want to go back, once, and ask how you ended up in it. This is the only time in this part we go backward. After that it's a straight line.
+Everything I'm going to tell you for the next several hours grows out of this room. So before we go forward I want to take one long step back and ask how you ended up in it. After that we come forward again in order.
 
 [VISUAL: Date card — 12,000 years ago. Map: the "Fertile Crescent" arc from Israel up through Syria and southern Turkey and down into Iraq.]
 
@@ -63,11 +67,13 @@ In the 1960s an American crop scientist named Jack Harlan went to the hills of s
 
 Three weeks of work for a year of food, from plants that nobody planted or watered.
 
-So these weren't starving people scratching in the dirt. They were standing waist-deep in free food. Which makes the question harder. If the wild harvest was that good, why go to the trouble of planting anything?
+That's only the cutting. It leaves out hauling it home, keeping it dry, and the hours of pounding and grinding before any of it is dinner. Ask your sister. But as a harvest it's astonishing.
+
+So in those hills, at least, these weren't starving people scratching in the dirt. They were standing waist-deep in wild food. Which makes the question harder. If the wild harvest was that good, why go to the trouble of planting anything?
 
 I'll give you three pieces of an answer. I think they're all true at once.
 
-The first is bread. In the black desert of northeastern Jordan there's a fireplace that hunter-gatherers used about fourteen thousand years ago, and in the ashes archaeologists found burnt crumbs of flatbread. Somebody had gathered wild grain, pounded it, sieved it, mixed it with water and baked it. That's four thousand years before anyone in that region planted a field. Bread is older than farming. People were going to a great deal of trouble over grain, long before grain was their living, apparently because they liked what you could make from it. Some archaeologists think they were brewing with it too. That one's argued, but I wouldn't bet against it.
+The first is bread. In the black desert of northeastern Jordan there's a fireplace that hunter-gatherers used about fourteen thousand years ago, and in the ashes archaeologists found burnt crumbs of flatbread. Somebody had gathered wild grain, pounded it, sieved it, mixed it with water and baked it. That's four thousand years before anyone in that region was farming. Bread is older than farming. People were going to a great deal of trouble over grain, long before grain was their living, apparently because they liked what you could make from it. Some archaeologists think they were brewing with it too. That one's argued, but I wouldn't bet against it.
 
 The second piece is a hill.
 
@@ -75,7 +81,7 @@ The second piece is a hill.
 
 In southeastern Turkey, in the same country Harlan walked, there's a place called Göbekli Tepe. It's a set of stone rings. Each ring is made of huge T-shaped limestone pillars, some eighteen feet tall and weighing ten tons or more, carved with foxes, vultures, scorpions, wild bulls and cranes. The carving is good. It was built around 9500 BCE.
 
-The people who built it were hunter-gatherers. They had no farms, no pottery, no metal and no draft animals. They cut ten-ton pillars out of bedrock with stone tools, dragged them, stood them upright and decorated them, about a thousand years before anybody around there planted a crop. A thousand years is further than from us back to the Norman conquest of England.
+The people who built it were hunter-gatherers. They had no farms, no pottery, no metal and no draft animals. They cut ten-ton pillars out of bedrock with stone tools, dragged them, stood them upright and decorated them, about a thousand years before there's any sign of farmed crops around there. They may have been tending the wild stands. We can't tell. A thousand years is further than from us back to the Norman conquest of England.
 
 That's the wrong order. Every textbook model says you get farming first, then surplus, then spare time, then monuments. Temples are supposed to come after granaries. A German archaeologist named Klaus Schmidt walked up that hill in 1994. An earlier survey had written it off as a medieval cemetery. He looked at the carved stone poking out of the plowed soil and knew within the hour it was something else. He dug there for twenty years, until he died, and he summed it up in one line: first came the temple, then the city.
 
@@ -83,7 +89,7 @@ The slogan is a little too clean. Since he died, diggers have found signs that p
 
 What was it for? Nobody knows, and I'd be suspicious of anyone who tells you. But I'll tell you what they found on the site besides pillars: thousands of grinding stones, and stone vats big enough to hold forty gallons. Whatever else was happening on that hill, people were processing wild grain there in bulk. Somebody was feeding a crowd.
 
-Here's what I think happened, and it's a guess. You can't raise a ten-ton pillar with your cousins. You need a few hundred people, and you have to feed them while they work, and the best way to get a few hundred people to show up and haul stone is to throw them a feast. Bread, meat, and probably something to drink. To do that every year you need a lot of grain in one place at one time. So you start managing the wild stands. You come back to the same hillsides. You guard them. You keep some seed back.
+Here's what I think happened, and it's a guess. You can't raise a ten-ton pillar with your cousins. You need a crowd, and you have to feed it while it works, and the best way to get a crowd to show up and haul stone is to throw a feast. Bread, meat, and probably something to drink. To do that every year you need a lot of grain in one place at one time. So you start managing the wild stands. You come back to the same hillsides. You guard them. You keep some seed back.
 
 On that reading, people didn't settle down and then build temples. They wanted the gathering, the gathering needed feeding, and the feeding turned them into farmers.
 
@@ -91,21 +97,23 @@ The third piece is the one that matters most for everything that follows, and it
 
 Meat rots in days. Fruit rots in a week. Dry grain in a sealed bin is good for years. And the moment a family has a year of food in a clay bin at the back of the house, three things have happened to them that they didn't decide. They've stopped moving, because you don't walk away from a year of food. They have something that can be measured, by the basket, which means it can be owed. And they have something that can be taken.
 
-A full storehouse is the first thing in human history worth guarding, worth counting and worth stealing. Your grandmother's bins are going to turn into a kingdom. It takes a while.
+People had owned things before this: a good knife, a necklace, a dog. But a store of grain is the first kind of wealth that can be piled up, measured out and carried off in bulk. In one part of the world, bins like your grandmother's are going to turn into a kingdom. It takes a very long time, and it didn't have to happen.
 
 [VISUAL: Diagram — forager skeleton and early farmer skeleton side by side; height difference marked; worn teeth; arthritic knees and toes.]
 
 Now the bad news, and this is where I part company with the cheerful version of this story.
 
-Farming made people's lives worse. We know because we have their skeletons, and bones keep an honest record of a life. Compare the hunter-gatherers with the early farmers who replaced them, across enough sites, and the pattern is hard to argue with. The farmers were shorter, by inches in some regions. Their teeth were rotten, because a diet of ground grain is hard on teeth. Their bones show poor nutrition in childhood. Their joints are worn out early. The women's knees, toes and lower backs carry the marks of those hours at the grinding stone. Your sister, in the corner.
+In a lot of places, farming made people's lives harder. We know because we have their skeletons, and bones keep an honest record of a life. Compare the hunter-gatherers with the early farmers who replaced them, and in many regions the pattern is plain. The farmers were often shorter. Their teeth were rotten, because a diet of ground grain is hard on teeth. Their bones show poor nutrition in childhood. Their joints are worn out early. The women's knees, toes and lower backs carry the marks of those hours at the grinding stone. Your sister, in the corner.
 
 They were sicker too. A hunter-gatherer camp moves on from its own filth. A village sits in it. People, cattle, pigs, sheep, goats and dogs sharing a water supply, year after year. The political scientist James Scott called the early farming village a "multispecies resettlement camp", and a lot of the diseases that have troubled us ever since came out of that arrangement.
 
-So why did it spread? Because it didn't need anyone's approval. A band of foragers has to carry everything they own, including their toddlers, so they space their children years apart. A village with stored food can raise a baby every other year. Put thirty foragers and a hundred and fifty farmers in the same valley and wait ten generations. It doesn't matter that the foragers are healthier. They're outnumbered, and then they're gone, or they've joined.
+It wasn't the same everywhere. In some regions people kept their height and their health. But the costs turn up too often to wave away.
+
+So why did it spread? Because it didn't need anyone's approval. A band of foragers has to carry everything they own, including their toddlers, so they space their children years apart. A village with stored food, and porridge to wean a baby onto, can raise its children closer together. Give that a few centuries and the village is five times the size of the band in the next valley. It doesn't matter that the foragers are healthier. They're outnumbered, and then they're gone, or they've joined.
 
 And once a valley is full of farmers, nobody can go back, because there are now far too many people to feed by hunting. The door closes behind you.
 
-I think farming was a trap. I don't mean anyone set it. Nobody chose it, and nobody alive at the time could have seen the shape of it. Each family made a sensible decision about next winter, and a thousand years of sensible decisions added up to shorter, sicker, harder-working people who couldn't quit. Much later it paid off in cities and writing and everything you and I live inside. Nobody who paid the price saw the payoff.
+I think farming was a trap. I don't mean anyone set it. Nobody chose the whole of it, and nobody alive at the time could have seen the shape of it. Each family made a sensible decision about next winter, and a thousand years of sensible decisions added up to shorter, sicker, harder-working people who couldn't quit. Much later it paid off in cities and writing and everything you and I live inside. Nobody who paid the price saw the payoff.
 
 Keep that pattern in your pocket. A long run of sensible choices that walks people into something nobody would have signed up for. We'll see it again, on a bigger scale.
 
@@ -113,11 +121,11 @@ Keep that pattern in your pocket. A long run of sensible choices that walks peop
 
 Now forward, and we don't go back again.
 
-By 8000 BCE there's a settlement at Jericho, by a spring in the Jordan Valley, with two or three thousand people in it. They built a stone wall around it, and against the inside of the wall they built a round stone tower twenty-eight feet high with a staircase up the middle. Nobody knows what the tower was for. What it tells me is that somebody could already get a lot of people to haul rock for a purpose that wasn't dinner. Thousands of years later the Bible would set a story at Jericho about walls falling down. The walls in that story were already older than the storytellers could have imagined.
+By 8000 BCE there's a settlement at Jericho, by a spring in the Jordan Valley, with two or three thousand people in it. They built a stone wall around it, and against the inside of the wall they built a round stone tower twenty-eight feet high with a staircase up the middle. Nobody knows what the tower was for. What it tells me is that somebody could already get a lot of people to haul rock for a purpose that wasn't dinner. Thousands of years later the Bible would set a story at Jericho about walls falling down. That story is about a much later town on the same spot. This first wall was older than its tellers could have imagined.
 
 By 7000 BCE there's something stranger in central Turkey. It's called Çatalhöyük, and several thousand people lived there for well over a thousand years. It had no streets. None. The houses were built wall to wall like cells in a honeycomb, and you got into yours through a hole in the roof. To go anywhere you walked across your neighbors' ceilings.
 
-Inside, the floors were replastered so many times that archaeologists count the layers like tree rings. And under those floors were the dead. People at Çatalhöyük buried their relatives beneath the platform they slept on. Sometimes they dug a skull back up later, plastered a face onto it, painted it, and kept it in the house. Your grandparents weren't in a cemetery on the edge of town. They were under the bed.
+Inside, the floors were replastered so many times that archaeologists count the layers like tree rings. And under those floors were the dead. People at Çatalhöyük buried their dead beneath the platforms they slept on. Sometimes they dug a skull back up later, plastered a face onto it, painted it, and kept it in the house. The dead weren't in a cemetery on the edge of town. They were under the bed. And DNA from those bones has a surprise in it. In the town's later centuries, many of the people buried under the same floor weren't related to each other at all. Whatever a household was in that town, it was more than a family.
 
 I can't tell you what those people believed. Nobody can. But I can tell you what the town sounded like. Stone on stone, from every roof-hole, most of the day.
 
@@ -131,15 +139,15 @@ And in the corner, your cousin has put down the flint. He's holding something gr
 
 Here's the second simple question. How does anybody figure out that metal comes from rock? Because it isn't obvious. Copper ore doesn't look like copper. It looks like a crumbly green or blue stone.
 
-People had known copper itself for a long time. Now and then you find it lying around as pure metal, in little nuggets, and for three thousand years before your morning people had been hammering those into beads and pins. That isn't metalworking so much as treating a nugget like a very soft rock.
+People had known copper itself for a long time. Now and then you find it lying around as pure metal, in little nuggets, and for three thousand years before your morning people had been hammering those into beads and pins. It's metalworking of a kind, but it treats the nugget like a very soft rock.
 
-The leap is realizing that if you take the green stone and get it hot enough, more than eighteen hundred degrees, with charcoal and not much air, liquid copper runs out of it. An open campfire doesn't come close to that. You need a closed fire with air forced into it. How someone first stumbled on it, nobody knows. My guess is a potter. Potters already had kilns that ran hot, and they were already using ground-up green stone as a pigment. Sooner or later someone opened a kiln and found a bright bead of metal where the paint had been.
+The leap is realizing that if you take the green stone and get it hot enough, close to two thousand degrees, with charcoal and not much air, copper comes out of it. An open campfire doesn't come close to that. You need a closed fire with air forced into it. How someone first stumbled on it, nobody knows. My guess is a potter. Potters already had kilns that ran hot, and they were already using ground-up green stone as a pigment. Sooner or later someone opened a kiln and found a bright bead of metal where the paint had been.
 
-The oldest solid evidence of people doing it on purpose is from about 5000 BCE, right around your morning, at a village in what is now Serbia. Within a few centuries it turns up in Iran and Turkey as well.
+The oldest solid evidence of people doing it on purpose is from about 5000 BCE, right around your morning, at a village in what is now Serbia, twelve hundred miles northwest of your house. Within a few centuries it turns up in Iran and Turkey as well.
 
-And it changes your cousin's life more than anybody's. Because smelting isn't something you do between chores. It takes days, and fuel, and years of getting it wrong. A village that wants a smith has to feed him while he does nothing else.
+And it changes your cousin's life more than anybody's. Smelting takes days, and a great deal of fuel, and years of getting it wrong. At first he does it in the slack season and farms the rest of the year. But the better he gets, the more people want what he makes, and the more of his dinner comes from them.
 
-Your cousin is about to become the first person in this family who doesn't farm.
+Over the generations, his line is going to stop farming.
 
 Your brother's life changes too. Copper ore sits where it sits. Most valleys have none. If yours doesn't, somebody has to walk to a valley that does and bring it back, and he's already the one who walks.
 
@@ -179,17 +187,17 @@ You can't dig that person up. Owning doesn't leave a mark in the ground. But you
 
 In 1972, in the city of Varna on the Black Sea coast of Bulgaria, a man running a digger was cutting a trench for a cable and noticed bits of yellow metal in his bucket. He had hit a cemetery from about 4500 BCE. It's the same part of the world where we just saw the first smelting, a few centuries later.
 
-The cemetery held around three hundred graves. Most had almost nothing in them: a pot, a flint blade. One of them, which archaeologists call Grave 43, held a man in his forties or fifties with nearly a thousand gold objects on and around his body. Bracelets, beads, discs sewn to his clothes, a gold-handled axe that had never cut anything. About three pounds of gold in all, the oldest worked gold ever found anywhere.
+The cemetery held around three hundred graves. Most had little in them: a pot, a flint blade. A handful were rich. The richest, which archaeologists call Grave 43, held a man in his forties or fifties with nearly a thousand gold objects on and around his body. Bracelets, beads, discs sewn to his clothes, a gold-handled axe that had never cut anything. About three pounds of gold in all, the oldest worked gold ever found anywhere.
 
-Think about what had to be true for that grave to exist. Someone mined that gold. Someone worked it, every bead, by hand. Many people spent a very long time making things that one man got to wear, and when he died the village put all of it in the ground with him, where nobody could use it, to make a point about who he had been. And three hundred of his neighbors went into the same hillside with a pot.
+Think about what had to be true for that grave to exist. Someone mined that gold. Someone worked it, every bead, by hand. Many people spent a very long time making things that one man got to wear, and when he died the village put all of it in the ground with him, where nobody could use it, to make a point about who he had been. And most of his neighbors went into the same hillside with a pot.
 
-The household is coming apart. That's what Varna shows you. On your morning everybody ate from one pot. Five hundred years later, and not so very far away, one man is buried in gold and the rest aren't.
+This isn't your family, and it's a long way from your village. But it's the earliest place we can see the end of the single pot. On your morning everybody in the house ate the same dinner. Five hundred years later, on the Black Sea, one man is buried in gold and most people aren't.
 
 [VISUAL: Part card update — THE FAMILY, 3200 BCE: the Keeper is now a headman; the Counter keeps clay tokens; the Maker has stopped farming; the Carrier is gone for months; the Farmer is still in the field.]
 
 Now run the clock forward, quickly, because nothing in the next stretch looks like an event.
 
-From your morning to the year 3200 BCE is eighteen hundred years. About seventy generations. No one in any of those generations sees anything happen. A village grows by four houses in a lifetime. A grain bin gets a second room.
+From your morning to the year 3200 BCE is eighteen hundred years. About seventy generations. Nobody in any one of those generations sees very much happen. A village grows by four houses in a lifetime. A grain bin gets a second room.
 
 But the family is changing.
 
@@ -201,15 +209,17 @@ Your cousin's line doesn't farm at all anymore. They make things, and other peop
 
 Your brother's line is gone for months at a time, and they've stopped walking. Somebody has tamed the donkey, and somebody has built a boat that can carry a ton.
 
-And you? Your line is still in the field. The plow has arrived, pulled by an ox, so one man can now work five times the ground. That sounds like good news for you. It mostly means there's more grain to hand over to the man who holds the store.
+And you? Your line is still in the field. The plow has arrived, pulled by an ox, so one man can now work far more ground. That sounds like good news for you. It mostly means there's more grain to hand over to the man who holds the store.
 
-By 3200 BCE the villages down on the two great rivers of Iraq aren't really villages anymore. They're something that has never existed, and it's about to get a name.
+And the story moves. The place where all of this first comes together isn't the hill country. It's eight hundred miles to the southeast, on the flat plain where the two great rivers of Iraq run down to the sea. By 3200 BCE the biggest settlement on that plain isn't a village anymore. It's something that has never existed before.
 
 It's going to be loud.
 
 ---
 
-## Revision notes — v0.7
+## Revision notes — v0.7.1
+
+- **Round 1 review dispositions (ChatGPT, Notion):** P1-01 accepted ("you" are thirty; the grandmother is near seventy; "you are old" is cut). P1-02 accepted (six people, five kinds of work; the sister is the boy's mother and works beside the Farmer). P1-03 accepted (the sister has other work and a skill she is proud of; the counting is taught). P1-04 accepted ("12,000 years ago" used consistently; the promise of a strict straight line is dropped). P1-05 accepted (raids exist; what is missing is the office of tax and conscription). P1-06 accepted (grain as the first wealth that can be collected in bulk; "it didn't have to happen"). P1-07 accepted (processing labor added to Harlan). P1-08 accepted (domesticated crops versus tended wild stands; no workforce number). P1-09 qualified (the "trap" stays as the narrator's stated view; the bone evidence is scoped to "many regions", with one sentence on the exceptions). P1-10 accepted (later Jericho; Çatalhöyük co-burial of unrelated people). P1-11 accepted (hammering is metalworking; temperature corrected; the smith is part-time first). P1-12 accepted (several rich graves at Varna; Varna is not the family; plow multiplier cut; the move to southern Iraq is spoken).
 
 - **Structure:** cold open at 5000 BCE, one announced flashback to 12,000 BCE, then chronological to 3200. Draft-06 changed direction in time five times.
 - **Cut:** Sahlins/Diamond hedging block; the Industrial Revolution comparison; farming reaching Europe/Knossos (Aegean plant now arrives in Part 4); the second-person smith death scene with invented timings; Goibhniu and Weyland (only Hephaestus kept, flagged as unprovable); the latitude argument in the Great Lakes setup; "Next time, we watch it happen" mid-episode.

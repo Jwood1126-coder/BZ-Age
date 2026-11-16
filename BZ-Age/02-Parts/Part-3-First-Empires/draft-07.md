@@ -1,7 +1,7 @@
 # Part 3 — The First Empires
 ## SEVENTH DRAFT — v0.7
 **Date:** November 16, 2026
-**Status:** Rewritten to the draft-07 brief. Told in order from Sargon's rise to the fall of Ur, with Enheduanna as the witness who lives through most of it and one marked side trip to Egypt.
+**Status:** Draft-07, revised to v0.7.1 after the ChatGPT Round 1 review (issues P3-01 to P3-12). Told in order from Sargon's rise to the fall of Ur, with Enheduanna as the witness who lives through most of it and one marked side trip to Egypt.
 **Driving questions:** What is an empire, and how is it different from a big city? How do you run a place you've never seen? Can a living man be a god? Why do empires fall?
 
 ---
@@ -16,17 +16,17 @@ You know this story.
 
 A woman has a baby she can't keep. She puts him in a basket made of reeds, seals it with tar so it floats, and sets it on the river. The river carries him away. Someone downstream finds him and raises him. He grows up to lead his people.
 
-That's Moses. It's also a king named Sargon, and Sargon's version is set about a thousand years earlier. Here's how his goes, in his own voice: "My mother was a high priestess. My father I never knew. She set me in a basket of rushes and sealed the lid with tar. She cast me into the river, and the river did not drown me." A man drawing water fishes him out and raises him as a gardener, and then the goddess of love and war takes a liking to him, and he becomes king.
+That's Moses. It's also a king named Sargon, and Sargon's version is set about a thousand years earlier. A legend written long after his death puts these words in his mouth: "My mother was a high priestess. My father I never knew. She set me in a basket of rushes and sealed the lid with tar. She cast me into the river, and the river did not drown me." A man drawing water fishes him out and raises him as a gardener, and then the goddess of love and war takes a liking to him, and he becomes king.
 
-I should tell you that the copies we have of that story were written down about sixteen hundred years after Sargon died. So it's closer in time to Moses than to the man it's about. I have no idea whether Sargon was really a foundling. What I'm sure of is that somebody needed him to have come from nowhere.
+The copies we have of that story were written about sixteen hundred years after Sargon died. That's closer in time to Moses than to the man it's about. I have no idea whether Sargon was really a foundling. What I'm sure of is that somebody needed him to have come from nowhere.
 
-And there's a tell in his name. Sargon isn't a name your mother gives you. In his language it means "the king is legitimate." You don't call yourself the True King unless there's some doubt.
+And I think there's a tell in his name. Sargon isn't a name your mother gives you. In his language it means "the king is legitimate." A man doesn't usually call himself the True King unless somebody has doubts.
 
 [VISUAL: Map — the cities of the southern plain as separate dots; one dot in the north, Kish, highlighted.]
 
-Here's what we can piece together. Around 2350 BCE the plain of southern Iraq is still a dozen separate cities, each with its own god and its own king. Sargon turns up as a servant to the king of one of them, a city called Kish. He's the cupbearer, the man who hands the king his drink, which sounds like a waiter and is closer to chief of staff. Somehow, and nobody recorded how, the king is gone and Sargon is in charge.
+Here's what we can piece together. We're on the same river plain as last time, in what's now Iraq, around 2350 BCE. Uruk is nine hundred years old. The Great Pyramid in Egypt has been standing for two centuries. And the plain is still a dozen separate cities, each with its farmland, its god and its king, fighting each other over water. Sargon turns up as a servant to the king of one of them, a city called Kish. He's the cupbearer, the man who hands the king his drink, which sounds like a waiter and is closer to chief of staff. Somehow, and nobody recorded how, the king is gone and Sargon is in charge.
 
-Then he does something nobody has done before. He marches south and takes the other cities, one after another. His inscriptions claim thirty-four battles. He beats the strongest king in the south, puts him in a wooden collar like a dog, and parades him to the gate of the chief god's temple. He keeps going until he reaches the Persian Gulf, and there, his inscription says, he washed his weapons in the sea.
+Then he does something on a scale nobody in this country has managed. He marches south and takes the other cities, one after another. His inscriptions claim thirty-four battles. He beats the strongest king in the south, a man who had just bullied most of the other cities into line himself. He puts him in a wooden collar like a dog, and parades him to the gate of the chief god's temple. He keeps going until he reaches the Persian Gulf, and there, his inscription says, he washed his weapons in the sea.
 
 Then he turns around and goes the other way, north and west, up the Euphrates, across Syria, to the mountains by the Mediterranean.
 
@@ -34,13 +34,13 @@ Then he turns around and goes the other way, north and west, up the Euphrates, a
 
 End to end it's about a thousand miles. On a modern map it's most of Iraq, a slice of Iran, eastern Syria, and the edge of Turkey and Lebanon. A hundred years earlier the biggest thing anyone ruled was a city and the farmland you could see from its wall.
 
-He built himself a new capital to run it from, a city called Akkad. I can't show you a picture. Akkad has never been found. It's somewhere under the mud near Baghdad, the capital of the first empire in history, and nobody knows where.
+He ruled it from a city called Akkad, not far from where Baghdad is now. I can't show you a picture. Akkad has never been found. It's somewhere under the mud, the capital of the first empire in history, and nobody knows where.
 
 So, first question. What's an empire? How is it different from a strong city that beats up its neighbors?
 
 The cities of the plain had been fighting each other for five hundred years. When you won, you took some loot and some land, maybe some hostages, and you went home. The loser kept his own king, his own god, his own storehouse.
 
-Sargon didn't go home. He pulled down the walls of the cities he took, so they couldn't shut their gates on him. He removed their governors and put in his own people. His inscriptions call them "sons of Akkad." He made them send their taxes to his capital and keep their accounts in his language. Conquer and leave was old. Conquer and stay was new.
+Sargon didn't go home. He pulled down the walls of the cities he took, so they couldn't shut their gates on him. He removed their governors and put in his own people. His inscriptions call them "sons of Akkad." He made them send their taxes to his capital and keep their accounts in his language. Conquer and leave was old. On this plain, conquer and stay was new.
 
 [VISUAL: Illustration — a village on the plain; a governor's party arriving by boat.]
 
@@ -70,7 +70,7 @@ And how do you get people who worship different gods to accept you? For that, Sa
 
 [VISUAL: Object — the Disk of Enheduanna (Penn Museum), the carved figure in the tiered robe highlighted. Map: Ur.]
 
-Her name is Enheduanna, and she's the person I want you to follow through this hour, because she lived long enough to see most of it.
+Her name is Enheduanna, and she's the person I want you to follow through the first half of this hour, because she lived to see this empire through four reigns.
 
 Ur, down in the south, was one of the holiest cities in the old country. Its temple belonged to the moon god. The most important religious office in that temple was the high priestess, and whoever held it was, in the theology, the god's wife on earth. Sargon made his daughter high priestess of the moon at Ur.
 
@@ -78,9 +78,9 @@ You can see what he was doing. The southerners had their own gods and their own 
 
 We know what she looked like, roughly. In the 1920s the same Leonard Woolley who dug the royal tombs found a stone disc in the ruins of the priestess's house at Ur. It had been smashed in ancient times and he pieced it together. It shows a woman in a long tiered robe overseeing an offering, and the inscription on the back names her: Enheduanna, wife of the moon god, daughter of Sargon.
 
-But the disc isn't why she matters. She wrote.
+But the disc isn't why she matters. She's remembered as a writer.
 
-For seven hundred years writing had been used for accounts, lists and the occasional royal boast. Enheduanna wrote hymns, long, fierce, personal poems to the goddess Inanna, and she put her own name in them. As far as we can tell, she's the first author in history. The first person to sign a piece of literature is a woman, a princess, writing in the south of Iraq around 2300 BCE.
+For seven hundred years writing had been used for accounts, lists and the occasional royal boast. Under her name we have hymns: long, fierce, personal poems to the goddess Inanna, with her own name inside them. The copies we have were made by schoolboys five hundred years later, and a few scholars think the poems were written then and credited to her. Most think they're hers, and so do I. If they are, she's the first author in history whose name we know. A woman, a princess, in the south of Iraq around 2300 BCE.
 
 Notice whose daughter she is. The Counter's tool, the thing invented to track barley, has just been picked up by the Keeper's family and used to say how a person feels. Nobody planned that either.
 
@@ -90,19 +90,19 @@ Meanwhile the empire is doing what empires do, which is pull things toward the m
 
 Sargon bragged that ships from three distant lands tied up at the dock of his capital. One of those lands was the civilization on the Indus River, with the grid streets and the script nobody can read. That's fifteen hundred miles by sea. Beads and seals from the Indus turn up in Iraqi cities of this period. And there's one small object that makes it real for me. It's a personal seal, the kind you'd roll across wet clay as a signature, and it belonged to a man named Shu-ilishu. His job title is carved on it: interpreter of the Indus language.
 
-So there was a man in Sargon's empire who made his living translating for sailors from Pakistan. He spoke a language that no one alive can read a word of. To him it was a job.
+So somewhere in this empire there was a man who made his living translating for people from the Indus. He spoke a language that no one alive can read a word of. To him it was a job.
 
 That's the Carrier's world now. His line isn't hauling barges for one temple anymore. They're moving goods between civilizations.
 
-And what they're moving, more than anything, is metal. By now the smiths have switched over from the arsenic recipe to the tin one. Nine parts copper, one part tin: bronze. It's harder, it casts better, and it doesn't cripple the Maker. But there's no tin in Iraq. There's none anywhere near. It comes from mountains so far to the east or north that nobody in Akkad could have pointed to them. Every spearhead in that standing army depends on a road that begins somewhere no one in the empire has ever been.
+And what they're moving, more than anything, is metal. By now more and more of the smiths are using the tin recipe in place of the arsenic one. Nine parts copper, one part tin: bronze. It's harder, it casts better, and it doesn't cripple the Maker. But there's no tin in Iraq. There's none anywhere near. It comes from mountains far to the east or north, at the far end of a chain of middlemen. The best weapons in that standing army depend on a road that begins somewhere no one in the empire has ever been.
 
 Which raises a question I'd like you to keep at the back of your mind for a couple of hours. Iron ore is everywhere. It's in practically every range of hills from Spain to India. Nobody has to haul it a thousand miles. So why are these people building their whole world on a metal that needs a rare ingredient from the edge of the map? Why is this the Bronze Age? I'll answer it when we get to the top of that world. Just notice that it's odd.
 
 [VISUAL: Object — the Victory Stele of Naram-Sin (Louvre); zoom to the horned helmet. Date card: 2254 BCE.]
 
-Sargon dies after about fifty years on the throne. Two of his sons rule after him, briefly and badly. Then his grandson takes over, and the grandson's name is Naram-Sin.
+Sargon dies after about fifty years on the throne. Two of his sons rule after him and hold it together. Then his grandson takes over, and the grandson's name is Naram-Sin.
 
-Naram-Sin is the first ruler in this story who was born in a palace. He never knew a world without the empire. He was raised by scribes in two languages and by soldiers, and he was good at it. He pushed the borders further than his grandfather had.
+Naram-Sin is the first ruler in this story who was born into an empire. He never knew a world without it, and he was good at the job. He pushed the borders further than his grandfather had.
 
 Then nearly everything rose against him at once. The cities of the south and the cities of the north both revolted, with their own kings, in the same year. By his own account he fought nine battles in that one year and won every one.
 
@@ -118,13 +118,15 @@ Naram-Sin had just said the rule didn't apply to him.
 
 And during that great revolt, a rebel took over the city of Ur. He walked into the temple of the moon, and he threw out the old high priestess.
 
-Enheduanna must have been in her sixties. She'd held that office for decades, through her father's reign and her two brothers' and into her nephew's. Now she was out, wandering, with no house and no position, and she did the only thing she had left. She wrote a poem to her goddess and asked her to fix it.
+Enheduanna was an old woman by then. She'd held that office for decades, through her father's reign and her two brothers' and into her nephew's. Now she was out, wandering, with no house and no position, and she did the only thing she had left. She wrote a poem to her goddess and asked her to fix it.
 
-We have the poem. She says the rebel has driven her out of the temple, that she's been made to fly like a swallow from the window. She says "my good name is destroyed." And then, in the middle of a hymn to a goddess, she does something no writer had done before. She says: "I am Enheduanna. Let me speak to you."
+One of those poems tells the story. In it she says the rebel has driven her out of the temple, that she's been made to fly like a swallow from the window. She says "my good name is destroyed." And then, in the middle of a hymn to a goddess, she does something no writer had done before. She says: "I am Enheduanna. Let me speak to you."
 
 It worked, or something did. Her nephew crushed the revolt, the rebel was removed, and she went back to her temple and wrote more.
 
 I think she's one of the most remarkable people in this whole story. She was put in that temple as a tool, and she knew it. And she turned out to be the first writer we know of who signed her work and spoke in it as herself.
+
+That's the last we see of her. The rest of this hour happens after her time.
 
 [VISUAL: Text card — "The Curse of Akkad." Then map: the empire shrinking back to a single city.]
 
@@ -132,15 +134,15 @@ Fourth question, and it's the one this series is really about. Why do empires fa
 
 Within a couple of generations of Naram-Sin, Akkad was gone. His son held on. After that it was four kings in three years, and then a mountain people called the Gutians were raiding the plain and the cities were on their own again.
 
-The people who lived through it wrote down why. It's a poem called the Curse of Akkad, and the explanation is simple. Naram-Sin got above himself. He wanted to rebuild the temple of the chief god and the omens said no. He waited seven years. Then he lost patience, marched on the temple, and wrecked it. The gods were furious, and they sent the mountain people down on the plain as a punishment. The poem ends with a curse: may your canals fill with silt, may grass grow on your towpaths.
+About a century later, somebody wrote down why. It's a poem called the Curse of Akkad, and its explanation is simple. Naram-Sin got above himself. He wanted to rebuild the temple of the chief god and the omens said no. He waited seven years. Then he lost patience, marched on the temple, and wrecked it. The gods were furious, and they sent the mountain people down on the plain as a punishment. The poem ends with a curse: may your canals fill with silt, may grass grow on your towpaths.
 
-As history it doesn't hold up. Naram-Sin died in his bed and the empire outlasted him. But I want you to notice the shape of it, because you already know it. The great man reaches too far, and the gods bring him down. Fifteen hundred years later the Greeks built their tragedies on that. The Hebrew prophets used it. You use it. The next time some big institution collapses and your first thought is to look for the arrogant man at the top, you're repeating a story that priests in Iraq pressed into clay four thousand years ago, about a king who wore horns.
+As history it doesn't hold up. The empire outlasted Naram-Sin by a generation. But I want you to notice the shape of it, because you already know it. The great man reaches too far, and the gods bring him down. Fifteen hundred years later the Greeks built their tragedies on that. The Hebrew prophets used it. You use it. The next time some big institution collapses and your first thought is to look for the arrogant man at the top, you're repeating a story that priests in Iraq pressed into clay four thousand years ago, about a king who wore horns.
 
 So what did happen?
 
 There's a physical clue. Drill a core out of the seabed in the Gulf of Oman, south of Iraq, and at a depth that dates to about 2200 BCE there's a thick band of dust. It's wind-blown dust from Iraq and Syria, far more than in the layers above or below. In northern Syria there's a city from this period where the builders left a wall half finished and the whole population moved out. Stalagmites in caves from Italy to India record the same thing. The rains failed across a huge area and stayed poor for the better part of three centuries. Geologists consider it such a clear marker that they've used it to define the slice of geological time we're living in. Officially, our age begins with that drought.
 
-It's tempting to say that's the answer. I don't think it is, quite. An empire is a machine for moving grain to the middle. This one was already straining: it was huge, the provinces hated it, and it had just come through a civil war. A healthy state might have ridden out thirty bad years. This one had no slack. My view is that the drought didn't kill Akkad. It hit Akkad at the moment Akkad couldn't take a hit.
+It's tempting to say that's the answer. I don't think it is, quite. An empire is a machine for moving grain to the middle. This one was already straining: it was huge, the provinces hated it, and it had just come through a civil war. A healthy state might have ridden out a run of bad harvests. This one had no slack. My view is that the drought didn't kill Akkad. It hit Akkad at the moment Akkad couldn't take a hit.
 
 Remember that, too. A blow that a strong system would survive, landing on a system with nothing in reserve.
 
@@ -150,19 +152,19 @@ Now the side trip, because the same thing was happening a thousand miles away, a
 
 Egypt had been a single kingdom for seven hundred years by now. Its king wasn't the steward of a god. He was one, from the day he was crowned, and nobody found that shocking. And by Sargon's day the Egyptians had already built the thing they're known for. The Great Pyramid went up around 2560 BCE. When Sargon was born it had already been standing for about two hundred years.
 
-Here's a simple question about it. Who built it? Everyone has heard it was slaves. It wasn't.
+Here's a simple question about it. Who built it? Everyone has heard it was slaves in chains. It wasn't that.
 
 In 2013, at an ancient harbor on the Red Sea, archaeologists found a bundle of papyrus scrolls. They're the oldest written papyri ever discovered, and they turned out to be a logbook. It was kept by a man named Merer, who was the foreman of a crew of about forty, and his crew's job was to haul limestone for the Great Pyramid.
 
-It's a wonderfully dull document. Day after day: we loaded stone at the quarry. We sailed downriver. We spent the night at such-and-such. We unloaded at the building site. We went back. He records that the crew was paid in bread and beer. It's a working man's diary from inside the construction of the Great Pyramid, and what it shows is a job.
+It's a wonderfully dull document. Day after day: we loaded stone at the quarry. We sailed downriver. We spent the night at such-and-such. We unloaded at the building site. We went back. He records that the crew was paid in bread and beer. It's a working man's diary from inside the construction of the Great Pyramid, and what it shows is organized crews doing a season's work.
 
 And next to the pyramids, archaeologists found the town the builders lived in. It had bakeries turning out bread on an industrial scale. The bone dumps show that the workers ate beef, a great deal of it. Their skeletons have broken bones that were set and healed, which means somebody was giving them medical care. They were organized in gangs, and the gangs scratched their names on the blocks. One was called the Friends of Khufu, after the king. Another was the Drunkards of Menkaure.
 
-So that's the Farmer's line in Egypt. He's called up for a season, fed well, and he hauls stone for a god-king with his friends, and they give their team a silly name.
+So that's the Farmer's kind of work in Egypt. He's called up for a season, and I doubt he had much say in it. He's fed well, he hauls stone for a god-king alongside men from his own village, and they give their team a silly name.
 
 Now put Egypt next to Akkad, because the dates are the point. Around 2200 BCE, in the same decades the dust was blowing off Iraq, the Nile floods began to fail. They failed for years. The Egyptian state, which had run without a break for the best part of a thousand years, came apart into rival provinces. One governor from those years had his achievements carved in his tomb, and his boast is that when the whole south was dying of hunger and people were eating their children, nobody starved in his district. A later Egyptian poem looks back on the time: the river is blood, it says, and the land spins like a potter's wheel.
 
-The first empire in Iraq and the oldest kingdom on the Nile both broke in the same half century. They had different gods, different rivers, different systems, and they'd barely heard of each other. I don't think that's a coincidence, and I think it's a preview. It's the first time we see two great states go down together because the same thing hit both. It won't be the last.
+The first empire in Iraq and the oldest kingdom on the Nile came apart within a few decades of each other. They had different gods, different rivers, different systems, and they'd barely heard of each other. The dating is loose at both ends, and some specialists doubt the drought lines up as neatly as that. I don't think it's a coincidence, though, and I think it's a preview. It may be the first time we see two great states go down together under the same pressure. It won't be the last.
 
 Egypt put itself back together after about a century. Back to Iraq.
 
@@ -178,7 +180,7 @@ What this kingdom was better at than anyone before it was paperwork. More than a
 
 Listen to what they tracked. In one province, the state weaving sheds employed about fifteen thousand women. Each was owed a fixed amount of barley a month, so much oil a year, so much wool. When a weaver died, they wrote it down and stopped the ration. When a sheep died, the shepherd had to turn in the skin to prove he hadn't sold it.
 
-The Farmer's sister is in those tablets, fifteen thousand times. The state knew, down to the quart, what it owed her. I've never found a line in which it asked what she thought.
+The women doing the Farmer's sister's kind of work are in those tablets, fifteen thousand of them. The state knew, down to the quart, what it owed each one. Nowhere in a hundred thousand tablets does anybody ask what one of them thought.
 
 It lasted about a century.
 
@@ -202,7 +204,7 @@ They'd invented a kind of poem for the death of a city. They would need it again
 
 [VISUAL: Part card update — THE FAMILY, 2000 BCE: the Keeper has learned empire; the Counter writes poetry and law in two languages; the Carrier sails to India; the Maker casts tin-bronze; the Farmer hands his barley to strangers.]
 
-One more thing died with Ur. Within a generation or two, nobody was speaking Sumerian at home. The language of the first cities, of the first writing, of Enheduanna's hymns, stopped being anyone's mother tongue. It lived on in the schools. For the next two thousand years every educated person in Iraq had to learn it, the way educated Europeans once had to learn Latin, and it was no one's native speech.
+One more thing was dying in these centuries. People were giving up speaking Sumerian at home. We can't put a date on it. The language of the first cities, of the first writing, of Enheduanna's hymns, stopped being anyone's mother tongue. It lived on in the schools. For the next two thousand years every educated person in Iraq had to learn it, the way educated Europeans once had to learn Latin, and it was no one's native speech.
 
 So take stock of the family at the year 2000.
 
@@ -214,13 +216,15 @@ The Carrier's line has been to India.
 
 The Maker's line is casting bronze, and can't make it without tin from the end of the earth.
 
-And the Farmer has learned that the man who takes his barley can change overnight, and that it makes no difference to the barley.
+And the Farmer has learned that the man who takes his barley can change overnight. What changes for him is how far it travels, and whether anything comes back in a bad year.
 
-For three hundred years after Ur falls there's no empire in Iraq at all. Just cities again, and merchants, and new peoples moving in. And in that gap, for the first time, we get to read ordinary people's mail.
+For the next couple of centuries nobody holds the whole plain. There are rival kingdoms, and merchants, and new peoples moving in. And in that gap, for the first time, we get to read ordinary people's mail.
 
 ---
 
-## Revision notes — v0.7
+## Revision notes — v0.7.1
+
+- **Round 1 review dispositions (ChatGPT, Notion):** P3-01 accepted (Enheduanna carries the Akkadian half only and is retired aloud). P3-02 accepted (the legend is labeled before the quotation; the reading of the name is "I think"). P3-03 accepted (scoped to this plain; "ruled from Akkad"; Lugalzagesi acknowledged without the name). P3-04 accepted (attribution and the 500-year gap to the copies are stated, with the narrator's position; the age is cut). P3-05 accepted. P3-06 accepted (the Curse is a later poem; the death scene is cut). P3-07 qualified: the joint collapse stays as the narrator's stated view with the dating caveat attached; "thirty bad years" is fixed. P3-08 accepted (conscripted crews, not a modern job). P3-09 accepted. P3-10 accepted. P3-11 accepted (the closing line now names what changes for the Farmer; the unsupported "I've never found" is replaced). P3-12 accepted.
 
 - **Structure:** opens on the basket (the listener's Moses), then strict order: Sargon, the empire's methods, Enheduanna installed, trade, Naram-Sin and the revolt that expelled her, the fall, a marked side trip to Egypt, Ur III, the fall of Ur. Royal Tombs moved to Part 2.
 - **Cut:** the generic empire toolkit (hostage children, grain depots, seal-as-login here); the Moses double statement; "Empires are hard" coda; the bronze sword passage (anachronistic here); the myth of Inanna's gifts; the Egypt "control case" essay; the Gutian interregnum detail; Liverani.

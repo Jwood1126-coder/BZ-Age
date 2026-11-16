@@ -1,7 +1,7 @@
 # Part 2 — The First Cities
 ## SEVENTH DRAFT — v0.7
 **Date:** November 16, 2026
-**Status:** Rewritten to the draft-07 brief. The forty-topic tour is replaced by one spine: a load of barley followed from the field to the tablet. Royal Tombs of Ur moved here from Part 3.
+**Status:** Draft-07, revised to v0.7.1 after the ChatGPT Round 1 review (issues P2-01 to P2-12). One spine: a load of barley followed from the field to the tablet. Royal Tombs of Ur moved here from Part 3.
 **Estimated audio length:** ~44 minutes (~6,600 words)
 **Driving questions:** Why is every first city on a river? What do you buy things with before money? Why does a city need writing? Why would anyone agree to have a king?
 
@@ -17,7 +17,9 @@ Before we go anywhere, look at a clock.
 
 Sixty seconds in a minute. Sixty minutes in an hour. Nobody alive chose that. It's an odd number to build time on, and by the end of this part you'll know who to blame.
 
-It's 3200 BCE. Eighteen hundred years have gone by since the morning in the one-room house, and the family has moved. They've walked, a few miles a generation, out of the hills and down the two rivers into the flat country at the bottom of Iraq. And I want to start by asking why, because on paper it's a terrible place to live.
+It's 3200 BCE. Eighteen hundred years have gone by since the morning in the one-room house, about as long as from the Roman Empire at its height to today. And we've moved, eight hundred miles to the southeast, out of the hills and down onto the flat plain at the bottom of Iraq, where two rivers, the Tigris and the Euphrates, run side by side to the Persian Gulf.
+
+The people we'll follow here aren't the family from the first house. They're the people doing the same five kinds of work, in a very different place. And I want to start by asking why anyone lives here at all, because on paper it's a terrible spot.
 
 [VISUAL: Map — the two rivers descending from the Turkish mountains to the Persian Gulf; the flat southern plain shaded.]
 
@@ -25,15 +27,15 @@ It hardly ever rains there. You can't grow a crop on what falls from the sky. Th
 
 What it has is mud. Every spring the snow melts in the mountains of Turkey, and the two rivers come down carrying the mountains with them, ground to powder. Where the land flattens out, the water slows and drops what it's carrying. Southern Iraq is that mud, laid down a flood at a time for thousands of years. It's some of the richest soil on the planet. Put a seed in it and you get back several times what the hills ever gave.
 
-There's a catch, and the catch made everything else happen. The flood comes in spring, which is exactly when the barley is ripe and standing in the field. In the autumn, when you need water to plant, the rivers are low. The water arrives at the wrong time of year, every year. So to farm there at all you have to move it. Dig a channel from the river, hold the water back, let it out when you want it. One family can't dig a canal. A village can barely do it. It takes hundreds of people working to somebody's plan.
+There's a catch, and the catch made everything else happen. The flood comes in spring, which is exactly when the barley is ripe and standing in the field. In the autumn, when you need water to plant, the rivers are low. The water arrives at the wrong time of year, every year. So to farm there at all you have to move it. Dig a channel from the river, hold the water back, let it out when you want it. A village can manage a small ditch among its own people. But the ditches join up, and the bigger the network gets, the more somebody has to settle who digs, who gets the water first, and who clears out the silt.
 
-And who in the village already decides things? The one who holds the grain.
+And who in the village already settles things? The one who holds the grain.
 
-So here's the first simple question. Why is every first civilization on a river? Iraq on the Tigris and Euphrates, Egypt on the Nile, India on the Indus, China on the Yellow River.
+So here's the first simple question. Why are the first big cities of the ancient world on rivers? Iraq on the Tigris and Euphrates, Egypt on the Nile, India on the Indus, China on the Yellow River.
 
-It isn't for drinking. You can dig a well almost anywhere. It's for shipping. A donkey carries about a hundred and fifty pounds, and a donkey eats. Walk a load of grain far enough overland and the animal has eaten its own cargo. Past a couple of weeks on the road, food can't travel by land at all. Now put the same grain on a boat. One barge carries what fifty donkeys carry, with two men, and going downstream the river does the work for free.
+Water for the fields is part of it. There's a second reason that people tend to miss, and it's shipping. A donkey carries about a hundred and fifty pounds, and a donkey eats. Walk a load of grain far enough overland and the animal has eaten a good part of its own cargo. Bulk food doesn't travel far by land. Now put the same grain on a boat. One barge carries what dozens of donkeys carry, with two men, and going downstream the river does the work for free.
 
-A city is tens of thousands of people who need to eat every day and can't see the fields their food comes from. That's only possible where the food can float.
+A city is tens of thousands of people who need to eat every day and can't see the fields their food comes from. Before there were railways, that was very hard to manage anywhere the food couldn't float.
 
 Let's follow some.
 
@@ -43,7 +45,7 @@ It starts with the Farmer. He's in a field a day's walk from the river, and it's
 
 He cuts the barley, threshes it, and measures it into baskets. And then a share of those baskets leaves. It isn't his. The canal that waters this field was dug on somebody's orders and it's maintained on somebody's orders, and that somebody takes a cut of everything the canal makes possible. Part of what the Farmer grew goes onto a barge.
 
-The barge is pulled by the Carrier. His great-grandfathers walked to the mountains for volcanic glass. He walks a towpath with a rope over his shoulder, hauling other people's grain. He's never seen a city. In two days he will.
+The barge goes down a side channel to the river, and from there it has to be hauled to the city against the current. That's the Carrier's job. In the first house, the man who did his kind of work walked to the mountains for volcanic glass. This one walks a towpath with a rope over his shoulder, hauling other people's grain. He's never seen a city. In two days he will.
 
 [VISUAL: Reconstruction — Uruk from the plain at dawn, the White Temple shining on its platform above the walls.]
 
@@ -53,7 +55,7 @@ The city is called Uruk. Around 3200 BCE somewhere between twenty-five and fifty
 
 For the Carrier, who grew up in a village of sixty people, the size is the first shock and the smell is the second. Tens of thousands of people and their animals, no sewers, in the heat. Smoke, dung, baking bread, wet reeds, river mud. The lanes between the houses are barely wide enough for a loaded donkey and they go nowhere in particular, because nobody planned them.
 
-And he's surrounded by strangers. That's new. For the whole history of our species until this place, every face you ever saw came with a name and a family and probably a grudge. Here he can walk for an hour and not recognize one person. Nobody had ever been anonymous before. It was invented here. I've never been able to decide whether that's freedom or loneliness, and I don't think the people who first felt it knew either.
+And he's surrounded by strangers. In his village every face comes with a name and a family and probably a grudge. Here he can walk for an hour and not recognize one person. I think places like this are where human beings first found out what it is to be anonymous. I've never been able to decide whether that's freedom or loneliness, and I don't think the people who first felt it knew either.
 
 He pulls the barge to the quay. A man is waiting with a small slab of wet clay in his hand.
 
@@ -63,7 +65,7 @@ That man is the Counter, and we'll get to what he's holding. First, where does t
 
 It goes to the biggest institution in the city, and I have to be careful how I describe it, because we don't have a word for it.
 
-It's a temple. It belongs to a goddess named Inanna, who is the goddess of love and of war and of the evening star, and it's called the House of Heaven. But if you walked in you wouldn't think church. You'd think warehouse, and factory, and payroll office. There are storerooms full of barley. There are weaving sheds, breweries, bakeries, potteries and a metal shop. There are thousands of people working there, and every one of them is paid out of those storerooms.
+It's a temple. It belongs to a goddess named Inanna, who is the goddess of love and of war and of the evening star, and it's called the House of Heaven. But if you walked in you wouldn't think church. You'd think warehouse, and factory, and payroll office. There are storerooms full of barley. There are weaving sheds, breweries, bakeries, potteries and a metal shop. A great many people work there, and they're fed out of those storerooms.
 
 Your grandmother's grain bins, the ones at the back of the house in Part 1, have turned into this.
 
@@ -79,11 +81,11 @@ Look at what Uruk is made of. It isn't copper. Uruk has hardly any metal. It's m
 
 Grain is a peculiar food. It ripens all at once, in an open field, where anyone can see how much you've got. It can be divided down to a cupful and piled up by the ton. And it keeps for years. The political scientist James Scott listed its properties: grain is, in his words, "visible, divisible, assessable, storable, transportable, and rationable." In plain English, grain is the food you can tax.
 
-Now look at what Lake Superior offered. Fish, which rot in days. Deer, which walk away. Wild rice and berries, scattered along a thousand miles of shore for a few weeks a year. You can live very well on that, probably better than a farmer in Iraq. What you can't do is pile it up. And if wealth can't be piled up, nobody can collect it, and if nobody can collect it, nobody can feed the people who don't grow food: the full-time priest, the full-time smith, the full-time king.
+Now look at what Lake Superior offered. Fish. Deer. Wild rice, growing in a thousand scattered marshes. You can live very well on that, probably better than a farmer in Iraq. And you can keep it. People around the Great Lakes dried fish and put up wild rice for the winter. What's hard is for somebody else to collect it. There's no field to inspect, and no harvest week when the whole crop is standing in the open waiting to be counted. A family's food is spread across a lake country, and it's theirs.
 
-It was never about metal. Cities are made of stored food.
+So here's my answer. It's one answer, and I'm not claiming a law of nature. It was never about the metal. A city needs a food supply that an institution can gather in one place, measure, and hand out to people who don't grow food: the full-time priest, the full-time smith, the full-time king. Grain does that better than anything else people have ever eaten.
 
-We can check that, because history ran the test a second time. The one crop that could do grain's job in North America was corn, and corn came from Mexico. It took thousands of years to adapt to northern summers. Around a thousand years ago it finally took hold in the Mississippi valley, and within about a century there was a city across the river from where St. Louis is now. It's called Cahokia. Ten or twenty thousand people, about the size of London at the time, and an earth pyramid with a bigger footprint than the Great Pyramid in Egypt. People who had no contact with the Old World got a storable grain, and they got a city.
+There's a second case that points the same way. The one crop that could do grain's job in North America was corn, and corn came from Mexico. It took thousands of years to adapt to northern summers. Around a thousand years ago it finally took hold in the Mississippi valley, and within about a century there was a city across the river from where St. Louis is now. It's called Cahokia. Ten or twenty thousand people, about the size of London at the time, and an earth pyramid with a bigger footprint than the Great Pyramid in Egypt. People who had no contact with the Old World got a grain they could grow in bulk, and within a few generations they had a city. Corn wasn't the only reason. I don't think the timing is an accident, though.
 
 Back to the quay.
 
@@ -95,23 +97,21 @@ There are no coins. There won't be for another twenty-five hundred years. For bi
 
 Archaeologists digging in Uruk and every town connected with it find one object more than any other. It's a rough little bowl, about the size of your two cupped hands, with a slanted rim. It's ugly. It was made by pressing clay into a mold, fast, with no care at all, and it was thrown away after use. They turn up by the hundred thousand. Whole rooms are full of them.
 
-The best explanation is that it's a ration bowl. One bowl of barley is a day's pay. You line up, you get your bowl filled, and that's your wage. It's the first mass-produced object in history, and it's a disposable cup from the company cafeteria.
+The leading explanation is that it's a ration bowl. You line up, you get it filled with barley or bread or porridge, and that's your pay for the day. Not everyone agrees, and the bowls were probably used for more than one thing. But I think of it as a disposable cup from the company cafeteria, turned out by the hundred thousand, five thousand years ago.
 
 You got beer as well. Beer was food here. It was thick and cloudy and you drank it through a reed straw to keep the husks out of your teeth, and everybody drank it, from the man on the towpath to whoever sat at the top of the temple.
 
-Notice that there's nowhere to shop. In a hundred and fifty years of digging, no one has ever found a marketplace in one of these early cities. No square built for buying and selling. You got your bowl from the institution, and whatever else you needed you got at somebody's doorway or at the city gate. For most people in Uruk, the economy was a line you stood in.
+And notice something odd. In a hundred and fifty years of digging, nobody has found a marketplace in one of these early cities, no square built for buying and selling. People certainly traded, at a doorway or at the city gate or on the quay. But for a lot of people in Uruk, the middle of the economy was a line you stood in.
 
 So who's in the line?
 
 [VISUAL: Illustration — a long weaving shed, rows of women at ground looms.]
 
-Weavers, mostly, and most of them women. Cloth is this city's great export. It has no stone, timber or metal to sell, so it sells wool, and the weaving sheds employ thousands.
+Weavers, among others, and most of the weavers are women. Cloth is what this plain has to sell. It has no stone, timber or metal, so it sells wool, and in the centuries to come the weaving sheds of these cities will employ thousands.
 
-The Farmer's sister is in one of them.
+This is where the Farmer's sister's kind of work has gone. In the first house she ground the grain and baked the bread and was proud of it. Here the grinding and the weaving are done in rows, for an institution, and counted. And here I have to tell you something plainly, and I'll only say it at length this once.
 
-I told you she was always at the grinding stone. Her line has been moved indoors. And here I have to tell you something plainly, and I'll only say it at length this once.
-
-Some of the women in that shed came because they were hungry and the temple fed people who worked. Some were widows and orphans the institution had taken in. And some were owned. The records list people handed over to pay off a family's debt, and people captured in raids on other towns and brought back. And the records don't bother to tell those groups apart. Walked in or dragged in, a woman appears the same way: a number of workers, and a number of bowls.
+Some of the women in that shed came because they were hungry and the temple fed people who worked. Some were widows and orphans the institution had taken in. And some were owned. The records list people handed over to pay off a family's debt, and people captured in raids on other towns and brought back. And the records mostly don't bother to tell those groups apart. Walked in or dragged in, a woman appears the same way: a number of workers, and a number of bowls.
 
 Slavery isn't a late corruption of civilization. It's there in the first city, in the first records, written with the same marks that count the sheep. I'll point to it again as we go. I won't soften it.
 
@@ -131,9 +131,9 @@ It has one flaw. To check it you have to break it. So someone had the idea of pr
 
 And then somebody, and I'd love to know who, noticed that if the marks are on the outside, you don't need anything on the inside. You don't need the ball at all. Flatten the clay into a little pillow, press the marks into it, and you're finished.
 
-That's a tablet, and that's the invention of writing. It's a packing slip with the packing removed.
+That's a tablet. And in this part of the world it's the beginning of writing: a packing slip with the packing removed.
 
-A scholar named Denise Schmandt-Besserat pieced that sequence together starting in the 1970s. Specialists still argue over how neatly it works, but something very like it happened.
+A scholar named Denise Schmandt-Besserat pieced that sequence together starting in the 1970s. The part about numbers is solid. The earliest number signs really are pictures of those tokens. How many of the other signs came from tokens is argued, and some plainly came from elsewhere, from the pictures on seals for one. But as an account of how counting turned into marks on clay, I think it holds.
 
 For the first several centuries, that is all writing did. The oldest tablets on Earth come from the trash heaps of Inanna's temple, about five thousand of them, and there isn't a story or a prayer in the lot. They're barley, sheep, cloth, beer, and lists of job titles. Writing couldn't yet record a sentence. It could record "five sheep" and whose they were.
 
@@ -141,9 +141,9 @@ It took generations for anyone to realize the marks could stand for sounds, not 
 
 [VISUAL: Object — the "Kushim" tablet; highlight the two signs of the name.]
 
-One tablet from this period records an enormous delivery of barley over thirty-seven months, and at the end there are two signs that seem to be a signature: Kushim. If that's a person's name and not a job title, and scholars lean that way without being sure, then the first human being whose name we know wasn't a king, or a priest, or a hero. He was an accountant, and what we know about him is that he was responsible for the barley.
+One tablet from this period records an enormous delivery of barley over thirty-seven months, and at the end there are two signs that seem to be a signature: Kushim. It may be a person's name. It may be the title of an office. Nobody's sure. But if it's a name, then the first human being whose name we know wasn't a king, or a priest, or a hero. He was an accountant, and what we know about him is that he was responsible for the barley.
 
-I find that completely fitting. Every word ever written, every novel and love letter and law and text message, comes down from somebody trying to keep track of grain.
+I find that completely fitting. The oldest writing tradition on Earth, the one that will go on to produce the first laws and the first letters and the first poem with an author's name on it, began with somebody trying to keep track of grain.
 
 And the Counter isn't a boy with a bag of pebbles anymore. He's a specialist with a skill nobody else has.
 
@@ -151,15 +151,15 @@ And the Counter isn't a boy with a bag of pebbles anymore. He's a specialist wit
 
 That skill has to be taught, and it's hard. The system ends up with hundreds of signs. So they opened schools. The word for it meant "the tablet house."
 
-We have their homework. Thousands of practice tablets survive from a later period, around 1800 BCE, when the system had been running for well over a thousand years. The teacher writes a line on the top half, the pupil copies it underneath, and you can see the kid's wobbly version next to the neat one. Some have doodles on the back. One has a child's tooth marks in it. And we have the students' own essays about school, which are mostly complaints about being beaten: for bad handwriting, for talking, for standing up without permission.
+I'm going to jump ahead fourteen hundred years for a minute, because that's where the best evidence is. We have their homework. Thousands of practice tablets survive from around 1800 BCE, when the system had been running for about as long as the English language has existed. The teacher writes a line on the top half, the pupil copies it underneath, and you can see the kid's wobbly version next to the neat one. Some have doodles on the back. One has a child's tooth marks in it. And we have the students' own essays about school, which are mostly complaints about being beaten: for bad handwriting, for talking, for standing up without permission.
 
 Along with the signs, they learned arithmetic. And this is the clock.
 
 These people counted in sixties. I can't tell you why for certain and neither can anyone else. The best guess is practical. Sixty divides evenly by two, three, four, five and six, which is a wonderful thing if you spend your day splitting rations and fields and inheritances and you don't have decimals. Whatever the reason, their arithmetic ran on sixty. A thousand years later the astronomers of Babylon, who inherited it, used it to divide the circle of the sky. The Greeks took the Babylonian tables because they worked. The Arab astronomers kept them. And when medieval scholars put them into Latin, they called the first small division of the hour the "minute part," and the second small division the "second."
 
-So the minutes and seconds on your wrist are five thousand years old and come from the accounts office of a temple in Iraq. The twenty-four hours come from Egypt, which is a different story. Your watch is a joint project between two civilizations that never knew they were collaborating.
+So the sixty on your wrist is five thousand years old. Nobody in Uruk had minutes or seconds. They had the arithmetic, and the rest of us inherited it. The twenty-four hours come from Egypt, which is a different story. Your watch is a joint project between two civilizations that never knew they were collaborating.
 
-So that's the journey. Field, barge, storehouse, bowl, tablet, school. Every piece of a city is on that path.
+Back to Uruk, and the quay. That's the journey: field, barge, storehouse, bowl, tablet, school. Most of what makes a city is somewhere on that path.
 
 Now the hard question. Why would anyone put up with it?
 
@@ -167,7 +167,7 @@ Now the hard question. Why would anyone put up with it?
 
 Think about what's being asked of the Farmer. He hands over part of his crop to people he's never met. He's called up to dig canals. His sister is in a weaving shed. Why does he agree?
 
-Some of it is plain: the canal is real, and without it there's no crop. Some of it is force. But most of it, I think, is that he believed in it, and there's an object that shows what he believed.
+Some of it is plain: the canal is real, and without it there's no crop. Some of it is force. And some of it, I think, is that he believed in it. We can't ask him. But there's an object that shows what he was told.
 
 It's a stone vase about three feet tall, carved in Uruk around 3200 BCE, and it's covered in pictures arranged in bands. Read it from the bottom. First, wavy lines: water. Above that, barley and date palms. Above that, sheep. Above that, a line of men, naked, carrying baskets and jars. And at the top, a figure presenting all of it to a woman standing at a gate. That's Inanna, or her priestess.
 
@@ -185,29 +185,29 @@ So why did anyone agree to have a king? Because by the time there was one, he wa
 
 Six hundred years later you can see how far that had gone.
 
-Downriver from Uruk is a city called Ur. Remember the name, because we'll be back there more than once. In the 1920s an English archaeologist named Leonard Woolley dug its cemetery, and among two thousand ordinary graves he found sixteen that weren't ordinary.
+About forty miles downriver from Uruk is a different city with a confusingly similar name. Uruk, and Ur. We'll be back at Ur more than once. In the 1920s an English archaeologist named Leonard Woolley dug its cemetery, and among two thousand ordinary graves he found sixteen that weren't ordinary.
 
 In one lay a woman whose seal gives her name, Puabi. She was wearing a headdress of gold leaves and gold ribbons, with beads of deep blue stone from Afghanistan, fifteen hundred miles away. In another tomb there was a wooden harp with a bull's head on the front in gold, with a blue stone beard. There was a board game, twenty squares inlaid with shell, with its dice. People kept playing that game for the next two thousand years. A later tablet explains the rules, and a curator at the British Museum has worked out a playable version. I love that these people took their music and their board games into the grave with them.
 
 And then there's the pit.
 
-Outside one of the tombs, Woolley found seventy-four bodies laid out in rows. Six were men with weapons. Sixty-eight were women, in gold and silver ribbons, some still holding harps. They'd gone into the ground with whoever was buried in the chamber.
+In one spot, with no tomb chamber beside it at all, Woolley found seventy-four bodies laid out in rows. Six were men with weapons. Sixty-eight were women, in gold and silver ribbons, some still holding harps. Who they were buried to accompany, we don't know.
 
-Woolley thought they'd walked down the ramp, drunk poison from a cup, and lain down to die quietly. It's a peaceful picture, and for eighty years it was the story. In 2011 researchers put two of the skulls through a CT scanner. Both had been punched through with a pointed weapon. There were signs the bodies had been heated and treated to preserve them and then arranged.
+Woolley thought they'd walked down the ramp, drunk poison from a cup, and lain down to die quietly. It's a peaceful picture, and for eighty years it was the story. A few years ago researchers put two skulls from this cemetery through a CT scanner: a woman's from that pit, and a soldier's from one of the tombs. Both had been punched through with a pointed weapon. There were signs the bodies had been heated and treated to preserve them and then arranged.
 
-We don't know how many went willingly. I doubt it was all of them.
+Two skulls can't tell us how the other seventy-odd died, or how many went willingly. I doubt it was all of them.
 
 That's what the Keeper's line had become, six hundred years after the vase. Someone who could take seventy-four people into the grave.
 
 [VISUAL: Photo — the walls of Uruk as excavated; text card: "Look upon its wall…"]
 
-We don't know the name of anyone in that pit. We don't know the name of anyone who built Uruk. The city counted its people. It didn't remember them.
+We don't know the name of anyone in that pit. We know hardly any names from Uruk at all, apart from a clerk or two. The city counted its people. Mostly it didn't remember them.
 
-One name got out, and the way it got out tells you something. Around 2700 BCE Uruk had a king called Gilgamesh. He was probably real. Later tradition says he built the city wall, which ran six miles around.
+One name got out a different way, as a story, and how that happened tells you something. Around 2700 BCE Uruk had a king called Gilgamesh. He was probably real. Later tradition says he built the city wall, which ran six miles around.
 
 That's everything we know. What we have instead is the Epic of Gilgamesh, a poem that grew over the next fifteen hundred years. In it he's two-thirds god, he wrestles a wild man who becomes his best friend, the friend dies, and Gilgamesh goes to the end of the world looking for a way not to die. He doesn't find one. He comes home and looks at the wall. The poem opens and closes by telling you to do the same: climb up on it, look at the brickwork.
 
-It's one of the best things anyone has ever written, and it has almost nothing to do with the man. Somewhere back there was a real king, and a story grew over him until the story was all that was left.
+It's one of the best things anyone has ever written, and it has almost nothing to do with the man. Somewhere back there, probably, was a real king, and a story grew over him until the story was all that was left.
 
 Watch for that. It happens to everyone in this series who gets remembered at all. It's going to happen, in the end, to the whole Bronze Age.
 
@@ -215,11 +215,11 @@ Watch for that. It happens to everyone in this series who gets remembered at all
 
 Let me pull back before we finish, because I've spent this whole part inside one city and that gives you the wrong idea.
 
-In 3000 BCE about one human being in a hundred lived in a city. Everybody else was a farmer or a herder or a hunter who had never heard of Uruk. What we've been looking at is a tiny, bright exception.
+Around 3000 BCE only a tiny share of humanity lived in a city. Everybody else was a farmer or a herder or a hunter who had never heard of Uruk. What we've been looking at is a tiny, bright exception.
 
-It wasn't the only one. In Egypt, around 3100 BCE, a king joined the whole Nile valley into one country. Egypt's river was kinder than Iraq's. It flooded at the right time of year, and it flows north while the wind blows south, so you can drift one way and sail back the other. It's a two-way highway. Maybe because of that, Egypt skipped the stage of quarreling cities and went straight to one king over everything. And the Egyptians went a step further than Uruk about who that king was. He wasn't the god's steward. He was a god.
+It wasn't the only one. In Egypt, around 3100 BCE, a king joined the whole Nile valley into one country. Egypt's river was kinder than Iraq's. It flooded at the right time of year, and it flows north while the wind blows south, so you can drift one way and sail back the other. It's a two-way highway. Egypt had its own rival towns for a time. But early on, one king took the whole valley, and after that it mostly stayed one country. And the Egyptians went a step further than Uruk about who that king was. He wasn't the god's steward. He was a god.
 
-And further east, on the Indus River in what's now Pakistan, a third civilization was building cities with something Uruk never had: a plan. Straight streets on a grid. Bricks all the same size. Covered drains. And as far as anyone can find, no palaces and no giant temples. They had writing too, on little stone seals. Nobody has ever been able to read it. Hold onto that. It's the last thing we'll talk about in this series.
+And further east, a few centuries later, on the Indus River in what's now Pakistan, a third civilization would build cities with something Uruk never had: a plan. Straight streets on a grid. Bricks all the same size. Covered drains. And as far as anyone can find, no palaces and no giant temples. They had writing too, on little stone seals. Nobody has ever been able to read it. Hold onto that. It's the last thing we'll talk about in this series.
 
 These places already knew of each other, faintly. That blue stone in Puabi's headdress came from one valley in Afghanistan. It reached Iraq, and it reached Egypt, passed from hand to hand by people who each knew the next stop and nothing beyond it. Nobody ran that chain. Nobody could see all of it. And already the cities couldn't do without it. They had mud and barley and wool. Everything else had to come from far away through people they'd never meet.
 
@@ -231,13 +231,15 @@ They don't live in the same house anymore. They don't eat from the same pot. The
 
 None of them could go back to the one-room house if they wanted to. None of them knows how to do the others' jobs.
 
-By 2350 BCE there are a dozen cities like Uruk strung along the two rivers. Each has its own god, its own king, its own wall. They trade with each other and they fight each other, mostly over water, and now and then one king bullies the rest for a few years. But nobody has ever ruled more than one city for long. Nobody's even sure what that would mean.
+By 2350 BCE there are a dozen cities like Uruk strung along the two rivers. Each has its own god, its own king, its own wall. They trade with each other and they fight each other, mostly over water, and now and then one king bullies the rest for a few years. But nobody has ever held many cities together for long.
 
-Then a man from the north, who by his own account started out as a baby in a basket, decides to find out.
+Then comes a man from the north. A much later legend says he started life as a baby in a basket.
 
 ---
 
-## Revision notes — v0.7
+## Revision notes — v0.7.1
+
+- **Round 1 review dispositions (ChatGPT, Notion):** P2-01 accepted (these are later people doing the same kinds of work, said aloud). P2-02 qualified: the river-freight argument and the donkey arithmetic stay, scoped to "the first big cities of the ancient world" and with irrigation as village work first; "a well almost anywhere" and the two-week limit are cut. P2-03 accepted (anonymity as the narrator's view, not a world first). P2-04 accepted in part (payroll claims softened; the weaving-shed scale is placed "in the centuries to come"). P2-05 accepted: the Great Lakes answer is now about what an institution can collect, not what can be stored; Cahokia is "a second case that points the same way". P2-06 accepted (ration bowl as the leading reading; "first mass-produced object" cut; trade outside the ration acknowledged). P2-07 accepted (numbers solid, other signs argued). P2-08 accepted (the "every word ever written" line was false; Kushim hedged). P2-09 accepted (the school is a signposted jump ahead; nobody in Uruk had minutes; the vase shows what people were told). P2-10 accepted (the pit has no chamber; the two skulls come from two graves). P2-11 accepted. P2-12 accepted (Indus dated later; Egypt's early rivalries; "one in a hundred" cut; the basket is a later legend; Sargon's predecessors acknowledged).
 
 - **Structure:** one spine (the barley's journey), then the "why agree" turn, then one jump forward to Ur at 2600 and a short wide shot. Draft-06 ran about forty topics in 11,600 words; this is about 6,600.
 - **Moved here:** Royal Tombs of Ur (from Part 3), now with the 2011 CT findings.
