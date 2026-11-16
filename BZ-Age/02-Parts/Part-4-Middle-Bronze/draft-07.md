@@ -3,7 +3,7 @@
 **Date:** November 16, 2026
 **Status:** ChatGPT implementation of the editorial review and Jacob's selective scene-setting direction. Source version ef7b943; changed passages and continuity corrected. Not a final recording clearance or an exhaustive fact check.
 **Driving questions:** How do you mail a letter before paper? What is a loan before banks, and what happens when you can't pay? Where does law come from? Why did the wheel take so long?
-**Narration length:** 4,829 words (about 32 minutes at 150 words a minute)
+**Narration length:** 4,834 words (about 32 minutes at 150 words a minute)
 
 ---
 
@@ -57,7 +57,7 @@ The traders from Assur didn't conquer Kanesh. They couldn't have. They rented. T
 
 I think of it as an embassy with a homeowners' association.
 
-Now here's what makes these people worth an hour. Assur, the home city, wasn't run by a king in the usual sense. It had a ruler, but his title was "steward of the god," and many of the real decisions were made by an assembly of the heads of the big merchant families. Each year was named after an official who was picked by drawing lots. It was something like a small trading republic with a king attached, four thousand years ago, and almost nobody has heard of it, because it never built a pyramid. It left paperwork.
+Now here's what makes these people worth stopping for. Assur, the home city, wasn't run by a king in the usual sense. It had a ruler, but his title was "steward of the god," and many of the real decisions were made by an assembly of the heads of the big merchant families. Each year was named after an official who was picked by drawing lots. It was something like a small trading republic with a king attached, four thousand years ago, and almost nobody has heard of it, because it never built a pyramid. It left paperwork.
 
 Twenty-three thousand clay tablets have come out of the houses at Kanesh, and nearly all of them are from two generations of these families. The quarter burned around 1830 BCE, the fire baked the tablets hard, and there they sat.
 
@@ -205,7 +205,7 @@ So the Maker gets a new trade: he builds chariots. And the Keeper gets a weapon 
 
 [VISUAL: Map — arrow from central Turkey down the Euphrates to Babylon and back. Date card: 1595 BCE.]
 
-The new kind of war announced itself in 1595 BCE.
+The political map was changing too. In 1595 BCE, an army from the north reached Babylon.
 
 Up in central Turkey, in the same country where the merchants of Assur once had their quarter, a new kingdom had formed. We call its people the Hittites. In 1595 their king led his army out of the highlands, down the length of the Euphrates, about eight hundred miles, and sacked Babylon. Hammurabi's city, five generations after Hammurabi. Then he turned round and went home with the loot, and his brother-in-law murdered him.
 
@@ -235,7 +235,7 @@ So where's the family, around 1500 BCE?
 
 The Carrier is a businessman. He has investors, contracts, a tax strategy, and a wife who runs the home office.
 
-The Counter isn't only a temple clerk now. He might be a merchant, or a merchant's wife, or a miner scratching an ox's head on a rock.
+The Counter isn't only a temple clerk now. He might be a merchant, or a merchant's wife, or someone experimenting with a few signs scratched on a rock.
 
 The Keeper has learned to cancel debts, to carve his justice in stone, and to burn his friend's house down. He has chariots.
 
@@ -245,11 +245,15 @@ And the Farmer is in debt. Sometimes a king wipes it out. Then it builds up agai
 
 They live in different countries now and they'll never meet.
 
-In about a hundred and fifty years, people like these will have built the most connected world there had ever been. I want to show it to you from the deck of a ship.
+In about two hundred years, people like these will have built the most connected world there had ever been. I want to show it to you from the deck of a ship.
 
 ---
 
 ## Revision notes — v0.7.4
+
+### Whole-series listener continuation
+- Additional continuity, chronology and voice repairs are recorded in `04-Working-Notes/draft-07-unpublished-listener-continuation.md`. These notes supersede incompatible inherited verification labels; unresolved quotations and numerical claims remain open.
+
 
 - Finishing pass after v0.7.3: P4-OPENING-LETTERS, P4-SEPARATE-REPLIES, P4-TIN-QUANTITY, P4-PRIVATE-LITERACY, P4-MINERS-PREMISE, P4-ALPHABET-PROPOSAL, P4-WORKER-STATUS, P4-FAMILY-END.
 - See `04-Working-Notes/draft-07-v0.7.4-applied.md`. Prior verification limits remain; this is not a final recording clearance.

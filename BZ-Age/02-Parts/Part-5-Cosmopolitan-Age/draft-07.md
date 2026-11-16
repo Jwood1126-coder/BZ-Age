@@ -3,7 +3,7 @@
 **Date:** November 16, 2026
 **Status:** ChatGPT implementation of the editorial review and Jacob's selective scene-setting direction. Source version ef7b943; changed passages and continuity corrected. Not a final recording clearance or an exhaustive fact check.
 **Driving questions:** How do you sail without a compass? How do kings with no common language talk? How do you marry someone you've never seen? If iron is everywhere, why bronze?
-**Narration length:** 5,272 words (about 35 minutes at 150 words a minute)
+**Narration length:** 5,296 words (about 35 minutes at 150 words a minute)
 
 ---
 
@@ -119,9 +119,9 @@ People have wanted to make him a hero for a long time: the first man to believe 
 
 I don't fully buy either one. I think he believed it. The hymn to the sun that was written at his court reads like the work of someone who meant it. I also think it's no accident that his one god spoke only through him, and that the temples he closed were the only institution in Egypt that could tell a king no. Both can be true of the same man.
 
-Here's what I'm sure of. In the last twenty years archaeologists have excavated the cemetery where the ordinary people of that city were buried. Hundreds of skeletons. Most of them died before thirty-five. A large share were teenagers. They have crushed vertebrae and worn-out joints from carrying heavy loads when their bones were still growing, and the stunted height that comes from not getting enough to eat as a child.
+Now look away from the royal portraits and out to the city's cemeteries. Excavators have recovered hundreds of ordinary people. The burial grounds do not all tell the same story. At the North Tombs Cemetery, the sample is strikingly young: almost everyone whose age could be closely estimated died between five and twenty-five. Skeletal studies also reveal physical strain and poor health. They cannot tell us the exact load each person carried, but the contrast with the royal image of abundance is hard to miss.
 
-That's the Farmer's line in the city of the sun. Whatever the king saw when he looked up, that's what it cost.
+That's another view of the city of the sun, from the people who had to live and work beneath it.
 
 Meanwhile his empire in Syria was coming loose, and we can listen to it happen. His subject king at the port of Byblos, on the coast of Lebanon, wrote to him about sixty times. It's always the same letter. My neighbors are taking my villages. My farmers have run away. Send archers. Why don't you answer? I am like a bird in a trap, he says, here in Byblos.
 
@@ -137,7 +137,7 @@ He left a son, about nine years old. The boy had been named Tutankhaten, "living
 
 That's who he is. The gold mask everybody has seen belongs to the child of the heretic, whose whole short reign was spent undoing his father's.
 
-He died at about nineteen, with no children. And then the palace did something no one would have believed.
+He died at about nineteen, with no surviving children. And then the palace did something no one would have believed.
 
 Up in Turkey, the king of the Hittites was on campaign in Syria when a messenger arrived from Egypt with a letter from a queen whose husband had just died. The Hittite records don't give her name. Most historians think she was Tutankhamun's widow, and I'll go with that. Her letter is quoted in those records. "My husband is dead. I have no son. They say you have many sons. Give me one of yours, and he will be my husband, and he will be king of Egypt."
 
@@ -163,7 +163,7 @@ There's something else in that boy's tomb I've been waiting to show you, because
 
 Among the gold was a dagger with an iron blade. The iron came from a meteorite. It was one of the most precious things he owned.
 
-So here's the question from the days of Sargon. Iron ore is in practically every range of hills. Tin has to come from Uzbekistan or Cornwall. Why did these people build their world on bronze?
+So here's the question from the days of Sargon. Iron ore is in practically every range of hills. Usable tin deposits are much less evenly spread, often far from the places making bronze. Why did these people build their world on bronze?
 
 There are two reasons. The first surprised me. Bronze was better. When you smelt iron ore in a simple furnace you don't get anything like steel. You get a spongy lump of soft metal that has to be hammered for hours, and a blade made from it is softer than a good bronze one and takes a worse edge. Making it hard means working carbon into it and quenching it, and nobody had that worked out reliably. There's a letter from a Hittite king of this period, answering another ruler who'd asked him for iron. He says there's no good iron in his storehouse at the moment, that it's a bad season for making it, and that for now he's sending one dagger blade. One.
 
@@ -193,9 +193,9 @@ So who won? If you go by the map, the Hittites did. If you go by the walls of Eg
 
 He ruled for another sixty-one years and he never stopped telling that story. He's the greatest public relations man in history. He nearly got his army wiped out by believing two herders, and three thousand years later tourists stand in front of his version and take it for a victory.
 
-Sixteen years after the battle the two kingdoms made peace, and it wasn't because they'd grown fond of each other. The Hittite king by then was the brother of the one who'd fought at Kadesh. He had taken the throne from his nephew, and the nephew had fled to Egypt. A man who's stolen a crown needs other kings to recognize him. And on the Hittites' eastern border, the Assyrian kingdom had become a formidable military rival.
+About fifteen years after the battle the two kingdoms made peace, and it wasn't because they'd grown fond of each other. The Hittite king by then was the brother of the one who'd fought at Kadesh. He had taken the throne from his nephew, and the nephew had fled to Egypt. A man who's stolen a crown needs other kings to recognize him. And on the Hittites' eastern border, the Assyrian kingdom had become a formidable military rival.
 
-So they signed a treaty. We have both copies, the Egyptian and the Hittite, and they match. Neither will attack the other. Each will come to the other's aid. And each will send back the other's fugitives, with a clause that says the people sent back aren't to be punished or have their houses torn down. It's the oldest peace treaty between great powers that survives. There's a copy on the wall at the United Nations in New York.
+So they signed a treaty. Egyptian and Hittite versions survive, preserving the same central agreement, though not identical wording. Neither will attack the other. Each will come to the other's aid. And each will send back the other's fugitives, with a clause that says the people sent back aren't to be punished or have their houses torn down. It's the oldest peace treaty between great powers that survives. There's a copy on the wall at the United Nations in New York.
 
 The Hittite copy was sealed by two people, the king and the queen. Her name was Puduhepa and she's worth knowing. She ran the kingdom's correspondence alongside her husband and after him. When the peace was to be sealed with a marriage and Ramses complained that the bride and her dowry were slow in coming, she wrote back herself. I'll paraphrase. She asks him whether the king of Egypt owns nothing at all. She says that for him to squeeze her for more is beneath him.
 
@@ -256,6 +256,10 @@ The rain is about to change.
 ---
 
 ## Revision notes — v0.7.4
+
+### Whole-series listener continuation
+- Additional continuity, chronology and voice repairs are recorded in `04-Working-Notes/draft-07-unpublished-listener-continuation.md`. These notes supersede incompatible inherited verification labels; unresolved quotations and numerical claims remain open.
+
 
 - Finishing pass after v0.7.3: P5-KHAEMWASET-MONUMENT.
 - See `04-Working-Notes/draft-07-v0.7.4-applied.md`. Prior verification limits remain; this is not a final recording clearance.

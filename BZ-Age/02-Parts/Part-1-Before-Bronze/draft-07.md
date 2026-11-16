@@ -3,7 +3,7 @@
 **Date:** November 16, 2026
 **Status:** ChatGPT implementation of the editorial review and Jacob's selective scene-setting direction. Source version ef7b943; changed passages and continuity corrected. Not a final recording clearance or an exhaustive fact check.
 **Driving questions:** Why would anybody start farming? How does someone work out that metal comes from rock? Who was the first person to own something?
-**Narration length:** 4,380 words (about 29 minutes at 150 words a minute)
+**Narration length:** 4,386 words (about 29 minutes at 150 words a minute)
 
 ---
 
@@ -12,6 +12,8 @@
 ---
 
 [VISUAL: Part card — WHEN: 5000 BCE, seven thousand years ago. WHERE: a farming village in the hills of what is now northern Syria. THE HOUSEHOLD: one roof, five kinds of work.]
+
+It's about 5000 BCE, seven thousand years ago. We're in a farming village in what is now northern Syria.
 
 Your feet hurt.
 
@@ -41,7 +43,7 @@ And there's your sister, the boy's mother. She works the field beside you at har
 
 That's the household. A farmer, a keeper, a counter, a carrier, a maker. Right now those aren't jobs. They're what each person happens to be good at, and everyone eats from the same pot.
 
-It's about 5000 BCE. Seven thousand years ago. The first pyramid in Egypt is twenty-four centuries in the future, and the Greeks and Romans are further off than that.
+The first pyramid in Egypt is twenty-four centuries in the future, and the Greeks and Romans are further off than that.
 
 Look at what isn't here.
 
@@ -109,11 +111,11 @@ They were sicker too. A hunter-gatherer camp moves on from its own filth. A vill
 
 It wasn't the same everywhere. In some regions people kept their height and their health. But the costs turn up too often to wave away.
 
-So why did it spread? Because it didn't need anyone's approval. A band of foragers has to carry everything they own, including their toddlers, so they space their children years apart. A village with stored food, and porridge to wean a baby onto, can raise its children closer together. Give that a few centuries and the village is five times the size of the band in the next valley. It doesn't matter that the foragers are healthier. They're outnumbered, and then they're gone, or they've joined.
+So why did it spread? Because it didn't need anyone's approval. A band of foragers has to carry everything they own, including their toddlers, so they space their children years apart. A village with stored food, and porridge to wean a baby onto, can raise its children closer together. Over generations, a settled population can grow faster than its neighbors. That can help farming spread without making it a healthier life for each person. But foraging does not disappear everywhere, and people can combine the two ways of getting food.
 
-And once a valley is full of farmers, nobody can go back, because there are now far too many people to feed by hunting. The door closes behind you.
+In a valley supporting a dense farming population, returning entirely to hunting and gathering can become much harder. There may be too many mouths for the land to feed that way. The door gets harder to open.
 
-I think farming was a trap. I don't mean anyone set it. Nobody chose the whole of it, and nobody alive at the time could have seen the shape of it. Each family made a sensible decision about next winter, and a thousand years of sensible decisions added up to shorter, sicker, harder-working people who couldn't quit. Much later it paid off in cities and writing and everything you and I live inside. Nobody who paid the price saw the payoff.
+For many communities, I think farming could become a trap. I don't mean anyone set it. Nobody chose the whole of it, and nobody alive at the time could have seen the shape of it. Each family made a sensible decision about next winter, and generations of sensible decisions could make people dependent on a demanding way of life. Much later, some farming societies supported cities and writing. Those later possibilities didn't make the work any easier for the people at our grinding stone.
 
 Keep that pattern in your pocket. A long run of sensible choices that walks people into something nobody would have signed up for. We'll see it again, on a bigger scale.
 
@@ -197,19 +199,19 @@ This isn't your family, and it's a long way from your village. But it's the earl
 
 Now run the clock forward, quickly, because nothing in the next stretch looks like an event.
 
-From your morning to the year 3200 BCE is eighteen hundred years. About seventy generations. Nobody in any one of those generations sees very much happen. A village grows by four houses in a lifetime. A grain bin gets a second room.
+From your morning to the year 3200 BCE is eighteen hundred years. About seventy generations. Changes accumulate at different speeds in different places: a settlement grows, a store expands, more people depend on work done outside their own house.
 
-But the family is changing.
+But the five kinds of work are changing. We aren't following this household's descendants through eighteen hundred years. We're following people who do the same kinds of work.
 
-Your grandmother's job, minding the grain, has passed down and down, and somewhere along the way it stopped being a chore and started being a position. The one who holds the store decides who eats in a bad year. People bring him gifts. One generation his son takes over, and nobody remembers agreeing to that. The Keeper is a headman now.
+Minding grain can become more than a household chore. Where larger stores support a community, the person controlling them has a say in who eats in a bad year. Our Keeper now stands for that kind of authority, not for your grandmother's heir.
 
-The boy with the pebbles has descendants who still count for the village. But the pebbles have turned into little shaped pieces of clay, a cone for a measure of grain, a ball for a bigger one, and they're kept in the storehouse as a record of who brought what. The Counter works for the Keeper.
+Other people count what comes into the stores. Among their tools are little shaped pieces of clay, a cone for a measure of grain, a ball for a bigger one, and they're kept in the storehouse as a record of who brought what. The Counter works for the Keeper.
 
-Your cousin's line doesn't farm at all anymore. They make things, and other people feed them.
+Some Makers can spend more of their time making things, supplied with food by other people.
 
-Your brother's line is gone for months at a time, and they've stopped walking. Somebody has tamed the donkey, and somebody has built a boat that can carry a ton.
+Carriers travel farther, on foot, with pack animals, and in boats. More goods can move between communities.
 
-And you? Your line is still in the field. The plow has arrived, pulled by an ox, so one man can now work far more ground. That sounds like good news for you. It mostly means there's more grain to hand over to the man who holds the store.
+And the Farmer? Still in the field. The plow has arrived, pulled by an ox, so one man can now work far more ground. That sounds like good news for you. It mostly means there's more grain to hand over to the man who holds the store.
 
 And the story moves. The place where all of this first comes together isn't the hill country. It's eight hundred miles to the southeast, on the flat plain where the two great rivers of Iraq run down to the sea. By 3200 BCE the biggest settlement on that plain isn't a village anymore. It's something that has never existed before.
 
@@ -218,6 +220,12 @@ It's going to be loud.
 ---
 
 ## Revision notes — v0.7.4
+### Unpublished whole-series listener pass
+- Implements high-confidence chronology, spoken orientation and household-metaphor repairs from the early-part listener review. The five work roles are not a claimed bloodline; precise multipliers and universal inevitability are not used to carry the farming argument. Explicit time returns distinguish Uruk, later schoolrooms, Ur graves and Gilgamesh tradition.
+- Sumerian and Akkad's regional imperial significance checked against Getty, *Mesopotamia: Civilization Begins*: https://www.getty.edu/art/exhibitions/mesopotamia/explore.html .
+- Sargon's 5,400 provisioned men do not establish a first standing army: scholarly alternatives include troops and a wider palatial household; see *The Wiley Encyclopedia of Empires* (2016), “Akkadian Empire,” pp. 50–59, https://www.academia.edu/23241606/Akkadian_Empire_in_J_M_MacKenzie_ed_The_Wiley_Encyclopedia_of_Empires_2016_50_59 .
+- Still flagged for source-by-source review, not silently cleared: Göbekli Tepe interpretation, earliest-gold claims, earliest writing/slavery particulars, tin provenance and pyramid team names.
+
 
 - Finishing pass after v0.7.3: version and assembly synchronization; no new narration changes in this section.
 - See `04-Working-Notes/draft-07-v0.7.4-applied.md`. Prior verification limits remain; this is not a final recording clearance.

@@ -3,7 +3,7 @@
 **Date:** November 16, 2026
 **Status:** ChatGPT implementation of the editorial review and Jacob's selective scene-setting direction. Source version ef7b943; changed passages and continuity corrected. Not a final recording clearance or an exhaustive fact check.
 **Driving questions:** How do you forget how to read? Why didn't they just rebuild? Was the dark age dark? Where does the alphabet come from?
-**Narration length:** 3,653 words (about 24 minutes at 150 words a minute)
+**Narration length:** 3,677 words (about 25 minutes at 150 words a minute)
 
 ---
 
@@ -49,7 +49,7 @@ Rebuilding royal administration means more than repairing a roof. People need wo
 
 So people did the sensible thing. They got smaller.
 
-Archaeologists count the places in Greece where people were living in 1250 BCE, and the places where they were living two centuries later, and the second number is about a quarter of the first. Now, that's a count of sites, and small poor villages are easy to miss. I don't believe three Greeks in four died. But a lot did, and a lot left, and the ones who stayed lived in hamlets of a few dozen, in houses of mud and thatch, and buried their dead with a pot and a pin.
+Archaeologists count the places in Greece where people were living in 1250 BCE, and the places where they were living two centuries later, and the second number is about a quarter of the first. Now, that's a count of sites, and small poor villages are easy to miss. I don't believe three Greeks in four died. Some died, some moved, and many communities were smaller and left fewer possessions in their graves. But the pattern was not the same everywhere.
 
 [VISUAL: Reconstruction — the long building at Lefkandi. Objects: the bronze urn from Cyprus; the gold pendant. Date card: about 950 BCE.]
 
@@ -57,11 +57,11 @@ And yet it wasn't empty, and I want to show you the place that proves it.
 
 On Euboea, an island close to the eastern coast of mainland Greece, excavators at Lefkandi uncovered a very long building dating to around 950 BCE. Timber posts and mud-brick walls once stood above its stone foundations. Inside were exceptional burials. This was substantial construction in a period often imagined as nothing but tiny poor villages.
 
-In one was a man's ashes, wrapped in cloth and placed in a bronze jar. The jar was an antique from Cyprus, already a century old. Next to him lay a woman with gold on her dress and at her throat a gold necklace that had been made in Babylon about a thousand years before she was born. In the pit beside them were four horses.
+In one was a man's ashes, wrapped in cloth and placed in a bronze jar. The jar was an antique from Cyprus, already a century old. Next to him lay a woman adorned with gold. Her necklace included a pendant made centuries earlier, probably somewhere in Mesopotamia or Syria. We don't know how it reached her. A little object from a much older world had found a place in her necklace. In the pit beside them were four horses.
 
 Someone here had access to wealth, skilled work, and objects whose histories reached across the sea. We should not turn that into an exact workforce or a complete biography of a chief. The burial and building are enough to interrupt the idea that every connection had gone.
 
-The Keeper's line isn't dead, then. It's just shrunk back to where it started. And here's a detail I like a great deal. In the palace accounts at Pylos there's a title for a very minor official, a kind of local foreman. It turns up, among other places, in charge of small groups of bronze smiths. The word is basileus. The great lords who ran the palaces had a different, grander title, and after the fires that title vanishes. The foreman's title doesn't. By the time Greeks are writing again, basileus is their word for king.
+The Keeper's kind of work hasn't disappeared. But authority has changed, and the words leave a trace of it. At Pylos, the title behind the later Greek word basileus belongs to local leaders, including figures associated with groups of bronze workers. It isn't the title of the great palace ruler. That is wanax. After the palace system ends, both words survive: anax appears in Homer as a word for lord, while basileus can designate a king. The words have outlived the old arrangement of offices.
 
 The title changed its range of meaning. That is not proof that every later king descended from a palace foreman, or that the highest surviving official automatically inherited a crown. It gives us a trace of continuity within a changed political world.
 
@@ -69,7 +69,7 @@ The title changed its range of meaning. That is not proof that every later king 
 
 Now go back about a century from that burial and travel southeast across the Mediterranean, to Egypt. A text set around 1075 BCE follows an official named Wenamun on a difficult journey. It will put a face, and a grievance, into this world of continuing trade.
 
-Around 1075 BCE an official of the great temple in southern Egypt was sent on a business trip. His name was Wenamun. His job was to sail to the port of Byblos, on the coast of Lebanon, and buy cedar logs for the sacred boat of the god Amun. We have his report. Scholars argue about whether it's a real report or a story written in the form of one. Either way, somebody who knew that world wrote it.
+In the account, an official of the great temple in southern Egypt is sent on a business trip. His name was Wenamun. His job was to sail to the port of Byblos, on the coast of Lebanon, and buy cedar logs for the sacred boat of the god Amun. We have his report. Scholars argue about whether it's a real report or a story written in the form of one. Either way, somebody who knew that world wrote it.
 
 You've heard of Byblos. Three hundred years earlier its king was the man who wrote to Egypt sixty times, begging for a few archers, calling himself a bird in a trap, throwing himself at Pharaoh's feet seven times and seven times more. Keep that in your head.
 
@@ -77,7 +77,7 @@ Wenamun's trip goes wrong at once. He stops at a harbor on the way, a town now r
 
 The account then has him seize silver from people associated with the coastal group called the Tjeker, treating it as compensation for his loss. That matters later. The ships that pursue him are not simply an unexplained second disaster; he has created a dispute of his own.
 
-He gets to Byblos with almost nothing. The prince of Byblos sends a message down to the harbor: get out of my port. He sends the same message the next day. He sends it every day for twenty-nine days.
+He gets to Byblos, but taking someone else's silver hasn't solved his problem. The prince of Byblos sends a message down to the harbor: get out of my port. He sends the same message the next day. He sends it every day for twenty-nine days.
 
 Finally Wenamun is let in. He describes the scene. The prince is sitting in an upstairs room with his back to a window, and through the window Wenamun can see the waves of the sea breaking behind the prince's head.
 
@@ -87,9 +87,9 @@ The prince has records brought out showing what earlier Egyptian rulers supplied
 
 That's the prince of Byblos talking to Egypt. Three hundred years after the bird in the trap.
 
-In the end Wenamun has to write home for money. Egypt sends gold, silver, linen, ox hides, rope, sacks of lentils, baskets of fish, and five hundred rolls of papyrus. The timber gets cut. And then, just as he's about to leave, eleven ships turn up from the town where he was robbed, with orders to arrest him. He sits down on the beach and cries. The prince, who by this point seems to feel sorry for him, sends down two jars of wine, a sheep, and an Egyptian singing-girl to cheer him up.
+In the end Wenamun has to write home for money. Egypt sends gold, silver, linen, ox hides, rope, sacks of lentils, and baskets of fish. The timber gets cut. And then, just as he's about to leave, eleven Tjeker ships turn up, and their men demand his arrest. He sits down on the beach and cries. The prince, who by this point seems to feel sorry for him, sends down two jars of wine, a sheep, and an Egyptian singing-girl to cheer him up.
 
-The papyrus breaks off before we find out whether he got home.
+He does get away from Byblos, only to be driven to Cyprus, where he has to appeal to a local ruler for protection.
 
 What I like about this account is that commerce keeps working inside the quarrel. There are ships, records, payments, and timber being cut. Egypt's standing is not what Wenamun thinks it should be, but the sea has not emptied and the little port has not forgotten how to keep accounts.
 
@@ -115,11 +115,11 @@ They're small. A dozen houses, mostly. The houses are stone, with a few rooms ar
 
 And look at what isn't there. There are no palaces. There are no temples to speak of. There are no rich graves and hardly any imported goods. Everybody's pots are about the same.
 
-Who were they? That's argued. Finkelstein himself thinks many were herders who settled down when the towns they used to trade with fell apart. Others think they were farmers from the plain who moved uphill to get out from under what was left of the kings. Their pottery is ordinary Canaanite pottery, so they weren't newcomers from far away. And that monument I mentioned from 1208 already has a people called Israel living somewhere in this country. Some of these villagers will become the Israelites of the Bible.
+Who were they? That's argued. The archaeologist Israel Finkelstein thinks many were herders who settled down when the towns they used to trade with fell apart. Others think they were farmers from the plain who moved uphill to get out from under what was left of the kings. Much of their pottery follows local Canaanite traditions, a clue to continuity rather than proof of where every family came from. And that monument I mentioned from 1208 already has a people called Israel living somewhere in this country. Some of these villagers will become the Israelites of the Bible.
 
 Here is the possibility that makes the idea of a release attractive. In some small communities, households may have had more control over their labor and produce than people attached to a palace estate. But a simple house and ordinary pottery do not prove that nobody collected dues, claimed land, or exercised power. We cannot read a tax exemption from the absence of a palace.
 
-And here's the case against, because I don't want to sell you a fairy tale. There's also no granary on the hill above him that opens in a famine. There's no garrison between him and the next valley, and the next valley is hungry too. The Bible's own book about these centuries is called Judges, and it's one of the most violent books in the collection: raids, massacres, a civil war. It has a line it keeps repeating. In those days there was no king in Israel, and every man did what was right in his own eyes. It isn't meant as praise.
+And here's the case against, because I don't want to sell you a fairy tale. More control over your own crop doesn't guarantee food in a bad year, or safety from an armed neighbor. The biblical book of Judges looks back on the time before Israel's kings through stories of raids, massacres, and civil war. It isn't a contemporary report from these villages. Its refrain about a time without a king, when people did what seemed right to them, is part of the book's argument about that past. It isn't meant as praise.
 
 So was it dark? The answer changes with the place and the life we are trying to recover. Some people may have gained room to act while losing security or access to goods. Others faced displacement and violence. I find that uneven picture more convincing than either a universal disaster or a universal liberation.
 
@@ -129,9 +129,9 @@ Down on the coast below him, the other half of that story is settling in.
 
 At a handful of towns on the southern plain, the pottery changes after the collapse. It's painted in the style of the Greek palaces, with birds and spirals. But it's made of local clay. That matters. Imported pots mean trade. Foreign-style pots made locally can suggest people or skills moving, but imitation and exchange have to be considered too.
 
-These are the Peleset, the ones Egypt fought and then settled. They brought their own cooking pots and their own kind of hearth. They ate pork, and you can see it in their trash, while up in the hill villages there are almost no pig bones at all. A few years ago researchers got DNA from the bones of people buried in one of those coastal towns. The earliest burials after the collapse have a clear dose of ancestry from southern Europe. In the later people sampled, that distinct signal was no longer detectable in the same way, consistent with mixing into the local population.
+These communities are associated with the Philistines and the Peleset named in Egyptian accounts. How far Egyptian resettlement shaped their arrival is debated. They brought their own cooking pots and their own kind of hearth. They ate pork, and you can see it in their trash, while up in the hill villages there are almost no pig bones at all. A study of DNA from ten people buried at Ashkelon, one of those coastal towns, adds another clue. Some early Iron Age individuals in that small sample show ancestry linked to southern Europe. In the later people sampled, that distinct signal was no longer detectable in the same way, consistent with mixing into the local population.
 
-In the Bible these are the Philistines, and they're the villains: the people of Goliath, the enemies of David. I find it oddly moving that both sides of that old quarrel came out of the same disaster. The hill farmers and the coast people were both washed up by the fall of the palaces. Neither of them knew it.
+In the Bible, the Philistines become some of Israel's great rivals: the people of Goliath, the enemies of David. Archaeology gives us another way to look at those neighbors, through changing settlements, new arrivals, and local continuities. The hill communities and the coastal towns took shape along different paths in the world after the palaces. Their later rivalry doesn't turn those paths into one shared origin story.
 
 [VISUAL: Object — an iron knife with bronze rivets, Cyprus, 12th–11th century BCE. Diagram: a hillside with red iron ore; a simple furnace.]
 
@@ -153,7 +153,7 @@ That is the answer I can defend: changing supply networks, accumulated technical
 
 And the Counter. This is the fourth question and the best thing in this part. Where does the alphabet come from?
 
-Remember the miners in the Sinai desert, around 1850 BCE, scratching an ox's head on a rock to stand for the first sound of their word for ox. I told you to hold onto it.
+Remember the early alphabetic signs around Egypt and Sinai, and the idea of using an ox's head for the opening sound of the word for ox. Who first made that leap remains uncertain. I told you to hold onto the ox.
 
 Early alphabetic writing survives in scattered inscriptions over the following centuries. Their small number makes its users hard to reconstruct. It was not simply ignored by every professional scribe: remember Ugarit's alphabet written in wedges on clay, already used before the collapse. Different systems could coexist because they served different languages, traditions, and institutions.
 
@@ -167,13 +167,13 @@ Around 800 BCE the Greeks, who've written nothing for four hundred years, pick i
 
 So the word alphabet is two Canaanite words: ox, house.
 
-From the Greeks it goes to the Romans, and from the Romans to us. From the Phoenicians it also goes east, to Hebrew and Aramaic and in time to Arabic. Nearly every alphabet on Earth comes down from those miners.
+From the Greeks it goes to the Romans, and from the Romans to us. From the Phoenicians it also goes east, to Hebrew and Aramaic and in time to Arabic. Those early experiments belong to the ancestry of many alphabets used today.
 
 For me, the alphabet is one of this story's most consequential inventions. Its early history shows people adapting an existing technology to their own language. Its later success involves traders, rulers, scribes, and communities, not just one profession losing its monopoly in a fire.
 
 Here is a what-if. Suppose more of the palaces had survived. Would alphabetic writing and iron have spread through the same places at the same speed? Perhaps the opportunities would have been different. But both developments had histories before the destruction, so we cannot make catastrophe their necessary inventor. The interesting question is how people used changing conditions, not whether suffering had to happen to give us letters and tools.
 
-[VISUAL: Map — Assyria and Babylon highlighted in the east: "never stopped writing." The west shaded: "forgot."]
+[VISUAL: Map — distinguish continued cuneiform traditions in Assyria and Babylonia, continued Egyptian writing, and the loss of Greek Linear B administration. No blanket east/west divide.]
 
 One correction before we finish, so I don't leave you with the wrong map.
 
@@ -181,7 +181,7 @@ Not everybody lost the same institutions. Assyria and Babylonia, in what is now 
 
 Those differences matter for memory. Some knowledge travels through schools and archives; some through stories, ritual, and practical work. In the last part we will ask what each route preserves, and what it leaves out.
 
-[VISUAL: Part card update — THE FAMILY, 750 BCE: one stone house in the hills. A farmer who owns his field, an iron axe by the door, a jar with a name scratched on it.]
+[VISUAL: Part card update — FIVE KINDS OF WORK, around 750 BCE: an illustrative farming household connected to craftspeople, traders and authorities. A marked jar does not imply universal literacy or secure land ownership.]
 
 By around 750 BCE, several centuries after the palace destructions, this is no longer simply the first generation making do among ruins. New kingdoms and communities have formed. Trade has expanded in some regions. Greek alphabetic writing is beginning to leave us inscriptions.
 
@@ -196,6 +196,18 @@ So what did survive? And how, three thousand years later, did we find out what r
 ---
 
 ## Revision notes — v0.7.4
+
+### Whole-series listener continuation
+- QA follow-up: made survival of both basileus and anax explicit without calling the former a very minor office (Palaima source below); removed asserted absence of village granaries/garrisons and shared-disaster mind-reading. Judges is framed as retrospective literary history, not a contemporary village report; see Victor H. Matthews, *Judges and Ruth* (2004), introduction, https://assets.cambridge.org/97805218/06060/sample/9780521806060ws.pdf and https://bible.usccb.org/bible/judges/0 .
+
+- Additional continuity, chronology and voice repairs are recorded in `04-Working-Notes/draft-07-unpublished-listener-continuation.md`. These notes supersede incompatible inherited verification labels; unresolved quotations and numerical claims remain open.
+
+### Unpublished continuation after v0.7.4
+- Wenamun: reread Miriam Lichtheim, *Ancient Egyptian Literature*, II, pp. 224–229, translation reproduced at https://www.worldhistory.org/article/1087/the-report-of-wenamun-text--commentary/ . Existing corrections to the prince's payment argument and seized silver are retained. Removed contradictory arrival “with almost nothing”; identify pursuers as Tjeker rather than assert their ships' exact town of origin. Restore brief Cyprus episode rather than repeating the broken-ending warning twice. All incidents remain the account's narrative, not independently proven travel history.
+- Shipment list shortened to undisputed items. Older translations render a 500-item entry as papyrus rolls; Lichtheim renders it as linen. The old “five hundred rolls of papyrus” should not silently mix translation traditions. No claim of a definitive philological resolution here.
+- Lefkandi: the old imported object is a pendant incorporated into a necklace, not a whole necklace demonstrably made in Babylon a millennium earlier. Checked Joan Aruz, “Bronze to Iron: Art in Transition,” in *Assyria to Iberia* (Metropolitan Museum, 2014), pp. 14–15, fig. 2: early second-millennium Old Babylonian/Old Syrian manufacture, uncertain acquisition/assembly history. https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf .
+- Bounded documentary review only. Remaining quantitative and archaeological details elsewhere in this part are not cleared by these changes.
+
 
 - Finishing pass after v0.7.3: version and assembly synchronization; no new narration changes in this section.
 - See `04-Working-Notes/draft-07-v0.7.4-applied.md`. Prior verification limits remain; this is not a final recording clearance.

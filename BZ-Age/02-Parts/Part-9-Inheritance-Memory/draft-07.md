@@ -3,7 +3,7 @@
 **Date:** November 16, 2026
 **Status:** ChatGPT implementation of the editorial review and Jacob's selective scene-setting direction. Source version ef7b943; changed passages and continuity corrected. Not a final recording clearance or an exhaustive fact check.
 **Driving questions:** Was the Trojan War real? How do we know any of this? How do you read a language nobody speaks? What did we inherit?
-**Narration length:** 4,364 words (about 29 minutes at 150 words a minute)
+**Narration length:** 4,432 words (about 30 minutes at 150 words a minute)
 
 ---
 
@@ -11,15 +11,15 @@
 
 ---
 
-[VISUAL: Part card — WHEN: about 750 BCE, four and a half centuries after the fires. WHERE: the Greek world. THE FIVE KINDS OF WORK: back in ordinary hands.]
+[VISUAL: Part card — WHEN: about 750 BCE, four and a half centuries after the fires. WHERE: the Greek world. THE FIVE KINDS OF WORK: old skills in changed communities.]
 
 You may know parts of this story. A queen called Helen leaves with a prince of Troy. Greek kings take an army across the sea. Achilles fights, a wooden horse helps bring the war to an end, and the city falls.
 
 But that familiar version combines different ancient works and later retellings. The Iliad, traditionally attributed to Homer, tells a much shorter episode near the end of the war, centered on Achilles's anger. It does not narrate the wooden horse or make him invulnerable except at his heel. Keeping that distinction matters, because we are about to ask what a poem can remember.
 
-Here's where we are. It's about 750 BCE. The fires that ended the palaces are four hundred and fifty years in the past, about as far back from Homer as the first English settlers in America are from us. Greece has been without writing that whole time. And in those four and a half centuries the Greeks have been telling each other about a great age long ago, when kings lived in halls at Mycenae and at Pylos and wore armor made of bronze.
+Here's where we are. It's about 750 BCE. The fires that ended the palaces are four hundred and fifty years in the past, about as far back from Homer as the first English settlers in America are from us. Greek palace writing had disappeared, and for much of the intervening time we have no surviving evidence of Greek writing. And in those four and a half centuries the Greeks have been telling each other about a great age long ago, when kings lived in halls at Mycenae and at Pylos and wore armor made of bronze.
 
-You've been to Pylos. It's where the clerk sat at his desk by the door, counting figs and wool. In Homer, Pylos is the home of a wise old king named Nestor, who gives long speeches and drinks from a golden cup so heavy that an ordinary man can hardly lift it.
+You've been to Pylos. It's where the clerk sat at his desk by the door, counting figs and wool. In Homer, Pylos is the home of a wise old king named Nestor, who gives long speeches and drinks from a cup decorated with gold, so heavy when full that other men struggle to lift it.
 
 Homer's world includes captives, weaving, household labor, and kings. What it does not give us is the administrative world recovered from the palace tablets: the particular system of officials, allocations, and working records. We should not claim to know everything the poet knew. We can compare what the poems preserve with the quite different things the archives reveal.
 
@@ -51,13 +51,13 @@ I love the shape of that discovery. An archive from a different kingdom helps us
 
 One more thing from Homer's century, and it's my favorite object in this whole series.
 
-By about 750 the Greeks are sailing again. They've picked up the alphabet from Phoenician traders, the twenty-two letters that go back to those miners in the desert, and they've added vowels. And they've planted a trading post on an island in the Bay of Naples, eight hundred miles from home.
+By about 750 the Greeks are sailing again. They've adapted a Phoenician alphabet, related to the early experiments we saw around Egypt and Sinai, and added signs for vowels. And they've planted a trading post on an island in the Bay of Naples, eight hundred miles from home.
 
 In a grave on that island, archaeologists found a small clay drinking cup with lines of verse scratched on it. The burial was long described as a boy's, but reexamination of the cremated remains identified several individuals. The inscription on the cup remains one of the earliest examples of Greek alphabetic writing. Its joke matters more here than an unsupported biography of its owner.
 
-"I am Nestor's cup, good to drink from. Whoever drinks from this cup, desire for fair-crowned Aphrodite will seize him at once."
+The inscription says, in effect: this is Nestor's cup, and a good cup to drink from. Take a drink and Aphrodite, the goddess of love, will have you in her grip.
 
-It's a joke. Nestor's cup, in the poem, is that huge golden thing a man can hardly lift. This is a cheap clay cup at a drinking party, announcing that it's the famous one, and that it'll make you fall in love.
+The joke seems to be this. Nestor's cup in the poem is a heavy vessel decorated with gold, one other men struggle to lift when it's full. Here is a little clay cup announcing a grand name, and promising that a drink will make you fall in love.
 
 Think about where that cup stands in our story. The palace tablets of Pylos belong to a specialized administrative practice. Elsewhere we have already met private letters, poetry, and contracts long before this cup. Writing had never remained only a receipt for barley. The cup shows a different use in early Greek alphabetic writing: verse attached to an object people could handle at a gathering.
 
@@ -107,7 +107,7 @@ And the central idea, the covenant, the solemn agreement between God and the peo
 
 Even the poetry has an ancestor. When the burned port of Ugarit was dug up, its tablets turned out to contain hymns in a language very close to Hebrew, with phrases that turn up again in the Psalms.
 
-So the Bible didn't come from nowhere. It's what the old world of law and treaty and story looked like when it was carried forward by a small people in the hills, written in the miners' alphabet.
+So the Bible didn't come from nowhere. It's what the old world of law and treaty and story looked like when it was carried forward by a small people in the hills, written in an alphabet with roots in that earlier world of experiments with signs and sounds.
 
 One feature of the Exodus story especially matters to me. It asks its audience to remember enslavement and to identify with people escaping oppression. That does not establish that the surviving text was written by the enslaved people themselves, or that no older work ever spoke from below. It is a powerful use of remembered vulnerability in a tradition carried forward by later generations.
 
@@ -131,7 +131,7 @@ From those few letters he worked outward. On a September day in 1822 he ran down
 
 The wedge writing was harder, because there was no Greek to start from.
 
-The break came from a cliff. In western Iran, on the old road from Babylon up into the mountains, a king of Persia had his victories carved into a rock face three hundred feet above the ground, in about 520 BCE. He had it done in three languages, all in wedge-shaped signs, so that all his subjects could read it. Then he had the ledge below cut away so nobody could deface it.
+The break came from a cliff. In western Iran, on the old road from Babylon up into the mountains, a king of Persia had his victories carved into a rock face three hundred feet above the ground, in about 520 BCE. He had it done in Old Persian, Elamite, and Babylonian, all written in wedge-shaped signs. Then he had the ledge below cut away so nobody could deface it.
 
 In the 1830s a young British army officer named Henry Rawlinson was posted nearby, and he decided to copy it. He did it standing on the top rung of a ladder balanced on a ledge eighteen inches wide, holding on with one hand and writing with the other. For the worst section he hired a local boy who climbed across the bare rock on ropes and pegs and took paper impressions.
 
@@ -139,7 +139,7 @@ One of the three languages was Old Persian, a relative of languages scholars alr
 
 And a lot of people didn't believe it. The script had hundreds of signs, and the same sign could be read several ways. It looked like guesswork. So in 1857 a learned society in London ran a test. A long inscription of an Assyrian king had just been dug up, and nobody had published it. Copies went to four scholars who claimed they could read the script. Each worked alone and sent his translation back in a sealed envelope.
 
-The envelopes were opened together. The four translations agreed.
+The envelopes were opened together. They differed in places, but agreed closely enough in substance to show that the method worked.
 
 That test gave strong public support to the decipherment of Akkadian cuneiform. Other scripts and languages needed their own breakthroughs and independent tests. Reading a clay tablet is not one solved puzzle applied unchanged to every civilization.
 
@@ -177,17 +177,17 @@ Watar.
 
 The Hittites, the forgotten empire, spoke a language from the same family as English. Water is water. It's the oldest written relative of our own language that there is, and you just read it.
 
-[VISUAL: Portraits — Alice Kober with her index cards; Michael Ventris at his drawing board. Object: the "tripod tablet" from Pylos, the pictures of vessels beside the syllable signs. Date card: 1952.]
+[VISUAL: Portraits — Alice Kober with her index cards; Michael Ventris at his drawing board. Object: the "tripod tablet" from Pylos, the pictures of vessels beside the syllable signs. Date card: 1952–53.]
 
 That leaves the Greeks, and the clerk at Pylos.
 
 The palace at Pylos was found in 1939. On the first day of digging, the first trench went straight into the archive room, and out came the tablets that the fire had baked. Nobody could read them. Nobody knew what language they were in. Most experts were sure it wasn't Greek.
 
-Two people broke it, and one of them rarely gets the credit.
+The breakthrough grew out of several people's work. Two deserve a closer look, and one of them rarely gets the credit.
 
 Alice Kober taught Latin and Greek at a college in Brooklyn, and in the evenings she worked on the script. She refused to guess at the language. She just analyzed the patterns. It was wartime and paper was short, so she cut her index cards from old greeting cards and church circulars, a hundred and eighty thousand of them, and filed them in empty cigarette cartons. From those cards she proved that the words in the tablets changed their endings in regular ways, the way Latin does, and she worked out which signs had to share a consonant. She died in 1950, at forty-three, with the work unfinished.
 
-The man who finished it was an English architect named Michael Ventris. He'd been fascinated by the script since he was fourteen. He took Kober's method and built it out into a grid, with every sign placed by which consonant and which vowel it must contain, before he knew what any of the sounds were. Then he tried fitting place names from Crete into the grid. And the words that came out, to his own astonishment, were Greek.
+The man who finished it was an English architect named Michael Ventris. He'd been fascinated by the script since he was fourteen. He developed a grid of relationships between signs, building on work by Kober and others. The grid was not complete before the sounds were known. Patterns suggested possible sound values; testing those values helped him revise the pattern. Then he tried fitting place names from Crete into the grid. And the words that came out, to his own astonishment, were Greek.
 
 He announced it on the radio in July 1952. The tablets, he said, were written in "a difficult and archaic Greek, seeing that it's five hundred years older than Homer, and written in a rather abbreviated form, but Greek nevertheless."
 
@@ -213,7 +213,7 @@ Nearly everything our world writes is stored in forms that have to be copied to 
 
 The Bronze Age is what an interruption looks like.
 
-[VISUAL: Part card — THE FIVE KINDS OF WORK, across the whole series: five lines running from the first house, spreading apart to five countries by 1250 BCE, snapping at 1200, drawing back together by 750.]
+[VISUAL: Part card — THE FIVE KINDS OF WORK, across the whole series: five kinds of work branching into institutions and long-distance exchanges; uneven disruptions around 1200 BCE; changed local and regional connections by 750. Not a bloodline or a universal return to one household.]
 
 So let me try to answer the question I gave you at the start. How do people build a world that connected, live in it for centuries, and then lose it so completely that their descendants stand on the ruins and guess?
 
@@ -231,7 +231,7 @@ Is our world like theirs? In one way, more than I'm comfortable with. You and I 
 
 We also possess something Xenophon did not: ways to bring excavated objects, deciphered texts, and environmental evidence into the same investigation. Earlier people preserved real knowledge as well as stories. Our advantage is not that everyone before us guessed wrong, but that we can compare more kinds of evidence and test more of the guesses.
 
-We read the mail. We know the names of the three dry years. We know what the clerk at Pylos wrote in his last season and what a king of the Hittites said to his gods about a plague. Nobody before us could do that. I think it's the one new thing we have, and I'd like to believe it counts for something.
+We read the mail. We can place a run of three exceptionally dry years within a few years of its date. We know what the clerk at Pylos wrote in his last season and what a king of the Hittites said to his gods about a plague. We can bring those different kinds of evidence together. That doesn't give us every answer, but I'd like to believe it counts for something.
 
 [VISUAL: Object — an Indus seal with its line of undeciphered signs (National Museum, New Delhi). Then: the wall from the prologue.]
 
@@ -248,6 +248,19 @@ Perhaps another discovery will change that. Perhaps the missing clue was written
 ---
 
 ## Revision notes — v0.7.4
+
+### Whole-series listener continuation
+- Additional continuity, chronology and voice repairs are recorded in `04-Working-Notes/draft-07-unpublished-listener-continuation.md`. These notes supersede incompatible inherited verification labels; unresolved quotations and numerical claims remain open.
+
+### Unpublished continuation after v0.7.4
+- Nestor cup inscription introduced as a paraphrase, not an unattributed exact translation; allusion to the epic cup presented as interpretation. The epic vessel has gold ornament, not a stated solid-gold body: *Iliad* 11.632–637, https://beta.perseus.tufts.edu/urn%3Acts%3AgreekLit%3Atlg0012.tlg001.butlernagy2020-eng2%3A11.616/ .
+- Retain the revised multiple-person burial account: Gigante et al. (2021), https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0257368 , identifies at least three individuals; Figure 3 gives a rough translation of the cup inscription. The inscription does not give us a secure biography of its owner.
+- Alphabet link no longer treats the Sinai-miner origin proposal as settled; keeps continuity with Part4's revised uncertainty.
+- 1857 translations agreed substantially, not identically: S. N. Kramer, *The Sumerians* (1963), p. 18, https://isac-assets.s3.amazonaws.com/isac-publications/sumerians.pdf .
+- Linear B introduction acknowledges a collective breakthrough rather than exclusively two people: Cambridge history records Bennett and Chadwick alongside Kober and Ventris, https://www.classics.cam.ac.uk/ORDER/seminars/projects/mycep/decipherment/ventris . Tripod visual date now 1952–53, distinguishing excavation from the 1953 confirmation.
+- Behistun's three languages named instead of inventing universal readership/intention: Rüdiger Schmitt, “Bisotun iii,” https://www.iranicaonline.org/articles/bisotun-iii/ .
+- Remaining ledger work includes the exact Ventris broadcast quotation, Hrozný sentence, Rawlinson ladder dimensions and Champollion family anecdote. This pass is not full recording clearance.
+
 
 - Finishing pass after v0.7.3: version and assembly synchronization; no new narration changes in this section.
 - See `04-Working-Notes/draft-07-v0.7.4-applied.md`. Prior verification limits remain; this is not a final recording clearance.

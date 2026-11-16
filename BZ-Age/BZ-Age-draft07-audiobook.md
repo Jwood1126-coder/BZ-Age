@@ -75,6 +75,8 @@ We are before the great cities and written archives of this story. There's a sma
 
 # Part 1 — Before Bronze
 
+It's about 5000 BCE, seven thousand years ago. We're in a farming village in what is now northern Syria.
+
 Your feet hurt.
 
 That's the first thing every morning. It's still dark, there's a thin line of gray in the east, and you're awake because you never really got to sleep. You sleep on a mat on a dirt floor. Something always hurts. Your back, your hip, a tooth that's been wrong for weeks.
@@ -101,7 +103,7 @@ And there's your sister, the boy's mother. She works the field beside you at har
 
 That's the household. A farmer, a keeper, a counter, a carrier, a maker. Right now those aren't jobs. They're what each person happens to be good at, and everyone eats from the same pot.
 
-It's about 5000 BCE. Seven thousand years ago. The first pyramid in Egypt is twenty-four centuries in the future, and the Greeks and Romans are further off than that.
+The first pyramid in Egypt is twenty-four centuries in the future, and the Greeks and Romans are further off than that.
 
 Look at what isn't here.
 
@@ -163,11 +165,11 @@ They were sicker too. A hunter-gatherer camp moves on from its own filth. A vill
 
 It wasn't the same everywhere. In some regions people kept their height and their health. But the costs turn up too often to wave away.
 
-So why did it spread? Because it didn't need anyone's approval. A band of foragers has to carry everything they own, including their toddlers, so they space their children years apart. A village with stored food, and porridge to wean a baby onto, can raise its children closer together. Give that a few centuries and the village is five times the size of the band in the next valley. It doesn't matter that the foragers are healthier. They're outnumbered, and then they're gone, or they've joined.
+So why did it spread? Because it didn't need anyone's approval. A band of foragers has to carry everything they own, including their toddlers, so they space their children years apart. A village with stored food, and porridge to wean a baby onto, can raise its children closer together. Over generations, a settled population can grow faster than its neighbors. That can help farming spread without making it a healthier life for each person. But foraging does not disappear everywhere, and people can combine the two ways of getting food.
 
-And once a valley is full of farmers, nobody can go back, because there are now far too many people to feed by hunting. The door closes behind you.
+In a valley supporting a dense farming population, returning entirely to hunting and gathering can become much harder. There may be too many mouths for the land to feed that way. The door gets harder to open.
 
-I think farming was a trap. I don't mean anyone set it. Nobody chose the whole of it, and nobody alive at the time could have seen the shape of it. Each family made a sensible decision about next winter, and a thousand years of sensible decisions added up to shorter, sicker, harder-working people who couldn't quit. Much later it paid off in cities and writing and everything you and I live inside. Nobody who paid the price saw the payoff.
+For many communities, I think farming could become a trap. I don't mean anyone set it. Nobody chose the whole of it, and nobody alive at the time could have seen the shape of it. Each family made a sensible decision about next winter, and generations of sensible decisions could make people dependent on a demanding way of life. Much later, some farming societies supported cities and writing. Those later possibilities didn't make the work any easier for the people at our grinding stone.
 
 Keep that pattern in your pocket. A long run of sensible choices that walks people into something nobody would have signed up for. We'll see it again, on a bigger scale.
 
@@ -237,19 +239,19 @@ This isn't your family, and it's a long way from your village. But it's the earl
 
 Now run the clock forward, quickly, because nothing in the next stretch looks like an event.
 
-From your morning to the year 3200 BCE is eighteen hundred years. About seventy generations. Nobody in any one of those generations sees very much happen. A village grows by four houses in a lifetime. A grain bin gets a second room.
+From your morning to the year 3200 BCE is eighteen hundred years. About seventy generations. Changes accumulate at different speeds in different places: a settlement grows, a store expands, more people depend on work done outside their own house.
 
-But the family is changing.
+But the five kinds of work are changing. We aren't following this household's descendants through eighteen hundred years. We're following people who do the same kinds of work.
 
-Your grandmother's job, minding the grain, has passed down and down, and somewhere along the way it stopped being a chore and started being a position. The one who holds the store decides who eats in a bad year. People bring him gifts. One generation his son takes over, and nobody remembers agreeing to that. The Keeper is a headman now.
+Minding grain can become more than a household chore. Where larger stores support a community, the person controlling them has a say in who eats in a bad year. Our Keeper now stands for that kind of authority, not for your grandmother's heir.
 
-The boy with the pebbles has descendants who still count for the village. But the pebbles have turned into little shaped pieces of clay, a cone for a measure of grain, a ball for a bigger one, and they're kept in the storehouse as a record of who brought what. The Counter works for the Keeper.
+Other people count what comes into the stores. Among their tools are little shaped pieces of clay, a cone for a measure of grain, a ball for a bigger one, and they're kept in the storehouse as a record of who brought what. The Counter works for the Keeper.
 
-Your cousin's line doesn't farm at all anymore. They make things, and other people feed them.
+Some Makers can spend more of their time making things, supplied with food by other people.
 
-Your brother's line is gone for months at a time, and they've stopped walking. Somebody has tamed the donkey, and somebody has built a boat that can carry a ton.
+Carriers travel farther, on foot, with pack animals, and in boats. More goods can move between communities.
 
-And you? Your line is still in the field. The plow has arrived, pulled by an ox, so one man can now work far more ground. That sounds like good news for you. It mostly means there's more grain to hand over to the man who holds the store.
+And the Farmer? Still in the field. The plow has arrived, pulled by an ox, so one man can now work far more ground. That sounds like good news for you. It mostly means there's more grain to hand over to the man who holds the store.
 
 And the story moves. The place where all of this first comes together isn't the hill country. It's eight hundred miles to the southeast, on the flat plain where the two great rivers of Iraq run down to the sea. By 3200 BCE the biggest settlement on that plain isn't a village anymore. It's something that has never existed before.
 
@@ -366,7 +368,9 @@ A scholar named Denise Schmandt-Besserat pieced that sequence together starting 
 
 For the first several centuries, that is all writing did. The oldest tablets on Earth come from the trash heaps of Inanna's temple, about five thousand of them, and there isn't a story or a prayer in the lot. They're barley, sheep, cloth, beer, and lists of job titles. Writing couldn't yet record a sentence. It could record "five sheep" and whose they were.
 
-It took generations for anyone to realize the marks could stand for sounds, not just things. Draw an arrow, and you mean an arrow. But in their language the word for arrow sounded like the word for life. So draw an arrow and mean life. Once you make that jump you can spell anything a person can say: names, verbs, promises, lies, poems.
+Much of the later writing from these southern cities records a language called Sumerian. Keep that name: the script will go on to serve other languages too.
+
+It took generations for anyone to realize the marks could stand for sounds, not just things. Draw an arrow, and you mean an arrow. But in Sumerian the word for arrow sounded like the word for life. So draw an arrow and mean life. Once you make that jump you can spell anything a person can say: names, verbs, promises, lies, poems.
 
 One tablet from this period records an enormous delivery of barley over thirty-seven months, and at the end there are two signs that seem to be a signature: Kushim. It may be a person's name. It may be the title of an office. Nobody's sure. But if it's a name, then the first human being whose name we know wasn't a king, or a priest, or a hero. He was an accountant, and what we know about him is that he was responsible for the barley.
 
@@ -384,7 +388,7 @@ These people counted in sixties. I can't tell you why for certain and neither ca
 
 So the sixty on your wrist is five thousand years old. Nobody in Uruk had minutes or seconds. They had the arithmetic, and the rest of us inherited it. The twenty-four hours come from Egypt, which is a different story. Your watch is a joint project between two civilizations that never knew they were collaborating.
 
-Back to Uruk, and the quay. That's the journey: field, barge, storehouse, bowl, tablet, school. Most of what makes a city is somewhere on that path.
+Back to Uruk around 3200 BCE, and the quay, before those later schoolrooms. That's the journey: field, barge, storehouse, bowl, tablet, school. Most of what makes a city is somewhere on that path.
 
 Now the hard question. Why would anyone put up with it?
 
@@ -404,7 +408,7 @@ That's the Keeper. The one who minded the grain bins is now the steward of a god
 
 So why did anyone agree to have a king? Because by the time there was one, he wasn't asking for himself.
 
-Six hundred years later you can see how far that had gone.
+Move forward about six hundred years, to around 2600 BCE, and you can see how far that had gone.
 
 About forty miles downriver from Uruk is a different city with a confusingly similar name. Uruk, and Ur. We'll be back at Ur more than once. In the 1920s an English archaeologist named Leonard Woolley dug its cemetery, and among two thousand ordinary graves he found sixteen that weren't ordinary.
 
@@ -422,7 +426,7 @@ That's what the Keeper's line had become, six hundred years after the vase. Some
 
 We don't know the name of anyone in that pit. We know hardly any names from Uruk at all, apart from a clerk or two. The city counted its people. Mostly it didn't remember them.
 
-One name got out a different way, as a story, and how that happened tells you something. Around 2700 BCE Uruk had a king called Gilgamesh. He was probably real. Later tradition says he built the city wall, which ran six miles around.
+One name got out a different way, as a story, and how that happened tells you something. Step back about a century from those graves. Later tradition places a king called Gilgamesh at Uruk around 2700 BCE. He was probably real. Later tradition says he built the city wall, which ran six miles around.
 
 That's everything we know. What we have instead is the Epic of Gilgamesh, a poem that grew over the next fifteen hundred years. In it he's two-thirds god, he wrestles a wild man who becomes his best friend, the friend dies, and Gilgamesh goes to the end of the world looking for a way not to die. He doesn't find one. He comes home and looks at the wall. The poem opens and closes by telling you to do the same: climb up on it, look at the brickwork.
 
@@ -430,7 +434,7 @@ It's one of the best things anyone has ever written, and it has almost nothing t
 
 Watch for that. It happens to everyone in this series who gets remembered at all. It's going to happen, in the end, to the whole Bronze Age.
 
-Let me pull back before we finish, because I've spent this whole part inside one city and that gives you the wrong idea.
+Let me pull back before we finish, and return to around 3000 BCE. We've followed Uruk, with a visit to its neighbor Ur, but those cities weren't the whole world.
 
 Around 3000 BCE only a tiny share of humanity lived in a city. Everybody else was a farmer or a herder or a hunter who had never heard of Uruk. What we've been looking at is a tiny, bright exception.
 
@@ -444,7 +448,7 @@ So where's the family?
 
 They don't live in the same house anymore. They don't eat from the same pot. The Farmer hands his barley to a man he's never met. His sister weaves cloth she'll never wear. The Counter writes it down. The Carrier moves it. The Maker has a bench in the goddess's workshop, casting copper for people far above him. And the Keeper lives behind a wall, with guards.
 
-None of them could go back to the one-room house if they wanted to. None of them knows how to do the others' jobs.
+They depend on people outside their own households now. Some skills still overlap. But no single house can provide everything this way of life requires.
 
 By 2350 BCE there are a dozen cities like Uruk strung along the two rivers. Each has its own god, its own king, its own wall. They trade with each other and they fight each other, mostly over water, and now and then one king bullies the rest for a few years. But nobody has ever held many cities together for long.
 
@@ -469,11 +473,11 @@ Then he does something on a scale nobody in this country has managed. He marches
 
 Then he turns around and goes the other way, north and west, up the Euphrates, across Syria, to the mountains by the Mediterranean.
 
-End to end it's about a thousand miles. On a modern map it's most of Iraq, a slice of Iran, eastern Syria, and the edge of Turkey and Lebanon. A hundred years earlier the biggest thing anyone ruled was a city and the farmland you could see from its wall.
+End to end it's about a thousand miles. On a modern map it's most of Iraq, a slice of Iran, eastern Syria, and the edge of Turkey and Lebanon. Egypt already had a kingdom stretching along the Nile. Here in Mesopotamia, rulers had controlled more than one city before, but Sargon's conquests brought a much larger territory under one center.
 
-He ruled it from a city called Akkad, not far from where Baghdad is now. I can't show you a picture. Akkad has never been found. It's somewhere under the mud, the capital of the first empire in history, and nobody knows where.
+He ruled it from a city called Akkad, not far from where Baghdad is now. I can't show you a picture. Akkad has never been found. It's somewhere under the mud, the capital of Mesopotamia's first lasting empire, and nobody knows where.
 
-So, first question. What's an empire? How is it different from a strong city that beats up its neighbors?
+So, first question. What's an empire? Here I mean one ruling power holding other peoples and territories under its authority. How is that different from a strong city that beats up its neighbors?
 
 The cities of the plain had been fighting each other for five hundred years. When you won, you took some loot and some land, maybe some hostages, and you went home. The loser kept his own king, his own god, his own storehouse.
 
@@ -489,13 +493,13 @@ It used to be a man from Ur. He spoke the Farmer's language, Sumerian, and he wo
 
 Picture what that change asks of a household. The grain must still be threshed, measured, and carried out. Someone has to argue about the amount, find labor for the load, and decide what remains for the family. The new ruler can be remote while the demand is close enough to put a hand into the grain jar.
 
-The thing his grandfather couldn't have pictured is a ruler from outside. The thing his grandson won't be able to picture is that it was ever otherwise.
+A ruler from outside wasn't an unimaginable novelty. But for this household, authority now reaches much farther beyond the familiar city and its fields.
 
 Second question. How do you run a place you've never seen?
 
 Sargon's officials could draw on generations of city government. Now they had to adapt that experience to a much larger territory, with more languages, longer journeys, and more places that might refuse an order.
 
-How do you keep order across a thousand miles? You keep soldiers on hand all the time. One of his inscriptions says that five thousand four hundred men ate bread in front of him every day. That's the first standing army we know of, and it's also a statement about the storehouse. Feeding five thousand men who grow nothing takes the surplus of a whole province. The Keeper's grain bins now pay for a permanent war machine.
+How do you support that authority? One of Sargon's inscriptions says that five thousand four hundred men ate bread in front of him every day. Scholars have read that as a body of troops, or as a broader royal household. It does not give us a secure head count for the world's first standing army. But either reading brings us back to the storehouse: a king boasting about power is also boasting about how many people he can feed.
 
 How do you make the accounts from one province mean something in another? You give everyone the same measures. A later king of this family issued a standard basket for the whole empire, so that a measure of barley was the same in the north as in the south.
 
@@ -503,7 +507,7 @@ How do you talk to all these people? You pick one language for business. That wa
 
 And how do you get people who worship different gods to accept you? For that, Sargon used his daughter.
 
-Her name is Enheduanna, and she's the person I want you to follow through the first half of this hour, because she lived to see this empire through four reigns.
+Her name is Enheduanna, and she's the person I want you to follow through the first half of this part, because she lived to see this empire through four reigns.
 
 Ur, down in the south, was one of the holiest cities in the old country. Its temple belonged to the moon god. The most important religious office in that temple was the high priestess, and whoever held it was, in the theology, the god's wife on earth. Sargon made his daughter high priestess of the moon at Ur.
 
@@ -549,13 +553,13 @@ The poetry attributed to Enheduanna also tells a story of political violence at 
 
 The voice in the poem is no longer simply a royal daughter occupying an important office. She is someone pleading for that position and her good name to be restored. The institution that made her powerful has also made her vulnerable.
 
-One of those poems tells the story. In it she says the rebel has driven her out of the temple, that she's been made to fly like a swallow from the window. She says "my good name is destroyed." And then, in the middle of a hymn to a goddess, she does something no writer had done before. She says: "I am Enheduanna. Let me speak to you."
+One of those poems tells the story. In it she says the rebel has driven her out of the temple, that she's been made to fly like a swallow from the window. She says "my good name is destroyed." And then, in the middle of a hymn to a goddess, the speaker names herself. She says: "I am Enheduanna. Let me speak to you."
 
 The poem presents a restoration of her position. That is the story the work tells; the political sequence behind it is less certain.
 
 What holds my attention is the combination: a real royal daughter in a powerful religious office, and a later literary tradition that speaks in her name with extraordinary force. We don't need to know every stage of that tradition to hear a person rather than another total of barley.
 
-That's the last we see of her. The rest of this hour happens after her time.
+That's the last we see of her. The rest of this part happens after her time.
 
 Fourth question, and it's the one this series is really about. Why do empires fall?
 
@@ -571,7 +575,7 @@ There are physical clues to environmental stress around this period: dust in mar
 
 Drought may have made existing conflicts and provisioning problems harder to manage. That is a plausible connection, not a complete explanation recovered from a ring of dust. Different districts could face different pressures, and the documents and the ground do not let us isolate one cause of the empire's end.
 
-Remember that, too. A blow that a strong system would survive, landing on a system with nothing in reserve.
+Remember the possibility: a difficult harvest can be harder to survive when conflict and disrupted supplies are already wearing down a state's resources.
 
 Now a side trip to Egypt, where a different state faced its own period of fragmentation. The comparison is useful, but we should not assume that similar-looking endings prove a single simultaneous cause.
 
@@ -595,7 +599,7 @@ Egypt eventually reunited. For now, come back to Iraq.
 
 Akkad was gone, but the idea wasn't. Once somebody has ruled all the cities, every ambitious king knows it can be done.
 
-It took about a hundred years. Around 2112 BCE a king of Ur, Enheduanna's old city, pulled the south back together. He built the great stepped temple tower at Ur, which is still standing, about two hundred miles south of Baghdad. He issued the oldest set of laws we have, three centuries before the famous one, and in his laws you mostly pay fines.
+It took about a hundred years. Around 2112 BCE a king of Ur, Enheduanna's old city, pulled the south back together. He built the great stepped temple tower at Ur, which is still standing, about two hundred miles south of Baghdad. He issued the oldest set of laws we have, about three centuries before Hammurabi, the Babylonian king whose laws we will meet next, and in his laws you mostly pay fines.
 
 His son ruled for forty-eight years and I can't resist telling you about him. He claimed, in a hymn he had written about himself, that he once ran from one holy city to another and back in a single day, through a hailstorm, to celebrate a festival in both. That's about two hundred miles. He also claimed to be the best scribe in the land. And he, too, declared himself a god. Naram-Sin's idea, the one that was supposed to have doomed Akkad, had stuck.
 
@@ -680,7 +684,7 @@ The traders from Assur didn't conquer Kanesh. They couldn't have. They rented. T
 
 I think of it as an embassy with a homeowners' association.
 
-Now here's what makes these people worth an hour. Assur, the home city, wasn't run by a king in the usual sense. It had a ruler, but his title was "steward of the god," and many of the real decisions were made by an assembly of the heads of the big merchant families. Each year was named after an official who was picked by drawing lots. It was something like a small trading republic with a king attached, four thousand years ago, and almost nobody has heard of it, because it never built a pyramid. It left paperwork.
+Now here's what makes these people worth stopping for. Assur, the home city, wasn't run by a king in the usual sense. It had a ruler, but his title was "steward of the god," and many of the real decisions were made by an assembly of the heads of the big merchant families. Each year was named after an official who was picked by drawing lots. It was something like a small trading republic with a king attached, four thousand years ago, and almost nobody has heard of it, because it never built a pyramid. It left paperwork.
 
 Twenty-three thousand clay tablets have come out of the houses at Kanesh, and nearly all of them are from two generations of these families. The quarter burned around 1830 BCE, the fire baked the tablets hard, and there they sat.
 
@@ -808,7 +812,7 @@ Over the next three centuries it spread south into every kingdom we've met. And 
 
 So the Maker gets a new trade: he builds chariots. And the Keeper gets a weapon that hardly anyone else can afford. From here on a king's strength is counted in chariots, and his chariots are counted in what his palace can pay for.
 
-The new kind of war announced itself in 1595 BCE.
+The political map was changing too. In 1595 BCE, an army from the north reached Babylon.
 
 Up in central Turkey, in the same country where the merchants of Assur once had their quarter, a new kingdom had formed. We call its people the Hittites. In 1595 their king led his army out of the highlands, down the length of the Euphrates, about eight hundred miles, and sacked Babylon. Hammurabi's city, five generations after Hammurabi. Then he turned round and went home with the loot, and his brother-in-law murdered him.
 
@@ -834,7 +838,7 @@ So where's the family, around 1500 BCE?
 
 The Carrier is a businessman. He has investors, contracts, a tax strategy, and a wife who runs the home office.
 
-The Counter isn't only a temple clerk now. He might be a merchant, or a merchant's wife, or a miner scratching an ox's head on a rock.
+The Counter isn't only a temple clerk now. He might be a merchant, or a merchant's wife, or someone experimenting with a few signs scratched on a rock.
 
 The Keeper has learned to cancel debts, to carve his justice in stone, and to burn his friend's house down. He has chariots.
 
@@ -844,7 +848,7 @@ And the Farmer is in debt. Sometimes a king wipes it out. Then it builds up agai
 
 They live in different countries now and they'll never meet.
 
-In about a hundred and fifty years, people like these will have built the most connected world there had ever been. I want to show it to you from the deck of a ship.
+In about two hundred years, people like these will have built the most connected world there had ever been. I want to show it to you from the deck of a ship.
 
 
 # Part 5 — The Brotherhood of Kings
@@ -945,9 +949,9 @@ People have wanted to make him a hero for a long time: the first man to believe 
 
 I don't fully buy either one. I think he believed it. The hymn to the sun that was written at his court reads like the work of someone who meant it. I also think it's no accident that his one god spoke only through him, and that the temples he closed were the only institution in Egypt that could tell a king no. Both can be true of the same man.
 
-Here's what I'm sure of. In the last twenty years archaeologists have excavated the cemetery where the ordinary people of that city were buried. Hundreds of skeletons. Most of them died before thirty-five. A large share were teenagers. They have crushed vertebrae and worn-out joints from carrying heavy loads when their bones were still growing, and the stunted height that comes from not getting enough to eat as a child.
+Now look away from the royal portraits and out to the city's cemeteries. Excavators have recovered hundreds of ordinary people. The burial grounds do not all tell the same story. At the North Tombs Cemetery, the sample is strikingly young: almost everyone whose age could be closely estimated died between five and twenty-five. Skeletal studies also reveal physical strain and poor health. They cannot tell us the exact load each person carried, but the contrast with the royal image of abundance is hard to miss.
 
-That's the Farmer's line in the city of the sun. Whatever the king saw when he looked up, that's what it cost.
+That's another view of the city of the sun, from the people who had to live and work beneath it.
 
 Meanwhile his empire in Syria was coming loose, and we can listen to it happen. His subject king at the port of Byblos, on the coast of Lebanon, wrote to him about sixty times. It's always the same letter. My neighbors are taking my villages. My farmers have run away. Send archers. Why don't you answer? I am like a bird in a trap, he says, here in Byblos.
 
@@ -961,7 +965,7 @@ He left a son, about nine years old. The boy had been named Tutankhaten, "living
 
 That's who he is. The gold mask everybody has seen belongs to the child of the heretic, whose whole short reign was spent undoing his father's.
 
-He died at about nineteen, with no children. And then the palace did something no one would have believed.
+He died at about nineteen, with no surviving children. And then the palace did something no one would have believed.
 
 Up in Turkey, the king of the Hittites was on campaign in Syria when a messenger arrived from Egypt with a letter from a queen whose husband had just died. The Hittite records don't give her name. Most historians think she was Tutankhamun's widow, and I'll go with that. Her letter is quoted in those records. "My husband is dead. I have no son. They say you have many sons. Give me one of yours, and he will be my husband, and he will be king of Egypt."
 
@@ -985,7 +989,7 @@ There's something else in that boy's tomb I've been waiting to show you, because
 
 Among the gold was a dagger with an iron blade. The iron came from a meteorite. It was one of the most precious things he owned.
 
-So here's the question from the days of Sargon. Iron ore is in practically every range of hills. Tin has to come from Uzbekistan or Cornwall. Why did these people build their world on bronze?
+So here's the question from the days of Sargon. Iron ore is in practically every range of hills. Usable tin deposits are much less evenly spread, often far from the places making bronze. Why did these people build their world on bronze?
 
 There are two reasons. The first surprised me. Bronze was better. When you smelt iron ore in a simple furnace you don't get anything like steel. You get a spongy lump of soft metal that has to be hammered for hours, and a blade made from it is softer than a good bronze one and takes a worse edge. Making it hard means working carbon into it and quenching it, and nobody had that worked out reliably. There's a letter from a Hittite king of this period, answering another ruler who'd asked him for iron. He says there's no good iron in his storehouse at the moment, that it's a bad season for making it, and that for now he's sending one dagger blade. One.
 
@@ -1011,9 +1015,9 @@ So who won? If you go by the map, the Hittites did. If you go by the walls of Eg
 
 He ruled for another sixty-one years and he never stopped telling that story. He's the greatest public relations man in history. He nearly got his army wiped out by believing two herders, and three thousand years later tourists stand in front of his version and take it for a victory.
 
-Sixteen years after the battle the two kingdoms made peace, and it wasn't because they'd grown fond of each other. The Hittite king by then was the brother of the one who'd fought at Kadesh. He had taken the throne from his nephew, and the nephew had fled to Egypt. A man who's stolen a crown needs other kings to recognize him. And on the Hittites' eastern border, the Assyrian kingdom had become a formidable military rival.
+About fifteen years after the battle the two kingdoms made peace, and it wasn't because they'd grown fond of each other. The Hittite king by then was the brother of the one who'd fought at Kadesh. He had taken the throne from his nephew, and the nephew had fled to Egypt. A man who's stolen a crown needs other kings to recognize him. And on the Hittites' eastern border, the Assyrian kingdom had become a formidable military rival.
 
-So they signed a treaty. We have both copies, the Egyptian and the Hittite, and they match. Neither will attack the other. Each will come to the other's aid. And each will send back the other's fugitives, with a clause that says the people sent back aren't to be punished or have their houses torn down. It's the oldest peace treaty between great powers that survives. There's a copy on the wall at the United Nations in New York.
+So they signed a treaty. Egyptian and Hittite versions survive, preserving the same central agreement, though not identical wording. Neither will attack the other. Each will come to the other's aid. And each will send back the other's fugitives, with a clause that says the people sent back aren't to be punished or have their houses torn down. It's the oldest peace treaty between great powers that survives. There's a copy on the wall at the United Nations in New York.
 
 The Hittite copy was sealed by two people, the king and the queen. Her name was Puduhepa and she's worth knowing. She ran the kingdom's correspondence alongside her husband and after him. When the peace was to be sealed with a marriage and Ramses complained that the bride and her dowry were slow in coming, she wrote back herself. I'll paraphrase. She asks him whether the king of Egypt owns nothing at all. She says that for him to squeeze her for more is beneath him.
 
@@ -1080,7 +1084,7 @@ It hadn't come out of nowhere. A generation earlier the Hittite queen, the one w
 
 So here's the first question. How does the greatest land power of the age end up begging for a boat?
 
-To answer it I have to explain two things: what was going wrong, and what these kingdoms already knew how to survive. I'll take the second one first, and it means going back, once.
+To answer it I have to explain two things: what was going wrong, and what these kingdoms already knew how to survive. I'll take the second one first, which means going back to an earlier crisis.
 
 Remember the table of great kings, and the horse kingdom in northern Syria. Mitanni. Its king wrote those letters to Egypt complaining about gold-plated statues. For a hundred years it was one of the four or five powers that ran the world.
 
@@ -1090,9 +1094,9 @@ By the time of the peace treaty the horse kingdom didn't exist. One of the pilla
 
 The rest of the international order did not collapse with it. There had been war, displacement, and a struggle over who would control the former kingdom. But routes could be redirected and new rulers could take over relationships. Assyria gained a place among the great powers. Mitanni's disappearance showed that a major political break did not have to end every connection around it.
 
-That's the lesson I think about most in this whole story, because it was true and it was the wrong one. The horse kingdom's fall was survivable because everything around it was healthy. The routes could shift because there were strong kingdoms to shift through. What nobody had tested was what happens when the parts fail together.
+That's the lesson I think about most in this whole story, because it was true and it was the wrong one. Other kingdoms and routes remained strong enough to carry on after the horse kingdom fell. The routes could shift because there were strong kingdoms to shift through. What nobody had tested was what happens when the parts fail together.
 
-So the world of 1259 BCE, the world of the peace treaty, was confident. It had been tested and it had passed.
+A court looking back from the peace treaty of 1259 BCE could point to a great power's fall and see that trade and diplomacy had continued. That was a reason for confidence, though not a promise that the next crisis would end the same way.
 
 Now follow the environmental evidence forward, all the way to the years around 1200 BCE. After that we will return to the decisions kings were making in the preceding decades. The evidence doesn't arrive in the order an ancient household would have experienced it.
 
@@ -1100,7 +1104,7 @@ It starts with the weather, and we know about the weather because trees keep a d
 
 A tree lays down one ring a year. In a good year the ring is wide. In a dry year it's narrow. Centuries after this story ends, a people in central Turkey built a huge burial mound for one of their kings and lined the chamber with whole juniper logs, and those logs were already ancient when they were cut. The rings in them run right through the years we're talking about. A team published the measurements in 2023.
 
-They show the Hittite heartland getting drier from about 1250 BCE on. Bad years came more often. And then there's a run of three rings so thin they're hard to see. Three years in a row of drought as bad as anything in the whole record. We can put dates on them: 1198, 1197 and 1196 BCE. The people who published that are careful to say it doesn't explain everything by itself. But it's the nearest thing we have to a weather report from the end of the Bronze Age.
+They show the Hittite heartland getting drier from about 1250 BCE on. Bad years came more often. And then there's a run of three rings so thin they're hard to see. Three years in a row of drought as bad as anything in the whole record. The team's best dates are 1198, 1197 and 1196 BCE, with a margin of a few years. The people who published that are careful to say it doesn't explain everything by itself. But it's the nearest thing we have to a weather report from the end of the Bronze Age.
 
 That isn't the only evidence. Mud from the bottom of the Sea of Galilee and from a salt lake in Cyprus holds pollen, and the pollen shows the same thing from the other side: the trees and crops thinning out and the dry-country scrub moving in, across about a century and a half.
 
@@ -1116,7 +1120,7 @@ For a while, out of the bins. The Keeper has been storing grain for six thousand
 
 Excavations at Hattusa have revealed very large grain-storage installations, including some built centuries before these final crises. They show how seriously the state had invested in reserves. They do not tell us exactly how full the capital's stores were in the year of our letter. A bin's capacity and the food actually left inside it are different facts.
 
-It can carry you through one. Maybe two. But a store only helps if good years come along to fill it again. If they don't, you're spending savings, and from the outside a household spending its savings looks exactly like a household doing fine. The house is the same, the meals are the same. Then one month the account is empty.
+Reserves can carry people through a failed harvest. But a store only helps if good years come along to fill it again. If they don't, you're spending savings, and from the outside a household spending its savings looks exactly like a household doing fine. The house is the same, the meals are the same. Then one month the account is empty.
 
 The letters and royal inscriptions show efforts to obtain grain from outside. Keep the shipments separate: the urgent Ugarit order concerns a cargo from a Syrian region, while Egyptian records describe other grain sent to Hatti. And reaching a harbor was only one stage. The Hittite capital stood far inland on a high plateau. After unloading, someone still had to organize animals, carts, labor, and food for the journey uphill. A ship on the coast was not yet dinner in Hattusa.
 
@@ -1126,7 +1130,7 @@ Now watch what the kings do under pressure, because they did something you'll re
 
 Go back now to the later thirteenth century, before those three exceptionally dry years. Assyria was a major rival to the east, with territory taken from the old horse kingdom. The Hittite court was trying to control what could reach it through dependent lands.
 
-So the Hittite king wrote a treaty with one of his subject kings on the Syrian coast, and one clause in it reads like this. No merchant of yours is to go to Assyria. No merchant of Assyria is to enter your land or pass through it. And no ship of the Greeks is to be let through to him.
+So the Hittite king wrote a treaty with one of his subject kings on the Syrian coast, and one clause in it reads like this. No merchant of yours is to go to Assyria. No merchant of Assyria is to enter your land or pass through it.
 
 That's a trade embargo. It's sanctions, around 1230 BCE: you can't beat him in battle, so you try to cut off his business.
 
@@ -1162,9 +1166,9 @@ I don't mean, did they. I mean, was it possible? Was there enough information ar
 
 I don't think so, and it wasn't because they were stupid.
 
-They saw things. Poor harvests, raiders, a late shipment, a letter that never got an answer. Every one of those had happened before, in their fathers' time, and the world had come right. What they couldn't see was the whole of it, the entire arrangement of grain and tin and treaties and ships that I've spent three hours describing to you. Nobody had ever stood outside it. There wasn't a word for it. It's hard to notice that something is failing when you don't know it's a thing.
+They saw poor harvests, raiders, late shipments, letters that went unanswered. Those were familiar troubles. The harder question was how much strain the other kingdoms were under at the same time. An urgent letter could tell a court that someone needed grain. It couldn't tell them when all the help they were counting on might fail.
 
-And the system was hiding the damage. That's the cruel part. Every grain bin and every treaty was built to absorb shocks. So each shock got absorbed, and from the palace everything looked normal, right up until the stores were gone.
+Grain bins and treaties could buy time. That was what made them useful. It could also make the depth of a problem harder to judge: how long could the stores last, and how much could an ally really spare? The letters show alarm, not a world in which everything looked normal.
 
 Let me try a thought experiment, and it's only that. Suppose somebody did see it. Suppose you're an adviser to the Hittite king around 1230 and somehow you've grasped the whole picture. What do you tell him to do?
 
@@ -1176,7 +1180,7 @@ So if we go looking for the person who noticed, we don't find a prophet. We find
 
 Picture him. I'm inventing the man, but not his problem. He's the Counter, and he's in a storeroom in the Hittite capital, and the numbers are wrong. He's counted the jars three times this month because he didn't trust the first two counts. The third came out the same. Grain doesn't care how many times you count it. There are fewer full jars than there should be at this time of year, and it was the same last year.
 
-He writes it down. He sends it up. He gets letters back from other storerooms saying the same thing. The provinces are sending less, because they've had poor harvests too. The grain from Egypt, which used to be a little extra, isn't extra any more.
+He writes it down. He sends it up. He gets letters back from other storerooms saying the same thing. The provinces are sending less, because they've had poor harvests too. In this imagined storeroom, he's waiting for a shipment from abroad to close the gap.
 
 He can recognize the shortfall. His difficulty is deciding what will fix it, and persuading people elsewhere to provide what the stores need. Knowing that trouble is serious is not the same as having a remedy that still works.
 
@@ -1194,19 +1198,19 @@ And a connected world doesn't come apart by decree. It comes apart when ten thou
 
 Cross the sea to Greece, and you can measure the fear with a tape.
 
-The Greek palaces had always had walls. In the last decades of the 1200s they rebuilt them on a different scale. At a palace called Tiryns the new walls were twenty-five feet thick, made of blocks that weigh several tons each, fitted together with no mortar. At Mycenae they extended the wall to take in a hidden staircase, cut down through the rock to an underground spring, so the citadel couldn't be cut off from water. You don't dig that unless you're expecting a siege.
+Some Greek palaces had imposing walls. In the last decades of the 1200s they rebuilt them on a different scale. At a palace called Tiryns the new walls were twenty-five feet thick, made of blocks that weigh several tons each, fitted together with no mortar. At Mycenae they extended the wall to take in a hidden staircase, cut down through the rock to an underground spring, so the citadel couldn't be cut off from water. You don't dig that unless you're expecting a siege.
 
 Somebody moved those blocks. That was the Farmer, called up by the palace the way he'd been called up to dig canals in Iraq, and in the season when his own fields needed him. Later Greeks couldn't believe men had built those walls. They said it was the Cyclopes, the one-eyed giants. It was tired farmers and worried officials.
 
-At Pylos, where we watched a clerk at his desk, there aren't any walls like that. But go back to that shelf of damp tablets, in the palace's last year, because what's written on them has changed.
+At Pylos, where we watched a clerk at his desk, there aren't any walls like that. But go back to that shelf of damp tablets, in the palace's last year. Among the records of goods and provisions are orders for men and metal.
 
-There's one that orders the officials of every district to hand over bronze. It's specified as temple bronze, and it says what it's for: points for spears and javelins. They're taking metal from the shrines to make weapons. That's the Maker's world drying up. If new copper and tin were coming in on the ships, you wouldn't be melting down the gods' property.
+There's one that orders the officials of every district to hand over bronze. It's specified as temple bronze, and it says what it's for: points for spears and javelins. They're taking metal from the shrines to make weapons. That's the Maker's world under pressure. The palace is calling in metal already on hand. That tells us what it wanted to collect, not whether every shipment of new copper and tin had stopped.
 
 There's a set that lists about eight hundred men, by name of their commander and by stretch of coastline. The heading says, roughly: how the watchers are guarding the coast.
 
 And there's one that lists rowers, about six hundred of them, being called up.
 
-It's the same desk and the same clay as two generations before. It used to count figs and wool. Now it's counting lookouts. Some scholars think lists like these were routine. Read alongside the order for bronze, I think they were written by frightened people.
+The same administration counts provisions and lookouts. These tasks sit together in its surviving records. Some scholars think lists like these were routine. Read alongside the order for bronze, I think they were written by frightened people.
 
 And then somebody said it out loud.
 
@@ -1214,7 +1218,7 @@ In the archive at Ugarit there's a letter from the chief minister of the copper 
 
 Look at what that letter is. It's the international system, with its scribes and its couriers and its formal greetings, being used to report that the international system no longer controls the sea.
 
-On the Hittite side, the last Great King was doing something no Hittite king had done. He was fighting at sea. He had an inscription carved saying that the ships of Cyprus met him in battle three times on the open water, and that he destroyed them and burned them. It's the earliest sea battle that any surviving document describes. And it was fought by an army of highlanders, off the coast of the island that supplied the world's copper. My guess is that they were trying to keep open the lane their bread came in on.
+On the Hittite side, the last Great King left an account of fighting at sea. In the surviving text, he says that the ships of Alasiya, the island we identify as Cyprus, met him in battle three times, and that he destroyed them. This was a king from an inland capital fighting around an important source of copper. Keeping sea routes open may have mattered, but the text does not give us a complete explanation of his aims.
 
 He says he won.
 
@@ -1232,7 +1236,7 @@ The Counter has added it up three times.
 
 The Carrier hasn't heard from his partner since last summer.
 
-The Maker is melting the offerings from the shrine, because no ship has come.
+The Maker is being asked to turn the shrines' bronze into weapons.
 
 The Farmer is hauling stone for a wall, and at home there's a jar he isn't supposed to open. His sister is on a ration list, and the rations are short.
 
@@ -1299,11 +1303,11 @@ The first is Emar, a town on the Euphrates in inland Syria. A river connected it
 
 Before it fell its scribes left us the sound of a city going under, and it isn't screaming. It's paperwork. They kept drawing up contracts in the proper form, with witnesses and seals, and a group of those contracts all start with the same phrase: "in the year of distress."
 
-Some of the contracts record people selling property or entering dependence during desperate conditions. Grain prices and the terms of particular transactions need to be read in their own documents. We should not turn a price from one tablet into an exact daily diet and monthly wage for every family in the town.
+In these contracts, people sell property or enter another household's service to get through desperate conditions. The terms differ from one document to another. Together they show households running out of choices.
 
 One contract records a couple selling four children, two boys and two girls, including a daughter still nursing. It names the parents and the children. The family explains its desperate need, and the transaction is recorded with witnesses. The people involved have not disappeared into an anonymous number.
 
-The document says the parents pressed their children's feet into clay. Those impressions helped identify the children in the transaction. We should not invent a scene in which each child signs a contract or the scribe presses every foot. But the little clay footprints are real.
+The document says the parents pressed their children's feet into clay, leaving impressions to help identify them in the transaction. Not signatures. Little footprints.
 
 Those survive. You can see the toes.
 
@@ -1313,7 +1317,7 @@ The second is the Hittite capital, and it's the one that surprised the archaeolo
 
 The evidence does not fit a simple picture of a full palace taken by storm. Important buildings had been largely cleared of valuable contents before they burned. Different parts of the city did not necessarily empty or burn together.
 
-Someone had removed things worth carrying. We can picture the practical work of leaving: animals loaded, doors opened, objects selected and others abandoned. We cannot give that departure a precise day, an inventory of everything the court took, or a known destination. The archaeology suggests withdrawal and disruption rather than supplying a witnessed last procession.
+Someone had removed things worth carrying. Imagine the work: loading animals, choosing what to take, leaving other things behind. We don't know exactly when the court left or where it went. The emptied buildings are the clue, not a witnessed last procession.
 
 The central government disappeared from its old capital. The political and cultural world it had helped create did not vanish everywhere with it.
 
@@ -1393,7 +1397,7 @@ And his sister.
 
 This is the third question, and it's the one I can't answer.
 
-The sister has been our way of keeping women's labor in view, from grinding grain to textile production. These are different women in different societies and legal positions. At Pylos, the ration records give us a glimpse of groups attached to palace work. They do not give us a continuous biography of the woman at the grinding stone.
+Think back to the sister at the grinding stone, and then to the women making cloth for palaces. Not one family followed through the centuries, but different women doing work a household or a kingdom depended on. At Pylos we can see some of them in the ration lists.
 
 What happened to those women when the palace burned?
 
@@ -1448,23 +1452,23 @@ Rebuilding royal administration means more than repairing a roof. People need wo
 
 So people did the sensible thing. They got smaller.
 
-Archaeologists count the places in Greece where people were living in 1250 BCE, and the places where they were living two centuries later, and the second number is about a quarter of the first. Now, that's a count of sites, and small poor villages are easy to miss. I don't believe three Greeks in four died. But a lot did, and a lot left, and the ones who stayed lived in hamlets of a few dozen, in houses of mud and thatch, and buried their dead with a pot and a pin.
+Archaeologists count the places in Greece where people were living in 1250 BCE, and the places where they were living two centuries later, and the second number is about a quarter of the first. Now, that's a count of sites, and small poor villages are easy to miss. I don't believe three Greeks in four died. Some died, some moved, and many communities were smaller and left fewer possessions in their graves. But the pattern was not the same everywhere.
 
 And yet it wasn't empty, and I want to show you the place that proves it.
 
 On Euboea, an island close to the eastern coast of mainland Greece, excavators at Lefkandi uncovered a very long building dating to around 950 BCE. Timber posts and mud-brick walls once stood above its stone foundations. Inside were exceptional burials. This was substantial construction in a period often imagined as nothing but tiny poor villages.
 
-In one was a man's ashes, wrapped in cloth and placed in a bronze jar. The jar was an antique from Cyprus, already a century old. Next to him lay a woman with gold on her dress and at her throat a gold necklace that had been made in Babylon about a thousand years before she was born. In the pit beside them were four horses.
+In one was a man's ashes, wrapped in cloth and placed in a bronze jar. The jar was an antique from Cyprus, already a century old. Next to him lay a woman adorned with gold. Her necklace included a pendant made centuries earlier, probably somewhere in Mesopotamia or Syria. We don't know how it reached her. A little object from a much older world had found a place in her necklace. In the pit beside them were four horses.
 
 Someone here had access to wealth, skilled work, and objects whose histories reached across the sea. We should not turn that into an exact workforce or a complete biography of a chief. The burial and building are enough to interrupt the idea that every connection had gone.
 
-The Keeper's line isn't dead, then. It's just shrunk back to where it started. And here's a detail I like a great deal. In the palace accounts at Pylos there's a title for a very minor official, a kind of local foreman. It turns up, among other places, in charge of small groups of bronze smiths. The word is basileus. The great lords who ran the palaces had a different, grander title, and after the fires that title vanishes. The foreman's title doesn't. By the time Greeks are writing again, basileus is their word for king.
+The Keeper's kind of work hasn't disappeared. But authority has changed, and the words leave a trace of it. At Pylos, the title behind the later Greek word basileus belongs to local leaders, including figures associated with groups of bronze workers. It isn't the title of the great palace ruler. That is wanax. After the palace system ends, both words survive: anax appears in Homer as a word for lord, while basileus can designate a king. The words have outlived the old arrangement of offices.
 
 The title changed its range of meaning. That is not proof that every later king descended from a palace foreman, or that the highest surviving official automatically inherited a crown. It gives us a trace of continuity within a changed political world.
 
 Now go back about a century from that burial and travel southeast across the Mediterranean, to Egypt. A text set around 1075 BCE follows an official named Wenamun on a difficult journey. It will put a face, and a grievance, into this world of continuing trade.
 
-Around 1075 BCE an official of the great temple in southern Egypt was sent on a business trip. His name was Wenamun. His job was to sail to the port of Byblos, on the coast of Lebanon, and buy cedar logs for the sacred boat of the god Amun. We have his report. Scholars argue about whether it's a real report or a story written in the form of one. Either way, somebody who knew that world wrote it.
+In the account, an official of the great temple in southern Egypt is sent on a business trip. His name was Wenamun. His job was to sail to the port of Byblos, on the coast of Lebanon, and buy cedar logs for the sacred boat of the god Amun. We have his report. Scholars argue about whether it's a real report or a story written in the form of one. Either way, somebody who knew that world wrote it.
 
 You've heard of Byblos. Three hundred years earlier its king was the man who wrote to Egypt sixty times, begging for a few archers, calling himself a bird in a trap, throwing himself at Pharaoh's feet seven times and seven times more. Keep that in your head.
 
@@ -1472,7 +1476,7 @@ Wenamun's trip goes wrong at once. He stops at a harbor on the way, a town now r
 
 The account then has him seize silver from people associated with the coastal group called the Tjeker, treating it as compensation for his loss. That matters later. The ships that pursue him are not simply an unexplained second disaster; he has created a dispute of his own.
 
-He gets to Byblos with almost nothing. The prince of Byblos sends a message down to the harbor: get out of my port. He sends the same message the next day. He sends it every day for twenty-nine days.
+He gets to Byblos, but taking someone else's silver hasn't solved his problem. The prince of Byblos sends a message down to the harbor: get out of my port. He sends the same message the next day. He sends it every day for twenty-nine days.
 
 Finally Wenamun is let in. He describes the scene. The prince is sitting in an upstairs room with his back to a window, and through the window Wenamun can see the waves of the sea breaking behind the prince's head.
 
@@ -1482,9 +1486,9 @@ The prince has records brought out showing what earlier Egyptian rulers supplied
 
 That's the prince of Byblos talking to Egypt. Three hundred years after the bird in the trap.
 
-In the end Wenamun has to write home for money. Egypt sends gold, silver, linen, ox hides, rope, sacks of lentils, baskets of fish, and five hundred rolls of papyrus. The timber gets cut. And then, just as he's about to leave, eleven ships turn up from the town where he was robbed, with orders to arrest him. He sits down on the beach and cries. The prince, who by this point seems to feel sorry for him, sends down two jars of wine, a sheep, and an Egyptian singing-girl to cheer him up.
+In the end Wenamun has to write home for money. Egypt sends gold, silver, linen, ox hides, rope, sacks of lentils, and baskets of fish. The timber gets cut. And then, just as he's about to leave, eleven Tjeker ships turn up, and their men demand his arrest. He sits down on the beach and cries. The prince, who by this point seems to feel sorry for him, sends down two jars of wine, a sheep, and an Egyptian singing-girl to cheer him up.
 
-The papyrus breaks off before we find out whether he got home.
+He does get away from Byblos, only to be driven to Cyprus, where he has to appeal to a local ruler for protection.
 
 What I like about this account is that commerce keeps working inside the quarrel. There are ships, records, payments, and timber being cut. Egypt's standing is not what Wenamun thinks it should be, but the sea has not emptied and the little port has not forgotten how to keep accounts.
 
@@ -1506,11 +1510,11 @@ They're small. A dozen houses, mostly. The houses are stone, with a few rooms ar
 
 And look at what isn't there. There are no palaces. There are no temples to speak of. There are no rich graves and hardly any imported goods. Everybody's pots are about the same.
 
-Who were they? That's argued. Finkelstein himself thinks many were herders who settled down when the towns they used to trade with fell apart. Others think they were farmers from the plain who moved uphill to get out from under what was left of the kings. Their pottery is ordinary Canaanite pottery, so they weren't newcomers from far away. And that monument I mentioned from 1208 already has a people called Israel living somewhere in this country. Some of these villagers will become the Israelites of the Bible.
+Who were they? That's argued. The archaeologist Israel Finkelstein thinks many were herders who settled down when the towns they used to trade with fell apart. Others think they were farmers from the plain who moved uphill to get out from under what was left of the kings. Much of their pottery follows local Canaanite traditions, a clue to continuity rather than proof of where every family came from. And that monument I mentioned from 1208 already has a people called Israel living somewhere in this country. Some of these villagers will become the Israelites of the Bible.
 
 Here is the possibility that makes the idea of a release attractive. In some small communities, households may have had more control over their labor and produce than people attached to a palace estate. But a simple house and ordinary pottery do not prove that nobody collected dues, claimed land, or exercised power. We cannot read a tax exemption from the absence of a palace.
 
-And here's the case against, because I don't want to sell you a fairy tale. There's also no granary on the hill above him that opens in a famine. There's no garrison between him and the next valley, and the next valley is hungry too. The Bible's own book about these centuries is called Judges, and it's one of the most violent books in the collection: raids, massacres, a civil war. It has a line it keeps repeating. In those days there was no king in Israel, and every man did what was right in his own eyes. It isn't meant as praise.
+And here's the case against, because I don't want to sell you a fairy tale. More control over your own crop doesn't guarantee food in a bad year, or safety from an armed neighbor. The biblical book of Judges looks back on the time before Israel's kings through stories of raids, massacres, and civil war. It isn't a contemporary report from these villages. Its refrain about a time without a king, when people did what seemed right to them, is part of the book's argument about that past. It isn't meant as praise.
 
 So was it dark? The answer changes with the place and the life we are trying to recover. Some people may have gained room to act while losing security or access to goods. Others faced displacement and violence. I find that uneven picture more convincing than either a universal disaster or a universal liberation.
 
@@ -1518,9 +1522,9 @@ Down on the coast below him, the other half of that story is settling in.
 
 At a handful of towns on the southern plain, the pottery changes after the collapse. It's painted in the style of the Greek palaces, with birds and spirals. But it's made of local clay. That matters. Imported pots mean trade. Foreign-style pots made locally can suggest people or skills moving, but imitation and exchange have to be considered too.
 
-These are the Peleset, the ones Egypt fought and then settled. They brought their own cooking pots and their own kind of hearth. They ate pork, and you can see it in their trash, while up in the hill villages there are almost no pig bones at all. A few years ago researchers got DNA from the bones of people buried in one of those coastal towns. The earliest burials after the collapse have a clear dose of ancestry from southern Europe. In the later people sampled, that distinct signal was no longer detectable in the same way, consistent with mixing into the local population.
+These communities are associated with the Philistines and the Peleset named in Egyptian accounts. How far Egyptian resettlement shaped their arrival is debated. They brought their own cooking pots and their own kind of hearth. They ate pork, and you can see it in their trash, while up in the hill villages there are almost no pig bones at all. A study of DNA from ten people buried at Ashkelon, one of those coastal towns, adds another clue. Some early Iron Age individuals in that small sample show ancestry linked to southern Europe. In the later people sampled, that distinct signal was no longer detectable in the same way, consistent with mixing into the local population.
 
-In the Bible these are the Philistines, and they're the villains: the people of Goliath, the enemies of David. I find it oddly moving that both sides of that old quarrel came out of the same disaster. The hill farmers and the coast people were both washed up by the fall of the palaces. Neither of them knew it.
+In the Bible, the Philistines become some of Israel's great rivals: the people of Goliath, the enemies of David. Archaeology gives us another way to look at those neighbors, through changing settlements, new arrivals, and local continuities. The hill communities and the coastal towns took shape along different paths in the world after the palaces. Their later rivalry doesn't turn those paths into one shared origin story.
 
 Now the Maker, because he's found something to do.
 
@@ -1538,7 +1542,7 @@ That is the answer I can defend: changing supply networks, accumulated technical
 
 And the Counter. This is the fourth question and the best thing in this part. Where does the alphabet come from?
 
-Remember the miners in the Sinai desert, around 1850 BCE, scratching an ox's head on a rock to stand for the first sound of their word for ox. I told you to hold onto it.
+Remember the early alphabetic signs around Egypt and Sinai, and the idea of using an ox's head for the opening sound of the word for ox. Who first made that leap remains uncertain. I told you to hold onto the ox.
 
 Early alphabetic writing survives in scattered inscriptions over the following centuries. Their small number makes its users hard to reconstruct. It was not simply ignored by every professional scribe: remember Ugarit's alphabet written in wedges on clay, already used before the collapse. Different systems could coexist because they served different languages, traditions, and institutions.
 
@@ -1552,7 +1556,7 @@ Around 800 BCE the Greeks, who've written nothing for four hundred years, pick i
 
 So the word alphabet is two Canaanite words: ox, house.
 
-From the Greeks it goes to the Romans, and from the Romans to us. From the Phoenicians it also goes east, to Hebrew and Aramaic and in time to Arabic. Nearly every alphabet on Earth comes down from those miners.
+From the Greeks it goes to the Romans, and from the Romans to us. From the Phoenicians it also goes east, to Hebrew and Aramaic and in time to Arabic. Those early experiments belong to the ancestry of many alphabets used today.
 
 For me, the alphabet is one of this story's most consequential inventions. Its early history shows people adapting an existing technology to their own language. Its later success involves traders, rulers, scribes, and communities, not just one profession losing its monopoly in a fire.
 
@@ -1581,9 +1585,9 @@ You may know parts of this story. A queen called Helen leaves with a prince of T
 
 But that familiar version combines different ancient works and later retellings. The Iliad, traditionally attributed to Homer, tells a much shorter episode near the end of the war, centered on Achilles's anger. It does not narrate the wooden horse or make him invulnerable except at his heel. Keeping that distinction matters, because we are about to ask what a poem can remember.
 
-Here's where we are. It's about 750 BCE. The fires that ended the palaces are four hundred and fifty years in the past, about as far back from Homer as the first English settlers in America are from us. Greece has been without writing that whole time. And in those four and a half centuries the Greeks have been telling each other about a great age long ago, when kings lived in halls at Mycenae and at Pylos and wore armor made of bronze.
+Here's where we are. It's about 750 BCE. The fires that ended the palaces are four hundred and fifty years in the past, about as far back from Homer as the first English settlers in America are from us. Greek palace writing had disappeared, and for much of the intervening time we have no surviving evidence of Greek writing. And in those four and a half centuries the Greeks have been telling each other about a great age long ago, when kings lived in halls at Mycenae and at Pylos and wore armor made of bronze.
 
-You've been to Pylos. It's where the clerk sat at his desk by the door, counting figs and wool. In Homer, Pylos is the home of a wise old king named Nestor, who gives long speeches and drinks from a golden cup so heavy that an ordinary man can hardly lift it.
+You've been to Pylos. It's where the clerk sat at his desk by the door, counting figs and wool. In Homer, Pylos is the home of a wise old king named Nestor, who gives long speeches and drinks from a cup decorated with gold, so heavy when full that other men struggle to lift it.
 
 Homer's world includes captives, weaving, household labor, and kings. What it does not give us is the administrative world recovered from the palace tablets: the particular system of officials, allocations, and working records. We should not claim to know everything the poet knew. We can compare what the poems preserve with the quite different things the archives reveal.
 
@@ -1609,13 +1613,13 @@ I love the shape of that discovery. An archive from a different kingdom helps us
 
 One more thing from Homer's century, and it's my favorite object in this whole series.
 
-By about 750 the Greeks are sailing again. They've picked up the alphabet from Phoenician traders, the twenty-two letters that go back to those miners in the desert, and they've added vowels. And they've planted a trading post on an island in the Bay of Naples, eight hundred miles from home.
+By about 750 the Greeks are sailing again. They've adapted a Phoenician alphabet, related to the early experiments we saw around Egypt and Sinai, and added signs for vowels. And they've planted a trading post on an island in the Bay of Naples, eight hundred miles from home.
 
 In a grave on that island, archaeologists found a small clay drinking cup with lines of verse scratched on it. The burial was long described as a boy's, but reexamination of the cremated remains identified several individuals. The inscription on the cup remains one of the earliest examples of Greek alphabetic writing. Its joke matters more here than an unsupported biography of its owner.
 
-"I am Nestor's cup, good to drink from. Whoever drinks from this cup, desire for fair-crowned Aphrodite will seize him at once."
+The inscription says, in effect: this is Nestor's cup, and a good cup to drink from. Take a drink and Aphrodite, the goddess of love, will have you in her grip.
 
-It's a joke. Nestor's cup, in the poem, is that huge golden thing a man can hardly lift. This is a cheap clay cup at a drinking party, announcing that it's the famous one, and that it'll make you fall in love.
+The joke seems to be this. Nestor's cup in the poem is a heavy vessel decorated with gold, one other men struggle to lift when it's full. Here is a little clay cup announcing a grand name, and promising that a drink will make you fall in love.
 
 Think about where that cup stands in our story. The palace tablets of Pylos belong to a specialized administrative practice. Elsewhere we have already met private letters, poetry, and contracts long before this cup. Writing had never remained only a receipt for barley. The cup shows a different use in early Greek alphabetic writing: verse attached to an object people could handle at a gathering.
 
@@ -1661,7 +1665,7 @@ And the central idea, the covenant, the solemn agreement between God and the peo
 
 Even the poetry has an ancestor. When the burned port of Ugarit was dug up, its tablets turned out to contain hymns in a language very close to Hebrew, with phrases that turn up again in the Psalms.
 
-So the Bible didn't come from nowhere. It's what the old world of law and treaty and story looked like when it was carried forward by a small people in the hills, written in the miners' alphabet.
+So the Bible didn't come from nowhere. It's what the old world of law and treaty and story looked like when it was carried forward by a small people in the hills, written in an alphabet with roots in that earlier world of experiments with signs and sounds.
 
 One feature of the Exodus story especially matters to me. It asks its audience to remember enslavement and to identify with people escaping oppression. That does not establish that the surviving text was written by the enslaved people themselves, or that no older work ever spoke from below. It is a powerful use of remembered vulnerability in a tradition carried forward by later generations.
 
@@ -1681,7 +1685,7 @@ From those few letters he worked outward. On a September day in 1822 he ran down
 
 The wedge writing was harder, because there was no Greek to start from.
 
-The break came from a cliff. In western Iran, on the old road from Babylon up into the mountains, a king of Persia had his victories carved into a rock face three hundred feet above the ground, in about 520 BCE. He had it done in three languages, all in wedge-shaped signs, so that all his subjects could read it. Then he had the ledge below cut away so nobody could deface it.
+The break came from a cliff. In western Iran, on the old road from Babylon up into the mountains, a king of Persia had his victories carved into a rock face three hundred feet above the ground, in about 520 BCE. He had it done in Old Persian, Elamite, and Babylonian, all written in wedge-shaped signs. Then he had the ledge below cut away so nobody could deface it.
 
 In the 1830s a young British army officer named Henry Rawlinson was posted nearby, and he decided to copy it. He did it standing on the top rung of a ladder balanced on a ledge eighteen inches wide, holding on with one hand and writing with the other. For the worst section he hired a local boy who climbed across the bare rock on ropes and pegs and took paper impressions.
 
@@ -1689,7 +1693,7 @@ One of the three languages was Old Persian, a relative of languages scholars alr
 
 And a lot of people didn't believe it. The script had hundreds of signs, and the same sign could be read several ways. It looked like guesswork. So in 1857 a learned society in London ran a test. A long inscription of an Assyrian king had just been dug up, and nobody had published it. Copies went to four scholars who claimed they could read the script. Each worked alone and sent his translation back in a sealed envelope.
 
-The envelopes were opened together. The four translations agreed.
+The envelopes were opened together. They differed in places, but agreed closely enough in substance to show that the method worked.
 
 That test gave strong public support to the decipherment of Akkadian cuneiform. Other scripts and languages needed their own breakthroughs and independent tests. Reading a clay tablet is not one solved puzzle applied unchanged to every civilization.
 
@@ -1727,11 +1731,11 @@ That leaves the Greeks, and the clerk at Pylos.
 
 The palace at Pylos was found in 1939. On the first day of digging, the first trench went straight into the archive room, and out came the tablets that the fire had baked. Nobody could read them. Nobody knew what language they were in. Most experts were sure it wasn't Greek.
 
-Two people broke it, and one of them rarely gets the credit.
+The breakthrough grew out of several people's work. Two deserve a closer look, and one of them rarely gets the credit.
 
 Alice Kober taught Latin and Greek at a college in Brooklyn, and in the evenings she worked on the script. She refused to guess at the language. She just analyzed the patterns. It was wartime and paper was short, so she cut her index cards from old greeting cards and church circulars, a hundred and eighty thousand of them, and filed them in empty cigarette cartons. From those cards she proved that the words in the tablets changed their endings in regular ways, the way Latin does, and she worked out which signs had to share a consonant. She died in 1950, at forty-three, with the work unfinished.
 
-The man who finished it was an English architect named Michael Ventris. He'd been fascinated by the script since he was fourteen. He took Kober's method and built it out into a grid, with every sign placed by which consonant and which vowel it must contain, before he knew what any of the sounds were. Then he tried fitting place names from Crete into the grid. And the words that came out, to his own astonishment, were Greek.
+The man who finished it was an English architect named Michael Ventris. He'd been fascinated by the script since he was fourteen. He developed a grid of relationships between signs, building on work by Kober and others. The grid was not complete before the sounds were known. Patterns suggested possible sound values; testing those values helped him revise the pattern. Then he tried fitting place names from Crete into the grid. And the words that came out, to his own astonishment, were Greek.
 
 He announced it on the radio in July 1952. The tablets, he said, were written in "a difficult and archaic Greek, seeing that it's five hundred years older than Homer, and written in a rather abbreviated form, but Greek nevertheless."
 
@@ -1771,7 +1775,7 @@ Is our world like theirs? In one way, more than I'm comfortable with. You and I 
 
 We also possess something Xenophon did not: ways to bring excavated objects, deciphered texts, and environmental evidence into the same investigation. Earlier people preserved real knowledge as well as stories. Our advantage is not that everyone before us guessed wrong, but that we can compare more kinds of evidence and test more of the guesses.
 
-We read the mail. We know the names of the three dry years. We know what the clerk at Pylos wrote in his last season and what a king of the Hittites said to his gods about a plague. Nobody before us could do that. I think it's the one new thing we have, and I'd like to believe it counts for something.
+We read the mail. We can place a run of three exceptionally dry years within a few years of its date. We know what the clerk at Pylos wrote in his last season and what a king of the Hittites said to his gods about a plague. We can bring those different kinds of evidence together. That doesn't give us every answer, but I'd like to believe it counts for something.
 
 I'll finish with the one we can't read.
 

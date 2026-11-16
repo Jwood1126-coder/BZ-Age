@@ -3,7 +3,7 @@
 **Date:** November 16, 2026
 **Status:** ChatGPT implementation of the editorial review and Jacob's selective scene-setting direction. Source version ef7b943; changed passages and continuity corrected. Not a final recording clearance or an exhaustive fact check.
 **Driving questions:** Who did it? Why didn't the neighbors help? What happened to the people nobody wrote down?
-**Narration length:** 3,386 words (about 23 minutes at 150 words a minute)
+**Narration length:** 3,321 words (about 22 minutes at 150 words a minute)
 
 ---
 
@@ -77,11 +77,11 @@ The first is Emar, a town on the Euphrates in inland Syria. A river connected it
 
 Before it fell its scribes left us the sound of a city going under, and it isn't screaming. It's paperwork. They kept drawing up contracts in the proper form, with witnesses and seals, and a group of those contracts all start with the same phrase: "in the year of distress."
 
-Some of the contracts record people selling property or entering dependence during desperate conditions. Grain prices and the terms of particular transactions need to be read in their own documents. We should not turn a price from one tablet into an exact daily diet and monthly wage for every family in the town.
+In these contracts, people sell property or enter another household's service to get through desperate conditions. The terms differ from one document to another. Together they show households running out of choices.
 
 One contract records a couple selling four children, two boys and two girls, including a daughter still nursing. It names the parents and the children. The family explains its desperate need, and the transaction is recorded with witnesses. The people involved have not disappeared into an anonymous number.
 
-The document says the parents pressed their children's feet into clay. Those impressions helped identify the children in the transaction. We should not invent a scene in which each child signs a contract or the scribe presses every foot. But the little clay footprints are real.
+The document says the parents pressed their children's feet into clay, leaving impressions to help identify them in the transaction. Not signatures. Little footprints.
 
 Those survive. You can see the toes.
 
@@ -93,7 +93,7 @@ The second is the Hittite capital, and it's the one that surprised the archaeolo
 
 The evidence does not fit a simple picture of a full palace taken by storm. Important buildings had been largely cleared of valuable contents before they burned. Different parts of the city did not necessarily empty or burn together.
 
-Someone had removed things worth carrying. We can picture the practical work of leaving: animals loaded, doors opened, objects selected and others abandoned. We cannot give that departure a precise day, an inventory of everything the court took, or a known destination. The archaeology suggests withdrawal and disruption rather than supplying a witnessed last procession.
+Someone had removed things worth carrying. Imagine the work: loading animals, choosing what to take, leaving other things behind. We don't know exactly when the court left or where it went. The emptied buildings are the clue, not a witnessed last procession.
 
 The central government disappeared from its old capital. The political and cultural world it had helped create did not vanish everywhere with it.
 
@@ -185,7 +185,7 @@ And his sister.
 
 This is the third question, and it's the one I can't answer.
 
-The sister has been our way of keeping women's labor in view, from grinding grain to textile production. These are different women in different societies and legal positions. At Pylos, the ration records give us a glimpse of groups attached to palace work. They do not give us a continuous biography of the woman at the grinding stone.
+Think back to the sister at the grinding stone, and then to the women making cloth for palaces. Not one family followed through the centuries, but different women doing work a household or a kingdom depended on. At Pylos we can see some of them in the ration lists.
 
 What happened to those women when the palace burned?
 
@@ -208,6 +208,10 @@ Next time, the world afterward. I'd always heard it called a dark age. I'm not s
 ---
 
 ## Revision notes — v0.7.4
+
+### Whole-series listener continuation
+- Additional continuity, chronology and voice repairs are recorded in `04-Working-Notes/draft-07-unpublished-listener-continuation.md`. These notes supersede incompatible inherited verification labels; unresolved quotations and numerical claims remain open.
+
 
 - Finishing pass after v0.7.3: version and assembly synchronization; no new narration changes in this section.
 - See `04-Working-Notes/draft-07-v0.7.4-applied.md`. Prior verification limits remain; this is not a final recording clearance.

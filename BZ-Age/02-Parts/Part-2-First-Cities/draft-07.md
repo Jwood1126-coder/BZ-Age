@@ -3,7 +3,7 @@
 **Date:** November 16, 2026
 **Status:** ChatGPT implementation of the editorial review and Jacob's selective scene-setting direction. Source version ef7b943; changed passages and continuity corrected. Not a final recording clearance or an exhaustive fact check.
 **Driving questions:** Why is every first city on a river? What do you buy things with before money? Why does a city need writing? Why would anyone agree to have a king?
-**Narration length:** 4,978 words (about 33 minutes at 150 words a minute)
+**Narration length:** 5,037 words (about 34 minutes at 150 words a minute)
 
 ---
 
@@ -137,7 +137,9 @@ A scholar named Denise Schmandt-Besserat pieced that sequence together starting 
 
 For the first several centuries, that is all writing did. The oldest tablets on Earth come from the trash heaps of Inanna's temple, about five thousand of them, and there isn't a story or a prayer in the lot. They're barley, sheep, cloth, beer, and lists of job titles. Writing couldn't yet record a sentence. It could record "five sheep" and whose they were.
 
-It took generations for anyone to realize the marks could stand for sounds, not just things. Draw an arrow, and you mean an arrow. But in their language the word for arrow sounded like the word for life. So draw an arrow and mean life. Once you make that jump you can spell anything a person can say: names, verbs, promises, lies, poems.
+Much of the later writing from these southern cities records a language called Sumerian. Keep that name: the script will go on to serve other languages too.
+
+It took generations for anyone to realize the marks could stand for sounds, not just things. Draw an arrow, and you mean an arrow. But in Sumerian the word for arrow sounded like the word for life. So draw an arrow and mean life. Once you make that jump you can spell anything a person can say: names, verbs, promises, lies, poems.
 
 [VISUAL: Object — the "Kushim" tablet; highlight the two signs of the name.]
 
@@ -159,7 +161,7 @@ These people counted in sixties. I can't tell you why for certain and neither ca
 
 So the sixty on your wrist is five thousand years old. Nobody in Uruk had minutes or seconds. They had the arithmetic, and the rest of us inherited it. The twenty-four hours come from Egypt, which is a different story. Your watch is a joint project between two civilizations that never knew they were collaborating.
 
-Back to Uruk, and the quay. That's the journey: field, barge, storehouse, bowl, tablet, school. Most of what makes a city is somewhere on that path.
+Back to Uruk around 3200 BCE, and the quay, before those later schoolrooms. That's the journey: field, barge, storehouse, bowl, tablet, school. Most of what makes a city is somewhere on that path.
 
 Now the hard question. Why would anyone put up with it?
 
@@ -183,7 +185,7 @@ So why did anyone agree to have a king? Because by the time there was one, he wa
 
 [VISUAL: Date card — 2600 BCE. Map: Ur, downriver from Uruk. Photo: Queen Puabi's gold headdress.]
 
-Six hundred years later you can see how far that had gone.
+Move forward about six hundred years, to around 2600 BCE, and you can see how far that had gone.
 
 About forty miles downriver from Uruk is a different city with a confusingly similar name. Uruk, and Ur. We'll be back at Ur more than once. In the 1920s an English archaeologist named Leonard Woolley dug its cemetery, and among two thousand ordinary graves he found sixteen that weren't ordinary.
 
@@ -203,7 +205,7 @@ That's what the Keeper's line had become, six hundred years after the vase. Some
 
 We don't know the name of anyone in that pit. We know hardly any names from Uruk at all, apart from a clerk or two. The city counted its people. Mostly it didn't remember them.
 
-One name got out a different way, as a story, and how that happened tells you something. Around 2700 BCE Uruk had a king called Gilgamesh. He was probably real. Later tradition says he built the city wall, which ran six miles around.
+One name got out a different way, as a story, and how that happened tells you something. Step back about a century from those graves. Later tradition places a king called Gilgamesh at Uruk around 2700 BCE. He was probably real. Later tradition says he built the city wall, which ran six miles around.
 
 That's everything we know. What we have instead is the Epic of Gilgamesh, a poem that grew over the next fifteen hundred years. In it he's two-thirds god, he wrestles a wild man who becomes his best friend, the friend dies, and Gilgamesh goes to the end of the world looking for a way not to die. He doesn't find one. He comes home and looks at the wall. The poem opens and closes by telling you to do the same: climb up on it, look at the brickwork.
 
@@ -213,7 +215,7 @@ Watch for that. It happens to everyone in this series who gets remembered at all
 
 [VISUAL: Map — world at 3000 BCE: Mesopotamia, Egypt and the Indus highlighted as three small bright patches on a dark globe.]
 
-Let me pull back before we finish, because I've spent this whole part inside one city and that gives you the wrong idea.
+Let me pull back before we finish, and return to around 3000 BCE. We've followed Uruk, with a visit to its neighbor Ur, but those cities weren't the whole world.
 
 Around 3000 BCE only a tiny share of humanity lived in a city. Everybody else was a farmer or a herder or a hunter who had never heard of Uruk. What we've been looking at is a tiny, bright exception.
 
@@ -229,7 +231,7 @@ So where's the family?
 
 They don't live in the same house anymore. They don't eat from the same pot. The Farmer hands his barley to a man he's never met. His sister weaves cloth she'll never wear. The Counter writes it down. The Carrier moves it. The Maker has a bench in the goddess's workshop, casting copper for people far above him. And the Keeper lives behind a wall, with guards.
 
-None of them could go back to the one-room house if they wanted to. None of them knows how to do the others' jobs.
+They depend on people outside their own households now. Some skills still overlap. But no single house can provide everything this way of life requires.
 
 By 2350 BCE there are a dozen cities like Uruk strung along the two rivers. Each has its own god, its own king, its own wall. They trade with each other and they fight each other, mostly over water, and now and then one king bullies the rest for a few years. But nobody has ever held many cities together for long.
 
@@ -238,6 +240,12 @@ Then comes a man from the north. A much later legend says he started life as a b
 ---
 
 ## Revision notes — v0.7.4
+### Unpublished whole-series listener pass
+- Implements high-confidence chronology, spoken orientation and household-metaphor repairs from the early-part listener review. The five work roles are not a claimed bloodline; precise multipliers and universal inevitability are not used to carry the farming argument. Explicit time returns distinguish Uruk, later schoolrooms, Ur graves and Gilgamesh tradition.
+- Sumerian and Akkad's regional imperial significance checked against Getty, *Mesopotamia: Civilization Begins*: https://www.getty.edu/art/exhibitions/mesopotamia/explore.html .
+- Sargon's 5,400 provisioned men do not establish a first standing army: scholarly alternatives include troops and a wider palatial household; see *The Wiley Encyclopedia of Empires* (2016), “Akkadian Empire,” pp. 50–59, https://www.academia.edu/23241606/Akkadian_Empire_in_J_M_MacKenzie_ed_The_Wiley_Encyclopedia_of_Empires_2016_50_59 .
+- Still flagged for source-by-source review, not silently cleared: Göbekli Tepe interpretation, earliest-gold claims, earliest writing/slavery particulars, tin provenance and pyramid team names.
+
 
 - Finishing pass after v0.7.3: version and assembly synchronization; no new narration changes in this section.
 - See `04-Working-Notes/draft-07-v0.7.4-applied.md`. Prior verification limits remain; this is not a final recording clearance.

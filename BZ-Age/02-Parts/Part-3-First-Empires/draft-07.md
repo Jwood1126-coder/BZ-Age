@@ -3,7 +3,7 @@
 **Date:** November 16, 2026
 **Status:** ChatGPT implementation of the editorial review and Jacob's selective scene-setting direction. Source version ef7b943; changed passages and continuity corrected. Not a final recording clearance or an exhaustive fact check.
 **Driving questions:** What is an empire, and how is it different from a big city? How do you run a place you've never seen? Can a living man be a god? Why do empires fall?
-**Narration length:** 4,296 words (about 29 minutes at 150 words a minute)
+**Narration length:** 4,326 words (about 29 minutes at 150 words a minute)
 
 ---
 
@@ -33,11 +33,11 @@ Then he turns around and goes the other way, north and west, up the Euphrates, a
 
 [VISUAL: Map — Sargon's conquests spreading from the Gulf to the Mediterranean; overlay: "about 1,000 miles end to end."]
 
-End to end it's about a thousand miles. On a modern map it's most of Iraq, a slice of Iran, eastern Syria, and the edge of Turkey and Lebanon. A hundred years earlier the biggest thing anyone ruled was a city and the farmland you could see from its wall.
+End to end it's about a thousand miles. On a modern map it's most of Iraq, a slice of Iran, eastern Syria, and the edge of Turkey and Lebanon. Egypt already had a kingdom stretching along the Nile. Here in Mesopotamia, rulers had controlled more than one city before, but Sargon's conquests brought a much larger territory under one center.
 
-He ruled it from a city called Akkad, not far from where Baghdad is now. I can't show you a picture. Akkad has never been found. It's somewhere under the mud, the capital of the first empire in history, and nobody knows where.
+He ruled it from a city called Akkad, not far from where Baghdad is now. I can't show you a picture. Akkad has never been found. It's somewhere under the mud, the capital of Mesopotamia's first lasting empire, and nobody knows where.
 
-So, first question. What's an empire? How is it different from a strong city that beats up its neighbors?
+So, first question. What's an empire? Here I mean one ruling power holding other peoples and territories under its authority. How is that different from a strong city that beats up its neighbors?
 
 The cities of the plain had been fighting each other for five hundred years. When you won, you took some loot and some land, maybe some hostages, and you went home. The loser kept his own king, his own god, his own storehouse.
 
@@ -55,13 +55,13 @@ It used to be a man from Ur. He spoke the Farmer's language, Sumerian, and he wo
 
 Picture what that change asks of a household. The grain must still be threshed, measured, and carried out. Someone has to argue about the amount, find labor for the load, and decide what remains for the family. The new ruler can be remote while the demand is close enough to put a hand into the grain jar.
 
-The thing his grandfather couldn't have pictured is a ruler from outside. The thing his grandson won't be able to picture is that it was ever otherwise.
+A ruler from outside wasn't an unimaginable novelty. But for this household, authority now reaches much farther beyond the familiar city and its fields.
 
 Second question. How do you run a place you've never seen?
 
 Sargon's officials could draw on generations of city government. Now they had to adapt that experience to a much larger territory, with more languages, longer journeys, and more places that might refuse an order.
 
-How do you keep order across a thousand miles? You keep soldiers on hand all the time. One of his inscriptions says that five thousand four hundred men ate bread in front of him every day. That's the first standing army we know of, and it's also a statement about the storehouse. Feeding five thousand men who grow nothing takes the surplus of a whole province. The Keeper's grain bins now pay for a permanent war machine.
+How do you support that authority? One of Sargon's inscriptions says that five thousand four hundred men ate bread in front of him every day. Scholars have read that as a body of troops, or as a broader royal household. It does not give us a secure head count for the world's first standing army. But either reading brings us back to the storehouse: a king boasting about power is also boasting about how many people he can feed.
 
 How do you make the accounts from one province mean something in another? You give everyone the same measures. A later king of this family issued a standard basket for the whole empire, so that a measure of barley was the same in the north as in the south.
 
@@ -71,7 +71,7 @@ And how do you get people who worship different gods to accept you? For that, Sa
 
 [VISUAL: Object — the Disk of Enheduanna (Penn Museum), the carved figure in the tiered robe highlighted. Map: Ur.]
 
-Her name is Enheduanna, and she's the person I want you to follow through the first half of this hour, because she lived to see this empire through four reigns.
+Her name is Enheduanna, and she's the person I want you to follow through the first half of this part, because she lived to see this empire through four reigns.
 
 Ur, down in the south, was one of the holiest cities in the old country. Its temple belonged to the moon god. The most important religious office in that temple was the high priestess, and whoever held it was, in the theology, the god's wife on earth. Sargon made his daughter high priestess of the moon at Ur.
 
@@ -121,13 +121,13 @@ The poetry attributed to Enheduanna also tells a story of political violence at 
 
 The voice in the poem is no longer simply a royal daughter occupying an important office. She is someone pleading for that position and her good name to be restored. The institution that made her powerful has also made her vulnerable.
 
-One of those poems tells the story. In it she says the rebel has driven her out of the temple, that she's been made to fly like a swallow from the window. She says "my good name is destroyed." And then, in the middle of a hymn to a goddess, she does something no writer had done before. She says: "I am Enheduanna. Let me speak to you."
+One of those poems tells the story. In it she says the rebel has driven her out of the temple, that she's been made to fly like a swallow from the window. She says "my good name is destroyed." And then, in the middle of a hymn to a goddess, the speaker names herself. She says: "I am Enheduanna. Let me speak to you."
 
 The poem presents a restoration of her position. That is the story the work tells; the political sequence behind it is less certain.
 
 What holds my attention is the combination: a real royal daughter in a powerful religious office, and a later literary tradition that speaks in her name with extraordinary force. We don't need to know every stage of that tradition to hear a person rather than another total of barley.
 
-That's the last we see of her. The rest of this hour happens after her time.
+That's the last we see of her. The rest of this part happens after her time.
 
 [VISUAL: Text card — "The Curse of Akkad." Then map: the empire shrinking back to a single city.]
 
@@ -145,7 +145,7 @@ There are physical clues to environmental stress around this period: dust in mar
 
 Drought may have made existing conflicts and provisioning problems harder to manage. That is a plausible connection, not a complete explanation recovered from a ring of dust. Different districts could face different pressures, and the documents and the ground do not let us isolate one cause of the empire's end.
 
-Remember that, too. A blow that a strong system would survive, landing on a system with nothing in reserve.
+Remember the possibility: a difficult harvest can be harder to survive when conflict and disrupted supplies are already wearing down a state's resources.
 
 Now a side trip to Egypt, where a different state faced its own period of fragmentation. The comparison is useful, but we should not assume that similar-looking endings prove a single simultaneous cause.
 
@@ -173,7 +173,7 @@ Egypt eventually reunited. For now, come back to Iraq.
 
 Akkad was gone, but the idea wasn't. Once somebody has ruled all the cities, every ambitious king knows it can be done.
 
-It took about a hundred years. Around 2112 BCE a king of Ur, Enheduanna's old city, pulled the south back together. He built the great stepped temple tower at Ur, which is still standing, about two hundred miles south of Baghdad. He issued the oldest set of laws we have, three centuries before the famous one, and in his laws you mostly pay fines.
+It took about a hundred years. Around 2112 BCE a king of Ur, Enheduanna's old city, pulled the south back together. He built the great stepped temple tower at Ur, which is still standing, about two hundred miles south of Baghdad. He issued the oldest set of laws we have, about three centuries before Hammurabi, the Babylonian king whose laws we will meet next, and in his laws you mostly pay fines.
 
 His son ruled for forty-eight years and I can't resist telling you about him. He claimed, in a hymn he had written about himself, that he once ran from one holy city to another and back in a single day, through a hailstorm, to celebrate a festival in both. That's about two hundred miles. He also claimed to be the best scribe in the land. And he, too, declared himself a god. Naram-Sin's idea, the one that was supposed to have doomed Akkad, had stuck.
 
@@ -224,6 +224,12 @@ For the next couple of centuries nobody holds the whole plain. There are rival k
 ---
 
 ## Revision notes — v0.7.4
+### Unpublished whole-series listener pass
+- Implements high-confidence chronology, spoken orientation and household-metaphor repairs from the early-part listener review. The five work roles are not a claimed bloodline; precise multipliers and universal inevitability are not used to carry the farming argument. Explicit time returns distinguish Uruk, later schoolrooms, Ur graves and Gilgamesh tradition.
+- Sumerian and Akkad's regional imperial significance checked against Getty, *Mesopotamia: Civilization Begins*: https://www.getty.edu/art/exhibitions/mesopotamia/explore.html .
+- Sargon's 5,400 provisioned men do not establish a first standing army: scholarly alternatives include troops and a wider palatial household; see *The Wiley Encyclopedia of Empires* (2016), “Akkadian Empire,” pp. 50–59, https://www.academia.edu/23241606/Akkadian_Empire_in_J_M_MacKenzie_ed_The_Wiley_Encyclopedia_of_Empires_2016_50_59 .
+- Still flagged for source-by-source review, not silently cleared: Göbekli Tepe interpretation, earliest-gold claims, earliest writing/slavery particulars, tin provenance and pyramid team names.
+
 
 - Finishing pass after v0.7.3: P3-EGYPT-EVIDENCE, P3-EGYPT-SYNCHRONY, P3-EGYPT-RETURN.
 - See `04-Working-Notes/draft-07-v0.7.4-applied.md`. Prior verification limits remain; this is not a final recording clearance.

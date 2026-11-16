@@ -3,7 +3,7 @@
 **Date:** November 16, 2026
 **Status:** ChatGPT implementation of the editorial review and Jacob's selective scene-setting direction. Source version ef7b943; changed passages and continuity corrected. Not a final recording clearance or an exhaustive fact check.
 **Driving questions:** How do you feed an empire when the rain stops? Who were the Sea Peoples? Could they have seen it coming? How does bad news travel?
-**Narration length:** 3,833 words (about 26 minutes at 150 words a minute)
+**Narration length:** 3,817 words (about 25 minutes at 150 words a minute)
 
 ---
 
@@ -25,7 +25,7 @@ It hadn't come out of nowhere. A generation earlier the Hittite queen, the one w
 
 So here's the first question. How does the greatest land power of the age end up begging for a boat?
 
-To answer it I have to explain two things: what was going wrong, and what these kingdoms already knew how to survive. I'll take the second one first, and it means going back, once.
+To answer it I have to explain two things: what was going wrong, and what these kingdoms already knew how to survive. I'll take the second one first, which means going back to an earlier crisis.
 
 [VISUAL: Map — Mitanni, the horse kingdom, between Hatti and Assyria; then the same map with Mitanni divided and gone. Date card: 1340s to 1260s BCE.]
 
@@ -37,9 +37,9 @@ By the time of the peace treaty the horse kingdom didn't exist. One of the pilla
 
 The rest of the international order did not collapse with it. There had been war, displacement, and a struggle over who would control the former kingdom. But routes could be redirected and new rulers could take over relationships. Assyria gained a place among the great powers. Mitanni's disappearance showed that a major political break did not have to end every connection around it.
 
-That's the lesson I think about most in this whole story, because it was true and it was the wrong one. The horse kingdom's fall was survivable because everything around it was healthy. The routes could shift because there were strong kingdoms to shift through. What nobody had tested was what happens when the parts fail together.
+That's the lesson I think about most in this whole story, because it was true and it was the wrong one. Other kingdoms and routes remained strong enough to carry on after the horse kingdom fell. The routes could shift because there were strong kingdoms to shift through. What nobody had tested was what happens when the parts fail together.
 
-So the world of 1259 BCE, the world of the peace treaty, was confident. It had been tested and it had passed.
+A court looking back from the peace treaty of 1259 BCE could point to a great power's fall and see that trade and diplomacy had continued. That was a reason for confidence, though not a promise that the next crisis would end the same way.
 
 Now follow the environmental evidence forward, all the way to the years around 1200 BCE. After that we will return to the decisions kings were making in the preceding decades. The evidence doesn't arrive in the order an ancient household would have experienced it.
 
@@ -49,7 +49,7 @@ It starts with the weather, and we know about the weather because trees keep a d
 
 A tree lays down one ring a year. In a good year the ring is wide. In a dry year it's narrow. Centuries after this story ends, a people in central Turkey built a huge burial mound for one of their kings and lined the chamber with whole juniper logs, and those logs were already ancient when they were cut. The rings in them run right through the years we're talking about. A team published the measurements in 2023.
 
-They show the Hittite heartland getting drier from about 1250 BCE on. Bad years came more often. And then there's a run of three rings so thin they're hard to see. Three years in a row of drought as bad as anything in the whole record. We can put dates on them: 1198, 1197 and 1196 BCE. The people who published that are careful to say it doesn't explain everything by itself. But it's the nearest thing we have to a weather report from the end of the Bronze Age.
+They show the Hittite heartland getting drier from about 1250 BCE on. Bad years came more often. And then there's a run of three rings so thin they're hard to see. Three years in a row of drought as bad as anything in the whole record. The team's best dates are 1198, 1197 and 1196 BCE, with a margin of a few years. The people who published that are careful to say it doesn't explain everything by itself. But it's the nearest thing we have to a weather report from the end of the Bronze Age.
 
 That isn't the only evidence. Mud from the bottom of the Sea of Galilee and from a salt lake in Cyprus holds pollen, and the pollen shows the same thing from the other side: the trees and crops thinning out and the dry-country scrub moving in, across about a century and a half.
 
@@ -65,7 +65,7 @@ For a while, out of the bins. The Keeper has been storing grain for six thousand
 
 Excavations at Hattusa have revealed very large grain-storage installations, including some built centuries before these final crises. They show how seriously the state had invested in reserves. They do not tell us exactly how full the capital's stores were in the year of our letter. A bin's capacity and the food actually left inside it are different facts.
 
-It can carry you through one. Maybe two. But a store only helps if good years come along to fill it again. If they don't, you're spending savings, and from the outside a household spending its savings looks exactly like a household doing fine. The house is the same, the meals are the same. Then one month the account is empty.
+Reserves can carry people through a failed harvest. But a store only helps if good years come along to fill it again. If they don't, you're spending savings, and from the outside a household spending its savings looks exactly like a household doing fine. The house is the same, the meals are the same. Then one month the account is empty.
 
 The letters and royal inscriptions show efforts to obtain grain from outside. Keep the shipments separate: the urgent Ugarit order concerns a cargo from a Syrian region, while Egyptian records describe other grain sent to Hatti. And reaching a harbor was only one stage. The Hittite capital stood far inland on a high plateau. After unloading, someone still had to organize animals, carts, labor, and food for the journey uphill. A ship on the coast was not yet dinner in Hattusa.
 
@@ -77,7 +77,7 @@ Now watch what the kings do under pressure, because they did something you'll re
 
 Go back now to the later thirteenth century, before those three exceptionally dry years. Assyria was a major rival to the east, with territory taken from the old horse kingdom. The Hittite court was trying to control what could reach it through dependent lands.
 
-So the Hittite king wrote a treaty with one of his subject kings on the Syrian coast, and one clause in it reads like this. No merchant of yours is to go to Assyria. No merchant of Assyria is to enter your land or pass through it. And no ship of the Greeks is to be let through to him.
+So the Hittite king wrote a treaty with one of his subject kings on the Syrian coast, and one clause in it reads like this. No merchant of yours is to go to Assyria. No merchant of Assyria is to enter your land or pass through it.
 
 That's a trade embargo. It's sanctions, around 1230 BCE: you can't beat him in battle, so you try to cut off his business.
 
@@ -117,9 +117,9 @@ I don't mean, did they. I mean, was it possible? Was there enough information ar
 
 I don't think so, and it wasn't because they were stupid.
 
-They saw things. Poor harvests, raiders, a late shipment, a letter that never got an answer. Every one of those had happened before, in their fathers' time, and the world had come right. What they couldn't see was the whole of it, the entire arrangement of grain and tin and treaties and ships that I've spent three hours describing to you. Nobody had ever stood outside it. There wasn't a word for it. It's hard to notice that something is failing when you don't know it's a thing.
+They saw poor harvests, raiders, late shipments, letters that went unanswered. Those were familiar troubles. The harder question was how much strain the other kingdoms were under at the same time. An urgent letter could tell a court that someone needed grain. It couldn't tell them when all the help they were counting on might fail.
 
-And the system was hiding the damage. That's the cruel part. Every grain bin and every treaty was built to absorb shocks. So each shock got absorbed, and from the palace everything looked normal, right up until the stores were gone.
+Grain bins and treaties could buy time. That was what made them useful. It could also make the depth of a problem harder to judge: how long could the stores last, and how much could an ally really spare? The letters show alarm, not a world in which everything looked normal.
 
 Let me try a thought experiment, and it's only that. Suppose somebody did see it. Suppose you're an adviser to the Hittite king around 1230 and somehow you've grasped the whole picture. What do you tell him to do?
 
@@ -131,7 +131,7 @@ So if we go looking for the person who noticed, we don't find a prophet. We find
 
 Picture him. I'm inventing the man, but not his problem. He's the Counter, and he's in a storeroom in the Hittite capital, and the numbers are wrong. He's counted the jars three times this month because he didn't trust the first two counts. The third came out the same. Grain doesn't care how many times you count it. There are fewer full jars than there should be at this time of year, and it was the same last year.
 
-He writes it down. He sends it up. He gets letters back from other storerooms saying the same thing. The provinces are sending less, because they've had poor harvests too. The grain from Egypt, which used to be a little extra, isn't extra any more.
+He writes it down. He sends it up. He gets letters back from other storerooms saying the same thing. The provinces are sending less, because they've had poor harvests too. In this imagined storeroom, he's waiting for a shipment from abroad to close the gap.
 
 He can recognize the shortfall. His difficulty is deciding what will fix it, and persuading people elsewhere to provide what the stores need. Knowing that trouble is serious is not the same as having a remedy that still works.
 
@@ -151,19 +151,19 @@ And a connected world doesn't come apart by decree. It comes apart when ten thou
 
 Cross the sea to Greece, and you can measure the fear with a tape.
 
-The Greek palaces had always had walls. In the last decades of the 1200s they rebuilt them on a different scale. At a palace called Tiryns the new walls were twenty-five feet thick, made of blocks that weigh several tons each, fitted together with no mortar. At Mycenae they extended the wall to take in a hidden staircase, cut down through the rock to an underground spring, so the citadel couldn't be cut off from water. You don't dig that unless you're expecting a siege.
+Some Greek palaces had imposing walls. In the last decades of the 1200s they rebuilt them on a different scale. At a palace called Tiryns the new walls were twenty-five feet thick, made of blocks that weigh several tons each, fitted together with no mortar. At Mycenae they extended the wall to take in a hidden staircase, cut down through the rock to an underground spring, so the citadel couldn't be cut off from water. You don't dig that unless you're expecting a siege.
 
 Somebody moved those blocks. That was the Farmer, called up by the palace the way he'd been called up to dig canals in Iraq, and in the season when his own fields needed him. Later Greeks couldn't believe men had built those walls. They said it was the Cyclopes, the one-eyed giants. It was tired farmers and worried officials.
 
-At Pylos, where we watched a clerk at his desk, there aren't any walls like that. But go back to that shelf of damp tablets, in the palace's last year, because what's written on them has changed.
+At Pylos, where we watched a clerk at his desk, there aren't any walls like that. But go back to that shelf of damp tablets, in the palace's last year. Among the records of goods and provisions are orders for men and metal.
 
-There's one that orders the officials of every district to hand over bronze. It's specified as temple bronze, and it says what it's for: points for spears and javelins. They're taking metal from the shrines to make weapons. That's the Maker's world drying up. If new copper and tin were coming in on the ships, you wouldn't be melting down the gods' property.
+There's one that orders the officials of every district to hand over bronze. It's specified as temple bronze, and it says what it's for: points for spears and javelins. They're taking metal from the shrines to make weapons. That's the Maker's world under pressure. The palace is calling in metal already on hand. That tells us what it wanted to collect, not whether every shipment of new copper and tin had stopped.
 
 There's a set that lists about eight hundred men, by name of their commander and by stretch of coastline. The heading says, roughly: how the watchers are guarding the coast.
 
 And there's one that lists rowers, about six hundred of them, being called up.
 
-It's the same desk and the same clay as two generations before. It used to count figs and wool. Now it's counting lookouts. Some scholars think lists like these were routine. Read alongside the order for bronze, I think they were written by frightened people.
+The same administration counts provisions and lookouts. These tasks sit together in its surviving records. Some scholars think lists like these were routine. Read alongside the order for bronze, I think they were written by frightened people.
 
 [VISUAL: Map — Cyprus and Ugarit; a cluster of ship icons between them with a question mark.]
 
@@ -173,7 +173,7 @@ In the archive at Ugarit there's a letter from the chief minister of the copper 
 
 Look at what that letter is. It's the international system, with its scribes and its couriers and its formal greetings, being used to report that the international system no longer controls the sea.
 
-On the Hittite side, the last Great King was doing something no Hittite king had done. He was fighting at sea. He had an inscription carved saying that the ships of Cyprus met him in battle three times on the open water, and that he destroyed them and burned them. It's the earliest sea battle that any surviving document describes. And it was fought by an army of highlanders, off the coast of the island that supplied the world's copper. My guess is that they were trying to keep open the lane their bread came in on.
+On the Hittite side, the last Great King left an account of fighting at sea. In the surviving text, he says that the ships of Alasiya, the island we identify as Cyprus, met him in battle three times, and that he destroyed them. This was a king from an inland capital fighting around an important source of copper. Keeping sea routes open may have mattered, but the text does not give us a complete explanation of his aims.
 
 He says he won.
 
@@ -185,7 +185,7 @@ In these same years, four thousand miles to the east, a queen of China named Fu 
 
 In China the Bronze Age was at high noon. Nobody there had heard of Egypt or the Hittites, and nothing I'm about to describe touched them. What's ending isn't the Bronze Age. It's one region's version of it, the one that was tied together by ships and letters and brides.
 
-[VISUAL: Part card update — THE FAMILY, 1200 BCE: the Keeper begs for grain and fights at sea; the Counter's totals are wrong; the Carrier's partners have stopped writing; the Maker is melting down shrine bronze; the Farmer is building walls and looking at the seed jar.]
+[VISUAL: Part card update — THE FAMILY, 1200 BCE: the Keeper begs for grain and fights at sea; the Counter's totals are wrong; the Carrier's partners have stopped writing; the Maker is being asked for bronze for weapons; the Farmer is building walls and looking at the seed jar.]
 
 So here's the family in the year 1200.
 
@@ -195,7 +195,7 @@ The Counter has added it up three times.
 
 The Carrier hasn't heard from his partner since last summer.
 
-The Maker is melting the offerings from the shrine, because no ship has come.
+The Maker is being asked to turn the shrines' bronze into weapons.
 
 The Farmer is hauling stone for a wall, and at home there's a jar he isn't supposed to open. His sister is on a ration list, and the rations are short.
 
@@ -206,6 +206,15 @@ The tree rings say what's coming next. Three thin ones in a row.
 ---
 
 ## Revision notes — v0.7.4
+
+### Whole-series listener continuation
+- Additional continuity, chronology and voice repairs are recorded in `04-Working-Notes/draft-07-unpublished-listener-continuation.md`. These notes supersede incompatible inherited verification labels; unresolved quotations and numerical claims remain open.
+
+### Unpublished continuation after v0.7.4
+- Removed bronze-collection-equals-total-import-failure inference and matching Maker callback; synchronized cue. Specialist basis for temple bronze/weaponry: T. G. Palaima, *The Modalities of Economic Control at Pylos*, pp. 158–159, https://sites.utexas.edu/scripts/wp-content/uploads/sites/3428/2019/10/2001-TGP-modalitiesOfEconomicControlatPylos.pdf . This does not settle whether the wider Pylos measures were emergency or routine.
+- Drought dates now convey a few-years margin: Manning et al., *Nature* (2023), 1198–1196 ±3 BCE, https://doi.org/10.1038/s41586-022-05693-y .
+- Clerk scene no longer asserts a documented prior pattern of Egyptian supplementary grain. Removed “going back, once” because this part explicitly makes more than one time shift.
+
 
 - Finishing pass after v0.7.3: version and assembly synchronization; no new narration changes in this section.
 - See `04-Working-Notes/draft-07-v0.7.4-applied.md`. Prior verification limits remain; this is not a final recording clearance.
